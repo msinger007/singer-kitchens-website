@@ -1,5 +1,12 @@
 {
   "main": [
+    { "label": "About", "children": [
+      { "label": "About", "url": "/about/" },
+      { "label": "Reviews", "url": "/reviews/" },
+      { "label": "As Seen On", "url": "/as-seen-on/" },
+      { "label": "Careers", "url": "/employment/" },
+      { "label": "Pro Partners", "url": "/pro-partners/" }
+    ]},
     { "label": "Kitchens", "children": [
       { "label": "Kitchen Remodeling", "url": "/remodeling/" },
       { "label": "Quick Refresh", "url": "/quick-refresh/" },
@@ -7,6 +14,7 @@
       { "label": "Kitchen Design", "url": "/kitchen-design/" },
       { "label": "Design Portfolio", "url": "/portfolio/" }
     ]},
+    { "label": "Showrooms", "url": "/showrooms/" },
     { "label": "Cabinets & Countertops", "children": [
       { "label": "Kitchen Cabinets", "url": "/kitchen-cabinets/" },
       { "label": "Countertops", "url": "/countertops/" },
@@ -14,9 +22,6 @@
       { "label": "Closets", "url": "/closets/" },
       { "label": "Bathrooms", "url": "/bathrooms/" }
     ]},
-    { "label": "Our Process", "url": "/our-process/" },
-    { "label": "Showrooms", "url": "/showrooms/" },
-    { "label": "Financing", "url": "/financing/" },
     { "label": "Learn", "children": [
       { "label": "Kitchen Stories", "url": "/blog/" },
       { "label": "Videos", "url": "/videos/" },
@@ -27,13 +32,8 @@
       { "label": "Cabinet Painting vs. Remodeling", "url": "/cabinet-repainting-vs-remodeling/" },
       { "label": "FAQs", "url": "/kitchen-remodeling-faqs/" }
     ]},
-    { "label": "About", "children": [
-      { "label": "About", "url": "/about/" },
-      { "label": "Reviews", "url": "/reviews/" },
-      { "label": "As Seen On", "url": "/as-seen-on/" },
-      { "label": "Careers", "url": "/employment/" },
-      { "label": "Pro Partners", "url": "/pro-partners/" }
-    ]}
+    { "label": "Our Process", "url": "/our-process/" },
+    { "label": "Financing", "url": "/financing/" }
   ],
   "footer": {
     "quicklinks": [
