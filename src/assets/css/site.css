@@ -272,9 +272,10 @@ h2.big { font-size: clamp(32px, 3.6vw, 46px); }
 .heritage { border-top: 1px solid var(--line); }
 .heritage .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; }
 .heritage h2 { font-size: 24px; line-height: 1.2; margin: 0 0 18px; text-align: center; }
-.heritage img { width: 100%; height: 260px; object-fit: cover; border-radius: var(--radius); margin-bottom: 18px; }
-.heritage img.portrait { object-position: center 20%; }
-.heritage .caption { text-align: center; font-size: 15px; font-weight: 700; margin: -8px 0 10px; }
+.heritage img { width: auto; max-width: 100%; height: auto; max-height: 300px; margin: 0 auto 22px; }
+.heritage img.portrait { width: 225px; height: 300px; object-fit: cover; object-position: center 20%; border-radius: 113px; margin-bottom: 12px; }
+.heritage .caption { text-align: center; font-size: 15px; letter-spacing: .02em; margin: 0 0 8px; }
+.heritage p:not(.caption) { font-size: 18px; }
 .showrooms-band .lede { font-size: 20px; }
 .shops { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 40px; }
 .shop { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; }
