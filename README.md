@@ -77,6 +77,19 @@ npm run build && python3 tools/check_text.py && python3 tools/check_links.py
 files into CR+LF (about 2,600 images would not open). Re-running `convert_wp.py` overwrites
 `src/pages/` and `src/posts/`, so do it only before anyone edits those files by hand.
 
+## Page speed
+
+- **Tracking loads after the page.** Google Tag Manager (GA4, Google Ads and call tracking inside it),
+  the Meta Pixel and the GoHighLevel chat widget start on the visitor's first scroll, tap, click or
+  keypress, or 3 seconds after the page loads. Pixel events made before then are queued, not lost. The
+  code is in `src/_includes/layouts/base.njk`. A visitor who leaves within about 3 seconds without
+  touching the page is not counted.
+- **YouTube videos** show a thumbnail and load the privacy-mode player only when someone presses play
+  (the "speed" transform in `eleventy.config.js`, plus a click handler in `src/assets/js/site.js`).
+- **The stylesheet is inlined** into each page, so edit `src/assets/css/site.css` as usual.
+- **Phone-sized images:** on Netlify builds, images wider than 900px get an 800px version from
+  Netlify's image service (`/.netlify/images`). Local builds don't add these, so the checks run as before.
+
 ## Checks
 
 - `tools/check_text.py`: compares every core page with the WordPress export and with the

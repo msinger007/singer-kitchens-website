@@ -28,6 +28,21 @@
     if (e.key === 'Escape') document.querySelectorAll('.has-sub.open').forEach(function (o) { o.classList.remove('open'); });
   });
 
+  // YouTube: thumbnail until pressed, then the privacy-enhanced player (built by the Eleventy "speed" transform).
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a.yt');
+    if (!a) return;
+    e.preventDefault();
+    var p = a.getAttribute('data-params') || '';
+    var f = document.createElement('iframe');
+    f.src = 'https://www.youtube-nocookie.com/embed/' + a.getAttribute('data-yt') + p + (p.indexOf('?') > -1 ? '&' : '?') + 'autoplay=1';
+    f.title = a.querySelector('.sr').textContent.replace(/^Play video: /, '');
+    f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    f.referrerPolicy = 'strict-origin-when-cross-origin';
+    f.allowFullscreen = true;
+    a.replaceWith(f);
+  });
+
   // Embedded planning tool: grow the iframe to fit its content (same origin).
   document.querySelectorAll('iframe[data-autoheight]').forEach(function (f) {
     function fit() {

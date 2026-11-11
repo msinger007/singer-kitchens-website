@@ -38,6 +38,32 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("niceDate", (d) =>
     new Date(d).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" })
   );
+  // Page speed (see README "Page speed"):
+  // 1. Inline the stylesheet so it does not block the first paint.
+  const cssPath = "src/assets/css/site.css";
+  const inlineCss = () => fs.readFileSync(cssPath, "utf8").replace(/\/\*[\s\S]*?\*\//g, "").replace(/\s*\n\s*/g, "\n").trim();
+  eleventyConfig.addShortcode("inlineCss", inlineCss);
+  // 2. YouTube embeds become a click-to-play thumbnail (no player, scripts or cookies until a visitor presses play).
+  // 3. On Netlify, large images get an 800px version for phones from Netlify's image service (local builds are unchanged).
+  const onNetlify = !!process.env.NETLIFY;
+  eleventyConfig.addTransform("speed", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    content = content.replace(
+      /(<div class="video[^"]*">)<iframe src="https:\/\/www\.youtube\.com\/embed\/([\w-]{11})([^"]*)" title="([^"]*)"[^>]*><\/iframe>/g,
+      (m, open, id, params, title) =>
+        `${open}<a class="yt" href="https://www.youtube.com/watch?v=${id}" data-yt="${id}" data-params="${params}" target="_blank" rel="noopener">` +
+        `<img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy" decoding="async">` +
+        `<span class="yt-play" aria-hidden="true"></span><span class="sr">Play video: ${title}</span></a>`
+    );
+    if (onNetlify) {
+      content = content.replace(/<img src="(\/images\/[^"]+\.webp)"([^>]*?) width="(\d+)"/g, (m, src, mid, w) => {
+        if (+w <= 900 || /srcset=/.test(mid)) return m;
+        const small = `/.netlify/images?url=${encodeURIComponent(src)}&amp;w=800`;
+        return `<img src="${src}" srcset="${small} 800w, ${src} ${w}w" sizes="(max-width: 800px) 100vw, 1200px"${mid} width="${w}"`;
+      });
+    }
+    return content;
+  });
   eleventyConfig.addFilter("startsWith", (s, p) => String(s || "").startsWith(p));
   eleventyConfig.addFilter("year", () => String(new Date().getFullYear()));
 

@@ -31,32 +31,41 @@
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/images/logo/favicon-192.png" type="image/png">
 <link rel="preload" href="/images/logo/singer-kitchens-since-1928.webp" as="image">
-<link rel="stylesheet" href="/assets/css/site.css?v={{ build.version }}">
-<!-- Google Tag Manager (GA4 is configured inside GTM; it is not loaded directly) -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','{{ site.tracking.gtm }}');</script>
-<!-- End Google Tag Manager -->
-<!-- Facebook Pixel Code -->
+<style>{% inlineCss %}</style>
+<!-- Tracking: Google Tag Manager (GA4, Google Ads and call tracking are configured inside GTM; GA4 is not loaded directly),
+     the Meta Pixel and the GoHighLevel chat widget. To keep the page fast they load on the visitor's first scroll, tap,
+     click or keypress, or 3 seconds after the page has loaded, whichever comes first. Pixel events are queued until then. -->
 <script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '{{ site.tracking.metaPixel }}');
- fbq('track', 'PageView');
- fbq('track', 'ViewContent');
+window.dataLayer = window.dataLayer || [];
+!function(f){if(f.fbq)return;var n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];}(window);
+fbq('init', '{{ site.tracking.metaPixel }}');
+fbq('track', 'PageView');
+fbq('track', 'ViewContent');
+(function () {
+  var done = false, evs = ['scroll', 'pointerdown', 'keydown', 'touchstart', 'mousemove'];
+  function add(src, attrs) {
+    var s = document.createElement('script'); s.async = true; s.src = src;
+    for (var k in attrs || {}) s.setAttribute(k, attrs[k]);
+    document.head.appendChild(s);
+  }
+  function load() {
+    if (done) return; done = true;
+    evs.forEach(function (e) { removeEventListener(e, load, { passive: true }); });
+    dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+    add('https://www.googletagmanager.com/gtm.js?id={{ site.tracking.gtm }}');
+    add('https://connect.facebook.net/en_US/fbevents.js');
+    add('https://beta.leadconnectorhq.com/loader.js', { 'data-resources-url': 'https://beta.leadconnectorhq.com/chat-widget/loader.js', 'data-widget-id': '681ba27c752fc94411c1e515' });
+  }
+  evs.forEach(function (e) { addEventListener(e, load, { passive: true }); });
+  if (document.readyState === 'complete') setTimeout(load, 3000);
+  else addEventListener('load', function () { setTimeout(load, 3000); });
+})();
 </script>
 <noscript><img height="1" width="1" style="display:none" alt=""
   src="https://www.facebook.com/tr?id={{ site.tracking.metaPixel }}&ev=PageView&noscript=1"
 /></noscript>
-<!-- End Facebook Pixel Code -->
+<!-- End tracking -->
 {% include "partials/schema.njk" %}
 {%- if extraSchema %}
 <script type="application/ld+json">{{ extraSchema | safe }}</script>
@@ -75,7 +84,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {%- if forms or hasForm %}
 <script src="https://link.msgsndr.com/js/form_embed.js" defer></script>
 {%- endif %}
-<script src="https://beta.leadconnectorhq.com/loader.js" data-resources-url="https://beta.leadconnectorhq.com/chat-widget/loader.js" data-widget-id="681ba27c752fc94411c1e515" defer></script>
 <script>
 document.addEventListener("click", function(e) {
   const btn = e.target.closest(".btn-schedule");

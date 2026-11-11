@@ -113,7 +113,12 @@ iframe { max-width: 100%; border: 0; }
 .gallery img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); margin: 0; }
 .video { position: relative; aspect-ratio: 16 / 9; margin: 0 0 24px; background: var(--ink); border-radius: var(--radius); overflow: hidden; }
 .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; }
-.video-short { aspect-ratio: 9 / 16; max-width: 340px; margin-left: auto; margin-right: auto; }
+.yt { position: absolute; inset: 0; display: block; background: #000; cursor: pointer; }
+.yt img { width: 100%; height: 100%; object-fit: cover; opacity: .9; }
+.yt-play { position: absolute; left: 50%; top: 50%; width: 68px; height: 48px; margin: -24px 0 0 -34px; background: var(--red); border-radius: 12px; }
+.yt-play::after { content: ""; position: absolute; left: 27px; top: 14px; border-style: solid; border-width: 10px 0 10px 17px; border-color: transparent transparent transparent #fff; }
+.yt:hover .yt-play, .yt:focus-visible .yt-play { background: var(--red-dark); }
+.video-short { aspect-ratio: 9 / 16; width: 100%; max-width: 340px; margin-left: auto; margin-right: auto; }
 .map { aspect-ratio: 4 / 3; margin: 0 0 20px; border-radius: var(--radius); overflow: hidden; }
 .map iframe { width: 100%; height: 100%; }
 .ghl-form { min-height: 640px; margin: 0 0 24px; }
