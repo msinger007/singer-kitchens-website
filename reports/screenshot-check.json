@@ -450,15 +450,6 @@
   "broken": []
  },
  {
-  "url": "/contact/",
-  "width": 1280,
-  "scrollWidth": 1280,
-  "clientWidth": 1280,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
   "url": "/countertops/",
   "width": 1280,
   "scrollWidth": 1280,
@@ -621,24 +612,6 @@
   "broken": []
  },
  {
-  "url": "/happy-customers/",
-  "width": 1280,
-  "scrollWidth": 1280,
-  "clientWidth": 1280,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
-  "url": "/hardware/",
-  "width": 1280,
-  "scrollWidth": 1280,
-  "clientWidth": 1280,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
   "url": "/how-one-couple-downsized-without-sacrificing-space-by-remodeling-their-closets/",
   "width": 1280,
   "scrollWidth": 1280,
@@ -693,25 +666,7 @@
   "broken": []
  },
  {
-  "url": "/installation/",
-  "width": 1280,
-  "scrollWidth": 1280,
-  "clientWidth": 1280,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
   "url": "/interactive-kitchen-design-checklist/",
-  "width": 1280,
-  "scrollWidth": 1280,
-  "clientWidth": 1280,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
-  "url": "/kitchen-accessory-giveaway/",
   "width": 1280,
   "scrollWidth": 1280,
   "clientWidth": 1280,
@@ -1567,15 +1522,6 @@
  },
  {
   "url": "/singer-kitchens-talks-2020-design-trends-with-st-charles-magazine/",
-  "width": 1280,
-  "scrollWidth": 1280,
-  "clientWidth": 1280,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
-  "url": "/slider-page-test/",
   "width": 1280,
   "scrollWidth": 1280,
   "clientWidth": 1280,
@@ -2295,15 +2241,6 @@
   "broken": []
  },
  {
-  "url": "/contact/",
-  "width": 390,
-  "scrollWidth": 390,
-  "clientWidth": 390,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
   "url": "/countertops/",
   "width": 390,
   "scrollWidth": 390,
@@ -2466,24 +2403,6 @@
   "broken": []
  },
  {
-  "url": "/happy-customers/",
-  "width": 390,
-  "scrollWidth": 390,
-  "clientWidth": 390,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
-  "url": "/hardware/",
-  "width": 390,
-  "scrollWidth": 390,
-  "clientWidth": 390,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
   "url": "/how-one-couple-downsized-without-sacrificing-space-by-remodeling-their-closets/",
   "width": 390,
   "scrollWidth": 390,
@@ -2538,25 +2457,7 @@
   "broken": []
  },
  {
-  "url": "/installation/",
-  "width": 390,
-  "scrollWidth": 390,
-  "clientWidth": 390,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
   "url": "/interactive-kitchen-design-checklist/",
-  "width": 390,
-  "scrollWidth": 390,
-  "clientWidth": 390,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
-  "url": "/kitchen-accessory-giveaway/",
   "width": 390,
   "scrollWidth": 390,
   "clientWidth": 390,
@@ -3412,15 +3313,6 @@
  },
  {
   "url": "/singer-kitchens-talks-2020-design-trends-with-st-charles-magazine/",
-  "width": 390,
-  "scrollWidth": 390,
-  "clientWidth": 390,
-  "hscroll": false,
-  "wide": [],
-  "broken": []
- },
- {
-  "url": "/slider-page-test/",
   "width": 390,
   "scrollWidth": 390,
   "clientWidth": 390,
