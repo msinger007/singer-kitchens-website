@@ -1,0 +1,54 @@
+{%- if not hideAreas %}{% include "partials/service-areas.njk" %}{% endif %}
+{%- if not hideFinalCta %}
+<section class="final-cta">
+  <div class="wrap final-in">
+    <h2>{{ finalCtaHeading or "Let's Talk About Your Kitchen" }}</h2>
+    <div class="final-acts">
+      <a class="btn btn-white" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a>
+      <a class="final-phone" href="{{ site.phoneTel }}">{{ site.phone }}</a>
+    </div>
+  </div>
+</section>
+{%- endif %}
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <a class="footer-logo" href="/"><img src="/images/logo/singer-kitchens-since-1928.webp" alt="Singer Kitchens, since 1928" width="323" height="160" loading="lazy"></a>
+        <p class="footer-call">Call Today</p>
+        <a class="footer-phone" href="{{ site.phoneTel }}">{{ site.phone }}</a>
+        <p><a class="btn btn-white btn-sm" href="{{ site.consultUrl }}">Get A Free Consultation</a></p>
+      </div>
+      {%- for s in showrooms %}
+      <div>
+        <h2 class="footer-h">{{ s.name }}</h2>
+        <p>{{ s.street }}<br>{{ s.city }}, {{ s.region }} {{ s.zip }}<br>{{ s.short }}: <a href="{{ s.phoneTel }}">{{ s.phone | replace("(", "") | replace(") ", "-") }}</a></p>
+        <p><a href="/showrooms/#{{ s.id }}">Showroom details</a> · <a href="{{ s.directions }}" target="_blank" rel="noopener">Get Directions</a></p>
+      </div>
+      {%- endfor %}
+      <div>
+        <h2 class="footer-h">Business Hours</h2>
+        <p>{% for h in site.hours %}{{ h.days }} {{ h.time }}{% if not loop.last %}<br>{% endif %}{% endfor %}</p>
+      </div>
+    </div>
+    <div class="footer-links">
+      <div>
+        <h2 class="footer-h">Quicklinks</h2>
+        <ul>{% for l in nav.footer.quicklinks %}<li><a href="{{ l.url }}">{{ l.label }}</a></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <h2 class="footer-h">Services</h2>
+        <ul>{% for l in nav.footer.services %}<li><a href="{{ l.url }}">{{ l.label }}</a></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <h2 class="footer-h">More</h2>
+        <ul>{% for l in nav.footer.legal %}<li><a href="{{ l.url }}">{{ l.label }}</a></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <h2 class="footer-h">Follow</h2>
+        <ul><li><a href="{{ site.social.facebook }}" target="_blank" rel="noopener">Facebook</a></li><li><a href="{{ site.social.instagram }}" target="_blank" rel="noopener">Instagram</a></li></ul>
+      </div>
+    </div>
+    <p class="copy">© Copyright {{ "" | year }} – Singer Kitchens – New Orleans</p>
+  </div>
+</footer>

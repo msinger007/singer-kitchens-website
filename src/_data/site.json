@@ -1,0 +1,37 @@
+{
+  "name": "Singer Kitchens",
+  "url": "https://www.singerkitchens.com",
+  "tagline": "Since 1928",
+  "phone": "(504) 539-4605",
+  "phoneTel": "tel:+15045394605",
+  "email": "info@singerkitchens.com",
+  "consultUrl": "/request-consultation/",
+  "ctaLabel": "Let's Talk Kitchens",
+  "founded": "1928",
+  "social": {
+    "facebook": "http://facebook.com/SingerKitchens",
+    "instagram": "http://instagram.com/singerkitchensnola"
+  },
+  "hours": [
+    { "days": "Monday – Friday:", "time": "10 AM – 5PM" },
+    { "days": "Saturday:", "time": "10AM – 2PM (By Appointment)" },
+    { "days": "Sunday:", "time": "Closed" }
+  ],
+  "tracking": {
+    "gtm": "GTM-K7CGB26N",
+    "metaPixel": "2499648163633191",
+    "ghlChatWidgetId": "",
+    "verification": {
+      "google": "Rrv257thS0SxmJaq39VBVlQYMHJ6uIlhhOe71FAAg1M",
+      "bing": "70BD90DD2296B2A19789F7551D6DC9FE",
+      "pinterest": "f73ba6b2438c0e69418125c92135f69e"
+    }
+  },
+  "forms": {
+    "consultation": "aYZUPqktOVdbueGKsdou",
+    "proPartners": "iqgX3I00Nrfby8BIlX42",
+    "financing": "wngb5LOGwS90ZyiGoByR",
+    "kitchenPlanningTool": "mXjloPyOofHWEygnk8J1"
+  },
+  "ogImage": "/images/2023/02/IMG_0260.webp"
+}

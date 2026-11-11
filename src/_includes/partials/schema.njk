@@ -1,0 +1,54 @@
+{%- set orgId = site.url ~ "/#organization" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ orgId }}",
+      "name": "Singer Kitchens",
+      "url": "{{ site.url }}/",
+      "logo": "{{ site.url }}/images/logo/singer-kitchens-since-1928.png",
+      "telephone": "+1-504-539-4605",
+      "foundingDate": "1928",
+      "sameAs": ["{{ site.social.facebook }}", "{{ site.social.instagram }}"],
+      "department": [{% for s in showrooms %}{ "@id": "{{ site.url }}/showrooms/#{{ s.id }}" }{% if not loop.last %}, {% endif %}{% endfor %}]
+    }{% if page.url == "/" or page.url == "/showrooms/" %},
+    {%- for s in showrooms %}
+    {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "{{ site.url }}/showrooms/#{{ s.id }}",
+      "name": "Singer Kitchens - {{ s.name }}",
+      "url": "{{ site.url }}/showrooms/#{{ s.id }}",
+      "image": "{{ site.url }}{{ s.photos[0].file | imgSrc }}",
+      "logo": "{{ site.url }}/images/logo/singer-kitchens-since-1928.png",
+      "telephone": "{{ s.phoneTel | replace('tel:', '') }}",
+      "parentOrganization": { "@id": "{{ orgId }}" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ s.street }}",
+        "addressLocality": "{{ s.city }}",
+        "addressRegion": "{{ s.region }}",
+        "postalCode": "{{ s.zip }}",
+        "addressCountry": "US"
+      },
+      "geo": { "@type": "GeoCoordinates", "latitude": {{ s.lat }}, "longitude": {{ s.lng }} },
+      "openingHoursSpecification": [{% for h in s.openingHours %}
+        { "@type": "OpeningHoursSpecification", "dayOfWeek": {{ h.days | json | safe }}, "opens": "{{ h.opens }}", "closes": "{{ h.closes }}" }{% if not loop.last %},{% endif %}{% endfor %}
+      ],
+      "hasMap": "{{ s.directions }}"
+    }{% if not loop.last %},{% endif %}
+    {%- endfor %}{% endif %}{% if layout == "layouts/post.njk" %},
+    {
+      "@type": "BlogPosting",
+      "headline": {{ title | json | safe }},
+      "datePublished": "{{ date | isoDate }}",
+      "dateModified": "{{ (modified or date) | isoDate }}",
+      "mainEntityOfPage": "{{ page.url | absUrl(site.url) }}",
+      {%- if image %}"image": "{{ image.src | absUrl(site.url) }}",{% endif %}
+      "author": { "@type": "Organization", "name": "Singer Kitchens" },
+      "publisher": { "@id": "{{ orgId }}" }
+    }{% endif %}
+  ]
+}
+</script>

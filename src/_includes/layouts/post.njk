@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+---
+<article class="post">
+  <header class="post-head">
+    <div class="wrap narrow">
+      <p class="label"><a href="/blog/">Kitchen Stories</a>{% if categories and categories.length %} · {{ categories[0] }}{% endif %}</p>
+      <h1>{{ title }}</h1>
+      <p class="post-date"><time datetime="{{ date | isoDate }}">{{ date | niceDate }}</time></p>
+    </div>
+  </header>
+  {%- if image %}
+  <figure class="post-hero wrap"><img src="{{ image.src }}" alt="{{ image.alt }}" width="{{ image.w }}" height="{{ image.h }}" fetchpriority="high"></figure>
+  {%- endif %}
+  <div class="wrap narrow prose post-content">
+{{ content | safe }}
+  </div>
+  <div class="wrap narrow post-foot">
+    <a class="btn" href="/blog/">More Kitchen Stories</a>
+    <a class="btn btn-red" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a>
+  </div>
+</article>

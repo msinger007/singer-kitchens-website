@@ -1,0 +1,94 @@
+---json
+{
+  "layout": "layouts/base.njk",
+  "title": "Showrooms",
+  "seoTitle": "Kitchen Design Showroom New Orleans & Mandeville - Singer Kitchens",
+  "description": "View kitchen design showroom locations in New Orleans & Mandeville Louisiana for Singer Kitchens.",
+  "permalink": "/showrooms/",
+  "core": true,
+  "wpId": 11,
+  "h1": "Kitchen Design Inspiration: By Appointment!",
+  "bodyClass": "showrooms-page",
+  "modified": "2026-11-10"
+}
+---
+{#- /showrooms/. Existing copy kept word for word (checked by tools/check_text.py).
+    Added: showroom chooser, Step 2 band, a full section per showroom (#new-orleans, #mandeville), two-pin map. -#}
+<article class="page page-core">
+<section class="band">
+  <div class="wrap">
+    <div class="el-row" style="--cols:1.1fr 1fr">
+      <div>
+        <h1>Kitchen Design Inspiration: By Appointment!</h1>
+        <p class="btn-row" style="margin:0 0 24px"><a class="btn btn-red" href="/request-consultation/">Schedule a Design Conversation</a></p>
+      </div>
+      <div class="el-text">
+        <p>Our showrooms in <strong>New Orleans</strong> and <strong>Mandeville</strong> are open <strong><em>by appointment</em></strong> so we can give you the time, attention and guidance you deserve.</p>
+        <p>During your visit, you’ll have a one-on-one conversation with a Singer Kitchens designer who will help you:</p>
+        <ul class="icon-list">
+          <li>Talk through your space and goals</li>
+          <li>See current kitchen design ideas in person</li>
+          <li>Touch and compare cabinet finishes, hardware and materials</li>
+          <li>Ask questions and get clear, experienced guidance</li>
+        </ul>
+        <p>There’s no pressure and no obligation, just an opportunity to plan thoughtfully and explore what’s possible for your home.</p>
+      </div>
+    </div>
+    <nav class="chooser" aria-label="Choose a showroom">
+    {%- for s in showrooms %}
+      <a href="#{{ s.id }}">
+        {{ s.photos[0].file | img(s.photos[0].alt) | safe }}
+        <span class="c-body"><span><span class="c-name">{{ s.name }}</span><span class="c-area">{{ s.area }}</span></span><span class="c-go">See this showroom ↓</span></span>
+      </a>
+    {%- endfor %}
+    </nav>
+  </div>
+</section>
+
+{% include "partials/step2-band.njk" %}
+
+{%- set texts = {
+  "new-orleans": '<p><a href="https://maps.google.com/maps?ll=29.976071,-90.099626&amp;z=15&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=embed&amp;q=231%20N%20Carrollton%20Ave%20New%20Orleans%2C%20LA%2070119%20USA" target="_blank" rel="noopener">231 N. Carrollton Ave.<br>(at Bienville, across from Brocato’s)<br>New Orleans, LA 70119</a><br><a class="tel" href="tel:+15044860067">(504) 486-0067</a><br>Hours: Mon-Fri 10am-5pm, Sat 10am-2pm by Appointment</p>',
+  "mandeville": '<p><a href="https://maps.google.com/maps?ll=30.356077,-90.066775&amp;z=15&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=embed&amp;q=316%20Girod%20St%20Mandeville%2C%20LA%2070448%20USA" target="_blank" rel="noopener">316 Girod St.<br>(Old Mandeville)<br>Mandeville, LA 70448</a><br><a class="tel" href="tel:+19857782978">(985) 778-2978</a><br>Hours: Mon-Fri 10am-5pm, Sat 10am-2pm by Appointment</p>'
+} %}
+{%- for s in showrooms %}
+<section class="showroom{% if loop.index == 2 %} flip{% endif %}" id="{{ s.id }}" aria-labelledby="{{ s.id }}-h">
+  <div class="wrap showroom-in">
+    <div class="showroom-gallery">
+    {%- for ph in s.photos %}
+      {{ ph.file | img(ph.alt) | safe }}
+    {%- endfor %}
+    </div>
+    <div class="showroom-card">
+      <p class="label">{{ s.area }}</p>
+      <h2 id="{{ s.id }}-h">{{ s.short }}</h2>
+      <div class="el-text">{{ texts[s.id] | safe }}</div>
+      <p class="on-display">{{ s.onDisplay }}</p>
+      <p class="btn-row" style="margin-top:auto"><a class="btn btn-red" href="/request-consultation/">Let's Talk Kitchens</a><a class="btn btn-line" href="{{ s.directions }}" target="_blank" rel="noopener">Get Directions</a></p>
+    </div>
+  </div>
+</section>
+{%- endfor %}
+
+<section class="band sec-alt map-band" aria-labelledby="map-h">
+  <div class="wrap split">
+    <div>
+      <h2 id="map-h">Find Our Showrooms</h2>
+      {%- for s in showrooms %}
+      <p><strong>{{ s.name }}</strong><br>{{ s.street }}, {{ s.city }}, {{ s.region }} {{ s.zip }}<br><a href="{{ s.phoneTel }}">{{ s.phone }}</a> · <a href="{{ s.directions }}" target="_blank" rel="noopener">Get Directions</a></p>
+      {%- endfor %}
+      <p class="btn-row"><a class="btn btn-red" href="/request-consultation/">Let's Talk Kitchens</a><a class="btn btn-line" href="{{ site.phoneTel }}">Call {{ site.phone }}</a></p>
+    </div>
+    <div class="twomap" id="twomap" data-pins='[{% for s in showrooms %}{"name": {{ s.name | json | safe }}, "lat": {{ s.lat }}, "lng": {{ s.lng }}, "address": {{ (s.street ~ ", " ~ s.city ~ ", " ~ s.region ~ " " ~ s.zip) | json | safe }}, "directions": {{ s.directions | json | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]' role="region" aria-label="Map of the New Orleans and Mandeville showrooms">
+      <div class="twomap-fallback">{% for s in showrooms %}<a class="btn btn-line" href="{{ s.directions }}" target="_blank" rel="noopener">Directions to {{ s.short }}</a>{% endfor %}</div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <h2>What To Expect At Your Design Conversation</h2>
+    <div class="video video-short"><iframe src="https://www.youtube.com/embed/b7_yVDZeI4M" title="What to expect at your design conversation (YouTube Short)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  </div>
+</section>
+</article>

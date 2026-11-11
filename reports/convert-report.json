@@ -1,0 +1,86 @@
+{
+ "missing_images": [
+  {
+   "file": "2026/07/roi-1-1.png",
+   "used_on": "Kitchen Renovation ROI"
+  },
+  {
+   "file": "2018/04/Diamond_LogoWG11.jpg",
+   "used_on": "Southshore Kitchen Remodeling"
+  },
+  {
+   "file": "2023/07/IMG_0825-611x1024.webp",
+   "used_on": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023"
+  }
+ ],
+ "replaced_forms": [
+  {
+   "page": "/contact/",
+   "was": "elementor form",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/kitchen-cabinets-lp/",
+   "was": "contact-form-7",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/professional-kitchen-cabinets-from-singer-kitchens/",
+   "was": "contact-form-7",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/professional-kitchen-cabinets-from-singer-kitchens/",
+   "was": "contact-form-7",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/kitchen-design-secrets/",
+   "was": "gravityform",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/hurricane-ida-damage/",
+   "was": "gravityform",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/kitchen-accessory-giveaway/",
+   "was": "gravityform",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/top-kitchen-design-trends/",
+   "was": "gravityform",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/constant-contact-lp/",
+   "was": "contact-form-7",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/service-area/",
+   "was": "elementor form",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/service-area/",
+   "was": "elementor form",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  },
+  {
+   "page": "/constant-contact/",
+   "was": "gravityform",
+   "now": "GoHighLevel consultation form aYZUPqktOVdbueGKsdou"
+  }
+ ],
+ "notes": [],
+ "unknown_widgets": {},
+ "shortcodes": {
+  "modula": 46,
+  "contact-form-7": 4,
+  "gravityform": 5,
+  "gallery": 9
+ }
+}

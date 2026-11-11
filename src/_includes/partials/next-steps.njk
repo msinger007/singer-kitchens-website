@@ -1,0 +1,18 @@
+{#- /request-consultation/: what happens next, with Step 1 highlighted. -#}
+<section class="band next-steps" aria-labelledby="ns-h">
+  <div class="wrap">
+    <p class="label">What happens next</p>
+    <h2 id="ns-h">{{ process.title }}</h2>
+    <ol class="ns-steps">
+    {%- for s in process.steps %}
+      <li class="{% if loop.first %}lead{% endif %}">
+        <span class="n">{{ s.n }}</span>
+        <h3>{{ s.title }}</h3>
+        <p>{{ s.lead }}</p>
+        {%- if loop.first %}<a class="call" href="{{ site.phoneTel }}">{{ site.phone }}</a>{% endif %}
+      </li>
+    {%- endfor %}
+    </ol>
+    <p><a href="/our-process/">See the full process</a></p>
+  </div>
+</section>

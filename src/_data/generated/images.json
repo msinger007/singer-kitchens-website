@@ -1,0 +1,5720 @@
+{
+ "2018/03/marquee2.jpg": {
+  "alt": "Frameless European Cabinets",
+  "h": 510,
+  "src": "/images/2018/03/marquee2.webp",
+  "w": 620
+ },
+ "2018/03/marquee2a.jpg": {
+  "alt": "Kitchen with a carved range hood, cream cabinets and a granite island",
+  "h": 510,
+  "src": "/images/2018/03/marquee2a.webp",
+  "w": 620
+ },
+ "2018/03/marquee4.jpg": {
+  "alt": "Kitchen with Island",
+  "h": 510,
+  "src": "/images/2018/03/marquee4.webp",
+  "w": 620
+ },
+ "2018/03/marquee8-1.jpg": {
+  "alt": "White shaker kitchen",
+  "h": 510,
+  "src": "/images/2018/03/marquee8-1.webp",
+  "w": 620
+ },
+ "2018/03/marquee8.jpg": {
+  "alt": "Cream kitchen with an island, dark countertops and a stainless range",
+  "h": 510,
+  "src": "/images/2018/03/marquee8.webp",
+  "w": 620
+ },
+ "2018/04/KC_NewLogo.jpg": {
+  "alt": "KitchenCraft Cabinetry logo",
+  "h": 129,
+  "src": "/images/2018/04/KC_NewLogo.webp",
+  "w": 654
+ },
+ "2018/04/MFContractorChoice.jpg": {
+  "alt": "MFContractorChoice",
+  "h": 153,
+  "src": "/images/2018/04/MFContractorChoice.webp",
+  "w": 417
+ },
+ "2018/04/aristokraft_2-color.jpg": {
+  "alt": "Aristokraft Cabinetry logo",
+  "h": 57,
+  "src": "/images/2018/04/aristokraft_2-color.webp",
+  "w": 250
+ },
+ "2018/04/decora_cb_black.jpg": {
+  "alt": "Cabinetry by Decor\u00e1 logo",
+  "h": 84,
+  "src": "/images/2018/04/decora_cb_black.webp",
+  "w": 218
+ },
+ "2018/04/diamond-vibe-logo.jpg": {
+  "alt": "Cabinetry by Diamond Vibe logo",
+  "h": 67,
+  "src": "/images/2018/04/diamond-vibe-logo.webp",
+  "w": 200
+ },
+ "2018/05/801Frenchman1New.jpg": {
+  "alt": "Open historic kitchen with tall arched windows, wood floors and a crystal chandelier",
+  "h": 469,
+  "src": "/images/2018/05/801Frenchman1New.webp",
+  "w": 703
+ },
+ "2018/05/801Frenchman2New.jpg": {
+  "alt": "Historic kitchen with a black range hood, open shelves and arched windows",
+  "h": 636,
+  "src": "/images/2018/05/801Frenchman2New.webp",
+  "w": 1016
+ },
+ "2018/05/801Frenchman7New.jpg": {
+  "alt": "Kitchen island with a turned wood column beside a black door",
+  "h": 801,
+  "src": "/images/2018/05/801Frenchman7New.webp",
+  "w": 1200
+ },
+ "2018/05/Bath1.jpg": {
+  "alt": "Vessel sink vanity",
+  "h": 977,
+  "src": "/images/2018/05/Bath1.webp",
+  "w": 620
+ },
+ "2018/05/amana.png": {
+  "alt": "Amana",
+  "h": 120,
+  "src": "/images/2018/05/amana.webp",
+  "w": 421
+ },
+ "2018/05/bath2.jpg": {
+  "alt": "Floating vanity sink",
+  "h": 830,
+  "src": "/images/2018/05/bath2.webp",
+  "w": 620
+ },
+ "2018/05/bath3.jpg": {
+  "alt": "Bathroom vanity with vessel sinks and tall glass-front storage",
+  "h": 827,
+  "src": "/images/2018/05/bath3.webp",
+  "w": 620
+ },
+ "2018/05/bath4.jpg": {
+  "alt": "Bath Towel Storage",
+  "h": 933,
+  "src": "/images/2018/05/bath4.webp",
+  "w": 620
+ },
+ "2018/05/bath5.jpg": {
+  "alt": "Vessel sink vanity",
+  "h": 902,
+  "src": "/images/2018/05/bath5.webp",
+  "w": 620
+ },
+ "2018/05/broan.png": {
+  "alt": "Broan",
+  "h": 50,
+  "src": "/images/2018/05/broan.webp",
+  "w": 300
+ },
+ "2018/05/frigidaire.png": {
+  "alt": "Frigidaire",
+  "h": 139,
+  "src": "/images/2018/05/frigidaire.webp",
+  "w": 1200
+ },
+ "2018/05/ge.png": {
+  "alt": "Ge",
+  "h": 85,
+  "src": "/images/2018/05/ge.webp",
+  "w": 291
+ },
+ "2018/05/kitchenaid.png": {
+  "alt": "Kitchenaid",
+  "h": 81,
+  "src": "/images/2018/05/kitchenaid.webp",
+  "w": 600
+ },
+ "2018/05/monogram1.png": {
+  "alt": "Appliances",
+  "h": 89,
+  "src": "/images/2018/05/monogram1.webp",
+  "w": 220
+ },
+ "2018/05/sharp-1.png": {
+  "alt": "Sharp",
+  "h": 32,
+  "src": "/images/2018/05/sharp-1.webp",
+  "w": 141
+ },
+ "2018/05/vent-a-hood.png": {
+  "alt": "Vent-a-hood",
+  "h": 85,
+  "src": "/images/2018/05/vent-a-hood.webp",
+  "w": 550
+ },
+ "2018/05/wasteking.png": {
+  "alt": "Wasteking",
+  "h": 92,
+  "src": "/images/2018/05/wasteking.webp",
+  "w": 225
+ },
+ "2018/05/whirlpool.png": {
+  "alt": "Whirlpool",
+  "h": 136,
+  "src": "/images/2018/05/whirlpool.webp",
+  "w": 298
+ },
+ "2018/06/Bathroom_Header.jpg#hero": {
+  "alt": "Bathroom with twin vanities and a freestanding tub",
+  "h": 665,
+  "src": "/images/2018/06/Bathroom_Header-hero.webp",
+  "w": 1200
+ },
+ "2018/06/Cabinetry_Header.jpg#hero": {
+  "alt": "All Wood Cabinets",
+  "h": 900,
+  "src": "/images/2018/06/Cabinetry_Header-hero.webp",
+  "w": 1200
+ },
+ "2018/06/Closet_Slider3.jpg": {
+  "alt": "Reach In Closet",
+  "h": 510,
+  "src": "/images/2018/06/Closet_Slider3.webp",
+  "w": 620
+ },
+ "2018/06/Closet_Slider4.jpg": {
+  "alt": "Bedroom storage solution",
+  "h": 510,
+  "src": "/images/2018/06/Closet_Slider4.webp",
+  "w": 620
+ },
+ "2018/06/Closet_Slider5.jpg": {
+  "alt": "Closet",
+  "h": 510,
+  "src": "/images/2018/06/Closet_Slider5.webp",
+  "w": 620
+ },
+ "2018/06/Closet_Slider6.jpg": {
+  "alt": "Organizational Solutions",
+  "h": 510,
+  "src": "/images/2018/06/Closet_Slider6.webp",
+  "w": 620
+ },
+ "2018/06/Contact_Header.jpg#hero": {
+  "alt": "Request a Free Consultation",
+  "h": 564,
+  "src": "/images/2018/06/Contact_Header-hero.webp",
+  "w": 1200
+ },
+ "2018/06/Durham.jpg": {
+  "alt": "Designed Kitchen",
+  "h": 206,
+  "src": "/images/2018/06/Durham.webp",
+  "w": 293
+ },
+ "2018/06/Employment_Header.jpg#hero": {
+  "alt": "Person writing at a desk beside a laptop",
+  "h": 800,
+  "src": "/images/2018/06/Employment_Header-hero.webp",
+  "w": 1200
+ },
+ "2018/06/Finance_Header.jpg#hero": {
+  "alt": "Grey painted kitchen with a glass-front hutch and range hood",
+  "h": 950,
+  "src": "/images/2018/06/Finance_Header-hero.webp",
+  "w": 1200
+ },
+ "2018/06/MaxSinger1.jpg": {
+  "alt": "Founder Max Singer",
+  "h": 391,
+  "src": "/images/2018/06/MaxSinger1.webp",
+  "w": 293
+ },
+ "2018/06/Purestyle_Blog.jpg#hero": {
+  "alt": "Grey kitchen with an island, pendant lights and an exposed brick wall",
+  "h": 766,
+  "src": "/images/2018/06/Purestyle_Blog-hero.webp",
+  "w": 1200
+ },
+ "2018/06/Singer-Kitchens-Original-Location.jpg#hero": {
+  "alt": "Singer Kitchens Original Location",
+  "h": 903,
+  "src": "/images/2018/06/Singer-Kitchens-Original-Location-hero.webp",
+  "w": 1200
+ },
+ "2018/06/hardware_header1.v4.jpg#hero": {
+  "alt": "Hardware header1.",
+  "h": 976,
+  "src": "/images/2018/06/hardware_header1.v4-hero.webp",
+  "w": 1301
+ },
+ "2018/06/installation_header.jpg": {
+  "alt": "Installation_header",
+  "h": 546,
+  "src": "/images/2018/06/installation_header.webp",
+  "w": 1200
+ },
+ "2018/06/installation_header.jpg#hero": {
+  "alt": "Installation_header",
+  "h": 546,
+  "src": "/images/2018/06/installation_header-hero.webp",
+  "w": 1200
+ },
+ "2018/06/marquee10a.jpg": {
+  "alt": "White Shaker Cabinets",
+  "h": 510,
+  "src": "/images/2018/06/marquee10a.webp",
+  "w": 620
+ },
+ "2018/06/whirlpool_opt.jpg#hero": {
+  "alt": "Whirlpool_opt",
+  "h": 543,
+  "src": "/images/2018/06/whirlpool_opt-hero.webp",
+  "w": 1200
+ },
+ "2018/07/SpecialOffers3.jpg#hero": {
+  "alt": "Special-Offers",
+  "h": 778,
+  "src": "/images/2018/07/SpecialOffers3-hero.webp",
+  "w": 1300
+ },
+ "2018/07/madeinusa.png": {
+  "alt": "Made in USA flag",
+  "h": 200,
+  "src": "/images/2018/07/madeinusa.webp",
+  "w": 200
+ },
+ "2019/02/After_SliderPic.jpg": {
+  "alt": "Before: Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+  "h": 900,
+  "src": "/images/2019/02/After_SliderPic.webp",
+  "w": 1200
+ },
+ "2019/02/Bath_After.jpg": {
+  "alt": "Bathroom after: cream vanity with granite countertop",
+  "h": 480,
+  "src": "/images/2019/02/Bath_After.webp",
+  "w": 360
+ },
+ "2019/02/Bath_Before.jpg": {
+  "alt": "Bathroom before the remodel",
+  "h": 480,
+  "src": "/images/2019/02/Bath_Before.webp",
+  "w": 360
+ },
+ "2019/02/Before_SliderPic1.jpg": {
+  "alt": "After: Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+  "h": 900,
+  "src": "/images/2019/02/Before_SliderPic1.webp",
+  "w": 1195
+ },
+ "2019/03/bathroomremodel.jpg": {
+  "alt": "Bathroomremodel",
+  "h": 675,
+  "src": "/images/2019/03/bathroomremodel.webp",
+  "w": 1200
+ },
+ "2019/04/AdobeStock_195975461.jpeg#hero": {
+  "alt": "Singer Kitchens Spring 2019",
+  "h": 1068,
+  "src": "/images/2019/04/AdobeStock_195975461-hero.webp",
+  "w": 1600
+ },
+ "2019/05/AdobeStock_100737957.jpeg#hero": {
+  "alt": "Remodeling With Singer Kitchens",
+  "h": 997,
+  "src": "/images/2019/05/AdobeStock_100737957-hero.webp",
+  "w": 1600
+ },
+ "2019/06/7-factors-singer-kitchens.jpeg#hero": {
+  "alt": "7 Factors to Consider When Designing Your Kitchen",
+  "h": 1004,
+  "src": "/images/2019/06/7-factors-singer-kitchens-hero.webp",
+  "w": 1600
+ },
+ "2019/06/remodel-with-singer.jpeg#hero": {
+  "alt": "Why Hire SInger Kitchens",
+  "h": 1073,
+  "src": "/images/2019/06/remodel-with-singer-hero.webp",
+  "w": 1600
+ },
+ "2019/07/DSC_8324-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8324-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8332-min.jpg": {
+  "alt": "Upscale Nautical kitchen",
+  "h": 806,
+  "src": "/images/2019/07/DSC_8332-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8336-min.jpg#hero": {
+  "alt": "Upscale Nautical",
+  "h": 1068,
+  "src": "/images/2019/07/DSC_8336-min-hero.webp",
+  "w": 1600
+ },
+ "2019/07/DSC_8338-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8338-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8340-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8340-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8348-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8348-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8350-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8350-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8352-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 799,
+  "src": "/images/2019/07/DSC_8352-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8365-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8365-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8369-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8369-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8373-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8373-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8389-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8389-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8394-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8394-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8402-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8402-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8406-min.jpg": {
+  "alt": "Upscale Nautical kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8406-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8414-min.jpg": {
+  "alt": "Traditional with a Twist kitchen",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8414-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8414-min.jpg#hero": {
+  "alt": "Traditional with a Twist",
+  "h": 1068,
+  "src": "/images/2019/07/DSC_8414-min-hero.webp",
+  "w": 1600
+ },
+ "2019/07/DSC_8425-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8425-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8431-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8431-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8432-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8432-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8439-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8439-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8451-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8451-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8458-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8458-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8461-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8461-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8468-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8468-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8470-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 795,
+  "src": "/images/2019/07/DSC_8470-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8478-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8478-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8486-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8486-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8503-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8503-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8516-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8516-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8545-min.jpg": {
+  "alt": "Traditional with a Twist kitchen project photo",
+  "h": 783,
+  "src": "/images/2019/07/DSC_8545-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8547-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 814,
+  "src": "/images/2019/07/DSC_8547-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8551-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8551-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8554-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8554-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8560-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8560-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8565-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8565-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8565-min.jpg#hero": {
+  "alt": "Midcentury Modern Feel",
+  "h": 1068,
+  "src": "/images/2019/07/DSC_8565-min-hero.webp",
+  "w": 1600
+ },
+ "2019/07/DSC_8568-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8568-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8572-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8572-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8575-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8575-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8584-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8584-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8587-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8587-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8601-min.jpg": {
+  "alt": "Midcentury Modern Feel kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8601-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8616-min.jpg": {
+  "alt": "White kitchen with open shelves, glass pendants and a large island",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8616-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8617-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8617-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8632-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8632-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8635-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8635-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8638-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8638-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8645-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8645-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8655-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8655-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8659-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8659-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8665-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8665-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8668-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8668-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8678-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8678-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8684-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 1781,
+  "src": "/images/2019/07/DSC_8684-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8691-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 1798,
+  "src": "/images/2019/07/DSC_8691-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8698-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8698-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8699-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8699-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8701-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8701-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8703-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8703-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8707-min.jpg": {
+  "alt": "Transitional kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8707-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8991-min.jpg": {
+  "alt": "Wood cabinet kitchen with a marble waterfall island and brick chimney",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8991-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_8991-min.jpg#hero": {
+  "alt": "Wood cabinet kitchen with a marble waterfall island and brick chimney",
+  "h": 1068,
+  "src": "/images/2019/07/DSC_8991-min-hero.webp",
+  "w": 1600
+ },
+ "2019/07/DSC_8993-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_8993-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9000-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9000-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9001-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9001-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9007-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9007-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9012-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9012-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9031-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9031-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9036-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9036-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9039-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9039-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9043-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9043-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9045-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9045-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9067-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9067-min.webp",
+  "w": 1200
+ },
+ "2019/07/DSC_9083-min.jpg": {
+  "alt": "Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2019/07/DSC_9083-min.webp",
+  "w": 1200
+ },
+ "2019/07/Nautical-singerkitchens-min.jpg": {
+  "alt": "Nautical-singerkitchens-min",
+  "h": 1831,
+  "src": "/images/2019/07/Nautical-singerkitchens-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singer-Kitchens-Cabinets-NewOrleans-min.jpg": {
+  "alt": "Singer-Kitchens-Cabinets-NewOrleans-min",
+  "h": 801,
+  "src": "/images/2019/07/Singer-Kitchens-Cabinets-NewOrleans-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singer-Kitchens-Remodeling-NewOrleans-min.jpg": {
+  "alt": "Singer-Kitchens-Remodeling-NewOrleans-min",
+  "h": 773,
+  "src": "/images/2019/07/Singer-Kitchens-Remodeling-NewOrleans-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singer-Kitchens-Stove-min.jpg": {
+  "alt": "Singer-Kitchens-Stove-min",
+  "h": 801,
+  "src": "/images/2019/07/Singer-Kitchens-Stove-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singer-glass-min.jpg": {
+  "alt": "Singer-glass-min",
+  "h": 801,
+  "src": "/images/2019/07/Singer-glass-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singer-granitecounter-min.jpg": {
+  "alt": "Singer-granitecounter-min",
+  "h": 801,
+  "src": "/images/2019/07/Singer-granitecounter-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singer-island-min.jpg": {
+  "alt": "Singer-island-min",
+  "h": 801,
+  "src": "/images/2019/07/Singer-island-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singer-marble-island-min.jpg": {
+  "alt": "Singer-marble-island-min",
+  "h": 1798,
+  "src": "/images/2019/07/Singer-marble-island-min.webp",
+  "w": 1200
+ },
+ "2019/07/SingerKitchens-Metairie-min.jpg": {
+  "alt": "SingerKitchens-Metairie-min",
+  "h": 801,
+  "src": "/images/2019/07/SingerKitchens-Metairie-min.webp",
+  "w": 1200
+ },
+ "2019/07/SingerKitchens-NewOrleans-midcentury-min.jpg": {
+  "alt": "SingerKitchens-NewOrleans-midcentury-min",
+  "h": 801,
+  "src": "/images/2019/07/SingerKitchens-NewOrleans-midcentury-min.webp",
+  "w": 1200
+ },
+ "2019/07/SingerKitchens-midcentury-modern-min.jpg": {
+  "alt": "SingerKitchens-midcentury-modern-min",
+  "h": 801,
+  "src": "/images/2019/07/SingerKitchens-midcentury-modern-min.webp",
+  "w": 1200
+ },
+ "2019/07/SingerKitchens-rudy-min.jpg": {
+  "alt": "SingerKitchens-rudy-min",
+  "h": 801,
+  "src": "/images/2019/07/SingerKitchens-rudy-min.webp",
+  "w": 1200
+ },
+ "2019/07/SingerKitchens-small-kitchen-min.jpg": {
+  "alt": "Small kitchen with blue cabinets and open wood shelves",
+  "h": 801,
+  "src": "/images/2019/07/SingerKitchens-small-kitchen-min.webp",
+  "w": 1200
+ },
+ "2019/07/Singerkitchens-mandeville-min.jpg": {
+  "alt": "Singerkitchens-mandeville-min",
+  "h": 801,
+  "src": "/images/2019/07/Singerkitchens-mandeville-min.webp",
+  "w": 1200
+ },
+ "2019/07/clean-your-kitchen.jpeg#hero": {
+  "alt": "Cleaning kitchen",
+  "h": 1067,
+  "src": "/images/2019/07/clean-your-kitchen-hero.webp",
+  "w": 1600
+ },
+ "2019/07/singer-cabinets-mandeville-min.jpg": {
+  "alt": "Singer-cabinets-mandeville-min",
+  "h": 801,
+  "src": "/images/2019/07/singer-cabinets-mandeville-min.webp",
+  "w": 1200
+ },
+ "2019/07/singer-nautical-mandeville-min.jpg": {
+  "alt": "Singer-nautical-mandeville-min",
+  "h": 801,
+  "src": "/images/2019/07/singer-nautical-mandeville-min.webp",
+  "w": 1200
+ },
+ "2019/07/singerkitchens-island-min.jpg": {
+  "alt": "Singerkitchens-island-min",
+  "h": 801,
+  "src": "/images/2019/07/singerkitchens-island-min.webp",
+  "w": 1200
+ },
+ "2019/07/singerkitchens-island.jpg#hero": {
+  "alt": "Kitchen Island",
+  "h": 1068,
+  "src": "/images/2019/07/singerkitchens-island-hero.webp",
+  "w": 1600
+ },
+ "2019/07/singerkitchens-june-renovation-min.jpg#hero": {
+  "alt": "Singerkitchens-june-renovation-min",
+  "h": 1068,
+  "src": "/images/2019/07/singerkitchens-june-renovation-min-hero.webp",
+  "w": 1600
+ },
+ "2019/08/AdobeStock_86275343.jpeg#hero": {
+  "alt": "Remodeling Period Kitchens",
+  "h": 1031,
+  "src": "/images/2019/08/AdobeStock_86275343-hero.webp",
+  "w": 1600
+ },
+ "2019/09/AdobeStock_120765333.jpeg#hero": {
+  "alt": "Fall Singer Kitchen",
+  "h": 1200,
+  "src": "/images/2019/09/AdobeStock_120765333-hero.webp",
+  "w": 1600
+ },
+ "2019/09/AdobeStock_135156793.jpeg#hero": {
+  "alt": "Brighten-kitchen-singer",
+  "h": 1067,
+  "src": "/images/2019/09/AdobeStock_135156793-hero.webp",
+  "w": 1600
+ },
+ "2019/09/SingerKitchens.jpg": {
+  "alt": "SingerKitchens",
+  "h": 477,
+  "src": "/images/2019/09/SingerKitchens.webp",
+  "w": 764
+ },
+ "2019/10/AdobeStock_268844426.jpeg#hero": {
+  "alt": "Gloss kitchen",
+  "h": 1200,
+  "src": "/images/2019/10/AdobeStock_268844426-hero.webp",
+  "w": 1600
+ },
+ "2019/10/DSC_4039.jpg#hero": {
+  "alt": "Singer Bathroom 2019 Spring",
+  "h": 1068,
+  "src": "/images/2019/10/DSC_4039-hero.webp",
+  "w": 1600
+ },
+ "2019/11/Closet-Design-Ideas-For-The-Bedroom.jpg": {
+  "alt": "Closet Design Ideas For The Bedroom",
+  "h": 400,
+  "src": "/images/2019/11/Closet-Design-Ideas-For-The-Bedroom.webp",
+  "w": 600
+ },
+ "2019/11/Closet-Design-Ideas-For-The-Bedroom.jpg#hero": {
+  "alt": "Closet Design Ideas For The Bedroom",
+  "h": 400,
+  "src": "/images/2019/11/Closet-Design-Ideas-For-The-Bedroom-hero.webp",
+  "w": 600
+ },
+ "2019/11/What-To-Consider-When-Remodeling-A-Kitchen.jpg": {
+  "alt": "What To Consider When Remodeling A Kitchen",
+  "h": 400,
+  "src": "/images/2019/11/What-To-Consider-When-Remodeling-A-Kitchen.webp",
+  "w": 700
+ },
+ "2019/11/What-To-Consider-When-Remodeling-A-Kitchen.jpg#hero": {
+  "alt": "What To Consider When Remodeling A Kitchen",
+  "h": 400,
+  "src": "/images/2019/11/What-To-Consider-When-Remodeling-A-Kitchen-hero.webp",
+  "w": 700
+ },
+ "2019/12/Does-A-Bathroom-Remodel-Increase-Home-Value.jpg": {
+  "alt": "Does A Bathroom Remodel Increase Home Value",
+  "h": 400,
+  "src": "/images/2019/12/Does-A-Bathroom-Remodel-Increase-Home-Value.webp",
+  "w": 600
+ },
+ "2019/12/Does-A-Bathroom-Remodel-Increase-Home-Value.jpg#hero": {
+  "alt": "Does A Bathroom Remodel Increase Home Value",
+  "h": 400,
+  "src": "/images/2019/12/Does-A-Bathroom-Remodel-Increase-Home-Value-hero.webp",
+  "w": 600
+ },
+ "2019/12/Wall-Beds-For-Small-Spaces.jpg": {
+  "alt": "Wall Beds For Small Spaces",
+  "h": 400,
+  "src": "/images/2019/12/Wall-Beds-For-Small-Spaces.webp",
+  "w": 600
+ },
+ "2019/12/Wall-Beds-For-Small-Spaces.jpg#hero": {
+  "alt": "Wall Beds For Small Spaces",
+  "h": 400,
+  "src": "/images/2019/12/Wall-Beds-For-Small-Spaces-hero.webp",
+  "w": 600
+ },
+ "2020/02/DSC_4680.jpg": {
+  "alt": "Professional Kitchen Cabinets from Singer Kitchens LP",
+  "h": 801,
+  "src": "/images/2020/02/DSC_4680.webp",
+  "w": 1200
+ },
+ "2020/02/DSC_8324.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8324.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8327.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8327.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8327.jpg#hero": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8327-hero.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8332.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 537,
+  "src": "/images/2020/02/DSC_8332.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8336.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8336.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8338.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8338.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8340.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8340.webp",
+  "w": 534
+ },
+ "2020/02/DSC_8345.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8345.webp",
+  "w": 504
+ },
+ "2020/02/DSC_8348.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8348.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8350.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8350.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8352.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 532,
+  "src": "/images/2020/02/DSC_8352.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8365.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8365.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8369.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8369.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8373.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8373.webp",
+  "w": 534
+ },
+ "2020/02/DSC_8377.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8377.webp",
+  "w": 534
+ },
+ "2020/02/DSC_8382.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8382.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8389.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 534,
+  "src": "/images/2020/02/DSC_8389.webp",
+  "w": 800
+ },
+ "2020/02/DSC_8394.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8394.webp",
+  "w": 534
+ },
+ "2020/02/DSC_8396.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8396.webp",
+  "w": 534
+ },
+ "2020/02/DSC_8397.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8397.webp",
+  "w": 534
+ },
+ "2020/02/DSC_8402.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8402.webp",
+  "w": 534
+ },
+ "2020/02/DSC_8406.jpg": {
+  "alt": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "h": 800,
+  "src": "/images/2020/02/DSC_8406.webp",
+  "w": 534
+ },
+ "2020/02/Kitchen-cabinets-neworleans-1.jpg": {
+  "alt": "Kitchen-cabinets-neworleans",
+  "h": 801,
+  "src": "/images/2020/02/Kitchen-cabinets-neworleans-1.webp",
+  "w": 1200
+ },
+ "2020/02/Kitchen-cabinets-neworleans.jpg": {
+  "alt": "Kitchen with a grey island, granite countertops and copper pendant lights",
+  "h": 534,
+  "src": "/images/2020/02/Kitchen-cabinets-neworleans.webp",
+  "w": 800
+ },
+ "2020/02/Nautical-singerkitchens.jpg": {
+  "alt": "Nautical-singerkitchens",
+  "h": 800,
+  "src": "/images/2020/02/Nautical-singerkitchens.webp",
+  "w": 524
+ },
+ "2020/02/Old-world-kitchen-singer.jpg": {
+  "alt": "Old-world-kitchen-singer",
+  "h": 801,
+  "src": "/images/2020/02/Old-world-kitchen-singer.webp",
+  "w": 1200
+ },
+ "2020/02/Picture1.png": {
+  "alt": "0% interest financing available, request an estimate",
+  "h": 416,
+  "src": "/images/2020/02/Picture1.webp",
+  "w": 599
+ },
+ "2020/02/Singer-Kitchens-Cabinets-NewOrleans-1.jpg": {
+  "alt": "Wood cabinets with a stainless island hood and white quartz counters",
+  "h": 801,
+  "src": "/images/2020/02/Singer-Kitchens-Cabinets-NewOrleans-1.webp",
+  "w": 1200
+ },
+ "2020/02/Singer-Kitchens-Remodeling-NewOrleans.jpg": {
+  "alt": "Singer-Kitchens-Remodeling-NewOrleans",
+  "h": 773,
+  "src": "/images/2020/02/Singer-Kitchens-Remodeling-NewOrleans.webp",
+  "w": 1200
+ },
+ "2020/02/Singer-island.jpg": {
+  "alt": "Singer-island",
+  "h": 534,
+  "src": "/images/2020/02/Singer-island.webp",
+  "w": 800
+ },
+ "2020/02/Singer-mandeville.jpg": {
+  "alt": "Wood cabinets with a butcher block island and granite counters",
+  "h": 801,
+  "src": "/images/2020/02/Singer-mandeville.webp",
+  "w": 1200
+ },
+ "2020/02/Singer-marble-island.jpg": {
+  "alt": "Singer-marble-island",
+  "h": 800,
+  "src": "/images/2020/02/Singer-marble-island.webp",
+  "w": 534
+ },
+ "2020/02/SingerKitchens-midcentury-modern.jpg": {
+  "alt": "Mid-century modern kitchen with blue cabinets and open shelves",
+  "h": 801,
+  "src": "/images/2020/02/SingerKitchens-midcentury-modern.webp",
+  "w": 1200
+ },
+ "2020/02/Singerkitchens-mandeville.jpg": {
+  "alt": "Singerkitchens-mandeville",
+  "h": 534,
+  "src": "/images/2020/02/Singerkitchens-mandeville.webp",
+  "w": 800
+ },
+ "2020/02/Subway-tile-singer-kitchens.jpg": {
+  "alt": "Subway-tile-singer-kitchens",
+  "h": 801,
+  "src": "/images/2020/02/Subway-tile-singer-kitchens.webp",
+  "w": 1200
+ },
+ "2020/02/bbb-logo.png": {
+  "alt": "Bbb-logo",
+  "h": 39,
+  "src": "/images/2020/02/bbb-logo.webp",
+  "w": 186
+ },
+ "2020/02/kitchen-cabinets-bg.jpg": {
+  "alt": "Grey kitchen with an island and a built-in window seat",
+  "h": 675,
+  "src": "/images/2020/02/kitchen-cabinets-bg.webp",
+  "w": 1200
+ },
+ "2020/02/kitchen-cabinets-bg.jpg#hero": {
+  "alt": "Grey kitchen with an island and a built-in window seat",
+  "h": 784,
+  "src": "/images/2020/02/kitchen-cabinets-bg-hero.webp",
+  "w": 1393
+ },
+ "2020/02/kitchen-cabinets-photo-1-1.jpg": {
+  "alt": "Kitchen cabinets photo",
+  "h": 430,
+  "src": "/images/2020/02/kitchen-cabinets-photo-1-1.webp",
+  "w": 590
+ },
+ "2020/02/kitchen-cabinets-photo-2-1.jpg": {
+  "alt": "Kitchen cabinets photo",
+  "h": 430,
+  "src": "/images/2020/02/kitchen-cabinets-photo-2-1.webp",
+  "w": 590
+ },
+ "2020/02/kitchen-remodeling-bg.jpg": {
+  "alt": "White kitchen with a large island, open shelves and wooden stools",
+  "h": 675,
+  "src": "/images/2020/02/kitchen-remodeling-bg.webp",
+  "w": 1200
+ },
+ "2020/02/kitchen-remodeling-bg.jpg#hero": {
+  "alt": "White kitchen with a large island, open shelves and wooden stools",
+  "h": 784,
+  "src": "/images/2020/02/kitchen-remodeling-bg-hero.webp",
+  "w": 1393
+ },
+ "2020/02/kitchen-remodeling-img-1.jpg": {
+  "alt": "Professional Kitchen Remodeling from Singer Kitchens LP",
+  "h": 430,
+  "src": "/images/2020/02/kitchen-remodeling-img-1.webp",
+  "w": 590
+ },
+ "2020/02/kitchen-remodeling-img-2.jpg": {
+  "alt": "Professional Kitchen Remodeling from Singer Kitchens LP",
+  "h": 430,
+  "src": "/images/2020/02/kitchen-remodeling-img-2.webp",
+  "w": 590
+ },
+ "2020/02/remodeling-header.jpg": {
+  "alt": "Cooktop with a curved stainless hood and dark wood cabinets",
+  "h": 724,
+  "src": "/images/2020/02/remodeling-header.webp",
+  "w": 1200
+ },
+ "2020/02/singer-cabinets-mandeville-1.jpg": {
+  "alt": "Singer-cabinets-mandeville",
+  "h": 801,
+  "src": "/images/2020/02/singer-cabinets-mandeville-1.webp",
+  "w": 1200
+ },
+ "2020/02/singer-cabinets-mandeville-2.jpg": {
+  "alt": "Singer-cabinets-mandeville",
+  "h": 534,
+  "src": "/images/2020/02/singer-cabinets-mandeville-2.webp",
+  "w": 800
+ },
+ "2020/02/singer-kitchens-header-phone-new.png": {
+  "alt": "Singer-kitchens-header-phone-new",
+  "h": 79,
+  "src": "/images/2020/02/singer-kitchens-header-phone-new.webp",
+  "w": 475
+ },
+ "2020/02/singer-kitchens-logo.png": {
+  "alt": "Singer-kitchens-logo",
+  "h": 89,
+  "src": "/images/2020/02/singer-kitchens-logo.webp",
+  "w": 262
+ },
+ "2020/02/singer-kitchens-phone.png": {
+  "alt": "Singer-kitchens-phone",
+  "h": 40,
+  "src": "/images/2020/02/singer-kitchens-phone.webp",
+  "w": 246
+ },
+ "2020/02/singer-nautical-mandeville-1.jpg": {
+  "alt": "Singer-nautical-mandeville",
+  "h": 534,
+  "src": "/images/2020/02/singer-nautical-mandeville-1.webp",
+  "w": 800
+ },
+ "2020/02/singer-nautical-mandeville.jpg": {
+  "alt": "White kitchen with a granite island and white pendant lights",
+  "h": 801,
+  "src": "/images/2020/02/singer-nautical-mandeville.webp",
+  "w": 1200
+ },
+ "2020/02/singer-seated-island.jpg": {
+  "alt": "White kitchen with a carved wood island and orange bar stools",
+  "h": 801,
+  "src": "/images/2020/02/singer-seated-island.webp",
+  "w": 1200
+ },
+ "2020/02/singer-skin-mandeville.jpg": {
+  "alt": "Singer-skin-mandeville",
+  "h": 534,
+  "src": "/images/2020/02/singer-skin-mandeville.webp",
+  "w": 800
+ },
+ "2020/02/singer-transitional-metarie.jpg": {
+  "alt": "Transitional kitchen with blue cabinets and a granite island",
+  "h": 801,
+  "src": "/images/2020/02/singer-transitional-metarie.webp",
+  "w": 1200
+ },
+ "2020/02/singerkitchens-june-renovation.jpg": {
+  "alt": "White kitchen with open shelves above a quartz island",
+  "h": 801,
+  "src": "/images/2020/02/singerkitchens-june-renovation.webp",
+  "w": 1200
+ },
+ "2020/02/singerkitchens-neworleans-june.jpg": {
+  "alt": "White kitchen with glass pendants over a marble-look island",
+  "h": 801,
+  "src": "/images/2020/02/singerkitchens-neworleans-june.webp",
+  "w": 1200
+ },
+ "2020/02/slider-2.jpg#hero": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 832,
+  "src": "/images/2020/02/slider-2-hero.webp",
+  "w": 1600
+ },
+ "2020/02/stainless-singer-kitchens.jpg": {
+  "alt": "Grey and white kitchen with a farmhouse sink and small island",
+  "h": 801,
+  "src": "/images/2020/02/stainless-singer-kitchens.webp",
+  "w": 1200
+ },
+ "2020/02/step-1-visit-a-showroom.png": {
+  "alt": "Step visit a showroom",
+  "h": 180,
+  "src": "/images/2020/02/step-1-visit-a-showroom.webp",
+  "w": 180
+ },
+ "2020/02/step-2-request-a-design.png": {
+  "alt": "Step request a design",
+  "h": 180,
+  "src": "/images/2020/02/step-2-request-a-design.webp",
+  "w": 180
+ },
+ "2020/02/step-3-see-financing-options.png": {
+  "alt": "Step see financing options",
+  "h": 180,
+  "src": "/images/2020/02/step-3-see-financing-options.webp",
+  "w": 180
+ },
+ "2020/02/zero-interest-financing-available-banner-full-bg.jpg#hero": {
+  "alt": "Zero-interest-financing-available-banner-full-bg",
+  "h": 242,
+  "src": "/images/2020/02/zero-interest-financing-available-banner-full-bg-hero.webp",
+  "w": 1600
+ },
+ "2020/02/zero-interest-financing-available-banner-full.png": {
+  "alt": "0% interest financing available, request an estimate",
+  "h": 653,
+  "src": "/images/2020/02/zero-interest-financing-available-banner-full.webp",
+  "w": 940
+ },
+ "2020/02/zero-interest-financing-available-banner.png": {
+  "alt": "Zero-interest-financing-available-banner",
+  "h": 207,
+  "src": "/images/2020/02/zero-interest-financing-available-banner.webp",
+  "w": 472
+ },
+ "2020/03/031520.jpg": {
+  "alt": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine",
+  "h": 1600,
+  "src": "/images/2020/03/031520.webp",
+  "w": 1200
+ },
+ "2020/03/031520.jpg#hero": {
+  "alt": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine",
+  "h": 2133,
+  "src": "/images/2020/03/031520-hero.webp",
+  "w": 1600
+ },
+ "2020/03/Singer-Kitchens-Girod.jpg": {
+  "alt": "Singer Kitchens Girod",
+  "h": 632,
+  "src": "/images/2020/03/Singer-Kitchens-Girod.webp",
+  "w": 992
+ },
+ "2020/03/bbc-logo.jpg": {
+  "alt": "BBB Accredited Business",
+  "h": 260,
+  "src": "/images/2020/03/bbc-logo.webp",
+  "w": 390
+ },
+ "2020/03/kba-member.jpg": {
+  "alt": "A proud member of the Kitchen & Bath Alliance",
+  "h": 260,
+  "src": "/images/2020/03/kba-member.webp",
+  "w": 390
+ },
+ "2020/03/singer-kitchen-slider-bg-2-new.jpg#hero": {
+  "alt": "Singer kitchen slider bg",
+  "h": 554,
+  "src": "/images/2020/03/singer-kitchen-slider-bg-2-new-hero.webp",
+  "w": 1600
+ },
+ "2020/03/visit-our-showrooms.jpg": {
+  "alt": "Bright white kitchen with a large island and range hood",
+  "h": 360,
+  "src": "/images/2020/03/visit-our-showrooms.webp",
+  "w": 540
+ },
+ "2020/04/042020.jpg#hero": {
+  "alt": "Tips for Making the Most of a Small Kitchen from Singer Kitchens",
+  "h": 800,
+  "src": "/images/2020/04/042020-hero.webp",
+  "w": 1200
+ },
+ "2020/04/20200320_122125_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122125_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122135_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122135_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122143_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122143_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122200_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122200_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122234_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122234_resized.webp",
+  "w": 800
+ },
+ "2020/04/20200320_122241_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122241_resized.webp",
+  "w": 800
+ },
+ "2020/04/20200320_122301_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122301_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122313_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122313_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122733_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122733_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122737_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122737_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122745_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122745_resized.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122745_resized.jpg#hero": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122745_resized-hero.webp",
+  "w": 450
+ },
+ "2020/04/20200320_122823_resized.jpg": {
+  "alt": "How one couple downsized without sacrificing space by remodeling their closets",
+  "h": 600,
+  "src": "/images/2020/04/20200320_122823_resized.webp",
+  "w": 450
+ },
+ "2020/04/kitchen-remodeling-checklist-book-model.jpg": {
+  "alt": "Kitchen-remodeling-checklist-book-model",
+  "h": 519,
+  "src": "/images/2020/04/kitchen-remodeling-checklist-book-model.webp",
+  "w": 400
+ },
+ "2020/04/remodeling-checklist-cta-banner.jpg": {
+  "alt": "Kitchen Remodeling Checklist, download now",
+  "h": 200,
+  "src": "/images/2020/04/remodeling-checklist-cta-banner.webp",
+  "w": 800
+ },
+ "2020/06/062520.jpg#hero": {
+  "alt": "Rain & Water Damage Kitchen Restoration - New Orleans",
+  "h": 576,
+  "src": "/images/2020/06/062520-hero.webp",
+  "w": 1024
+ },
+ "2020/06/mobility-challenged.jpg#hero": {
+  "alt": "Mobility challenged",
+  "h": 747,
+  "src": "/images/2020/06/mobility-challenged-hero.webp",
+  "w": 1080
+ },
+ "2020/07/design-by-appointment.png": {
+  "alt": "Design by appointment",
+  "h": 628,
+  "src": "/images/2020/07/design-by-appointment.webp",
+  "w": 1200
+ },
+ "2020/07/design-inspiration.jpg#hero": {
+  "alt": "Design-inspiration",
+  "h": 576,
+  "src": "/images/2020/07/design-inspiration-hero.webp",
+  "w": 1024
+ },
+ "2020/07/kitchen-renovation-1.jpg#hero": {
+  "alt": "Kitchen renovation",
+  "h": 576,
+  "src": "/images/2020/07/kitchen-renovation-1-hero.webp",
+  "w": 878
+ },
+ "2020/07/kitchen-renovation-2.jpg": {
+  "alt": "Kitchen renovation",
+  "h": 576,
+  "src": "/images/2020/07/kitchen-renovation-2.webp",
+  "w": 878
+ },
+ "2020/07/kitchen-renovation-3.jpg": {
+  "alt": "Kitchen renovation",
+  "h": 576,
+  "src": "/images/2020/07/kitchen-renovation-3.webp",
+  "w": 878
+ },
+ "2020/07/kitchen-renovation-4.jpg": {
+  "alt": "Kitchen renovation",
+  "h": 576,
+  "src": "/images/2020/07/kitchen-renovation-4.webp",
+  "w": 878
+ },
+ "2020/09/09222020a.jpg#hero": {
+  "alt": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
+  "h": 450,
+  "src": "/images/2020/09/09222020a-hero.webp",
+  "w": 800
+ },
+ "2020/09/09222020b.jpg": {
+  "alt": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
+  "h": 534,
+  "src": "/images/2020/09/09222020b.webp",
+  "w": 800
+ },
+ "2020/09/09222020c.jpg": {
+  "alt": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
+  "h": 450,
+  "src": "/images/2020/09/09222020c.webp",
+  "w": 800
+ },
+ "2020/09/09222020d.jpg": {
+  "alt": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
+  "h": 450,
+  "src": "/images/2020/09/09222020d.webp",
+  "w": 800
+ },
+ "2020/11/110320.jpg#hero": {
+  "alt": "See How We Created this Busy Metairie Family\u2019s Dream Kitchen",
+  "h": 351,
+  "src": "/images/2020/11/110320-hero.webp",
+  "w": 624
+ },
+ "2020/11/110320b.jpg": {
+  "alt": "See How We Created this Busy Metairie Family\u2019s Dream Kitchen",
+  "h": 351,
+  "src": "/images/2020/11/110320b.webp",
+  "w": 624
+ },
+ "2020/11/111620a.jpg#hero": {
+  "alt": "4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays!",
+  "h": 450,
+  "src": "/images/2020/11/111620a-hero.webp",
+  "w": 800
+ },
+ "2020/11/111620b.jpg": {
+  "alt": "4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays!",
+  "h": 534,
+  "src": "/images/2020/11/111620b.webp",
+  "w": 800
+ },
+ "2020/11/111620c.jpg": {
+  "alt": "4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays!",
+  "h": 532,
+  "src": "/images/2020/11/111620c.webp",
+  "w": 800
+ },
+ "2020/11/DSC_2743.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2743.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2744.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2744.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2745.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2745.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2747.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2747.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2750.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2750.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2752.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2752.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2753.jpg": {
+  "alt": "New Construction Modern kitchen",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2753.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2753.jpg#hero": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 1068,
+  "src": "/images/2020/11/DSC_2753-hero.webp",
+  "w": 1600
+ },
+ "2020/11/DSC_2754.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2754.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2755.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2755.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2759.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2759.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2760.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2760.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2761.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2761.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2762.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2762.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2762.jpg#hero": {
+  "alt": "New Construction Modern",
+  "h": 1068,
+  "src": "/images/2020/11/DSC_2762-hero.webp",
+  "w": 1600
+ },
+ "2020/11/DSC_2764.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2764.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2766.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2766.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2771.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2771.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2772.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2772.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2775.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2775.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2777.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2777.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2783.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2783.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2784.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2784.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2785.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2785.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2786.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2786.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2789.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2789.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2790.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2790.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2791.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2791.webp",
+  "w": 1200
+ },
+ "2020/11/DSC_2792.jpg": {
+  "alt": "New Construction Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2020/11/DSC_2792.webp",
+  "w": 1200
+ },
+ "2020/11/kitchen-remodeling-img-1-ol3u73crhv74sc56toi5bgmcd0x5loyppjwsopurm4.jpg": {
+  "alt": "Kitchen remodeling img ol3u73crhv74sc56toi5bgmcd0x5loyppjwsopurm4",
+  "h": 430,
+  "src": "/images/2020/11/kitchen-remodeling-img-1-ol3u73crhv74sc56toi5bgmcd0x5loyppjwsopurm4.webp",
+  "w": 590
+ },
+ "2020/11/kitchen-remodeling-img-2-ol3u72exb15ugq6jz63iqyuvrn1sdzuzdf9b7fw5sc.jpg": {
+  "alt": "Kitchen remodeling img ol3u72exb15ugq6jz63iqyuvrn1sdzuzdf9b7fw5sc",
+  "h": 430,
+  "src": "/images/2020/11/kitchen-remodeling-img-2-ol3u72exb15ugq6jz63iqyuvrn1sdzuzdf9b7fw5sc.webp",
+  "w": 590
+ },
+ "2020/11/lead-magnet-img.jpg": {
+  "alt": "Kitchen Design Secrets",
+  "h": 562,
+  "src": "/images/2020/11/lead-magnet-img.webp",
+  "w": 435
+ },
+ "2020/11/photo-1.png": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 90,
+  "src": "/images/2020/11/photo-1.webp",
+  "w": 90
+ },
+ "2020/11/photo-3.png": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 90,
+  "src": "/images/2020/11/photo-3.webp",
+  "w": 90
+ },
+ "2020/11/photo.png": {
+  "alt": "Photo",
+  "h": 90,
+  "src": "/images/2020/11/photo.webp",
+  "w": 90
+ },
+ "2020/11/showroom.jpg": {
+  "alt": "Mandeville Showroom",
+  "h": 811,
+  "src": "/images/2020/11/showroom.webp",
+  "w": 1200
+ },
+ "2020/11/stars.png": {
+  "alt": "Stars",
+  "h": 28,
+  "src": "/images/2020/11/stars.webp",
+  "w": 150
+ },
+ "2021/01/012121.jpg#hero": {
+  "alt": "The Secret to Designing a Kitchen You\u2019ll Love Forever",
+  "h": 900,
+  "src": "/images/2021/01/012121-hero.webp",
+  "w": 1600
+ },
+ "2021/01/21-storage-solutions-to-start-2021.jpg#hero": {
+  "alt": "Storage solutions to start",
+  "h": 450,
+  "src": "/images/2021/01/21-storage-solutions-to-start-2021-hero.webp",
+  "w": 800
+ },
+ "2021/01/3-drawer-base-buffet.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/3-drawer-base-buffet.webp",
+  "w": 295
+ },
+ "2021/01/appliance-garage.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/appliance-garage.webp",
+  "w": 295
+ },
+ "2021/01/base-mixer-cabinet.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/base-mixer-cabinet.webp",
+  "w": 295
+ },
+ "2021/01/base-tray-divider.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/base-tray-divider.webp",
+  "w": 295
+ },
+ "2021/01/can-wine-pull-out.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/can-wine-pull-out.webp",
+  "w": 295
+ },
+ "2021/01/deep-roll-out-tray-1.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/deep-roll-out-tray-1.webp",
+  "w": 295
+ },
+ "2021/01/diagonal-utensil-divider.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/diagonal-utensil-divider.webp",
+  "w": 295
+ },
+ "2021/01/double-waste-basket.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/double-waste-basket.webp",
+  "w": 295
+ },
+ "2021/01/file-drawer-cabinet.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/file-drawer-cabinet.webp",
+  "w": 295
+ },
+ "2021/01/gourmet-supercabinet.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/gourmet-supercabinet.webp",
+  "w": 295
+ },
+ "2021/01/maple-dovetailed.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/maple-dovetailed.webp",
+  "w": 295
+ },
+ "2021/01/pet-center.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/pet-center.webp",
+  "w": 295
+ },
+ "2021/01/pot-pan-organizer.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/pot-pan-organizer.webp",
+  "w": 295
+ },
+ "2021/01/pull-down-shelf.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/pull-down-shelf.webp",
+  "w": 295
+ },
+ "2021/01/super-susan-with-rail.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/super-susan-with-rail.webp",
+  "w": 295
+ },
+ "2021/01/tiered-drawer.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/tiered-drawer.webp",
+  "w": 295
+ },
+ "2021/01/utility-cabinet-with-drop-zone.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/utility-cabinet-with-drop-zone.webp",
+  "w": 295
+ },
+ "2021/01/utility-cabinet.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/utility-cabinet.webp",
+  "w": 295
+ },
+ "2021/01/wall-message-center.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/wall-message-center.webp",
+  "w": 295
+ },
+ "2021/01/wall-spice-pull-out.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/wall-spice-pull-out.webp",
+  "w": 295
+ },
+ "2021/01/wine-x-cabinet.jpg": {
+  "alt": "PowerPoint Presentation",
+  "h": 442,
+  "src": "/images/2021/01/wine-x-cabinet.webp",
+  "w": 295
+ },
+ "2021/02/021821.jpg": {
+  "alt": "A Minimalist Mandeville Kitchen Brought to Life",
+  "h": 563,
+  "src": "/images/2021/02/021821.webp",
+  "w": 1000
+ },
+ "2021/02/021821b.jpg": {
+  "alt": "A Minimalist Mandeville Kitchen Brought to Life",
+  "h": 675,
+  "src": "/images/2021/02/021821b.webp",
+  "w": 1200
+ },
+ "2021/02/1mls.jpg": {
+  "alt": "Minimalist kitchen project photo",
+  "h": 800,
+  "src": "/images/2021/02/1mls.webp",
+  "w": 1200
+ },
+ "2021/02/1mls.jpg#hero": {
+  "alt": "Minimalist",
+  "h": 1000,
+  "src": "/images/2021/02/1mls-hero.webp",
+  "w": 1500
+ },
+ "2021/02/2mls.jpg": {
+  "alt": "Minimalist kitchen project photo",
+  "h": 1500,
+  "src": "/images/2021/02/2mls.webp",
+  "w": 1001
+ },
+ "2021/02/3mls.jpg": {
+  "alt": "Minimalist kitchen project photo",
+  "h": 800,
+  "src": "/images/2021/02/3mls.webp",
+  "w": 1200
+ },
+ "2021/02/4mls.jpg": {
+  "alt": "White kitchen with pendant lights and a blue runner rug",
+  "h": 799,
+  "src": "/images/2021/02/4mls.webp",
+  "w": 1200
+ },
+ "2021/02/5mls.jpg": {
+  "alt": "Minimalist kitchen project photo",
+  "h": 801,
+  "src": "/images/2021/02/5mls.webp",
+  "w": 1200
+ },
+ "2021/02/6mls.jpg": {
+  "alt": "Minimalist kitchen project photo",
+  "h": 801,
+  "src": "/images/2021/02/6mls.webp",
+  "w": 1200
+ },
+ "2021/02/7mls.jpg": {
+  "alt": "Minimalist kitchen project photo",
+  "h": 1500,
+  "src": "/images/2021/02/7mls.webp",
+  "w": 1001
+ },
+ "2021/02/8mls.jpg": {
+  "alt": "Minimalist kitchen project photo",
+  "h": 1500,
+  "src": "/images/2021/02/8mls.webp",
+  "w": 999
+ },
+ "2021/02/9mls.jpg": {
+  "alt": "A Minimalist Mandeville Kitchen Brought to Life",
+  "h": 802,
+  "src": "/images/2021/02/9mls.webp",
+  "w": 1200
+ },
+ "2021/03/IMG-3375.jpg": {
+  "alt": "Southshore Kitchen Remodeling",
+  "h": 742,
+  "src": "/images/2021/03/IMG-3375.webp",
+  "w": 1000
+ },
+ "2021/03/step-1-visit-a-showroom.png": {
+  "alt": "Step visit a showroom",
+  "h": 180,
+  "src": "/images/2021/03/step-1-visit-a-showroom.webp",
+  "w": 180
+ },
+ "2021/04/033121a.jpg#hero": {
+  "alt": "A Downsized Dream Kitchen in Metairie",
+  "h": 450,
+  "src": "/images/2021/04/033121a-hero.webp",
+  "w": 800
+ },
+ "2021/04/033121b.jpg": {
+  "alt": "A Downsized Dream Kitchen in Metairie",
+  "h": 450,
+  "src": "/images/2021/04/033121b.webp",
+  "w": 800
+ },
+ "2021/04/033121c.jpg": {
+  "alt": "A Downsized Dream Kitchen in Metairie",
+  "h": 450,
+  "src": "/images/2021/04/033121c.webp",
+  "w": 800
+ },
+ "2021/04/033121d.jpg": {
+  "alt": "A Downsized Dream Kitchen in Metairie",
+  "h": 450,
+  "src": "/images/2021/04/033121d.webp",
+  "w": 800
+ },
+ "2021/04/041921b.jpg": {
+  "alt": "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!",
+  "h": 1080,
+  "src": "/images/2021/04/041921b.webp",
+  "w": 1080
+ },
+ "2021/04/041921c.jpg": {
+  "alt": "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!",
+  "h": 1080,
+  "src": "/images/2021/04/041921c.webp",
+  "w": 1080
+ },
+ "2021/04/041921d.jpg": {
+  "alt": "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!",
+  "h": 1080,
+  "src": "/images/2021/04/041921d.webp",
+  "w": 1080
+ },
+ "2021/04/041921e.jpg": {
+  "alt": "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!",
+  "h": 1080,
+  "src": "/images/2021/04/041921e.webp",
+  "w": 1080
+ },
+ "2021/04/041921f.jpg": {
+  "alt": "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!",
+  "h": 600,
+  "src": "/images/2021/04/041921f.webp",
+  "w": 600
+ },
+ "2021/04/Closet_Slider3.jpg": {
+  "alt": "Closets & Home Organization Solutions",
+  "h": 510,
+  "src": "/images/2021/04/Closet_Slider3.webp",
+  "w": 620
+ },
+ "2021/04/Closet_Slider4.jpg": {
+  "alt": "Closets & Home Organization Solutions",
+  "h": 510,
+  "src": "/images/2021/04/Closet_Slider4.webp",
+  "w": 620
+ },
+ "2021/04/Closet_Slider5.jpg": {
+  "alt": "Closets & Home Organization Solutions",
+  "h": 510,
+  "src": "/images/2021/04/Closet_Slider5.webp",
+  "w": 620
+ },
+ "2021/04/Closet_Slider6.jpg": {
+  "alt": "Closets & Home Organization Solutions",
+  "h": 510,
+  "src": "/images/2021/04/Closet_Slider6.webp",
+  "w": 620
+ },
+ "2021/04/Shoe_Shrine_1.jpg": {
+  "alt": "Closet shoe wall with cubbies full of shoes",
+  "h": 413,
+  "src": "/images/2021/04/Shoe_Shrine_1.webp",
+  "w": 620
+ },
+ "2021/04/Shoe_Shrine_2.jpg": {
+  "alt": "Floor-to-ceiling shoe storage wall",
+  "h": 413,
+  "src": "/images/2021/04/Shoe_Shrine_2.webp",
+  "w": 620
+ },
+ "2021/04/remodeling-checklist-pop-up-design.jpg": {
+  "alt": "Remodeling-checklist-pop-up-design",
+  "h": 600,
+  "src": "/images/2021/04/remodeling-checklist-pop-up-design.webp",
+  "w": 750
+ },
+ "2021/05/050721a.jpg": {
+  "alt": "Kitchen with grey cabinets and a white island",
+  "h": 534,
+  "src": "/images/2021/05/050721a.webp",
+  "w": 800
+ },
+ "2021/05/052121a.jpg#hero": {
+  "alt": "A White Kitchen Done Right in Abita Springs",
+  "h": 563,
+  "src": "/images/2021/05/052121a-hero.webp",
+  "w": 1000
+ },
+ "2021/05/052121b.jpg": {
+  "alt": "A White Kitchen Done Right in Abita Springs",
+  "h": 563,
+  "src": "/images/2021/05/052121b.webp",
+  "w": 1000
+ },
+ "2021/05/052121c.jpg": {
+  "alt": "A White Kitchen Done Right in Abita Springs",
+  "h": 563,
+  "src": "/images/2021/05/052121c.webp",
+  "w": 1000
+ },
+ "2021/05/052121d.jpg": {
+  "alt": "A White Kitchen Done Right in Abita Springs",
+  "h": 563,
+  "src": "/images/2021/05/052121d.webp",
+  "w": 1000
+ },
+ "2021/05/10mls-1.jpg": {
+  "alt": "Shaker kitchen remodel in Abita Springs LA",
+  "h": 801,
+  "src": "/images/2021/05/10mls-1.webp",
+  "w": 1200
+ },
+ "2021/05/10mls-1.jpg#hero": {
+  "alt": "Shaker kitchen remodel in Abita Springs LA",
+  "h": 1001,
+  "src": "/images/2021/05/10mls-1-hero.webp",
+  "w": 1500
+ },
+ "2021/05/10mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 801,
+  "src": "/images/2021/05/10mls.webp",
+  "w": 1200
+ },
+ "2021/05/11mls-1.jpg": {
+  "alt": "White Done Right kitchen project photo",
+  "h": 799,
+  "src": "/images/2021/05/11mls-1.webp",
+  "w": 1200
+ },
+ "2021/05/11mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 801,
+  "src": "/images/2021/05/11mls.webp",
+  "w": 1200
+ },
+ "2021/05/1mls-1.jpg": {
+  "alt": "Beautiful white painted shaker kitchen with glass doors",
+  "h": 800,
+  "src": "/images/2021/05/1mls-1.webp",
+  "w": 1200
+ },
+ "2021/05/1mls.jpg": {
+  "alt": "Open for Entertaining kitchen",
+  "h": 800,
+  "src": "/images/2021/05/1mls.webp",
+  "w": 1200
+ },
+ "2021/05/2mls-1.jpg": {
+  "alt": "Metal hood in white kitchen",
+  "h": 1500,
+  "src": "/images/2021/05/2mls-1.webp",
+  "w": 1002
+ },
+ "2021/05/2mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 802,
+  "src": "/images/2021/05/2mls.webp",
+  "w": 1200
+ },
+ "2021/05/2mls.jpg#hero": {
+  "alt": "Open for Entertaining",
+  "h": 1002,
+  "src": "/images/2021/05/2mls-hero.webp",
+  "w": 1500
+ },
+ "2021/05/3mls-1.jpg": {
+  "alt": "Clean white painted shaker cabinets with island",
+  "h": 799,
+  "src": "/images/2021/05/3mls-1.webp",
+  "w": 1200
+ },
+ "2021/05/3mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 799,
+  "src": "/images/2021/05/3mls.webp",
+  "w": 1200
+ },
+ "2021/05/4mls-1.jpg": {
+  "alt": "White painted shaker kitchen with stainless appliances",
+  "h": 800,
+  "src": "/images/2021/05/4mls-1.webp",
+  "w": 1200
+ },
+ "2021/05/4mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 1500,
+  "src": "/images/2021/05/4mls.webp",
+  "w": 999
+ },
+ "2021/05/5mls-1.jpg": {
+  "alt": "Copper farm sink with green veining with white countertop",
+  "h": 802,
+  "src": "/images/2021/05/5mls-1.webp",
+  "w": 1200
+ },
+ "2021/05/5mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 800,
+  "src": "/images/2021/05/5mls.webp",
+  "w": 1200
+ },
+ "2021/05/6mls-1.jpg": {
+  "alt": "White Shaker kitchen cabinets with glass doors",
+  "h": 1500,
+  "src": "/images/2021/05/6mls-1.webp",
+  "w": 999
+ },
+ "2021/05/6mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 800,
+  "src": "/images/2021/05/6mls.webp",
+  "w": 1200
+ },
+ "2021/05/7mls-1.jpg": {
+  "alt": "White painted newly renovated kitchen",
+  "h": 1500,
+  "src": "/images/2021/05/7mls-1.webp",
+  "w": 1000
+ },
+ "2021/05/7mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 801,
+  "src": "/images/2021/05/7mls.webp",
+  "w": 1200
+ },
+ "2021/05/8mls-1.jpg": {
+  "alt": "Closeup of cutlery drawer in a shaker kitchen",
+  "h": 799,
+  "src": "/images/2021/05/8mls-1.webp",
+  "w": 1200
+ },
+ "2021/05/8mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 1500,
+  "src": "/images/2021/05/8mls.webp",
+  "w": 1000
+ },
+ "2021/05/9mls-1.jpg": {
+  "alt": "Smart storage in a base corner white shaker cabinet",
+  "h": 1500,
+  "src": "/images/2021/05/9mls-1.webp",
+  "w": 1000
+ },
+ "2021/05/9mls.jpg": {
+  "alt": "Open for Entertaining kitchen project photo",
+  "h": 1500,
+  "src": "/images/2021/05/9mls.webp",
+  "w": 1002
+ },
+ "2021/05/singer-cabinets-mandeville.jpg": {
+  "alt": "White shaker cabinets with a farmhouse sink and brick-look backsplash",
+  "h": 801,
+  "src": "/images/2021/05/singer-cabinets-mandeville.webp",
+  "w": 1200
+ },
+ "2021/05/singer-cabinets-mandeville.jpg#hero": {
+  "alt": "White shaker cabinets with a farmhouse sink and brick-look backsplash",
+  "h": 1068,
+  "src": "/images/2021/05/singer-cabinets-mandeville-hero.webp",
+  "w": 1600
+ },
+ "2021/06/060921b.jpg": {
+  "alt": "Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+  "h": 1080,
+  "src": "/images/2021/06/060921b.webp",
+  "w": 1080
+ },
+ "2021/06/061421.jpg#hero": {
+  "alt": "Don\u2019t Wait! Start on Your Holiday Remodel Today!",
+  "h": 484,
+  "src": "/images/2021/06/061421-hero.webp",
+  "w": 800
+ },
+ "2021/07/Holly-1.jpg": {
+  "alt": "Closets & Home Organization Solutions",
+  "h": 1000,
+  "src": "/images/2021/07/Holly-1.webp",
+  "w": 750
+ },
+ "2021/07/IMG_1979.jpg": {
+  "alt": "Closets & Home Organization Solutions",
+  "h": 1000,
+  "src": "/images/2021/07/IMG_1979.webp",
+  "w": 750
+ },
+ "2021/08/072721.jpg#hero": {
+  "alt": "An Entertainer & Boater\u2019s Dream Kitchen in Slidell",
+  "h": 450,
+  "src": "/images/2021/08/072721-hero.webp",
+  "w": 800
+ },
+ "2021/08/072721b.jpg": {
+  "alt": "An Entertainer & Boater\u2019s Dream Kitchen in Slidell",
+  "h": 450,
+  "src": "/images/2021/08/072721b.webp",
+  "w": 800
+ },
+ "2021/08/072721c.jpg": {
+  "alt": "An Entertainer & Boater\u2019s Dream Kitchen in Slidell",
+  "h": 450,
+  "src": "/images/2021/08/072721c.webp",
+  "w": 800
+ },
+ "2021/08/10mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 685,
+  "src": "/images/2021/08/10mls.webp",
+  "w": 1024
+ },
+ "2021/08/11mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 1024,
+  "src": "/images/2021/08/11mls.webp",
+  "w": 683
+ },
+ "2021/08/12mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/12mls.webp",
+  "w": 1024
+ },
+ "2021/08/13mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 1024,
+  "src": "/images/2021/08/13mls.webp",
+  "w": 683
+ },
+ "2021/08/14mls-1.jpg": {
+  "alt": "Laundry room with stacked storage above the washer and dryer",
+  "h": 683,
+  "src": "/images/2021/08/14mls-1.webp",
+  "w": 1024
+ },
+ "2021/08/14mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/14mls.webp",
+  "w": 1024
+ },
+ "2021/08/15mls-1.jpg": {
+  "alt": "Not Ready for a Full Renovation? You'll Want to See This. kitchen project photo",
+  "h": 1024,
+  "src": "/images/2021/08/15mls-1.webp",
+  "w": 683
+ },
+ "2021/08/15mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 1024,
+  "src": "/images/2021/08/15mls.webp",
+  "w": 683
+ },
+ "2021/08/16mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/16mls.webp",
+  "w": 1024
+ },
+ "2021/08/17mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 1024,
+  "src": "/images/2021/08/17mls.webp",
+  "w": 683
+ },
+ "2021/08/18mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/18mls.webp",
+  "w": 1024
+ },
+ "2021/08/19mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/19mls.webp",
+  "w": 1024
+ },
+ "2021/08/1mls-1.jpg#hero": {
+  "alt": "New Construction Contemporary",
+  "h": 683,
+  "src": "/images/2021/08/1mls-1-hero.webp",
+  "w": 1024
+ },
+ "2021/08/1mls-2.jpg": {
+  "alt": "Kitchen with a long island, white stools and a mosaic range wall",
+  "h": 683,
+  "src": "/images/2021/08/1mls-2.webp",
+  "w": 1024
+ },
+ "2021/08/1mls-2.jpg#hero": {
+  "alt": "Kitchen with a long island, white stools and a mosaic range wall",
+  "h": 683,
+  "src": "/images/2021/08/1mls-2-hero.webp",
+  "w": 1024
+ },
+ "2021/08/1mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/1mls.webp",
+  "w": 1024
+ },
+ "2021/08/20mls-1.jpg": {
+  "alt": "Not Ready for a Full Renovation? You'll Want to See This. kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/20mls-1.webp",
+  "w": 1024
+ },
+ "2021/08/20mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/20mls.webp",
+  "w": 1024
+ },
+ "2021/08/2mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/2mls.webp",
+  "w": 1024
+ },
+ "2021/08/3mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/3mls.webp",
+  "w": 1024
+ },
+ "2021/08/4mls.jpg": {
+  "alt": "Open kitchen and living room with a long island and lake views",
+  "h": 683,
+  "src": "/images/2021/08/4mls.webp",
+  "w": 1024
+ },
+ "2021/08/4mls.jpg#hero": {
+  "alt": "Open kitchen and living room with a long island and lake views",
+  "h": 683,
+  "src": "/images/2021/08/4mls-hero.webp",
+  "w": 1024
+ },
+ "2021/08/5mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/5mls.webp",
+  "w": 1024
+ },
+ "2021/08/6mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/6mls.webp",
+  "w": 1024
+ },
+ "2021/08/7mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/7mls.webp",
+  "w": 1024
+ },
+ "2021/08/8mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 683,
+  "src": "/images/2021/08/8mls.webp",
+  "w": 1024
+ },
+ "2021/08/9mls.jpg": {
+  "alt": "New Construction Contemporary kitchen project photo",
+  "h": 682,
+  "src": "/images/2021/08/9mls.webp",
+  "w": 1024
+ },
+ "2021/09/Closets-Page.png#hero": {
+  "alt": "Closet systems with shoe storage and hanging space",
+  "h": 400,
+  "src": "/images/2021/09/Closets-Page-hero.webp",
+  "w": 1200
+ },
+ "2021/09/Remodeling-Page.png#hero": {
+  "alt": "Kitchen with a long island, white stools and a mosaic range wall",
+  "h": 400,
+  "src": "/images/2021/09/Remodeling-Page-hero.webp",
+  "w": 1200
+ },
+ "2021/10/countertop-photo-b.jpg": {
+  "alt": "Countertop and cabinet finish samples",
+  "h": 369,
+  "src": "/images/2021/10/countertop-photo-b.webp",
+  "w": 369
+ },
+ "2021/10/countertop-photo-d.jpg": {
+  "alt": "Pop-up power outlet in a quartz countertop",
+  "h": 802,
+  "src": "/images/2021/10/countertop-photo-d.webp",
+  "w": 1200
+ },
+ "2021/10/countertop-photo-f.jpg": {
+  "alt": "White kitchen with a granite island and white pendants",
+  "h": 342,
+  "src": "/images/2021/10/countertop-photo-f.webp",
+  "w": 512
+ },
+ "2021/11/110321.jpg#hero": {
+  "alt": "4 Ways To Find The Perfect New Orleans Kitchen Cabinets",
+  "h": 513,
+  "src": "/images/2021/11/110321-hero.webp",
+  "w": 768
+ },
+ "2021/12/012022.jpg#hero": {
+  "alt": "Your Vision. Our Expertise.",
+  "h": 350,
+  "src": "/images/2021/12/012022-hero.webp",
+  "w": 527
+ },
+ "2022/01/013122.jpg#hero": {
+  "alt": "Accomplish Your New Year's Resolutions In The Kitchen",
+  "h": 394,
+  "src": "/images/2022/01/013122-hero.webp",
+  "w": 700
+ },
+ "2022/02/10mls-1.jpg#hero": {
+  "alt": "Historical New Orleans Kitchen Renovation",
+  "h": 1001,
+  "src": "/images/2022/02/10mls-1-hero.webp",
+  "w": 1500
+ },
+ "2022/02/10mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/10mls.webp",
+  "w": 900
+ },
+ "2022/02/11mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 599,
+  "src": "/images/2022/02/11mls.webp",
+  "w": 900
+ },
+ "2022/02/12mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/12mls.webp",
+  "w": 900
+ },
+ "2022/02/13mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/13mls.webp",
+  "w": 600
+ },
+ "2022/02/14mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/14mls.webp",
+  "w": 900
+ },
+ "2022/02/15mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 601,
+  "src": "/images/2022/02/15mls.webp",
+  "w": 900
+ },
+ "2022/02/16mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/16mls.webp",
+  "w": 601
+ },
+ "2022/02/17mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/17mls.webp",
+  "w": 600
+ },
+ "2022/02/18mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/18mls.webp",
+  "w": 600
+ },
+ "2022/02/19mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/19mls.webp",
+  "w": 600
+ },
+ "2022/02/1mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/1mls.webp",
+  "w": 600
+ },
+ "2022/02/20mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/20mls.webp",
+  "w": 900
+ },
+ "2022/02/21mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/21mls.webp",
+  "w": 600
+ },
+ "2022/02/22mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/22mls.webp",
+  "w": 900
+ },
+ "2022/02/23mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen",
+  "h": 600,
+  "src": "/images/2022/02/23mls.webp",
+  "w": 900
+ },
+ "2022/02/23mls.jpg#hero": {
+  "alt": "Preserving A Rich History in a New Orleans Kitchen",
+  "h": 600,
+  "src": "/images/2022/02/23mls-hero.webp",
+  "w": 900
+ },
+ "2022/02/2mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/2mls.webp",
+  "w": 600
+ },
+ "2022/02/3mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 900,
+  "src": "/images/2022/02/3mls.webp",
+  "w": 600
+ },
+ "2022/02/410_Audob3.jpg": {
+  "alt": "Preserving A Rich History in a New Orleans Kitchen",
+  "h": 800,
+  "src": "/images/2022/02/410_Audob3.webp",
+  "w": 600
+ },
+ "2022/02/410_Audob4.jpg": {
+  "alt": "Preserving A Rich History in a New Orleans Kitchen",
+  "h": 800,
+  "src": "/images/2022/02/410_Audob4.webp",
+  "w": 600
+ },
+ "2022/02/410_Audob5.jpg": {
+  "alt": "Preserving A Rich History in a New Orleans Kitchen",
+  "h": 600,
+  "src": "/images/2022/02/410_Audob5.webp",
+  "w": 800
+ },
+ "2022/02/4mls.jpg": {
+  "alt": "Kitchen with a wood-topped island, brick wall and harlequin floor",
+  "h": 599,
+  "src": "/images/2022/02/4mls.webp",
+  "w": 900
+ },
+ "2022/02/4mls.jpg#hero": {
+  "alt": "Kitchen with a wood-topped island, brick wall and harlequin floor",
+  "h": 599,
+  "src": "/images/2022/02/4mls-hero.webp",
+  "w": 900
+ },
+ "2022/02/5mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/5mls.webp",
+  "w": 900
+ },
+ "2022/02/6mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/6mls.webp",
+  "w": 900
+ },
+ "2022/02/7mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/7mls.webp",
+  "w": 900
+ },
+ "2022/02/8mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/8mls.webp",
+  "w": 900
+ },
+ "2022/02/9mls.jpg": {
+  "alt": "Historical New Orleans Kitchen Renovation kitchen project photo",
+  "h": 600,
+  "src": "/images/2022/02/9mls.webp",
+  "w": 900
+ },
+ "2022/02/IMG_54331.jpg": {
+  "alt": "Preserving A Rich History in a New Orleans Kitchen",
+  "h": 480,
+  "src": "/images/2022/02/IMG_54331.webp",
+  "w": 640
+ },
+ "2022/02/IMG_54351.jpg": {
+  "alt": "Preserving A Rich History in a New Orleans Kitchen",
+  "h": 480,
+  "src": "/images/2022/02/IMG_54351.webp",
+  "w": 640
+ },
+ "2022/02/IMG_54361.jpg": {
+  "alt": "Preserving A Rich History in a New Orleans Kitchen",
+  "h": 640,
+  "src": "/images/2022/02/IMG_54361.webp",
+  "w": 480
+ },
+ "2022/03/032322a.jpg#hero": {
+  "alt": "2022 Kitchen Design Trends You Won\u2019t Want to Miss",
+  "h": 394,
+  "src": "/images/2022/03/032322a-hero.webp",
+  "w": 700
+ },
+ "2022/04/041822a.jpg": {
+  "alt": "How to Design a Kitchen That Stands the Test of Time",
+  "h": 800,
+  "src": "/images/2022/04/041822a.webp",
+  "w": 1200
+ },
+ "2022/04/1mls.jpg": {
+  "alt": "Transitional Cottage kitchen project photo",
+  "h": 800,
+  "src": "/images/2022/04/1mls.webp",
+  "w": 1200
+ },
+ "2022/04/1mls.jpg#hero": {
+  "alt": "Transitional Cottage",
+  "h": 1000,
+  "src": "/images/2022/04/1mls-hero.webp",
+  "w": 1500
+ },
+ "2022/04/2mls.jpg": {
+  "alt": "Transitional Cottage kitchen project photo",
+  "h": 801,
+  "src": "/images/2022/04/2mls.webp",
+  "w": 1200
+ },
+ "2022/04/3mls.jpg": {
+  "alt": "Transitional Cottage kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/04/3mls.webp",
+  "w": 1000
+ },
+ "2022/04/4mls.jpg": {
+  "alt": "Transitional Cottage kitchen project photo",
+  "h": 801,
+  "src": "/images/2022/04/4mls.webp",
+  "w": 1200
+ },
+ "2022/04/5mls.jpg": {
+  "alt": "Transitional Cottage kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/04/5mls.webp",
+  "w": 1000
+ },
+ "2022/04/Daco_44330901.png": {
+  "alt": "Home",
+  "h": 62,
+  "src": "/images/2022/04/Daco_44330901.webp",
+  "w": 1200
+ },
+ "2022/04/as-seen-on-2.png": {
+  "alt": "St. Charles Avenue magazine",
+  "h": 122,
+  "src": "/images/2022/04/as-seen-on-2.webp",
+  "w": 400
+ },
+ "2022/05/051022a.jpg#hero": {
+  "alt": "Singer Kitchens Islands That Will Inspire You: \u201cBest Of\u201d Edition",
+  "h": 450,
+  "src": "/images/2022/05/051022a-hero.webp",
+  "w": 800
+ },
+ "2022/05/051022b.jpg": {
+  "alt": "Singer Kitchens Islands That Will Inspire You: \u201cBest Of\u201d Edition",
+  "h": 534,
+  "src": "/images/2022/05/051022b.webp",
+  "w": 800
+ },
+ "2022/05/051022c.jpg": {
+  "alt": "Singer Kitchens Islands That Will Inspire You: \u201cBest Of\u201d Edition",
+  "h": 533,
+  "src": "/images/2022/05/051022c.webp",
+  "w": 800
+ },
+ "2022/05/051022d.jpg": {
+  "alt": "Singer Kitchens Islands That Will Inspire You: \u201cBest Of\u201d Edition",
+  "h": 534,
+  "src": "/images/2022/05/051022d.webp",
+  "w": 800
+ },
+ "2022/06/062422.jpg#hero": {
+  "alt": "Why Everybody Loves Vincent And You Will Too!",
+  "h": 450,
+  "src": "/images/2022/06/062422-hero.webp",
+  "w": 800
+ },
+ "2022/07/072922b.jpg": {
+  "alt": "Designer showing a kitchen drawing on screen to clients",
+  "h": 1000,
+  "src": "/images/2022/07/072922b.webp",
+  "w": 750
+ },
+ "2022/07/072922c.jpg": {
+  "alt": "Designer measuring a kitchen with homeowners",
+  "h": 1000,
+  "src": "/images/2022/07/072922c.webp",
+  "w": 750
+ },
+ "2022/07/072922d.jpg": {
+  "alt": "Collage of finished Singer Kitchens projects and clients",
+  "h": 438,
+  "src": "/images/2022/07/072922d.webp",
+  "w": 1138
+ },
+ "2022/08/1.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/1.webp",
+  "w": 1000
+ },
+ "2022/08/10.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 667,
+  "src": "/images/2022/08/10.webp",
+  "w": 1000
+ },
+ "2022/08/11.jpg": {
+  "alt": "Green with Kitchen Envy kitchen",
+  "h": 666,
+  "src": "/images/2022/08/11.webp",
+  "w": 1000
+ },
+ "2022/08/11.jpg#hero": {
+  "alt": "Green with Kitchen Envy",
+  "h": 666,
+  "src": "/images/2022/08/11-hero.webp",
+  "w": 1000
+ },
+ "2022/08/12.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/12.webp",
+  "w": 1000
+ },
+ "2022/08/13.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 1499,
+  "src": "/images/2022/08/13.webp",
+  "w": 1000
+ },
+ "2022/08/14.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/14.webp",
+  "w": 1000
+ },
+ "2022/08/15.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 1498,
+  "src": "/images/2022/08/15.webp",
+  "w": 1000
+ },
+ "2022/08/16.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/16.webp",
+  "w": 1000
+ },
+ "2022/08/17.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/17.webp",
+  "w": 1000
+ },
+ "2022/08/2.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 1499,
+  "src": "/images/2022/08/2.webp",
+  "w": 1000
+ },
+ "2022/08/20.jpg": {
+  "alt": "You'll be green with envy when you see this before & after kitchen",
+  "h": 666,
+  "src": "/images/2022/08/20.webp",
+  "w": 1000
+ },
+ "2022/08/21.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/21.webp",
+  "w": 1000
+ },
+ "2022/08/3.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 667,
+  "src": "/images/2022/08/3.webp",
+  "w": 1000
+ },
+ "2022/08/4.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/4.webp",
+  "w": 1000
+ },
+ "2022/08/5.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 1625,
+  "src": "/images/2022/08/5.webp",
+  "w": 1000
+ },
+ "2022/08/6.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/6.webp",
+  "w": 1000
+ },
+ "2022/08/7.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 1499,
+  "src": "/images/2022/08/7.webp",
+  "w": 1000
+ },
+ "2022/08/8.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 667,
+  "src": "/images/2022/08/8.webp",
+  "w": 1000
+ },
+ "2022/08/9.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/08/9.webp",
+  "w": 1000
+ },
+ "2022/08/IMG_2994.jpg": {
+  "alt": "Green with Kitchen Envy kitchen project photo",
+  "h": 480,
+  "src": "/images/2022/08/IMG_2994.webp",
+  "w": 360
+ },
+ "2022/08/IMG_3905.jpg": {
+  "alt": "You'll be green with envy when you see this before & after kitchen",
+  "h": 900,
+  "src": "/images/2022/08/IMG_3905.webp",
+  "w": 1200
+ },
+ "2022/08/IMG_5619.jpg": {
+  "alt": "You'll be green with envy when you see this before & after kitchen",
+  "h": 1024,
+  "src": "/images/2022/08/IMG_5619.webp",
+  "w": 768
+ },
+ "2022/08/IMG_6122.jpg#hero": {
+  "alt": "You'll be green with envy when you see this before & after kitchen",
+  "h": 320,
+  "src": "/images/2022/08/IMG_6122-hero.webp",
+  "w": 240
+ },
+ "2022/08/IMG_7872.jpg": {
+  "alt": "You'll be green with envy when you see this before & after kitchen",
+  "h": 1600,
+  "src": "/images/2022/08/IMG_7872.webp",
+  "w": 1200
+ },
+ "2022/08/IMG_8010.jpg": {
+  "alt": "You'll be green with envy when you see this before & after kitchen",
+  "h": 900,
+  "src": "/images/2022/08/IMG_8010.webp",
+  "w": 1200
+ },
+ "2022/09/1.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen",
+  "h": 666,
+  "src": "/images/2022/09/1.webp",
+  "w": 1000
+ },
+ "2022/09/1.jpg#hero": {
+  "alt": "Chef\u2019s Kitchen",
+  "h": 666,
+  "src": "/images/2022/09/1-hero.webp",
+  "w": 1000
+ },
+ "2022/09/10.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 667,
+  "src": "/images/2022/09/10.webp",
+  "w": 1000
+ },
+ "2022/09/2.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/09/2.webp",
+  "w": 1000
+ },
+ "2022/09/3.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/09/3.webp",
+  "w": 1000
+ },
+ "2022/09/4.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/09/4.webp",
+  "w": 1000
+ },
+ "2022/09/5.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/09/5.webp",
+  "w": 1000
+ },
+ "2022/09/6.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/09/6.webp",
+  "w": 1000
+ },
+ "2022/09/7.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 667,
+  "src": "/images/2022/09/7.webp",
+  "w": 1000
+ },
+ "2022/09/8.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/09/8.webp",
+  "w": 1000
+ },
+ "2022/09/9.jpg": {
+  "alt": "Chef\u2019s Kitchen kitchen project photo",
+  "h": 666,
+  "src": "/images/2022/09/9.webp",
+  "w": 1000
+ },
+ "2022/09/before.jpg": {
+  "alt": "Before",
+  "h": 320,
+  "src": "/images/2022/09/before.webp",
+  "w": 240
+ },
+ "2022/09/inside-no.jpg": {
+  "alt": "Inside New Orleans magazine",
+  "h": 114,
+  "src": "/images/2022/09/inside-no.webp",
+  "w": 442
+ },
+ "2022/10/10mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/10mls.webp",
+  "w": 998
+ },
+ "2022/10/11mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/11mls.webp",
+  "w": 999
+ },
+ "2022/10/12mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/12mls.webp",
+  "w": 1000
+ },
+ "2022/10/13mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 800,
+  "src": "/images/2022/10/13mls.webp",
+  "w": 1200
+ },
+ "2022/10/13mls.jpg#hero": {
+  "alt": "Great renovations often start with small details (like kitchen hardware)",
+  "h": 1000,
+  "src": "/images/2022/10/13mls-hero.webp",
+  "w": 1500
+ },
+ "2022/10/14mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 800,
+  "src": "/images/2022/10/14mls.webp",
+  "w": 1200
+ },
+ "2022/10/15mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 800,
+  "src": "/images/2022/10/15mls.webp",
+  "w": 1200
+ },
+ "2022/10/16mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 800,
+  "src": "/images/2022/10/16mls.webp",
+  "w": 1200
+ },
+ "2022/10/17mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/17mls.webp",
+  "w": 1000
+ },
+ "2022/10/18mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/18mls.webp",
+  "w": 1000
+ },
+ "2022/10/19mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/19mls.webp",
+  "w": 1000
+ },
+ "2022/10/1mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 800,
+  "src": "/images/2022/10/1mls.webp",
+  "w": 1200
+ },
+ "2022/10/2mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 798,
+  "src": "/images/2022/10/2mls.webp",
+  "w": 1200
+ },
+ "2022/10/3mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/3mls.webp",
+  "w": 1001
+ },
+ "2022/10/4mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 1500,
+  "src": "/images/2022/10/4mls.webp",
+  "w": 1001
+ },
+ "2022/10/5mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 799,
+  "src": "/images/2022/10/5mls.webp",
+  "w": 1200
+ },
+ "2022/10/6mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 802,
+  "src": "/images/2022/10/6mls.webp",
+  "w": 1200
+ },
+ "2022/10/7mls.jpg": {
+  "alt": "Elegant Living kitchen",
+  "h": 799,
+  "src": "/images/2022/10/7mls.webp",
+  "w": 1200
+ },
+ "2022/10/7mls.jpg#hero": {
+  "alt": "Elegant Living",
+  "h": 999,
+  "src": "/images/2022/10/7mls-hero.webp",
+  "w": 1500
+ },
+ "2022/10/8mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 798,
+  "src": "/images/2022/10/8mls.webp",
+  "w": 1200
+ },
+ "2022/10/9mls.jpg": {
+  "alt": "Elegant Living kitchen project photo",
+  "h": 800,
+  "src": "/images/2022/10/9mls.webp",
+  "w": 1200
+ },
+ "2022/10/rb-1-rotated.jpg": {
+  "alt": "Rb rotated",
+  "h": 320,
+  "src": "/images/2022/10/rb-1-rotated.webp",
+  "w": 240
+ },
+ "2022/10/rb-2-rotated.jpg": {
+  "alt": "Rb rotated",
+  "h": 320,
+  "src": "/images/2022/10/rb-2-rotated.webp",
+  "w": 240
+ },
+ "2022/10/rb-3-rotated.jpg": {
+  "alt": "Rb rotated",
+  "h": 320,
+  "src": "/images/2022/10/rb-3-rotated.webp",
+  "w": 240
+ },
+ "2022/10/rb-4-rotated.jpg": {
+  "alt": "Rb rotated",
+  "h": 320,
+  "src": "/images/2022/10/rb-4-rotated.webp",
+  "w": 240
+ },
+ "2022/10/rb-5-rotated.jpg": {
+  "alt": "Rb rotated",
+  "h": 320,
+  "src": "/images/2022/10/rb-5-rotated.webp",
+  "w": 240
+ },
+ "2023/01/IMG_0086.jpg": {
+  "alt": "Stacked Cabinets: Where Practicality Meets Style",
+  "h": 563,
+  "src": "/images/2023/01/IMG_0086.webp",
+  "w": 1000
+ },
+ "2023/01/IMG_0087.jpg": {
+  "alt": "Stacked Cabinets: Where Practicality Meets Style",
+  "h": 563,
+  "src": "/images/2023/01/IMG_0087.webp",
+  "w": 1000
+ },
+ "2023/01/IMG_0087.jpg#hero": {
+  "alt": "Stacked Cabinets: Where Practicality Meets Style",
+  "h": 563,
+  "src": "/images/2023/01/IMG_0087-hero.webp",
+  "w": 1000
+ },
+ "2023/01/IMG_0088.jpg": {
+  "alt": "Stacked Cabinets: Where Practicality Meets Style",
+  "h": 666,
+  "src": "/images/2023/01/IMG_0088.webp",
+  "w": 1000
+ },
+ "2023/01/IMG_0089.jpg": {
+  "alt": "Stacked Cabinets: Where Practicality Meets Style",
+  "h": 666,
+  "src": "/images/2023/01/IMG_0089.webp",
+  "w": 1000
+ },
+ "2023/01/IMG_0090.jpg": {
+  "alt": "Stacked Cabinets: Where Practicality Meets Style",
+  "h": 666,
+  "src": "/images/2023/01/IMG_0090.webp",
+  "w": 1000
+ },
+ "2023/01/Man_RGB_Black.png": {
+  "alt": "Mantra cabinetry logo",
+  "h": 172,
+  "src": "/images/2023/01/Man_RGB_Black.webp",
+  "w": 1200
+ },
+ "2023/02/IMG_0257.jpg": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 666,
+  "src": "/images/2023/02/IMG_0257.webp",
+  "w": 1000
+ },
+ "2023/02/IMG_0259.jpg": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 666,
+  "src": "/images/2023/02/IMG_0259.webp",
+  "w": 1000
+ },
+ "2023/02/IMG_0260.jpg": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 666,
+  "src": "/images/2023/02/IMG_0260.webp",
+  "w": 1000
+ },
+ "2023/02/IMG_0261.jpg": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 666,
+  "src": "/images/2023/02/IMG_0261.webp",
+  "w": 1000
+ },
+ "2023/02/IMG_0263.jpg": {
+  "alt": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "h": 683,
+  "src": "/images/2023/02/IMG_0263.webp",
+  "w": 1024
+ },
+ "2023/03/1mls.jpg": {
+  "alt": "Transitional Cottage kitchen",
+  "h": 800,
+  "src": "/images/2023/03/1mls.webp",
+  "w": 1200
+ },
+ "2023/03/2ndMailerPic2.jpg": {
+  "alt": "Kitchen Accessory Giveaway",
+  "h": 801,
+  "src": "/images/2023/03/2ndMailerPic2.webp",
+  "w": 1200
+ },
+ "2023/03/3.DeepRollTraysMDv.S.png": {
+  "alt": "Kitchen Accessory Giveaway",
+  "h": 400,
+  "src": "/images/2023/03/3.DeepRollTraysMDv.S.webp",
+  "w": 600
+ },
+ "2023/03/3.DeepRollTraysPantryMCld.S.png": {
+  "alt": "Kitchen Accessory Giveaway",
+  "h": 800,
+  "src": "/images/2023/03/3.DeepRollTraysPantryMCld.S.webp",
+  "w": 600
+ },
+ "2023/03/43CD0B42-FA79-4A25-AAF0-DD09E69156B9-scaled-1.jpg#hero": {
+  "alt": "A Mardi Gras in Mandeville",
+  "h": 563,
+  "src": "/images/2023/03/43CD0B42-FA79-4A25-AAF0-DD09E69156B9-scaled-1-hero.webp",
+  "w": 1000
+ },
+ "2023/03/43CD0B42-FA79-4A25-AAF0-DD09E69156B9.jpeg": {
+  "alt": "A Mardi Gras in Mandeville",
+  "h": 675,
+  "src": "/images/2023/03/43CD0B42-FA79-4A25-AAF0-DD09E69156B9.webp",
+  "w": 1200
+ },
+ "2023/03/5.BaseCrnrCurvedMIcy.S5.png": {
+  "alt": "Kitchen Accessory Giveaway",
+  "h": 809,
+  "src": "/images/2023/03/5.BaseCrnrCurvedMIcy.S5.webp",
+  "w": 600
+ },
+ "2023/03/8B51C147-D653-4DAE-8535-0C857A66FAE4.jpeg": {
+  "alt": "A Mardi Gras in Mandeville",
+  "h": 1827,
+  "src": "/images/2023/03/8B51C147-D653-4DAE-8535-0C857A66FAE4.webp",
+  "w": 1200
+ },
+ "2023/03/A1F38901-D1BE-49CB-B388-786B14EB43DB.jpeg": {
+  "alt": "A Mardi Gras in Mandeville",
+  "h": 675,
+  "src": "/images/2023/03/A1F38901-D1BE-49CB-B388-786B14EB43DB.webp",
+  "w": 1200
+ },
+ "2023/03/Aimee_D.png": {
+  "alt": "Aimee_D",
+  "h": 88,
+  "src": "/images/2023/03/Aimee_D.webp",
+  "w": 90
+ },
+ "2023/03/B09DF124-383C-44D6-A5BD-75480ECFF579.jpeg": {
+  "alt": "A Mardi Gras in Mandeville",
+  "h": 675,
+  "src": "/images/2023/03/B09DF124-383C-44D6-A5BD-75480ECFF579.webp",
+  "w": 1200
+ },
+ "2023/03/BasePantryPullout_Gunthe.CH_.Bdk_S.png": {
+  "alt": "BasePantryPullout_Gunthe.CH.Bdk_S",
+  "h": 450,
+  "src": "/images/2023/03/BasePantryPullout_Gunthe.CH_.Bdk_S.webp",
+  "w": 600
+ },
+ "2023/03/Cheryl_M.png": {
+  "alt": "Cheryl_M",
+  "h": 90,
+  "src": "/images/2023/03/Cheryl_M.webp",
+  "w": 90
+ },
+ "2023/03/Rachel_pic2.png": {
+  "alt": "Rachel pic2",
+  "h": 90,
+  "src": "/images/2023/03/Rachel_pic2.webp",
+  "w": 90
+ },
+ "2023/04/singer-kitchens_2.jpg": {
+  "alt": "Singer kitchens_2",
+  "h": 1080,
+  "src": "/images/2023/04/singer-kitchens_2.webp",
+  "w": 1080
+ },
+ "2023/06/IMG_0729.jpeg": {
+  "alt": "Creating a (Kitchen) Island Paradise",
+  "h": 534,
+  "src": "/images/2023/06/IMG_0729.webp",
+  "w": 800
+ },
+ "2023/06/IMG_0729.jpeg#hero": {
+  "alt": "Creating a (Kitchen) Island Paradise",
+  "h": 534,
+  "src": "/images/2023/06/IMG_0729-hero.webp",
+  "w": 800
+ },
+ "2023/06/IMG_0731.jpeg": {
+  "alt": "Creating a (Kitchen) Island Paradise",
+  "h": 666,
+  "src": "/images/2023/06/IMG_0731.webp",
+  "w": 1000
+ },
+ "2023/06/IMG_0732.jpeg": {
+  "alt": "Creating a (Kitchen) Island Paradise",
+  "h": 715,
+  "src": "/images/2023/06/IMG_0732.webp",
+  "w": 1200
+ },
+ "2023/06/IMG_0733.jpeg": {
+  "alt": "Creating a (Kitchen) Island Paradise",
+  "h": 1372,
+  "src": "/images/2023/06/IMG_0733.webp",
+  "w": 916
+ },
+ "2023/06/IMG_0734.jpeg": {
+  "alt": "Creating a (Kitchen) Island Paradise",
+  "h": 763,
+  "src": "/images/2023/06/IMG_0734.webp",
+  "w": 1200
+ },
+ "2023/06/cabinets-counter-tops-new.jpg": {
+  "alt": "Cabinets-counter-tops-new",
+  "h": 599,
+  "src": "/images/2023/06/cabinets-counter-tops-new.webp",
+  "w": 879
+ },
+ "2023/07/Fabuwood-Logo.png": {
+  "alt": "Fabuwood cabinetry logo",
+  "h": 291,
+  "src": "/images/2023/07/Fabuwood-Logo.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0787.jpg": {
+  "alt": "A Shaker For A New Generation",
+  "h": 600,
+  "src": "/images/2023/07/IMG_0787.webp",
+  "w": 356
+ },
+ "2023/07/IMG_0788.jpg": {
+  "alt": "A Shaker For A New Generation",
+  "h": 600,
+  "src": "/images/2023/07/IMG_0788.webp",
+  "w": 356
+ },
+ "2023/07/IMG_0789.jpg": {
+  "alt": "A Shaker For A New Generation",
+  "h": 600,
+  "src": "/images/2023/07/IMG_0789.webp",
+  "w": 356
+ },
+ "2023/07/IMG_0790.jpeg": {
+  "alt": "A Shaker For A New Generation",
+  "h": 675,
+  "src": "/images/2023/07/IMG_0790.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0791.jpeg": {
+  "alt": "Fabuwood Luna",
+  "h": 675,
+  "src": "/images/2023/07/IMG_0791.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0791.jpeg#hero": {
+  "alt": "Fabuwood Luna",
+  "h": 675,
+  "src": "/images/2023/07/IMG_0791-hero.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0792.jpeg": {
+  "alt": "A Shaker For A New Generation",
+  "h": 675,
+  "src": "/images/2023/07/IMG_0792.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0793.jpeg": {
+  "alt": "A Shaker For A New Generation",
+  "h": 675,
+  "src": "/images/2023/07/IMG_0793.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0820.jpg": {
+  "alt": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
+  "h": 900,
+  "src": "/images/2023/07/IMG_0820.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0823.jpg": {
+  "alt": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
+  "h": 900,
+  "src": "/images/2023/07/IMG_0823.webp",
+  "w": 836
+ },
+ "2023/07/IMG_0826.jpg": {
+  "alt": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
+  "h": 803,
+  "src": "/images/2023/07/IMG_0826.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0827.jpg": {
+  "alt": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
+  "h": 800,
+  "src": "/images/2023/07/IMG_0827.webp",
+  "w": 1200
+ },
+ "2023/07/IMG_0827.jpg#hero": {
+  "alt": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
+  "h": 1067,
+  "src": "/images/2023/07/IMG_0827-hero.webp",
+  "w": 1600
+ },
+ "2023/08/01mls.jpg": {
+  "alt": "Open kitchen with a navy island and pendant lights",
+  "h": 800,
+  "src": "/images/2023/08/01mls.webp",
+  "w": 1200
+ },
+ "2023/08/01mls.jpg#hero": {
+  "alt": "Open kitchen with a navy island and pendant lights",
+  "h": 1000,
+  "src": "/images/2023/08/01mls-hero.webp",
+  "w": 1500
+ },
+ "2023/08/02mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/02mls.webp",
+  "w": 1200
+ },
+ "2023/08/03mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 1500,
+  "src": "/images/2023/08/03mls.webp",
+  "w": 1000
+ },
+ "2023/08/04mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/04mls.webp",
+  "w": 1200
+ },
+ "2023/08/05mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 1500,
+  "src": "/images/2023/08/05mls.webp",
+  "w": 1000
+ },
+ "2023/08/06mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/06mls.webp",
+  "w": 1200
+ },
+ "2023/08/07mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/07mls.webp",
+  "w": 1200
+ },
+ "2023/08/10mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/10mls.webp",
+  "w": 1200
+ },
+ "2023/08/11mls.jpg": {
+  "alt": "Contemporary Casual kitchen",
+  "h": 800,
+  "src": "/images/2023/08/11mls.webp",
+  "w": 1200
+ },
+ "2023/08/11mls.jpg#hero": {
+  "alt": "Contemporary Casual",
+  "h": 1000,
+  "src": "/images/2023/08/11mls-hero.webp",
+  "w": 1500
+ },
+ "2023/08/12mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/12mls.webp",
+  "w": 1200
+ },
+ "2023/08/13mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 1500,
+  "src": "/images/2023/08/13mls.webp",
+  "w": 1000
+ },
+ "2023/08/14mls.jpg": {
+  "alt": "Contemporary Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/14mls.webp",
+  "w": 1200
+ },
+ "2023/08/1mls.jpg": {
+  "alt": "Earthy Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/1mls.webp",
+  "w": 1200
+ },
+ "2023/08/2mls.jpg": {
+  "alt": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
+  "h": 800,
+  "src": "/images/2023/08/2mls.webp",
+  "w": 1200
+ },
+ "2023/08/3mls.jpg": {
+  "alt": "Earthy Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/3mls.webp",
+  "w": 1200
+ },
+ "2023/08/4mls.jpg": {
+  "alt": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
+  "h": 800,
+  "src": "/images/2023/08/4mls.webp",
+  "w": 1200
+ },
+ "2023/08/5mls.jpg": {
+  "alt": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
+  "h": 1500,
+  "src": "/images/2023/08/5mls.webp",
+  "w": 1002
+ },
+ "2023/08/6mls.jpg": {
+  "alt": "Earthy Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/6mls.webp",
+  "w": 1200
+ },
+ "2023/08/7mls.jpg": {
+  "alt": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
+  "h": 800,
+  "src": "/images/2023/08/7mls.webp",
+  "w": 1200
+ },
+ "2023/08/8mls.jpg": {
+  "alt": "Earthy Casual kitchen project photo",
+  "h": 800,
+  "src": "/images/2023/08/8mls.webp",
+  "w": 1200
+ },
+ "2023/08/9mls.jpg": {
+  "alt": "Earthy Casual kitchen",
+  "h": 800,
+  "src": "/images/2023/08/9mls.webp",
+  "w": 1200
+ },
+ "2023/08/9mls.jpg#hero": {
+  "alt": "Earthy Casual",
+  "h": 1000,
+  "src": "/images/2023/08/9mls-hero.webp",
+  "w": 1500
+ },
+ "2023/08/Illume_Catalina_BiancoGloss.jpg#hero": {
+  "alt": "Illume_Catalina_BiancoGloss",
+  "h": 675,
+  "src": "/images/2023/08/Illume_Catalina_BiancoGloss-hero.webp",
+  "w": 1200
+ },
+ "2023/08/SK_Careers_Page.jpg": {
+  "alt": "Designer reviewing a kitchen design on screen with a client",
+  "h": 750,
+  "src": "/images/2023/08/SK_Careers_Page.webp",
+  "w": 1000
+ },
+ "2023/09/Diamond_Log.jpg": {
+  "alt": "Diamond cabinetry logo",
+  "h": 43,
+  "src": "/images/2023/09/Diamond_Log.webp",
+  "w": 200
+ },
+ "2024/01/011624a.jpg#hero": {
+  "alt": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel",
+  "h": 450,
+  "src": "/images/2024/01/011624a-hero.webp",
+  "w": 800
+ },
+ "2024/01/011624b.jpg": {
+  "alt": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel",
+  "h": 450,
+  "src": "/images/2024/01/011624b.webp",
+  "w": 800
+ },
+ "2024/01/011624c.jpg": {
+  "alt": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel",
+  "h": 450,
+  "src": "/images/2024/01/011624c.webp",
+  "w": 800
+ },
+ "2024/03/032824a.jpg": {
+  "alt": "A Dream Made Real",
+  "h": 675,
+  "src": "/images/2024/03/032824a.webp",
+  "w": 1200
+ },
+ "2024/03/032824a.jpg#hero": {
+  "alt": "A Dream Made Real",
+  "h": 768,
+  "src": "/images/2024/03/032824a-hero.webp",
+  "w": 1366
+ },
+ "2024/03/032824b.jpg": {
+  "alt": "A Dream Made Real",
+  "h": 675,
+  "src": "/images/2024/03/032824b.webp",
+  "w": 1200
+ },
+ "2024/03/032824c.jpg": {
+  "alt": "A Dream Made Real",
+  "h": 675,
+  "src": "/images/2024/03/032824c.webp",
+  "w": 1200
+ },
+ "2024/04/10mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2024/04/10mls.webp",
+  "w": 1000
+ },
+ "2024/04/11mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/11mls.webp",
+  "w": 1200
+ },
+ "2024/04/12mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/12mls.webp",
+  "w": 1200
+ },
+ "2024/04/13mls.jpg": {
+  "alt": "Mid Century Modern kitchen",
+  "h": 800,
+  "src": "/images/2024/04/13mls.webp",
+  "w": 1200
+ },
+ "2024/04/13mls.jpg#hero": {
+  "alt": "Mid Century Modern",
+  "h": 1000,
+  "src": "/images/2024/04/13mls-hero.webp",
+  "w": 1500
+ },
+ "2024/04/14mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2024/04/14mls.webp",
+  "w": 1003
+ },
+ "2024/04/15mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/15mls.webp",
+  "w": 1200
+ },
+ "2024/04/16mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/16mls.webp",
+  "w": 1200
+ },
+ "2024/04/1mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/1mls.webp",
+  "w": 1200
+ },
+ "2024/04/2mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/2mls.webp",
+  "w": 1200
+ },
+ "2024/04/3mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/3mls.webp",
+  "w": 1200
+ },
+ "2024/04/4mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/4mls.webp",
+  "w": 1200
+ },
+ "2024/04/5mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2024/04/5mls.webp",
+  "w": 1000
+ },
+ "2024/04/6mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/6mls.webp",
+  "w": 1200
+ },
+ "2024/04/7mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/04/7mls.webp",
+  "w": 1200
+ },
+ "2024/04/8mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2024/04/8mls.webp",
+  "w": 1000
+ },
+ "2024/04/9mls.jpg": {
+  "alt": "Mid Century Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2024/04/9mls.webp",
+  "w": 1000
+ },
+ "2024/05/Copy-of-10.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/05/Copy-of-10.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-146-2.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 1799,
+  "src": "/images/2024/05/Copy-of-146-2.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-146-3.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/05/Copy-of-146-3.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-146-3.jpg#hero": {
+  "alt": "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!",
+  "h": 1067,
+  "src": "/images/2024/05/Copy-of-146-3-hero.webp",
+  "w": 1600
+ },
+ "2024/05/Copy-of-15.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/05/Copy-of-15.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-4.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/05/Copy-of-4.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-4.jpg#hero": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions",
+  "h": 1066,
+  "src": "/images/2024/05/Copy-of-4-hero.webp",
+  "w": 1600
+ },
+ "2024/05/Copy-of-400-6.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/05/Copy-of-400-6.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-400-7.jpg": {
+  "alt": "Drawer with wooden peg dividers holding plates and bowls",
+  "h": 801,
+  "src": "/images/2024/05/Copy-of-400-7.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-400-8.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 1799,
+  "src": "/images/2024/05/Copy-of-400-8.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-400-9.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 1797,
+  "src": "/images/2024/05/Copy-of-400-9.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-410-11.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/05/Copy-of-410-11.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-410-18.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 1800,
+  "src": "/images/2024/05/Copy-of-410-18.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-614-5.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 1800,
+  "src": "/images/2024/05/Copy-of-614-5.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-9.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/05/Copy-of-9.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-909-8.jpg": {
+  "alt": "Pull-out utensil drawer in a white quartz countertop",
+  "h": 799,
+  "src": "/images/2024/05/Copy-of-909-8.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-909-9.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 1800,
+  "src": "/images/2024/05/Copy-of-909-9.webp",
+  "w": 1200
+ },
+ "2024/05/Copy-of-DSC_2792.jpg": {
+  "alt": "Elevate Your Kitchen with Smart Storage Solutions kitchen project photo",
+  "h": 801,
+  "src": "/images/2024/05/Copy-of-DSC_2792.webp",
+  "w": 1200
+ },
+ "2024/07/IMG_2504.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 480,
+  "src": "/images/2024/07/IMG_2504.webp",
+  "w": 360
+ },
+ "2024/07/IMG_2520.jpg": {
+  "alt": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
+  "h": 480,
+  "src": "/images/2024/07/IMG_2520.webp",
+  "w": 360
+ },
+ "2024/07/IMG_2559.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 360,
+  "src": "/images/2024/07/IMG_2559.webp",
+  "w": 480
+ },
+ "2024/07/IMG_2577.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 360,
+  "src": "/images/2024/07/IMG_2577.webp",
+  "w": 480
+ },
+ "2024/07/IMG_2588.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 480,
+  "src": "/images/2024/07/IMG_2588.webp",
+  "w": 360
+ },
+ "2024/07/IMG_2629.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 360,
+  "src": "/images/2024/07/IMG_2629.webp",
+  "w": 480
+ },
+ "2024/07/IMG_2644.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 480,
+  "src": "/images/2024/07/IMG_2644.webp",
+  "w": 360
+ },
+ "2024/07/IMG_2679.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 480,
+  "src": "/images/2024/07/IMG_2679.webp",
+  "w": 360
+ },
+ "2024/07/IMG_27121.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 360,
+  "src": "/images/2024/07/IMG_27121.webp",
+  "w": 480
+ },
+ "2024/07/IMG_27121.jpg#hero": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 360,
+  "src": "/images/2024/07/IMG_27121-hero.webp",
+  "w": 480
+ },
+ "2024/07/IMG_2754.jpg": {
+  "alt": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "h": 900,
+  "src": "/images/2024/07/IMG_2754.webp",
+  "w": 1200
+ },
+ "2024/10/1.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/1.webp",
+  "w": 1200
+ },
+ "2024/10/10.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 1802,
+  "src": "/images/2024/10/10.webp",
+  "w": 1200
+ },
+ "2024/10/10a.jpg": {
+  "alt": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss",
+  "h": 800,
+  "src": "/images/2024/10/10a.webp",
+  "w": 1200
+ },
+ "2024/10/10a.jpg#hero": {
+  "alt": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss",
+  "h": 1067,
+  "src": "/images/2024/10/10a-hero.webp",
+  "w": 1600
+ },
+ "2024/10/10b.jpg": {
+  "alt": "Open plan kitchen with a long island and large windows",
+  "h": 800,
+  "src": "/images/2024/10/10b.webp",
+  "w": 1200
+ },
+ "2024/10/10c.jpg": {
+  "alt": "Pull-out bottle storage behind a cabinet door",
+  "h": 800,
+  "src": "/images/2024/10/10c.webp",
+  "w": 1200
+ },
+ "2024/10/11.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/11.webp",
+  "w": 1200
+ },
+ "2024/10/12.jpg": {
+  "alt": "Earthy Traditional kitchen",
+  "h": 799,
+  "src": "/images/2024/10/12.webp",
+  "w": 1200
+ },
+ "2024/10/12.jpg#hero": {
+  "alt": "Earthy Traditional",
+  "h": 1065,
+  "src": "/images/2024/10/12-hero.webp",
+  "w": 1600
+ },
+ "2024/10/13.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/13.webp",
+  "w": 1200
+ },
+ "2024/10/2.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/2.webp",
+  "w": 1200
+ },
+ "2024/10/3.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 1802,
+  "src": "/images/2024/10/3.webp",
+  "w": 1200
+ },
+ "2024/10/4.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 1802,
+  "src": "/images/2024/10/4.webp",
+  "w": 1200
+ },
+ "2024/10/5.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/5.webp",
+  "w": 1200
+ },
+ "2024/10/6.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/6.webp",
+  "w": 1200
+ },
+ "2024/10/7.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 1802,
+  "src": "/images/2024/10/7.webp",
+  "w": 1200
+ },
+ "2024/10/8.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/8.webp",
+  "w": 1200
+ },
+ "2024/10/9.jpg": {
+  "alt": "Earthy Traditional kitchen project photo",
+  "h": 799,
+  "src": "/images/2024/10/9.webp",
+  "w": 1200
+ },
+ "2024/11/03mls.jpg": {
+  "alt": "Golden Tranquility kitchen",
+  "h": 800,
+  "src": "/images/2024/11/03mls.webp",
+  "w": 1200
+ },
+ "2024/11/03mls.jpg#hero": {
+  "alt": "Golden Tranquility",
+  "h": 1000,
+  "src": "/images/2024/11/03mls-hero.webp",
+  "w": 1500
+ },
+ "2024/11/05mls.jpg": {
+  "alt": "Grey kitchen with a gold chandelier and an island cooktop",
+  "h": 800,
+  "src": "/images/2024/11/05mls.webp",
+  "w": 1200
+ },
+ "2024/11/06mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/06mls.webp",
+  "w": 1200
+ },
+ "2024/11/07mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/07mls.webp",
+  "w": 1200
+ },
+ "2024/11/08mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/08mls.webp",
+  "w": 1200
+ },
+ "2024/11/09mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/09mls.webp",
+  "w": 1200
+ },
+ "2024/11/10mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 1500,
+  "src": "/images/2024/11/10mls.webp",
+  "w": 1000
+ },
+ "2024/11/11mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/11mls.webp",
+  "w": 1200
+ },
+ "2024/11/12mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/12mls.webp",
+  "w": 1200
+ },
+ "2024/11/13mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/13mls.webp",
+  "w": 1200
+ },
+ "2024/11/14mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/14mls.webp",
+  "w": 1200
+ },
+ "2024/11/15mls.jpg": {
+  "alt": "Professional Kitchen Remodeling from Singer Kitchens LP",
+  "h": 800,
+  "src": "/images/2024/11/15mls.webp",
+  "w": 1200
+ },
+ "2024/11/16mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/16mls.webp",
+  "w": 1200
+ },
+ "2024/11/17mls.jpg": {
+  "alt": "Golden Tranquility kitchen project photo",
+  "h": 800,
+  "src": "/images/2024/11/17mls.webp",
+  "w": 1200
+ },
+ "2024/11/About-Image-e1736199862335.webp": {
+  "alt": "Kitchen Remodeling & Design in Madisonville, LA",
+  "h": 673,
+  "src": "/images/2024/11/About-Image-e1736199862335.webp",
+  "w": 731
+ },
+ "2024/11/Bathroom-Design-Icon.webp": {
+  "alt": "Bathroom-Design-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Bathroom-Design-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Bullet-Point-1-Icon.webp": {
+  "alt": "Bullet point icon",
+  "h": 48,
+  "src": "/images/2024/11/Bullet-Point-1-Icon.webp",
+  "w": 48
+ },
+ "2024/11/Bullet-Point-2-Icon.webp": {
+  "alt": "Bullet point icon",
+  "h": 48,
+  "src": "/images/2024/11/Bullet-Point-2-Icon.webp",
+  "w": 48
+ },
+ "2024/11/Bullet-Point-3-Icon.webp": {
+  "alt": "Bullet point icon",
+  "h": 48,
+  "src": "/images/2024/11/Bullet-Point-3-Icon.webp",
+  "w": 48
+ },
+ "2024/11/Call-Icon.webp": {
+  "alt": "Call Singer Kitchens",
+  "h": 64,
+  "src": "/images/2024/11/Call-Icon.webp",
+  "w": 64
+ },
+ "2024/11/Closet-Renovations-Icon.webp": {
+  "alt": "Closet-Renovations-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Closet-Renovations-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Experience-and-Quality-BG.webp#hero": {
+  "alt": "Experience-and-Quality-BG",
+  "h": 1101,
+  "src": "/images/2024/11/Experience-and-Quality-BG-hero.webp",
+  "w": 1600
+ },
+ "2024/11/Flexible-Payment-Plans-Available-Icon-1.webp": {
+  "alt": "Flexible-Payment-Plans-Available-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Flexible-Payment-Plans-Available-Icon-1.webp",
+  "w": 90
+ },
+ "2024/11/Flexible-Payment-Plans-Available-Icon-1.webp#sm": {
+  "alt": "Flexible-Payment-Plans-Available-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Flexible-Payment-Plans-Available-Icon-1-sm.webp",
+  "w": 90
+ },
+ "2024/11/Friendly-Experienced-Staff-Icon.webp": {
+  "alt": "Friendly-Experienced-Staff-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Friendly-Experienced-Staff-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Hero-BG.webp#hero": {
+  "alt": "Hero-BG",
+  "h": 768,
+  "src": "/images/2024/11/Hero-BG-hero.webp",
+  "w": 1600
+ },
+ "2024/11/Industry-leading-Design-Expertise-Icon.webp": {
+  "alt": "Industry-leading-Design-Expertise-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Industry-leading-Design-Expertise-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Kitchen-Cabinets-Icon.webp": {
+  "alt": "Kitchen-Cabinets-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Kitchen-Cabinets-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Kitchen-Design-Icon.webp": {
+  "alt": "Kitchen-Design-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Kitchen-Design-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Kitchen-Design-Icon.webp#sm": {
+  "alt": "Kitchen-Design-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Kitchen-Design-Icon-sm.webp",
+  "w": 90
+ },
+ "2024/11/Kitchen-Remodeling-Icon.webp": {
+  "alt": "Kitchen-Remodeling-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Kitchen-Remodeling-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Kitchen-Remodeling-Icon.webp#sm": {
+  "alt": "Kitchen-Remodeling-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Kitchen-Remodeling-Icon-sm.webp",
+  "w": 90
+ },
+ "2024/11/Local-and-Family-Owned-Business-Icon.webp": {
+  "alt": "Local-and-Family-owned-Business-Icon",
+  "h": 64,
+  "src": "/images/2024/11/Local-and-Family-Owned-Business-Icon.webp",
+  "w": 64
+ },
+ "2024/11/Local-and-Family-Owned-Business-Icon.webp#sm": {
+  "alt": "Local-and-Family-Owned-Business-Icon",
+  "h": 64,
+  "src": "/images/2024/11/Local-and-Family-Owned-Business-Icon-sm.webp",
+  "w": 64
+ },
+ "2024/11/Location-Icon.webp": {
+  "alt": "Visit Kitchen Singers Today",
+  "h": 64,
+  "src": "/images/2024/11/Location-Icon.webp",
+  "w": 64
+ },
+ "2024/11/Service-Area-Image.webp": {
+  "alt": "Serving The Southshore And Northshore Of New Orleans Metro Area,.",
+  "h": 700,
+  "src": "/images/2024/11/Service-Area-Image.webp",
+  "w": 786
+ },
+ "2024/11/Small-Kitchen-Remodeling-Icon.webp": {
+  "alt": "Small-Kitchen-Remodeling-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Small-Kitchen-Remodeling-Icon.webp",
+  "w": 90
+ },
+ "2024/11/Small-Kitchen-Remodeling-Icon.webp#sm": {
+  "alt": "Small-Kitchen-Remodeling-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Small-Kitchen-Remodeling-Icon-sm.webp",
+  "w": 90
+ },
+ "2024/11/Testimonials-BG.webp#hero": {
+  "alt": "Testimonials-BG",
+  "h": 878,
+  "src": "/images/2024/11/Testimonials-BG-hero.webp",
+  "w": 1600
+ },
+ "2024/11/Top-quality-Products-and-Services-Icon-1.webp": {
+  "alt": "Top-quality-Products-and-Services-Icon",
+  "h": 90,
+  "src": "/images/2024/11/Top-quality-Products-and-Services-Icon-1.webp",
+  "w": 90
+ },
+ "2024/11/Top-quality-Products-and-Services-Icon.webp#sm": {
+  "alt": "Top-quality-Products-and-Services-Icon",
+  "h": 64,
+  "src": "/images/2024/11/Top-quality-Products-and-Services-Icon-sm.webp",
+  "w": 64
+ },
+ "2024/11/Trusted-Services-Image.webp": {
+  "alt": "Trusted-Services-Image",
+  "h": 853,
+  "src": "/images/2024/11/Trusted-Services-Image.webp",
+  "w": 853
+ },
+ "2024/12/kitchen-design.webp": {
+  "alt": "Kitchen-design",
+  "h": 800,
+  "src": "/images/2024/12/kitchen-design.webp",
+  "w": 1200
+ },
+ "2024/12/kitchen-design.webp#hero": {
+  "alt": "Kitchen-design",
+  "h": 1067,
+  "src": "/images/2024/12/kitchen-design-hero.webp",
+  "w": 1600
+ },
+ "2024/12/kitchen-remodel.webp#hero": {
+  "alt": "Kitchen-remodel",
+  "h": 1067,
+  "src": "/images/2024/12/kitchen-remodel-hero.webp",
+  "w": 1600
+ },
+ "2024/12/kitchen-renovation.webp#hero": {
+  "alt": "Kitchen Renovations & Remodels",
+  "h": 1068,
+  "src": "/images/2024/12/kitchen-renovation-hero.webp",
+  "w": 1600
+ },
+ "2025/01/About-BG-updated.webp#hero": {
+  "alt": "About-BG-updated",
+  "h": 925,
+  "src": "/images/2025/01/About-BG-updated-hero.webp",
+  "w": 1600
+ },
+ "2025/01/About-Image.webp": {
+  "alt": "About Singer Kitchens",
+  "h": 806,
+  "src": "/images/2025/01/About-Image.webp",
+  "w": 796
+ },
+ "2025/01/Contact-BG.webp#hero": {
+  "alt": "Contact-BG",
+  "h": 833,
+  "src": "/images/2025/01/Contact-BG-hero.webp",
+  "w": 1600
+ },
+ "2025/01/Experience-and-Quality-BG.webp#hero": {
+  "alt": "Experience-and-Quality-BG",
+  "h": 1101,
+  "src": "/images/2025/01/Experience-and-Quality-BG-hero.webp",
+  "w": 1600
+ },
+ "2025/01/Testimonials-BG.webp#hero": {
+  "alt": "Testimonials-BG",
+  "h": 878,
+  "src": "/images/2025/01/Testimonials-BG-hero.webp",
+  "w": 1600
+ },
+ "2025/01/Trusted-Services-BG.webp#hero": {
+  "alt": "Trusted-Services-BG",
+  "h": 791,
+  "src": "/images/2025/01/Trusted-Services-BG-hero.webp",
+  "w": 1600
+ },
+ "2025/01/kitchen-remodeling-mandeville-la-1.webp#hero": {
+  "alt": "Kitchen Remodeling northshore",
+  "h": 600,
+  "src": "/images/2025/01/kitchen-remodeling-mandeville-la-1-hero.webp",
+  "w": 900
+ },
+ "2025/01/modern-kitchen-remodeling-mandeville-1.webp": {
+  "alt": "Modern Kitchen Remodel",
+  "h": 600,
+  "src": "/images/2025/01/modern-kitchen-remodeling-mandeville-1.webp",
+  "w": 900
+ },
+ "2025/01/modern-kitchen-remodeling-mandeville-1.webp#hero": {
+  "alt": "Modern Kitchen Remodel",
+  "h": 600,
+  "src": "/images/2025/01/modern-kitchen-remodeling-mandeville-1-hero.webp",
+  "w": 900
+ },
+ "2025/01/services-bgf-1.webp#hero": {
+  "alt": "Services-bgf",
+  "h": 1034,
+  "src": "/images/2025/01/services-bgf-1-hero.webp",
+  "w": 1600
+ },
+ "2025/01/stainless-steel-stove-remodeling-mandeville-la-1.jpg": {
+  "alt": "Madisonville LA Kitchen Design",
+  "h": 600,
+  "src": "/images/2025/01/stainless-steel-stove-remodeling-mandeville-la-1.webp",
+  "w": 900
+ },
+ "2025/01/stainless-steel-stove-remodeling-mandeville-la-1.jpg#hero": {
+  "alt": "Madisonville LA Kitchen Design",
+  "h": 600,
+  "src": "/images/2025/01/stainless-steel-stove-remodeling-mandeville-la-1-hero.webp",
+  "w": 900
+ },
+ "2025/03/01mls-1.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/01mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/01mls.jpg": {
+  "alt": "Traditional Uptown kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/01mls.webp",
+  "w": 1200
+ },
+ "2025/03/02mls-1.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/02mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/02mls.jpg": {
+  "alt": "Restoring History: Ashley's Timeless Kitchen Renovation",
+  "h": 800,
+  "src": "/images/2025/03/02mls.webp",
+  "w": 1200
+ },
+ "2025/03/03mls-1.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/03mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/03mls.jpg": {
+  "alt": "Traditional Uptown kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/03mls.webp",
+  "w": 1200
+ },
+ "2025/03/04mls-1.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 1500,
+  "src": "/images/2025/03/04mls-1.webp",
+  "w": 1000
+ },
+ "2025/03/04mls.jpg": {
+  "alt": "Restoring History: Ashley's Timeless Kitchen Renovation",
+  "h": 800,
+  "src": "/images/2025/03/04mls.webp",
+  "w": 1200
+ },
+ "2025/03/05mls-1.jpg": {
+  "alt": "White kitchen with a terracotta tile backsplash",
+  "h": 800,
+  "src": "/images/2025/03/05mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/05mls.jpg": {
+  "alt": "Wood cabinet kitchen with a peninsula and herringbone floor",
+  "h": 800,
+  "src": "/images/2025/03/05mls.webp",
+  "w": 1200
+ },
+ "2025/03/06mls-1.jpg": {
+  "alt": "Deep pull-out drawers organized below a range",
+  "h": 800,
+  "src": "/images/2025/03/06mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/06mls.jpg": {
+  "alt": "Restoring History: Ashley's Timeless Kitchen Renovation",
+  "h": 1500,
+  "src": "/images/2025/03/06mls.webp",
+  "w": 1000
+ },
+ "2025/03/07mls-1.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/07mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/07mls.jpg": {
+  "alt": "Traditional Uptown kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/07mls.webp",
+  "w": 1200
+ },
+ "2025/03/08mls-1.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/08mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/08mls.jpg": {
+  "alt": "Wood cabinets with a white quartz backsplash",
+  "h": 800,
+  "src": "/images/2025/03/08mls.webp",
+  "w": 1200
+ },
+ "2025/03/09mls-1.jpg": {
+  "alt": "Corner lazy susan in a white kitchen",
+  "h": 800,
+  "src": "/images/2025/03/09mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/09mls.jpg": {
+  "alt": "Traditional Uptown kitchen project photo",
+  "h": 1500,
+  "src": "/images/2025/03/09mls.webp",
+  "w": 1000
+ },
+ "2025/03/10mls-1.jpg": {
+  "alt": "Professional Kitchen Remodeling from Singer Kitchens LP",
+  "h": 800,
+  "src": "/images/2025/03/10mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/10mls-2.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/10mls-2.webp",
+  "w": 1200
+ },
+ "2025/03/10mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/10mls.webp",
+  "w": 1200
+ },
+ "2025/03/11mls-1.jpg": {
+  "alt": "Restoring History: Ashley's Timeless Kitchen Renovation",
+  "h": 800,
+  "src": "/images/2025/03/11mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/11mls-2.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/11mls-2.webp",
+  "w": 1200
+ },
+ "2025/03/11mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/11mls.webp",
+  "w": 1200
+ },
+ "2025/03/12mls-1.jpg": {
+  "alt": "Traditional Uptown kitchen",
+  "h": 800,
+  "src": "/images/2025/03/12mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/12mls-1.jpg#hero": {
+  "alt": "Traditional Uptown",
+  "h": 1000,
+  "src": "/images/2025/03/12mls-1-hero.webp",
+  "w": 1500
+ },
+ "2025/03/12mls-2.jpg": {
+  "alt": "Biophilic Beauty kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/03/12mls-2.webp",
+  "w": 1200
+ },
+ "2025/03/12mls.jpg": {
+  "alt": "Pull-out pantry drawers stocked with food",
+  "h": 801,
+  "src": "/images/2025/03/12mls.webp",
+  "w": 1200
+ },
+ "2025/03/13mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2025/03/13mls.webp",
+  "w": 1001
+ },
+ "2025/03/14mls-1.jpg": {
+  "alt": "Biophilic Beauty kitchen",
+  "h": 800,
+  "src": "/images/2025/03/14mls-1.webp",
+  "w": 1200
+ },
+ "2025/03/14mls-1.jpg#hero": {
+  "alt": "Biophilic Beauty",
+  "h": 1000,
+  "src": "/images/2025/03/14mls-1-hero.webp",
+  "w": 1500
+ },
+ "2025/03/14mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/14mls.webp",
+  "w": 1200
+ },
+ "2025/03/15mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2025/03/15mls.webp",
+  "w": 1001
+ },
+ "2025/03/16mls.jpg": {
+  "alt": "Organic Modern kitchen",
+  "h": 801,
+  "src": "/images/2025/03/16mls.webp",
+  "w": 1200
+ },
+ "2025/03/16mls.jpg#hero": {
+  "alt": "Organic Modern",
+  "h": 1001,
+  "src": "/images/2025/03/16mls-hero.webp",
+  "w": 1500
+ },
+ "2025/03/17mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/17mls.webp",
+  "w": 1200
+ },
+ "2025/03/18mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2025/03/18mls.webp",
+  "w": 1001
+ },
+ "2025/03/1mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/1mls.webp",
+  "w": 1200
+ },
+ "2025/03/2mls.jpg": {
+  "alt": "Narrow white galley kitchen with a stainless hood",
+  "h": 1500,
+  "src": "/images/2025/03/2mls.webp",
+  "w": 1001
+ },
+ "2025/03/3mls.jpg": {
+  "alt": "Professional Kitchen Remodeling from Singer Kitchens LP",
+  "h": 801,
+  "src": "/images/2025/03/3mls.webp",
+  "w": 1200
+ },
+ "2025/03/4mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 1500,
+  "src": "/images/2025/03/4mls.webp",
+  "w": 1001
+ },
+ "2025/03/5mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/5mls.webp",
+  "w": 1200
+ },
+ "2025/03/6mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/6mls.webp",
+  "w": 1200
+ },
+ "2025/03/7mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/7mls.webp",
+  "w": 1200
+ },
+ "2025/03/8mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/8mls.webp",
+  "w": 1200
+ },
+ "2025/03/9mls.jpg": {
+  "alt": "Organic Modern kitchen project photo",
+  "h": 801,
+  "src": "/images/2025/03/9mls.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-01.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 01",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-01.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-02.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 02",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-02.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-03.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 03",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-03.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-04.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 04",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-04.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-04.jpg#hero": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 04",
+  "h": 1000,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-04-hero.webp",
+  "w": 1500
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-06.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 06",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-06.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-07.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 07",
+  "h": 1000,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-07.webp",
+  "w": 667
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-08.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 08",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-08.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-09.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 09",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-09.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-10.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 10",
+  "h": 1000,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-10.webp",
+  "w": 667
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-13.jpg": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 13",
+  "h": 800,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-13.webp",
+  "w": 1200
+ },
+ "2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-13.jpg#hero": {
+  "alt": "New Orleans Irish Channel Kitchen renovation 13",
+  "h": 1000,
+  "src": "/images/2025/05/New-Orleans-Irish-Channel-Kitchen-renovation-13-hero.webp",
+  "w": 1500
+ },
+ "2025/06/Irish-Channel-Before-1.jpg": {
+  "alt": "Irish Channel Before 1",
+  "h": 480,
+  "src": "/images/2025/06/Irish-Channel-Before-1.webp",
+  "w": 640
+ },
+ "2025/06/Irish-Channel-Before-3.jpg": {
+  "alt": "Irish Channel Before 3",
+  "h": 480,
+  "src": "/images/2025/06/Irish-Channel-Before-3.webp",
+  "w": 640
+ },
+ "2025/07/01mls.jpg": {
+  "alt": "Professional Kitchen Remodeling from Singer Kitchens LP",
+  "h": 800,
+  "src": "/images/2025/07/01mls.webp",
+  "w": 1200
+ },
+ "2025/07/02mls.jpg": {
+  "alt": "Blue Dimensions kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/07/02mls.webp",
+  "w": 1200
+ },
+ "2025/07/03mls.jpg": {
+  "alt": "Blue Dimensions kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/07/03mls.webp",
+  "w": 1200
+ },
+ "2025/07/04mls.jpg": {
+  "alt": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+  "h": 1000,
+  "src": "/images/2025/07/04mls.webp",
+  "w": 667
+ },
+ "2025/07/05mls.jpg": {
+  "alt": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+  "h": 1000,
+  "src": "/images/2025/07/05mls.webp",
+  "w": 667
+ },
+ "2025/07/06mls.jpg": {
+  "alt": "Blue drawers pulled open to show organized storage",
+  "h": 800,
+  "src": "/images/2025/07/06mls.webp",
+  "w": 1200
+ },
+ "2025/07/07mls.jpg": {
+  "alt": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+  "h": 1000,
+  "src": "/images/2025/07/07mls.webp",
+  "w": 667
+ },
+ "2025/07/08mls.jpg": {
+  "alt": "Blue Dimensions kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/07/08mls.webp",
+  "w": 1200
+ },
+ "2025/07/09mls.jpg": {
+  "alt": "Undermount sink in a white quartz countertop",
+  "h": 800,
+  "src": "/images/2025/07/09mls.webp",
+  "w": 1200
+ },
+ "2025/07/10mls.jpg": {
+  "alt": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+  "h": 1000,
+  "src": "/images/2025/07/10mls.webp",
+  "w": 667
+ },
+ "2025/07/11mls.jpg": {
+  "alt": "Blue Dimensions kitchen",
+  "h": 1800,
+  "src": "/images/2025/07/11mls.webp",
+  "w": 1200
+ },
+ "2025/07/11mls.jpg#hero": {
+  "alt": "Blue Dimensions",
+  "h": 2250,
+  "src": "/images/2025/07/11mls-hero.webp",
+  "w": 1500
+ },
+ "2025/07/12mls.jpg#hero": {
+  "alt": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+  "h": 1000,
+  "src": "/images/2025/07/12mls-hero.webp",
+  "w": 1500
+ },
+ "2025/07/14mls.jpg": {
+  "alt": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+  "h": 800,
+  "src": "/images/2025/07/14mls.webp",
+  "w": 1200
+ },
+ "2025/09/01mls.jpg": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 800,
+  "src": "/images/2025/09/01mls.webp",
+  "w": 1200
+ },
+ "2025/09/02mls-1.jpg": {
+  "alt": "Gentilly Bungalow kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/09/02mls-1.webp",
+  "w": 1200
+ },
+ "2025/09/02mls.jpg": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 800,
+  "src": "/images/2025/09/02mls.webp",
+  "w": 1200
+ },
+ "2025/09/03mls-1.jpg": {
+  "alt": "Gentilly Bungalow kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/09/03mls-1.webp",
+  "w": 1200
+ },
+ "2025/09/03mls.jpg": {
+  "alt": "White kitchen with wood lower cabinets and a mosaic backsplash",
+  "h": 800,
+  "src": "/images/2025/09/03mls.webp",
+  "w": 1200
+ },
+ "2025/09/04mls-1.jpg": {
+  "alt": "Gentilly Bungalow kitchen project photo",
+  "h": 1000,
+  "src": "/images/2025/09/04mls-1.webp",
+  "w": 667
+ },
+ "2025/09/04mls.jpg": {
+  "alt": "Glass-front display cabinets in a sunny room",
+  "h": 800,
+  "src": "/images/2025/09/04mls.webp",
+  "w": 1200
+ },
+ "2025/09/05mls-1.jpg": {
+  "alt": "Gentilly Bungalow: A Kitchen Reimagined",
+  "h": 1000,
+  "src": "/images/2025/09/05mls-1.webp",
+  "w": 667
+ },
+ "2025/09/05mls.jpg": {
+  "alt": "White kitchen with a pull-out drawer beside the dishwasher",
+  "h": 800,
+  "src": "/images/2025/09/05mls.webp",
+  "w": 1200
+ },
+ "2025/09/06mls-1.jpg": {
+  "alt": "Gentilly Bungalow kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/09/06mls-1.webp",
+  "w": 1200
+ },
+ "2025/09/06mls.jpg": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 800,
+  "src": "/images/2025/09/06mls.webp",
+  "w": 1200
+ },
+ "2025/09/07mls-1.jpg": {
+  "alt": "Gentilly Bungalow kitchen",
+  "h": 800,
+  "src": "/images/2025/09/07mls-1.webp",
+  "w": 1200
+ },
+ "2025/09/07mls-1.jpg#hero": {
+  "alt": "Gentilly Bungalow",
+  "h": 1000,
+  "src": "/images/2025/09/07mls-1-hero.webp",
+  "w": 1500
+ },
+ "2025/09/07mls.jpg": {
+  "alt": "Arts & Crafts kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/09/07mls.webp",
+  "w": 1200
+ },
+ "2025/09/07mls.jpg#hero": {
+  "alt": "Approachable Luxury: Designing a Kitchen That Feels Like You",
+  "h": 1000,
+  "src": "/images/2025/09/07mls-hero.webp",
+  "w": 1500
+ },
+ "2025/09/08mls-1.jpg": {
+  "alt": "Gentilly Bungalow: A Kitchen Reimagined",
+  "h": 800,
+  "src": "/images/2025/09/08mls-1.webp",
+  "w": 1200
+ },
+ "2025/09/08mls.jpg": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 800,
+  "src": "/images/2025/09/08mls.webp",
+  "w": 1200
+ },
+ "2025/09/09mls-1.jpg": {
+  "alt": "Gentilly Bungalow: A Kitchen Reimagined",
+  "h": 1000,
+  "src": "/images/2025/09/09mls-1.webp",
+  "w": 667
+ },
+ "2025/09/09mls.jpg": {
+  "alt": "Arts & Crafts kitchen project photo",
+  "h": 1000,
+  "src": "/images/2025/09/09mls.webp",
+  "w": 667
+ },
+ "2025/09/10mls-1.jpg": {
+  "alt": "Gentilly Bungalow kitchen project photo",
+  "h": 800,
+  "src": "/images/2025/09/10mls-1.webp",
+  "w": 1200
+ },
+ "2025/09/10mls.jpg": {
+  "alt": "Arts & Crafts kitchen",
+  "h": 800,
+  "src": "/images/2025/09/10mls.webp",
+  "w": 1200
+ },
+ "2025/09/10mls.jpg#hero": {
+  "alt": "Arts & Crafts",
+  "h": 1000,
+  "src": "/images/2025/09/10mls-hero.webp",
+  "w": 1500
+ },
+ "2025/09/ArtCrafts_NewOrleansKitchens.jpg": {
+  "alt": "Art&Crafts_NewOrleansKitchens",
+  "h": 1000,
+  "src": "/images/2025/09/ArtCrafts_NewOrleansKitchens.webp",
+  "w": 909
+ },
+ "2025/09/Kitchen1_before.png": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 480,
+  "src": "/images/2025/09/Kitchen1_before.webp",
+  "w": 640
+ },
+ "2025/09/Kitchen2_before.png": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 480,
+  "src": "/images/2025/09/Kitchen2_before.webp",
+  "w": 640
+ },
+ "2025/09/Kitchen3_before.png": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 480,
+  "src": "/images/2025/09/Kitchen3_before.webp",
+  "w": 640
+ },
+ "2025/09/Kitchen4_before.png": {
+  "alt": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+  "h": 480,
+  "src": "/images/2025/09/Kitchen4_before.webp",
+  "w": 640
+ },
+ "2025/10/01mls-Copy.jpg": {
+  "alt": "Gentilly Bungalow: A Kitchen Reimagined",
+  "h": 800,
+  "src": "/images/2025/10/01mls-Copy.webp",
+  "w": 1200
+ },
+ "2025/10/Gentilly_Bungalow_Before1.jpg": {
+  "alt": "Gentilly bungalow before1",
+  "h": 480,
+  "src": "/images/2025/10/Gentilly_Bungalow_Before1.webp",
+  "w": 640
+ },
+ "2025/10/Gentilly_Bungalow_Before2.jpg": {
+  "alt": "Gentilly bungalow before2",
+  "h": 480,
+  "src": "/images/2025/10/Gentilly_Bungalow_Before2.webp",
+  "w": 640
+ },
+ "2025/10/Gentilly_Bungalow_Before3.jpg": {
+  "alt": "Gentilly bungalow before3",
+  "h": 480,
+  "src": "/images/2025/10/Gentilly_Bungalow_Before3.webp",
+  "w": 640
+ },
+ "2025/10/Gentilly_Bungalow_Before4.jpg": {
+  "alt": "Gentilly bungalow before4",
+  "h": 480,
+  "src": "/images/2025/10/Gentilly_Bungalow_Before4.webp",
+  "w": 640
+ },
+ "2025/10/celebrating_98_years_compressed.jpg": {
+  "alt": "Celebrating 98 years",
+  "h": 800,
+  "src": "/images/2025/10/celebrating_98_years_compressed.webp",
+  "w": 1200
+ },
+ "2025/12/Cashmere-Additional-Pic.jpg": {
+  "alt": "Cashmere Additional Pic",
+  "h": 1424,
+  "src": "/images/2025/12/Cashmere-Additional-Pic.webp",
+  "w": 1200
+ },
+ "2025/12/Cashmere-Kitchen-1.jpg": {
+  "alt": "Cashmere Kitchen 1",
+  "h": 1152,
+  "src": "/images/2025/12/Cashmere-Kitchen-1.webp",
+  "w": 768
+ },
+ "2025/12/Cashmere-Kitchen-2.avif": {
+  "alt": "Cashmere Kitchen 2",
+  "h": 1000,
+  "src": "/images/2025/12/Cashmere-Kitchen-2.webp",
+  "w": 1000
+ },
+ "2025/12/Cashmere-Kitchen-2.avif#hero": {
+  "alt": "Cashmere Kitchen 2",
+  "h": 1000,
+  "src": "/images/2025/12/Cashmere-Kitchen-2-hero.webp",
+  "w": 1000
+ },
+ "2025/12/Cashmere-Kitchen-3.jpg": {
+  "alt": "Cashmere Kitchen 3",
+  "h": 1200,
+  "src": "/images/2025/12/Cashmere-Kitchen-3.webp",
+  "w": 1200
+ },
+ "2025/12/Cashmere-Kitchen-4.webp": {
+  "alt": "Cashmere Kitchen 4",
+  "h": 1300,
+  "src": "/images/2025/12/Cashmere-Kitchen-4.webp",
+  "w": 1000
+ },
+ "2025/12/Cashmere-Kitchen-5.jpg": {
+  "alt": "Cashmere Kitchen 5",
+  "h": 626,
+  "src": "/images/2025/12/Cashmere-Kitchen-5.webp",
+  "w": 1000
+ },
+ "2025/12/Cashmere-Kitchen-6.jpg": {
+  "alt": "Cashmere Kitchen 6",
+  "h": 805,
+  "src": "/images/2025/12/Cashmere-Kitchen-6.webp",
+  "w": 805
+ },
+ "2025/12/Cashmere-Kitchen-7.webp": {
+  "alt": "Cashmere Kitchen 7",
+  "h": 576,
+  "src": "/images/2025/12/Cashmere-Kitchen-7.webp",
+  "w": 1024
+ },
+ "2025/12/HoytPTMarPTSemK.jpg#hero": {
+  "alt": "Cashmere Kitchen Renovation",
+  "h": 587,
+  "src": "/images/2025/12/HoytPTMarPTSemK-hero.webp",
+  "w": 700
+ },
+ "2026/01/survived-the-holidays-1.jpg": {
+  "alt": "Survived the holidays",
+  "h": 225,
+  "src": "/images/2026/01/survived-the-holidays-1.webp",
+  "w": 300
+ },
+ "2026/01/survived-the-holidays.jpg": {
+  "alt": "Survived-the-holidays",
+  "h": 225,
+  "src": "/images/2026/01/survived-the-holidays.webp",
+  "w": 300
+ },
+ "2026/02/cabinets-graphic-2-compressed.png": {
+  "alt": "Repainting or replacing kitchen cabinets: what's the best choice?",
+  "h": 1024,
+  "src": "/images/2026/02/cabinets-graphic-2-compressed.webp",
+  "w": 1024
+ },
+ "2026/03/new-slider2_26.webp#hero": {
+  "alt": "Love Your Kitchen!",
+  "h": 784,
+  "src": "/images/2026/03/new-slider2_26-hero.webp",
+  "w": 1393
+ },
+ "2026/03/slider_image_new1_26.webp#hero": {
+  "alt": "Let's Talk Kitchens",
+  "h": 477,
+  "src": "/images/2026/03/slider_image_new1_26-hero.webp",
+  "w": 1000
+ },
+ "2026/04/01.jpg": {
+  "alt": "Nola Boathouse kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/04/01.webp",
+  "w": 1200
+ },
+ "2026/04/02.jpg": {
+  "alt": "White kitchen with a wood ceiling and long marble island",
+  "h": 800,
+  "src": "/images/2026/04/02.webp",
+  "w": 1200
+ },
+ "2026/04/03.jpg": {
+  "alt": "Long marble island with white stools under a wood ceiling",
+  "h": 800,
+  "src": "/images/2026/04/03.webp",
+  "w": 1200
+ },
+ "2026/04/04.jpg": {
+  "alt": "Nola Boathouse kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/04/04.webp",
+  "w": 1200
+ },
+ "2026/04/05.jpg": {
+  "alt": "Walnut island with a marble top in a white kitchen",
+  "h": 800,
+  "src": "/images/2026/04/05.webp",
+  "w": 1200
+ },
+ "2026/04/06.jpg": {
+  "alt": "A Showcase on the Water: The Boathouse Kitchen",
+  "h": 800,
+  "src": "/images/2026/04/06.webp",
+  "w": 1200
+ },
+ "2026/04/07.jpg": {
+  "alt": "Nola Boathouse kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/04/07.webp",
+  "w": 1200
+ },
+ "2026/04/08.jpg": {
+  "alt": "Homeowner in her white kitchen with marble backsplash",
+  "h": 800,
+  "src": "/images/2026/04/08.webp",
+  "w": 1200
+ },
+ "2026/04/08.jpg#hero": {
+  "alt": "Homeowner in her white kitchen with marble backsplash",
+  "h": 1000,
+  "src": "/images/2026/04/08-hero.webp",
+  "w": 1500
+ },
+ "2026/04/09.jpg": {
+  "alt": "A Showcase on the Water: The Boathouse Kitchen",
+  "h": 800,
+  "src": "/images/2026/04/09.webp",
+  "w": 1200
+ },
+ "2026/04/10.jpg": {
+  "alt": "A Showcase on the Water: The Boathouse Kitchen",
+  "h": 800,
+  "src": "/images/2026/04/10.webp",
+  "w": 1200
+ },
+ "2026/04/11.jpg": {
+  "alt": "A Showcase on the Water: The Boathouse Kitchen",
+  "h": 1500,
+  "src": "/images/2026/04/11.webp",
+  "w": 1000
+ },
+ "2026/04/15.jpg": {
+  "alt": "Nola Boathouse kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/04/15.webp",
+  "w": 1200
+ },
+ "2026/04/65-reviews1.png": {
+  "alt": "65+ five-star online reviews, 5.0 rating",
+  "h": 706,
+  "src": "/images/2026/04/65-reviews1.webp",
+  "w": 1200
+ },
+ "2026/04/Boathouses.webp": {
+  "alt": "Boathouses",
+  "h": 284,
+  "src": "/images/2026/04/Boathouses.webp",
+  "w": 630
+ },
+ "2026/05/BestofSTT.jpg": {
+  "alt": "BestofSTT",
+  "h": 225,
+  "src": "/images/2026/05/BestofSTT.webp",
+  "w": 225
+ },
+ "2026/05/refresh-page-photo-2.jpeg": {
+  "alt": "Refresh page photo",
+  "h": 800,
+  "src": "/images/2026/05/refresh-page-photo-2.webp",
+  "w": 1200
+ },
+ "2026/05/refresh-page-photo-2.jpeg#hero": {
+  "alt": "Refresh page photo",
+  "h": 1067,
+  "src": "/images/2026/05/refresh-page-photo-2-hero.webp",
+  "w": 1600
+ },
+ "2026/05/refresh-page-photo-3-vanity.jpeg": {
+  "alt": "Refresh page photo vanity",
+  "h": 1800,
+  "src": "/images/2026/05/refresh-page-photo-3-vanity.webp",
+  "w": 1200
+ },
+ "2026/05/refresh-page-photo.jpeg": {
+  "alt": "White and navy kitchen with a black range",
+  "h": 800,
+  "src": "/images/2026/05/refresh-page-photo.webp",
+  "w": 1200
+ },
+ "2026/06/03mls.jpg": {
+  "alt": "Why the Finish on Your Cabinets Matters More Than Most People Realize",
+  "h": 800,
+  "src": "/images/2026/06/03mls.webp",
+  "w": 1200
+ },
+ "2026/06/03mls.jpg#hero": {
+  "alt": "Why the Finish on Your Cabinets Matters More Than Most People Realize",
+  "h": 1000,
+  "src": "/images/2026/06/03mls-hero.webp",
+  "w": 1500
+ },
+ "2026/06/10-1.jpg": {
+  "alt": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
+  "h": 800,
+  "src": "/images/2026/06/10-1.webp",
+  "w": 1200
+ },
+ "2026/06/10-2-1.jpg": {
+  "alt": "Why the Finish on Your Cabinets Matters More Than Most People Realize",
+  "h": 1800,
+  "src": "/images/2026/06/10-2-1.webp",
+  "w": 1200
+ },
+ "2026/06/12.jpeg": {
+  "alt": "Bathroom with a wood vanity, round mirrors and a freestanding tub",
+  "h": 800,
+  "src": "/images/2026/06/12.webp",
+  "w": 1200
+ },
+ "2026/06/15-1.jpg": {
+  "alt": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
+  "h": 800,
+  "src": "/images/2026/06/15-1.webp",
+  "w": 1200
+ },
+ "2026/06/6mls.jpeg": {
+  "alt": "White kitchen with glass-front cabinets and a stainless hood",
+  "h": 801,
+  "src": "/images/2026/06/6mls.webp",
+  "w": 1200
+ },
+ "2026/06/909-8-1.jpg": {
+  "alt": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works",
+  "h": 800,
+  "src": "/images/2026/06/909-8-1.webp",
+  "w": 1200
+ },
+ "2026/06/DSC_8345.jpg": {
+  "alt": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
+  "h": 1906,
+  "src": "/images/2026/06/DSC_8345.webp",
+  "w": 1200
+ },
+ "2026/06/Northpoint.png": {
+  "alt": "North Point Cabinetry logo",
+  "h": 150,
+  "src": "/images/2026/06/Northpoint.webp",
+  "w": 240
+ },
+ "2026/06/compressed_17.jpg": {
+  "alt": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works",
+  "h": 1800,
+  "src": "/images/2026/06/compressed_17.webp",
+  "w": 1200
+ },
+ "2026/06/compressed_2.jpg": {
+  "alt": "Why the Finish on Your Cabinets Matters More Than Most People Realize",
+  "h": 1799,
+  "src": "/images/2026/06/compressed_2.webp",
+  "w": 1200
+ },
+ "2026/06/compressed_4.jpg#hero": {
+  "alt": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works",
+  "h": 1066,
+  "src": "/images/2026/06/compressed_4-hero.webp",
+  "w": 1600
+ },
+ "2026/06/compressed_614-5.jpg": {
+  "alt": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
+  "h": 1799,
+  "src": "/images/2026/06/compressed_614-5.webp",
+  "w": 1200
+ },
+ "2026/06/kitchen-design-trends.png": {
+  "alt": "Top kitchen design trends from Singer Kitchens",
+  "h": 1200,
+  "src": "/images/2026/06/kitchen-design-trends.webp",
+  "w": 1200
+ },
+ "2026/07/BestofNO-1.webp": {
+  "alt": "BestofNO",
+  "h": 468,
+  "src": "/images/2026/07/BestofNO-1.webp",
+  "w": 468
+ },
+ "2026/07/Coffee-Bar-3x2-1.png": {
+  "alt": "Built-in coffee bar with an espresso machine",
+  "h": 541,
+  "src": "/images/2026/07/Coffee-Bar-3x2-1.webp",
+  "w": 812
+ },
+ "2026/07/Coffee-Bar-3x2-1.png#hero": {
+  "alt": "Built-in coffee bar with an espresso machine",
+  "h": 541,
+  "src": "/images/2026/07/Coffee-Bar-3x2-1-hero.webp",
+  "w": 812
+ },
+ "2026/07/Shaker-Kitchen-Cabinet-Door.jpg": {
+  "alt": "Shaker Kitchen Cabinet Door",
+  "h": 980,
+  "src": "/images/2026/07/Shaker-Kitchen-Cabinet-Door.webp",
+  "w": 600
+ },
+ "2026/07/Singer-Kitchen-QR-code.png": {
+  "alt": "Singer-Kitchen-QR-code",
+  "h": 778,
+  "src": "/images/2026/07/Singer-Kitchen-QR-code.webp",
+  "w": 1200
+ },
+ "2026/07/Singer-Kitchens-Planning-Tool.webp": {
+  "alt": "Singer Kitchens Planning Tool",
+  "h": 1260,
+  "src": "/images/2026/07/Singer-Kitchens-Planning-Tool.webp",
+  "w": 1008
+ },
+ "2026/07/satisfaction-1-1.png": {
+  "alt": "Kitchen renovations score 10/10 for homeowner satisfaction",
+  "h": 1200,
+  "src": "/images/2026/07/satisfaction-1-1.webp",
+  "w": 1200
+ },
+ "2026/08/01.jpg": {
+  "alt": "Cozy Cashmere kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/08/01.webp",
+  "w": 1200
+ },
+ "2026/08/02.jpg": {
+  "alt": "Cozy Cashmere: John & Anne's Kitchen Story",
+  "h": 1800,
+  "src": "/images/2026/08/02.webp",
+  "w": 1200
+ },
+ "2026/08/03.jpg": {
+  "alt": "Cozy Cashmere: John & Anne's Kitchen Story",
+  "h": 800,
+  "src": "/images/2026/08/03.webp",
+  "w": 1200
+ },
+ "2026/08/04.jpg": {
+  "alt": "Cozy Cashmere: John & Anne's Kitchen Story",
+  "h": 800,
+  "src": "/images/2026/08/04.webp",
+  "w": 1200
+ },
+ "2026/08/05.jpg": {
+  "alt": "Cozy Cashmere kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/08/05.webp",
+  "w": 1200
+ },
+ "2026/08/06.jpg": {
+  "alt": "Cozy Cashmere kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/08/06.webp",
+  "w": 1200
+ },
+ "2026/08/07.jpg": {
+  "alt": "Cozy Cashmere kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/08/07.webp",
+  "w": 1200
+ },
+ "2026/08/08.jpg": {
+  "alt": "Cozy Cashmere: John & Anne's Kitchen Story",
+  "h": 1800,
+  "src": "/images/2026/08/08.webp",
+  "w": 1200
+ },
+ "2026/08/09-1.jpg": {
+  "alt": "Cozy Cashmere kitchen project photo",
+  "h": 1800,
+  "src": "/images/2026/08/09-1.webp",
+  "w": 1200
+ },
+ "2026/08/10.jpg": {
+  "alt": "Cozy Cashmere kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/08/10.webp",
+  "w": 1200
+ },
+ "2026/08/11.jpg": {
+  "alt": "Cozy Cashmere: John & Anne's Kitchen Story",
+  "h": 800,
+  "src": "/images/2026/08/11.webp",
+  "w": 1200
+ },
+ "2026/08/13.jpg": {
+  "alt": "Cozy Cashmere kitchen",
+  "h": 800,
+  "src": "/images/2026/08/13.webp",
+  "w": 1200
+ },
+ "2026/08/13.jpg#hero": {
+  "alt": "Cozy Cashmere",
+  "h": 1067,
+  "src": "/images/2026/08/13-hero.webp",
+  "w": 1600
+ },
+ "2026/08/15.jpg#hero": {
+  "alt": "Cozy Cashmere: John & Anne's Kitchen Story",
+  "h": 1067,
+  "src": "/images/2026/08/15-hero.webp",
+  "w": 1600
+ },
+ "2026/10/01.webp": {
+  "alt": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
+  "h": 1500,
+  "src": "/images/2026/10/01.webp",
+  "w": 1000
+ },
+ "2026/10/02.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 1500,
+  "src": "/images/2026/10/02.webp",
+  "w": 1000
+ },
+ "2026/10/03.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/10/03.webp",
+  "w": 1200
+ },
+ "2026/10/04.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/10/04.webp",
+  "w": 1200
+ },
+ "2026/10/05.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/10/05.webp",
+  "w": 1200
+ },
+ "2026/10/06.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/10/06.webp",
+  "w": 1200
+ },
+ "2026/10/07.webp": {
+  "alt": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
+  "h": 1500,
+  "src": "/images/2026/10/07.webp",
+  "w": 1000
+ },
+ "2026/10/08.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/10/08.webp",
+  "w": 1200
+ },
+ "2026/10/09.webp": {
+  "alt": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
+  "h": 800,
+  "src": "/images/2026/10/09.webp",
+  "w": 1200
+ },
+ "2026/10/10.webp": {
+  "alt": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
+  "h": 800,
+  "src": "/images/2026/10/10.webp",
+  "w": 1200
+ },
+ "2026/10/11.webp": {
+  "alt": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
+  "h": 800,
+  "src": "/images/2026/10/11.webp",
+  "w": 1200
+ },
+ "2026/10/14.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 1500,
+  "src": "/images/2026/10/14.webp",
+  "w": 1000
+ },
+ "2026/10/15.webp": {
+  "alt": "Lakeshore Luxury kitchen project photo",
+  "h": 800,
+  "src": "/images/2026/10/15.webp",
+  "w": 1200
+ },
+ "2026/10/22.webp": {
+  "alt": "Homeowner at her marble-topped kitchen island",
+  "h": 800,
+  "src": "/images/2026/10/22.webp",
+  "w": 1200
+ },
+ "2026/10/22.webp#hero": {
+  "alt": "Homeowner at her marble-topped kitchen island",
+  "h": 1000,
+  "src": "/images/2026/10/22-hero.webp",
+  "w": 1500
+ },
+ "2026/10/LakeShore-Luxury.webp": {
+  "alt": "Lakeshore kitchen with a brick floor, chandeliers and a large island",
+  "h": 800,
+  "src": "/images/2026/10/LakeShore-Luxury.webp",
+  "w": 1200
+ },
+ "2026/10/LakeShore-Luxury.webp#hero": {
+  "alt": "Lakeshore kitchen with a brick floor, chandeliers and a large island",
+  "h": 1000,
+  "src": "/images/2026/10/LakeShore-Luxury-hero.webp",
+  "w": 1500
+ },
+ "2026/10/Mandeville-Hub.webp": {
+  "alt": "Mandeville Hub",
+  "h": 675,
+  "src": "/images/2026/10/Mandeville-Hub.webp",
+  "w": 1200
+ },
+ "2026/11/New_Financing.webp": {
+  "alt": "New_Financing",
+  "h": 828,
+  "src": "/images/2026/11/New_Financing.webp",
+  "w": 1200
+ },
+ "2026/11/New_ROI.webp": {
+  "alt": "New_ROI",
+  "h": 942,
+  "src": "/images/2026/11/New_ROI.webp",
+  "w": 1200
+ }
+}

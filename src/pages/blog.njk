@@ -1,0 +1,22 @@
+---json
+{
+  "layout": "layouts/page.njk",
+  "title": "Blog",
+  "seoTitle": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "description": "Kitchen Stories",
+  "permalink": "{% if pagination.pageNumber > 0 %}/blog/{{ pagination.pageNumber + 1 }}/{% else %}/blog/{% endif %}",
+  "core": true,
+  "wpId": 1766,
+  "source": "elementor",
+  "published": "2019-03-11 06:37:02",
+  "modified": "2026-07-02 21:54:36",
+  "ogImage": "/images/2018/06/Purestyle_Blog-hero.webp",
+  "pagination": {
+    "data": "collections.posts",
+    "size": 9,
+    "alias": "postsPage"
+  },
+  "blogIndex": true
+}
+---
+{% raw %}<section class="band band-photo band-photo-text"><img src="/images/2018/06/Purestyle_Blog-hero.webp" alt="Grey kitchen with an island, pendant lights and an exposed brick wall" width="1200" height="766" fetchpriority="high" class="band-img"><div class="wrap"><div class="band-card"><div class="el-block"><h2>Kitchen Stories</h2></div></div></div></section><section class="band"><div class="wrap">{% endraw %}{% include "partials/post-list.njk" %}{% raw %}</div></section>{% endraw %}

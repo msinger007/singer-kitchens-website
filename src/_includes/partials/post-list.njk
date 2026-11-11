@@ -1,0 +1,19 @@
+<div class="card-grid post-grid">
+{%- for p in postsPage %}
+  <a class="card" href="{{ p.url }}">
+    {%- if p.data.image %}<img src="{{ p.data.image.src }}" alt="{{ p.data.image.alt }}" width="{{ p.data.image.w }}" height="{{ p.data.image.h }}" loading="lazy" decoding="async">{% endif %}
+    <span class="card-title">{{ p.data.title }}</span>
+    <span class="card-desc">{{ p.data.excerpt }}</span>
+    <span class="card-more">Read More »</span>
+  </a>
+{%- endfor %}
+</div>
+{%- if pagination and pagination.pages.length > 1 %}
+<nav class="pager" aria-label="Kitchen Stories pages">
+  {%- if pagination.href.previous %}<a href="{{ pagination.href.previous }}">« Previous</a>{% endif %}
+  {%- for href in pagination.hrefs %}
+  <a href="{{ href }}"{% if href == page.url %} aria-current="page"{% endif %}>{{ loop.index }}</a>
+  {%- endfor %}
+  {%- if pagination.href.next %}<a href="{{ pagination.href.next }}">Next »</a>{% endif %}
+</nav>
+{%- endif %}

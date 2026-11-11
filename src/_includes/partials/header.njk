@@ -1,0 +1,38 @@
+<div class="topbar">
+  <div class="wrap topbar-in">
+    <span>Two showrooms: <a href="/showrooms/#new-orleans">New Orleans</a> and <a href="/showrooms/#mandeville">Mandeville</a></span>
+    <span class="topbar-social"><a href="{{ site.social.facebook }}" target="_blank" rel="noopener">Facebook</a> <a href="{{ site.social.instagram }}" target="_blank" rel="noopener">Instagram</a></span>
+  </div>
+</div>
+<header class="site-header" id="top">
+  <div class="wrap header-in">
+    <a class="logo" href="/" aria-label="Singer Kitchens home"><img src="/images/logo/singer-kitchens-since-1928.webp" alt="Singer Kitchens, since 1928" width="323" height="160"></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span class="bars" aria-hidden="true"></span><span class="sr">Menu</span></button>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <ul class="menu">
+      {%- for item in nav.main %}
+        {%- set active = (item.url and page.url == item.url) %}
+        {%- if item.children %}{% for c in item.children %}{% if page.url == c.url %}{% set active = true %}{% endif %}{% endfor %}{% endif %}
+        <li class="menu-item{% if item.children %} has-sub{% endif %}{% if active %} is-active{% endif %}">
+        {%- if item.children %}
+          <button type="button" class="menu-parent" aria-expanded="false">{{ item.label }}</button>
+          <ul class="sub">
+          {%- for c in item.children %}
+            <li><a href="{{ c.url }}"{% if page.url == c.url %} aria-current="page"{% endif %}>{{ c.label }}</a></li>
+          {%- endfor %}
+          </ul>
+        {%- else %}
+          <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+        {%- endif %}
+        </li>
+      {%- endfor %}
+      </ul>
+      <div class="nav-mobile-extra">
+        <a class="btn btn-red" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a>
+        <a class="phone" href="{{ site.phoneTel }}">{{ site.phone }}</a>
+      </div>
+    </nav>
+    <a class="phone header-phone" href="{{ site.phoneTel }}">{{ site.phone }}</a>
+    <a class="btn btn-red header-cta" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a>
+  </div>
+</header>

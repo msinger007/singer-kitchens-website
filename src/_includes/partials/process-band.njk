@@ -1,0 +1,26 @@
+{#- Home page four-step band (removable: delete the include in src/index.njk). -#}
+<section class="process" aria-labelledby="pb-h">
+  <div class="wrap">
+    <div class="process-head">
+      <h2 id="pb-h">{{ process.title }}</h2>
+      <a class="link-white" href="/our-process/">See the full process</a>
+    </div>
+    <ol class="steps">
+    {%- for s in process.steps %}
+      <li class="step{% if loop.first %} lead{% endif %}">
+        <div class="n">{{ s.n }}</div>
+        <h3>{{ s.title }}</h3>
+        {%- if s.sub %}<div class="sub">{{ s.sub }}</div>{% endif %}
+        <p>{{ s.summary or s.lead }}</p>
+        {%- if loop.first %}
+        <a class="btn btn-white" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a>
+        <a class="call" href="{{ site.phoneTel }}">{{ site.phone }}</a>
+        {%- elif s.n == 2 %}
+        <a class="step-link" href="/showrooms/">New Orleans or Mandeville</a>
+        {%- endif %}
+      </li>
+    {%- endfor %}
+    </ol>
+    <p class="quick">{{ process.quick }}</p>
+  </div>
+</section>

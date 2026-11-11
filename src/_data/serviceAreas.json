@@ -1,0 +1,17 @@
+{
+  "heading": "Serving the Northshore, Southshore & surrounding areas.",
+  "areas": [
+    { "name": "New Orleans" },
+    { "name": "Mandeville", "url": "/service-area/mandeville/" },
+    { "name": "Madisonville", "url": "/service-area/madisonville/" },
+    { "name": "Covington", "url": "/service-area/covington/" },
+    { "name": "Lacombe", "url": "/service-area/lacombe/" },
+    { "name": "Hammond", "url": "/service-area/hammond/" },
+    { "name": "Ponchatoula" },
+    { "name": "Kenner" },
+    { "name": "Slidell", "url": "/service-area/slidell/" },
+    { "name": "Metairie" },
+    { "name": "Jefferson" },
+    { "name": "Gretna" }
+  ]
+}

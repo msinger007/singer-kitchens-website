@@ -1,0 +1,43 @@
+{
+  "title": "The Four-Step Singer Kitchens Process",
+  "steps": [
+    {
+      "n": 1,
+      "title": "Let's Talk Kitchens",
+      "sub": "Phone Call",
+      "lead": "Every kitchen starts with a conversation.",
+      "body": [
+        "Tell us what you're thinking about changing, what matters most, and what kind of timeline you have in mind.",
+        "We can begin discussing financing options during this first call and answer questions about cabinet availability.",
+        "If you need to move quickly, let us know. You may have more options than you think."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Visit the Showroom",
+      "lead": "See and touch real cabinets, materials, finishes, and layouts.",
+      "body": [
+        "Talk with a designer about your ideas, explore the possibilities, and continue discussing pricing and financing options.",
+        "You don't need to have everything figured out before you visit."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "In-Home Measurement",
+      "lead": "Accurate measurements help us understand your space and develop realistic design options and a custom quote.",
+      "body": [
+        "We'll also discuss the practical details that could affect your project timeline."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Design Consultation, Quote & Presentation",
+      "lead": "Meet with your designer to review the proposed design, custom pricing options, available financing, installation considerations, and next steps.",
+      "body": [
+        "Our goal is to help you make informed decisions about your kitchen with a clear understanding of your options."
+      ],
+      "summary": "Our goal is to help you make informed decisions about your kitchen with a clear understanding of your options."
+    }
+  ],
+  "quick": "If you need to move quickly, let us know. You may have more options than you think."
+}

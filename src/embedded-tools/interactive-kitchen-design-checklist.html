@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Let's Talk About YOUR Kitchen — Singer Kitchens</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&amp;family=Source+Sans+3:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --red: #C8281A;
+  --red-light: #FAEBE9;
+  --red-dark: #9E1E10;
+  --border: rgba(0,0,0,0.13);
+  --border-strong: rgba(0,0,0,0.22);
+  --text: #1a1a1a;
+  --muted: #555;
+  --bg: #ffffff;
+  --bg2: #f7f7f7;
+  --display: Arial, Helvetica, sans-serif;
+  --body: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+  font-family: var(--body);
+  background: transparent;
+  color: var(--text);
+}
+
+.sk {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 24px rgba(0,0,0,0.08);
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.hdr {
+  background: var(--red);
+  padding: 24px 32px 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  border-radius: 12px 12px 0 0;
+}
+.hdr h1 {
+  font-family: var(--display);
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+  line-height: 1.2;
+  margin-bottom: 6px;
+}
+.hdr p {
+  font-size: 15px;
+  color: rgba(255,255,255,0.82);
+  font-weight: 300;
+  line-height: 1.5;
+}
+.hdr-right {
+  font-size: 12px;
+  color: rgba(255,255,255,0.6);
+  text-align: right;
+  line-height: 1.8;
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding-top: 2px;
+}
+
+.pbar { height: 4px; background: rgba(0,0,0,0.1); }
+.pfill {
+  height: 100%;
+  background: var(--red);
+  transition: width 0.5s cubic-bezier(0.4,0,0.2,1);
+}
+
+.slbl {
+  padding: 13px 32px 11px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+}
+.sname {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--red);
+}
+.snum {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.sbody {
+  padding: 28px 32px 8px;
+  background: #fff;
+}
+.stitle {
+  font-family: var(--display);
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.3;
+  margin-bottom: 8px;
+}
+.ssub {
+  font-size: 15px;
+  color: var(--muted);
+  line-height: 1.6;
+  margin-bottom: 28px;
+}
+
+.q { margin-bottom: 24px; }
+.q label {
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.chip {
+  padding: 11px 18px;
+  border-radius: 8px;
+  border: 2px solid var(--border-strong);
+  background: #fff;
+  font-family: var(--body);
+  font-size: 15px;
+  font-weight: 400;
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s, transform 0.1s;
+  line-height: 1.3;
+  text-align: left;
+}
+.chip:hover {
+  border-color: var(--red);
+  color: var(--red);
+}
+.chip.on {
+  background: var(--red);
+  border-color: var(--red);
+  color: #fff;
+  font-weight: 500;
+}
+
+.dnote {
+  margin: 4px 0 16px;
+  padding: 16px 18px;
+  background: var(--red-light);
+  border-left: 4px solid var(--red);
+  border-radius: 0 8px 8px 0;
+  animation: fadeUp 0.3s ease forwards;
+}
+.dnote-lbl {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 6px;
+}
+.dnote p {
+  font-size: 15px;
+  color: var(--text);
+  line-height: 1.7;
+  font-style: italic;
+}
+
+.sfoot {
+  padding: 18px 32px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+  border-top: 1px solid var(--border);
+  background: #fff;
+  position: sticky;
+  bottom: 0;
+  z-index: 10;
+}
+.btn-back {
+  padding: 12px 22px;
+  border-radius: 8px;
+  border: 2px solid var(--border-strong);
+  background: transparent;
+  font-family: var(--body);
+  font-size: 15px;
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.btn-back:hover { border-color: var(--text); color: var(--text); }
+.btn-next {
+  padding: 14px 32px;
+  border-radius: 8px;
+  border: none;
+  background: var(--red);
+  font-family: var(--body);
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.15s;
+  flex-shrink: 0;
+}
+.btn-next:hover { background: var(--red-dark); }
+
+.sum-wrap { padding: 28px 32px 36px; background: #fff; }
+.sum-title {
+  font-family: var(--display);
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.sum-intro {
+  font-size: 15px;
+  color: var(--muted);
+  margin-bottom: 28px;
+  line-height: 1.7;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+.sum-section { margin-bottom: 24px; }
+.sum-shdr {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--red);
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+.sum-block {
+  background: var(--bg2);
+  border-radius: 8px;
+  padding: 16px 18px;
+  margin-bottom: 10px;
+}
+.sum-block h4 {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 7px;
+}
+.sum-block p {
+  font-size: 15px;
+  color: var(--text);
+  line-height: 1.75;
+}
+.insight {
+  padding: 16px 18px;
+  background: var(--red-light);
+  border-left: 4px solid var(--red);
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 10px;
+}
+.insight .lbl {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 6px;
+}
+.insight p {
+  font-size: 15px;
+  color: var(--text);
+  line-height: 1.75;
+  font-style: italic;
+}
+
+.cta-box {
+  background: var(--red);
+  border-radius: 10px;
+  padding: 26px 24px 22px;
+  margin-top: 24px;
+  text-align: center;
+}
+.cta-box p {
+  font-size: 16px;
+  color: rgba(255,255,255,0.9);
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+.cta-box strong { color: #fff; }
+.cta-btns {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.btn-schedule {
+  display: inline-block;
+  padding: 14px 32px;
+  border-radius: 8px;
+  background: #fff;
+  color: var(--red);
+  font-family: var(--body);
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  transition: opacity 0.15s;
+  width: 100%;
+  max-width: 340px;
+}
+.btn-schedule:hover { opacity: 0.9; }
+.btn-dl,
+.btn-text {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  background: transparent;
+  color: #fff;
+  font-family: var(--body);
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  border: 2px solid rgba(255,255,255,0.45);
+  transition: background 0.15s;
+  width: 100%;
+  max-width: 340px;
+  text-decoration: none;
+}
+.btn-dl:hover,
+.btn-text:hover { background: rgba(255,255,255,0.12); }
+.cta-phone {
+  font-size: 13px;
+  color: rgba(255,255,255,0.55);
+  display: block;
+  margin-top: 14px;
+}
+.restart-row { text-align: center; padding: 16px 0 4px; }
+
+.fade { animation: fadeUp 0.35s ease forwards; }
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 600px) {
+  .sk { border-radius: 0; box-shadow: none; }
+
+  .hdr { padding: 20px 16px 16px; gap: 10px; }
+  .hdr h1 { 
+    font-size: 24px; 
+    line-height: 1.2; 
+    font-weight: 600;
+  }
+  .hdr p { 
+    font-size: 16px; 
+    line-height: 1.6; 
+  }
+
+  .hdr-right { display: none; }
+
+  .slbl { padding: 12px 16px; }
+  .sname {
+  font-size: 16px;   /* bigger + more prominent */
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.snum {
+  font-size: 13px;   /* keep step smaller for hierarchy */
+}
+
+  .sbody { padding: 22px 16px 10px; }
+
+  .stitle { 
+    font-size: 24px; 
+    line-height: 1.3; 
+    font-weight: 600;
+  }
+
+  .ssub { 
+    font-size: 17px; 
+    line-height: 1.7; 
+    margin-bottom: 22px;
+  }
+
+  .q label {
+    font-size: 19px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    font-weight: 600;
+  }
+
+  .chip {
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 14px 16px;
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .chips { gap: 8px; }
+
+  .dnote p {
+    font-size: 17px;
+    line-height: 1.75;
+  }
+
+  .btn-back { font-size: 16px; }
+  .btn-next { font-size: 18px; }
+
+  /* ===== SUMMARY PAGE (MOST IMPORTANT) ===== */
+
+  .sum-title {
+    font-size: 30px;
+    line-height: 1.15;
+    font-weight: 600;
+  }
+
+  .sum-intro {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+
+  .sum-shdr {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+	line-height: 1.4;
+  }
+
+  .sum-block h4 {
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 600;
+  }
+
+  .sum-block p,
+  .insight p {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+
+  .insight .lbl {
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .cta-box p {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .btn-schedule,
+  .btn-dl,
+  .btn-text {
+    font-size: 17px;
+    padding: 14px 16px;
+  }
+
+  .cta-phone {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 380px) {
+  .sum-title { font-size: 22px; }
+  .sum-intro,
+  .sum-block p,
+  .insight p,
+  .cta-box p { font-size: 13.5px; }
+  .sum-block h4 { font-size: 13.5px; }
+}
+</style>
+</head>
+<body>
+<div class="sk">
+  <div class="hdr">
+    <div>
+      <h1>Let's Talk About YOUR Kitchen.</h1>
+      <p>The planning checklist that helps you design a kitchen you'll love for years.</p>
+    </div>
+    <div class="hdr-right">Singer Kitchens<br>New Orleans<br>Since 1928</div>
+  </div>
+  <div class="pbar"><div class="pfill" id="pf" style="width:20%"></div></div>
+  <div id="app"></div>
+</div>
+
+<script nowprocket>
+var currentStep = 0;
+var answers = {};
+
+var steps = [
+  {
+    id: 'big', name: 'The big picture',
+    title: "What isn't working in your kitchen today?",
+    subtitle: "The clearest path to a great kitchen starts with an honest look at what's frustrating you right now.",
+    questions: [
+      { id: 'pains', label: 'What bothers you most? (Select all that apply)', type: 'multi',
+        opts: ['Not enough storage','Poor layout','Outdated look','Not enough counter space','Kitchen feels cramped',"Doesn't match the rest of the home",'Hard to cook and entertain','Cabinets peeling or worn'] },
+      { id: 'use', label: 'How is your kitchen primarily used?', type: 'single',
+        opts: ['Serious cooking & hosting','Family meals & mornings','A little of everything',"Mostly looks as we don't cook much"] }
+    ],
+    getNote: function(a) {
+      var p = a.pains || [], u = a.use || '';
+      if (p.indexOf('Cabinets peeling or worn') > -1 && u === 'Serious cooking & hosting') return "Peeling cabinets in a hard-working kitchen is something we see all the time, and it’s usually a sign the finish simply wasn’t built to last. Factory-finished cabinetry is in a completely different class, designed to hold up to daily use with far greater durability over time.";
+      if (p.indexOf('Cabinets peeling or worn') > -1) return "Peeling or previously painted cabinets are something we see often, especially in older homes. In most cases, replacing those cabinets with new, factory-finished cabinetry provides a much more durable, long-lasting solution. It also creates the opportunity to rethink the layout entirely, improving flow, storage and how the kitchen functions day to day.";
+      if (u === 'Serious cooking & hosting') return "A kitchen built for serious cooking and real entertaining isn't about square footage. It's about how the space is planned. The flow, the prep zones, the storage placement. Our designers start every conversation with how you actually cook, not how the kitchen looks in a photo.";
+      if (u === "Mostly looks as we don't cook much") return "You'd be surprised how often a kitchen designed around lifestyle ends up changing how a family uses their home entirely. When the space finally feels right, people move differently in it. That's not an accident, it's good planning.";
+      if (p.length >= 3) return "When you're dealing with multiple frustrations at once — layout, storage, looks — it usually means the kitchen wasn't designed for how you actually live. That's the most common situation Singer's designers see, and it's also where the most dramatic transformations happen.";
+      return "Understanding what isn't working gives us a clear starting point. Most homeowners find that once they name it honestly, the path forward becomes much clearer than they expected.";
+    }
+  },
+  {
+    id: 'look', name: 'The look & feel',
+    title: 'What kind of kitchen do you want to walk into?',
+    subtitle: "Style matters, but it should always connect to how you actually live in the space.",
+    questions: [
+      { id: 'style', label: 'What style feels most like you?', type: 'single',
+        opts: ['Classic & timeless','Modern & clean','Warm & farmhouse','Bold & personal',"I'll know it when I see it"] },
+      { id: 'feel', label: 'What feeling do you want when you walk in?', type: 'single',
+        opts: ['Bright & open','Warm & cozy','Dramatic & elevated','Light & airy','Calm & neutral'] },
+      { id: 'inspo', label: 'Have you collected inspiration photos or ideas?', type: 'single',
+        opts: ['Yes!','Some ideas but nothing organized','Not yet, starting from scratch'] }
+    ],
+    getNote: function(a) {
+      var i = a.inspo || '', st = a.style || '', f = a.feel || '';
+      if (i === 'Yes!') return "Bring everything, it tells our designers far more about what they actually want than any checklist question can. We read those folders carefully.";
+      if (st === "I'll know it when I see it" || i === 'Not yet, starting from scratch') return "You don't need to arrive with answers. That's exactly what our showroom is designed for. Most homeowners say they didn't know what they wanted until they were standing in front of it. Touch the materials. See how finishes look in real light. That's when it clicks.";
+      if (st === 'Classic & timeless' && f === 'Warm & cozy') return "Classic and warm is one of the most enduring combinations we create. Our designers have the experience and knowledge to personalize your space.";
+      if (st === 'Bold & personal') return "Bold and personal is a conversation we love having. The kitchens that get talked about and that homeowners are proudest of, are almost always the ones where someone said 'I want this to feel like us.'";
+      return "Style decisions land better when they're connected to how you actually live in the space. Our designers won't steer you toward a trend, they'll help you find what feels genuinely right for your home and your life in it.";
+    }
+  },
+  {
+    id: 'practical', name: 'The practical details',
+    title: 'The decisions that make a kitchen truly functional.',
+    subtitle: "These are the questions our designers work through before a single design line is drawn.",
+    questions: [
+      { id: 'scope', label: 'How much change are you open to?', type: 'single',
+        opts: ['Cabinets & countertops only','Full renovation, existing layout','Open to moving walls if it helps'] },
+      { id: 'appliances', label: 'What are you planning with your appliances?', type: 'single',
+        opts: ['Keeping everything','Replacing some','Replacing everything','Not sure yet'] },
+      { id: 'wishlist', label: 'Anything on your wishlist? (Select all that apply)', type: 'multi',
+        opts: ['Island or peninsula','Coffee station','Walk-in pantry','Open up a wall','Better storage throughout','More counter space','Improved lighting','Upgraded sink or fixtures'] }
+    ],
+    getNote: function(a) {
+      var w = a.wishlist || [], sc = a.scope || '', ap = a.appliances || '';
+      if (w.indexOf('Island or peninsula') > -1 && w.indexOf('Open up a wall') > -1) return "Opening up a wall or adding an island is one of the most impactful transformations that can be done in a kitchen remodel. One reshapes how your kitchen connects to the rest of the home, while the other creates a natural place for gathering, prep and everyday living.";
+      if (w.indexOf('Island or peninsula') > -1) return "An island is one of our most requested design elements. The conversation always starts with space requirements: minimum 36\" walkway around all obstacles, 24\" per person for seating.";
+      if (w.indexOf('Open up a wall') > -1) return "Opening up a wall can transform not just the kitchen but the entire character of a home's main living space. Our designers begin with in-home measurements to understand your space, then our installer takes a closer look to determine what’s truly possible by evaluating structural elements, electrical, plumbing and ductwork. You'll know exactly what you're working with before any commitment is made.";
+      if (w.indexOf('Walk-in pantry') > -1) return "Existing walk-in pantries are often one of the least functional spaces in a home due to deep shelves that hide everything in the back. We regularly convert them into butler's pantries, sculleries or cabinet pantries with adjustable roll-out trays. The result is almost always more usable storage in the same footprint.";
+      if ((ap === 'Replacing everything' || ap === 'Replacing some') && sc !== 'Cabinets & countertops only') return "One thing that surprises homeowners: older homes often don't have the electrical or plumbing infrastructure that today's high-end appliances require. Some of those appliances also need more physical space than people expect. Singer's designers factor appliance specs into the plan from day one.";
+      return "The practical details are where a good plan becomes a great kitchen. This is where Singer's decades of experience pays off most through every layout challenge, every quirky floor plan, every low window. We've worked through all of it.";
+    }
+  },
+  {
+    id: 'invest', name: 'Planning your investment',
+    title: 'A few important questions about the financial side.',
+    subtitle: '"What\'s this going to cost?" is the question we hear most. Let\'s make sure you\'re thinking about it clearly.',
+    questions: [
+      { id: 'budget', label: 'How are you thinking about budget right now?', type: 'single',
+        opts: ['Have a clear number in mind','Have a range but need guidance','Not sure — need help understanding costs','Financing would open this up for me'] },
+      { id: 'hometype', label: 'Is this your forever home — or are you thinking about resale?', type: 'single',
+        opts: ['Forever home','Thinking about selling in a few years','Want it personal AND to hold value','Not sure yet'] },
+      { id: 'timeline', label: 'When are you hoping to get started?', type: 'single',
+        opts: ['As soon as possible','In the next 3-6 months','Later this year','Just planning ahead'] }
+    ],
+    getNote: function(a) {
+      var b = a.budget || '', t = a.timeline || '', h = a.hometype || '';
+      if (b === 'Financing would open this up for me') return "Singer offers several 0% interest financing plans with different down payment requirements and payment terms. Financing makes it easy to move forward with your kitchen remodel now and pay for it over time.";
+      if (b === 'Not sure — need help understanding costs') return "Singer separates every quote into sections including cabinets, countertops, cabinet installation and additional construction costs. That breakdown lets you see exactly where the investment is going and make clear decisions about what matters most. There are no surprises in a well planned renovation.";
+      if (t === 'As soon as possible' && h === 'Forever home') return "Here's the realistic timeline: about 2-4 weeks from first conversation to decisions and ordering, 5-7 weeks for cabinets to arrive, then two to four weeks for most installations. Our crews are usually scheduled when materials are ordered so everything aligns.";
+      if (h === 'Thinking about selling in a few years') return "A kitchen renovation for resale is a different conversation. The goal is maximum visible impact per dollar invested, focused on the updates that move buyers.";
+      return "Understanding your investment goals helps us to guide you to make the best decisions. Whether this is your forever kitchen or a smart move before selling, Singer's designers will help you make the decision that fits your specific situation.";
+    }
+  },
+  {
+    id: 'vision', name: 'Your dream kitchen',
+    title: 'When this renovation is finished, how do you want to feel?',
+    subtitle: 'This is the question that matters most. Everything else leads here.',
+    questions: [
+      { id: 'outcome', label: 'What outcome matters most? (Select all that apply)', type: 'multi',
+        opts: ['Cooking feels easier and more enjoyable','Finally organized & everything has a place','Space for family to gather naturally','Proud to have people over with no more embarrassment','Kitchen finally matches the style of my home','Confident I made a smart long-term investment','I want to love walking into my kitchen every morning'] },
+      { id: 'concern', label: "What's your biggest concern going into this?", type: 'single',
+        opts: ['Making the wrong design choices','Going over budget','Living through the disruption','Finding a company I can truly trust','Not knowing what I don\'t know yet'] }
+    ],
+    getNote: function(a) {
+      var c = a.concern || '', o = a.outcome || [];
+      if (c === 'Finding a company I can truly trust') return "That’s the right concern to have and it’s one we take seriously. At Singer Kitchens, trust isn’t something we try to convince you of. It’s something we’ve built over time. We’ve been here since 1928, serving generations of New Orleans families. What matters most is that we are still here long after the project is finished, if anything ever needs attention.";
+      if (c === 'Making the wrong design choices') return "The fear of getting it wrong is one of the most common things we hear from homeowners and it’s exactly why our process begins with planning and listening. Our designers take the time to guide you through each decision, so you never feel rushed or uncertain along the way.";
+      if (c === 'Living through the disruption') return "People tend to overestimate the temporary discomfort of living through a renovation while underestimating how much they'll love what comes after. Singer's designers do their best to set realistic expectations which will help you to prepare for the experience.";
+      if (c === "Not knowing what I don't know yet") return "The most common things homeowners don't see coming: older homes often need electrical and plumbing upgrades for the appliances they want and some of those appliances need more space than expected.";
+      if (o.indexOf('Proud to have people over with no more embarrassment') > -1) return "In southeast Louisiana, having people over isn't optional, it's how we live. The homeowners who come to us most often describe exactly what you just described: embarrassed by the kitchen, proud of everything else. That transformation is one we've made thousands of times. It starts with a conversation.";
+      return "What you've described is exactly what Singer's planning-first process is designed to deliver. The goal is to design a kitchen you'll still love five years from now because it was planned right from the start.";
+    }
+  }
+];
+
+function chipClick(stepIdx, qIdx, optIdx) {
+  var q = steps[stepIdx].questions[qIdx];
+  var val = q.opts[optIdx];
+  if (q.type === 'multi') {
+    if (!answers[q.id]) answers[q.id] = [];
+    var arr = answers[q.id];
+    var pos = arr.indexOf(val);
+    if (pos > -1) arr.splice(pos, 1);
+    else arr.push(val);
+  } else {
+    answers[q.id] = val;
+  }
+  renderStep(false);
+}
+
+function goNext() {
+  if (currentStep < steps.length - 1) {
+    currentStep++;
+    renderStep(true);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  } else {
+    showSummary();
+  }
+}
+
+function goBack() {
+  if (currentStep > 0) {
+    currentStep--;
+    renderStep(true);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+}
+
+function restart() {
+  currentStep = 0;
+  answers = {};
+  renderStep(true);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function renderStep(animate) {
+  var st = steps[currentStep];
+  var pct = Math.round(((currentStep + 1) / steps.length) * 100);
+  document.getElementById('pf').style.width = pct + '%';
+
+  var qHTML = '';
+  for (var qi = 0; qi < st.questions.length; qi++) {
+    var q = st.questions[qi];
+    var chipsHTML = '';
+    for (var oi = 0; oi < q.opts.length; oi++) {
+      var opt = q.opts[oi];
+      var cur = answers[q.id];
+      var isOn = Array.isArray(cur) ? cur.indexOf(opt) > -1 : cur === opt;
+      var label = isOn ? '&#10003; ' + opt : opt;
+      chipsHTML += '<button class="chip' + (isOn ? ' on' : '') + '" onclick="chipClick(' + currentStep + ',' + qi + ',' + oi + ')">' + label + '</button>';
+    }
+    qHTML += '<div class="q"><label>' + q.label + '</label><div class="chips">' + chipsHTML + '</div></div>';
+  }
+
+  var backHTML = currentStep > 0 ? '<button class="btn-back" onclick="goBack()">&#8592; Back</button>' : '';
+  var isLast = currentStep === steps.length - 1;
+  var nextLabel = isLast ? 'See my kitchen plan &#8594;' : 'Continue &#8594;';
+  var nextAction = isLast ? 'showSummary()' : 'goNext()';
+
+  var html = '<div class="slbl"><span class="sname">' + st.name + '</span><span class="snum">Step ' + (currentStep + 1) + ' of ' + steps.length + '</span></div>';
+  html += '<div class="sbody' + (animate ? ' fade' : '') + '">';
+  html += '<h2 class="stitle">' + st.title + '</h2>';
+  html += '<p class="ssub">' + st.subtitle + '</p>';
+  html += qHTML;
+  html += '</div>';
+  html += '<div class="sfoot">' + backHTML + '<button class="btn-next" onclick="' + nextAction + '">' + nextLabel + '</button></div>';
+
+  document.getElementById('app').innerHTML = html;
+}
+
+function detectAvatar() {
+  var use = answers.use || '', concern = answers.concern || '', budget = answers.budget || '',
+      style = answers.style || '', wishlist = answers.wishlist || [],
+      outcome = answers.outcome || [], hometype = answers.hometype || '';
+  if (use === 'Serious cooking & hosting' || (wishlist.indexOf('Island or peninsula') > -1 && wishlist.indexOf('Coffee station') > -1)) return 'catherine';
+  if (budget === 'Have a clear number in mind' || hometype === 'Thinking about selling in a few years' || concern === 'Finding a company I can truly trust') return 'sarah';
+  if (use === 'Family meals & mornings' || concern === 'Living through the disruption' || wishlist.indexOf('Better storage throughout') > -1) return 'emily';
+  if (outcome.indexOf('Proud to have people over with no more embarrassment') > -1 || concern === 'Going over budget' || budget === 'Financing would open this up for me') return 'proud';
+  if (use === "Mostly looks as we don't cook much" || style === "I'll know it when I see it" || concern === 'Making the wrong design choices') return 'dreamer';
+  return 'general';
+}
+
+function getPersonalizedNarrative() {
+  var avatar = detectAvatar();
+  var pains = answers.pains || [], wishlist = answers.wishlist || [], scope = answers.scope || '',
+      outcome = answers.outcome || [], concern = answers.concern || '',
+      hometype = answers.hometype || '';
+
+  var opening = '', middle = '', close = '';
+
+  if (avatar === 'catherine') {
+    opening = "Based on what you've shared, your kitchen needs to support real cooking, real hosting and real daily use at a higher level than it does now. That gap between the way you want to live and the way your kitchen currently performs is exactly where Singer's designers do some of their best work. You bring the vision for how you want life to feel. We help shape the plan that makes it possible.";
+  } else if (avatar === 'sarah') {
+    opening = "What comes through clearly is that you're thinking about this carefully, because you know a kitchen remodel is a meaningful investment in both your home and your daily life. That's the right instinct. Singer's process is built to help thoughtful homeowners make confident decisions, with experienced guidance, clear tradeoffs and the kind of perspective that only comes from doing this for generations.";
+  } else if (avatar === 'emily') {
+    opening = "What you've described is a kitchen that needs to work harder for the rhythm of everyday life. For busy households, the difference between a kitchen that simply looks better and one that genuinely makes mornings, meals and gatherings easier almost always comes down to thoughtful planning. That's where Singer steps in as your guide.";
+  } else if (avatar === 'proud') {
+    opening = "What you've shared sounds like someone who cares deeply about getting this right, not just getting it done. When a kitchen feels important, the decisions can feel heavy. That's why Singer begins with listening, clarity and guidance. You stay at the center of the vision, and our job is to help you move forward with confidence.";
+  } else if (avatar === 'dreamer') {
+    opening = "What you're really looking for is not just a prettier kitchen. You're looking for an expert guide who can help you sort through the options, protect you from costly missteps and make the whole process feel manageable. That's exactly how Singer's designers work. You do not have to arrive with every answer. We help you discover what feels right and why.";
+  } else {
+    opening = "Based on everything you've shared, you're approaching this the way the best Singer projects usually begin: thoughtfully. You care about how your kitchen looks, how it works and how it supports your life. That makes you the hero of the story, and it gives our designers the right starting point to guide you well.";
+  }
+
+  var specifics = [];
+  if (pains.length >= 3) specifics.push("When several frustrations show up at once — layout, storage, looks — it's usually a sign the kitchen was never planned around the way your household actually lives. Singer's designers see that every day, and it's often where the most meaningful transformations begin because there is so much room to improve both function and feeling.");
+  if (pains.indexOf('Not enough storage') > -1 && pains.indexOf('Not enough counter space') > -1) specifics.push("Not enough storage and not enough counter space usually point to the same deeper issue: the kitchen is asking too much of the wrong areas. The answer is rarely just more room. More often, it's smarter planning, better placement and details designed around how you cook, prep and put things away.");
+  if (pains.indexOf("Doesn't match the rest of the home") > -1) specifics.push("When a kitchen feels disconnected from the rest of the home, homeowners feel it every day. One of the things Singer cares about most is helping the kitchen finally belong — so the space feels more natural, more finished and more like it was always meant to be there.");
+  if (wishlist.indexOf('Island or peninsula') > -1 && scope !== 'Cabinets & countertops only') specifics.push("An island or peninsula can be one of the most life-changing additions in a kitchen, but only when it is planned honestly around clearance, flow and purpose. Singer's designers help homeowners think through what that feature needs to do before it is ever drawn, so the final design serves the life happening around it.");
+  if (wishlist.indexOf('Open up a wall') > -1) specifics.push("Opening a wall can completely change how a home lives, not just how the kitchen looks. Singer approaches that kind of change carefully: first by evaluating whether it truly improves the layout, then by helping you understand what it will take before anything is committed. That is how good ideas become confident decisions.");
+  if (hometype === 'Forever home' && scope === 'Open to moving walls if it helps') specifics.push("Knowing this is your forever home changes the conversation in the best possible way. You're not designing for a future buyer. You're designing for your own mornings, meals, holidays and routines for years to come. That gives the process more honesty, and it often leads to a result that feels far more personal.");
+  if (scope === 'Cabinets & countertops only') specifics.push("A focused cabinets-and-countertops renovation can still be deeply transformative when it is planned well. Singer has helped many homeowners make that scope feel substantial by paying attention to the details that shape everyday use, while keeping the investment clear and understandable.");
+  middle = specifics.slice(0, 2).join(' ');
+
+  if (concern === 'Making the wrong design choices') close = "The fear of regret is real, and it deserves respect. Singer's planning-first process is designed to protect you from rushed, disconnected decisions by grounding every choice in how you live, what matters to you and what our designers know will serve you well over time. Your vision leads. Our expertise helps bring it into focus.";
+  else if (concern === 'Going over budget') close = "Budget confidence comes from clarity, not guesswork. Singer separates every estimate by cabinets, countertops, installation and additional construction so you can see where the investment is going and decide what matters most. There are no surprises in a well-planned renovation. We also offer several 0% interest financing options. The goal is not pressure. It's helping you move forward wisely.";
+  else if (outcome.indexOf('I want to love walking into my kitchen every morning') > -1) close = "Loving your kitchen every morning rarely comes from one pretty finish or one popular feature. It comes from a space that was planned around your life from the start. That's the kind of result Singer works toward: a kitchen that feels beautiful, useful and deeply right long after the project is finished.";
+  else if (outcome.indexOf('Finally organized & everything has a place') > -1) close = "A kitchen where everything has a place changes more than appearances. It changes how the day feels. Singer's designers pay close attention to those details because thoughtful storage is one of the quiet things that makes a kitchen feel calmer, easier and better suited to your lifestyle.";
+  else close = "What Singer homeowners value most in the end is not simply that the kitchen looks new. It's that the space feels right for their life. That kind of lasting satisfaction comes from thoughtful planning, careful guidance and a team that genuinely cares about every detail along the way.";
+
+  return { opening: opening, middle: middle, close: close };
+}
+
+function getScopeContext() {
+  var scope = answers.scope || '';
+  if (scope === 'Cabinets & countertops only') return "A focused renovation of cabinets and countertops can completely transform a kitchen when the details are handled well. Singer separates your estimate into sections (cabinets, countertops, installation, additional construction) so you can see exactly where every dollar goes and make confident decisions about what matters most. This scope often delivers some of Singer's most dramatic before-and-afters because careful planning can do a great deal within clear boundaries.";
+  if (scope === 'Full renovation, existing layout') return "A full renovation within the existing layout is often the most cost-effective path to a dramatically different kitchen. You get the benefit of a fully renewed space without the added complexity and cost of moving walls or plumbing. Singer's designers help make that scope feel thoughtful and complete, with one point of contact guiding the project from design through installation.";
+  if (scope === 'Open to moving walls if it helps') return "When you're open to a layout change, the conversation becomes much more about possibility and purpose. Singer's designers begin with a site visit to evaluate whether moving a wall would genuinely improve the kitchen, not just make it bigger, but make it function better for the way you live. Our installer then determines feasibility. The investment is higher, but when the change is right, it can reshape the entire character of the home.";
+  return "Singer separates every estimate into clear sections of cabinets, countertops, installation and additional construction costs so you always understand where the investment is going and can make decisions that fit your priorities.";
+}
+
+function getWishlistInsights() {
+  var w = answers.wishlist || [];
+  var ins = [];
+  if (w.indexOf('Island or peninsula') > -1) ins.push({ h: 'About your island', p: "Islands are one of Singer's most-requested features because they can improve gathering, prep space and everyday flow all at once. The key planning questions are still the practical ones: clearance (minimum 36\" walkway around all permanent obstacles), seating (24\" per person minimum) and function. An island with an under-counter appliance, sink or microwave also adds plumbing and electrical scope. The right island is not just attractive. It earns its place in your daily life." });
+  if (w.indexOf('Coffee station') > -1) ins.push({ h: 'About your coffee station', p: "A coffee station can be as simple as a dedicated countertop zone with smart storage above and below, or as involved as a fully concealed specialty cabinet with its own plumbed water line. The built-in versions require additional plumbing and electrical work. Your Singer designer will help you weigh what fits your space, your budget and the way your mornings actually work so the feature feels useful, not just aspirational." });
+  if (w.indexOf('Walk-in pantry') > -1) ins.push({ h: 'About your pantry situation', p: "Walk-in pantries often sound ideal, but many homeowners discover that deep shelves hide too much and leave part of the space underused. Singer can often convert these into butler's pantries, sculleries or cabinet pantries with adjustable roll-out trays. The result is almost always more functional storage than the walk-in ever provided, in the same footprint. That kind of improvement can make the whole kitchen feel easier to live in." });
+  if (w.indexOf('Open up a wall') > -1) ins.push({ h: 'About opening a wall', p: "This can be a truly transformative move, not only for the kitchen but for the flow of the main living space. Singer's designers first assess whether removing the wall genuinely improves the layout and supports the way you want to live. Our installer then determines the construction requirements needed to make it a reality. You get expert guidance before you are asked to commit." });
+  if (w.indexOf('Better storage throughout') > -1) ins.push({ h: 'About your storage', p: "Better storage is almost never just about adding more cabinets. It's about understanding what you store, where you naturally reach for it and how often you use it. Singer's designers pay close attention to those habits so the storage solutions feel personal, intuitive and supportive of the way your kitchen works every day." });
+  return ins;
+}
+
+function getTimeline() {
+  var t = answers.timeline || '', scope = answers.scope || '';
+  var complex = scope === 'Open to moving walls if it helps';
+  if (t === 'As soon as possible') return { label: 'What your timeline actually looks like', text: "Here's the realistic breakdown from today: two to four weeks from your first conversation to decisions and placing the order. Five to seven weeks for cabinets to arrive. Two to four weeks for most basic installations." + (complex ? " For a project with layout changes, add time for the site visit, contractor assessment and any additional work, but Singer manages all of that coordination." : "") + " Our crews usually book when materials are ordered so labor and delivery align." };
+  if (t === 'In the next 3-6 months') return { label: 'Your planning window', text: "A 3-6 month horizon is genuinely ideal. It gives you time to visit the showroom, make decisions thoughtfully and not feel rushed through selections." + (complex ? ', longer for projects that require additional work' : '') + ". Starting the planning conversation now puts you in a comfortable position." };
+  if (t === 'Later this year') return { label: 'A note on timing', text: "Starting earlier than you think you need to is one of the most consistent pieces of advice Singer's designers give. The planning process that includes conversations, showroom visits, design, selections and ordering takes time. The most common thing homeowners say looking back is 'I wish we'd started sooner.' Later this year is achievable. Just don't wait until the month before you want it done." };
+  return { label: 'Planning ahead is exactly right', text: "The homeowners who are happiest with their results are almost always the ones who gave themselves time to think clearly, explore options and make decisions without pressure. When you're ready to move from planning to conversations, Singer's designers will be here." };
+}
+
+function getSeason() {
+  try {
+    var m = new Date().getMonth();
+    if (m >= 7 && m <= 9) return "You're thinking about this at exactly the right moment. Singer's designers recommend starting the conversation in late summer or early fall for anyone who wants to entertain in a new kitchen during the holidays.";
+    if (m >= 2 && m <= 4) return "Spring is an ideal time to start this process. Summer break is one of the most popular renovation windows as the slower family routine makes living through installation more manageable. Starting now means a finished kitchen before summer ends.";
+    if (m >= 10 || m <= 1) return "If your goal is to be in a new kitchen for holiday entertaining, the timeline is tight but real. Our installers usually book when materials are ordered. The conversation needs to happen now.";
+    return null;
+  } catch(e) { return null; }
+}
+
+function getNewOrleansContext() {
+  var pains = answers.pains || [], scope = answers.scope || '', wishlist = answers.wishlist || [];
+  if (pains.indexOf('Poor layout') > -1 || pains.indexOf('Kitchen feels cramped') > -1) return "Some older homes were built when kitchens were workrooms, not the center of family and social life. Low windows, uneven floors and layouts that predate how people actually cook and gather today are common. Singer's designers and installers are experienced in improving both the style and functionality of these older kitchen spaces, helping homeowners honor what they love about the home while making it work better for modern life.";
+  if (wishlist.indexOf('Open up a wall') > -1 || scope === 'Open to moving walls if it helps') return "Layout changes require an experienced team that understands what older homes can be hiding, and Singer does. Our designers and installers have worked through load-bearing walls, aging electrical panels, cast iron plumbing and original ductwork in many local homes. That expertise helps homeowners explore bigger ideas with more confidence.";
+  return "Nearly 100 years of kitchens means Singer has worked through many of the challenges older homes present, including unlevel floors and low windows. Older kitchens were designed for a different era and a different way of living. Our experienced designers and installers know how to modernize these spaces thoughtfully so the finished result feels both more beautiful and more livable.";
+}
+
+function getConcernResponse() {
+  var concern = answers.concern || '';
+  var map = {
+    'Making the wrong design choices': { h: 'On making the wrong choices', p: "This is exactly the concern our process is built around. Singer begins by understanding how you actually live in your kitchen: what happens there every day, what has been frustrating and what matters most to you. By the time you're selecting details like cabinet door styles, you're not guessing. You're making decisions with context, guidance and a much clearer sense of what fits your life." },
+    'Going over budget': { h: 'On staying within budget', p: "Singer separates every estimate into clear sections of cabinets, countertops, installation and additional construction so you can see exactly where every dollar is going. That transparency helps you make real decisions about priorities instead of hoping the final number lands somewhere reasonable. There are no surprises in a well-planned renovation. We also offer 0% interest financing options to help you move forward thoughtfully." },
+    'Living through the disruption': { h: 'On living through a renovation', p: "Singer's designers set realistic expectations from the first conversation about what the disruption actually looks like, how long each phase takes and what you can do to prepare for it. Homeowners usually handle the experience best when they know what is coming and feel supported through it. The temporary inconvenience is real, but so is the relief of having a kitchen that finally works better for daily life." },
+    'Finding a company I can truly trust': { h: 'On finding someone you can trust', p: "Singer Kitchens has been operating in Greater New Orleans since 1928. Four generations of families have trusted us, including homeowners whose grandparents used Singer and came back because of that experience. Trust is built by being here, doing the work well and still being here when something needs attention afterward. That long view matters when you're making an important decision for your home." },
+    "Not knowing what I don't know yet": { h: "On what you don't know yet", p: "The two things that most consistently surprise homeowners in older homes are these: the electrical and plumbing infrastructure often isn't adequate for today's high-end appliances, and those appliances frequently need more physical space than the spec sheet suggests. Singer's designers help uncover those realities early so your plan stays grounded and your expectations stay clear." }
+  };
+  return map[concern] || null;
+}
+
+function showSummary() {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  document.getElementById('pf').style.width = '100%';
+
+  var narrative = getPersonalizedNarrative();
+  var wInsights = getWishlistInsights();
+  var scopeCtx = getScopeContext();
+  var tl = getTimeline();
+  var nolaCtx = getNewOrleansContext();
+  var concernResp = getConcernResponse();
+  var season = getSeason();
+  var appNote = (answers.appliances === 'Replacing everything' || answers.appliances === 'Replacing some')
+    ? "One thing that consistently surprises homeowners in older homes is that their existing electrical and plumbing infrastructure often isn't adequate for today's high-end appliances. Some of those appliances also require significantly more physical space than people expect. Singer's designers build appliance specs into the plan from the start so the kitchen you fall in love with on paper can truly work in real life."
+    : null;
+
+  var wishlistHTML = '';
+  for (var i = 0; i < wInsights.length; i++) {
+    wishlistHTML += '<div class="sum-block"><h4>' + wInsights[i].h + '</h4><p>' + wInsights[i].p + '</p></div>';
+  }
+
+  var smsText = buildSMSText(narrative, tl);
+
+  var html = '<div class="sum-wrap fade">';
+  html += '<h2 class="sum-title">Your Kitchen Planning Summary.</h2>';
+  html += '<p class="sum-intro">' + narrative.opening + (narrative.middle ? ' ' + narrative.middle : '') + '</p>';
+
+  html += '<div class="sum-section"><div class="sum-shdr">What your renovation scope means</div>';
+  html += '<div class="sum-block"><p>' + scopeCtx + '</p></div>';
+  if (appNote) html += '<div class="sum-block"><h4>About replacing your appliances</h4><p>' + appNote + '</p></div>';
+  html += '</div>';
+
+  if (wInsights.length > 0) {
+    html += '<div class="sum-section"><div class="sum-shdr">About your wishlist</div>' + wishlistHTML + '</div>';
+  }
+
+  html += '<div class="sum-section"><div class="sum-shdr">Your realistic timeline</div>';
+  html += '<div class="sum-block"><h4>' + tl.label + '</h4><p>' + tl.text + '</p></div>';
+  if (season) html += '<div class="insight"><div class="lbl">A note on timing</div><p>' + season + '</p></div>';
+  html += '</div>';
+
+  html += '<div class="sum-section"><div class="sum-shdr">What homeowners should know</div>';
+  html += '<div class="sum-block"><p>' + nolaCtx + '</p></div>';
+  if (concernResp) html += '<div class="sum-block"><h4>' + concernResp.h + '</h4><p>' + concernResp.p + '</p></div>';
+  html += '</div>';
+
+  html += '<div class="sum-section"><div class="sum-shdr">What comes next</div>';
+  html += '<div class="insight"><div class="lbl">Based on everything you\'ve shared</div><p>' + narrative.close + '</p></div>';
+  html += '</div>';
+
+  html += '<div class="cta-box">';
+  html += '<p><strong>You\'ve done the thinking. We\'ll bring the experience.</strong><br>Download your summary to share with your household or text it to yourself right now.</p>';
+  html += '<div class="cta-btns">';
+  html += '<a class="btn-schedule" href="https://www.singerkitchens.com/request-consultation/" target="_blank">Schedule a Design Conversation &#8594;</a>';
+  html += '<button class="btn-dl" onclick="downloadPDF()">&#8595; Download your planning summary</button>';
+  html += '<a class="btn-text" href="sms:?body=' + encodeURIComponent(smsText) + '">&#128241; Text this to someone</a>';
+  html += '</div>';
+  html += '<span class="cta-phone">(504) 539-4605 &middot; singerkitchens.com</span>';
+  html += '</div>';
+  html += '<div class="restart-row"><button class="btn-back" style="font-size:14px;" onclick="restart()">Start over</button></div>';
+  html += '</div>';
+
+  document.getElementById('app').innerHTML = html;
+}
+
+function buildSMSText(narrative, tl) {
+  var lines = [
+    'SINGER KITCHENS — Your Kitchen Planning Summary',
+    'singerkitchens.com | (504) 539-4605',
+    '',
+    narrative.opening,
+    ''
+  ];
+  if (answers.scope) lines.push('SCOPE: ' + answers.scope);
+  if ((answers.wishlist || []).length) lines.push('WISHLIST: ' + answers.wishlist.join(', '));
+  if (answers.timeline) lines.push('TIMELINE: ' + answers.timeline);
+  lines.push('');
+  lines.push(narrative.close);
+  lines.push('');
+  lines.push('Schedule a design conversation: singerkitchens.com/request-consultation');
+  return lines.join('\n');
+}
+
+function downloadPDF() {
+  try {
+    var jsPDF = window.jspdf.jsPDF;
+    var doc = new jsPDF({ unit: 'pt', format: 'letter' });
+    var W = 612, M = 50, CW = W - M * 2;
+    var y = 50;
+    var red = [200, 40, 26], dark = [25, 25, 25], mid = [85, 85, 85], lite = [247, 244, 240];
+
+    function checkY(n) { if (y + n > 730) { doc.addPage(); y = 50; } }
+    function sHead(t) {
+      checkY(30);
+      doc.setFillColor(lite[0], lite[1], lite[2]);
+      doc.rect(M, y - 12, CW, 20, 'F');
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(8);
+      doc.setTextColor(red[0], red[1], red[2]);
+      doc.text(t.toUpperCase(), M + 7, y + 2);
+      y += 20;
+    }
+    function bBlock(h, t) {
+      checkY(36);
+      if (h) {
+        doc.setFont('helvetica', 'bold');
+        doc.setFontSize(10.5);
+        doc.setTextColor(dark[0], dark[1], dark[2]);
+        doc.text(h, M, y);
+        y += 15;
+      }
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(10);
+      doc.setTextColor(mid[0], mid[1], mid[2]);
+      var lines = doc.splitTextToSize(t, CW);
+      for (var li = 0; li < lines.length; li++) { checkY(14); doc.text(lines[li], M, y); y += 14; }
+      y += 8;
+    }
+    function iBlock(lbl, t) {
+      checkY(48);
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(10);
+      var lines = doc.splitTextToSize(t, CW - 20);
+      var bh = lines.length * 14 + 28;
+      doc.setFillColor(250, 235, 232);
+      doc.rect(M, y - 14, CW, bh, 'F');
+      doc.setFillColor(red[0], red[1], red[2]);
+      doc.rect(M, y - 14, 4, bh, 'F');
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(8);
+      doc.setTextColor(red[0], red[1], red[2]);
+      doc.text(lbl.toUpperCase(), M + 11, y);
+      y += 14;
+      doc.setFont('helvetica', 'italic');
+      doc.setFontSize(10);
+      doc.setTextColor(dark[0], dark[1], dark[2]);
+      for (var li = 0; li < lines.length; li++) { checkY(14); doc.text(lines[li], M + 11, y); y += 14; }
+      y += 14;
+    }
+
+    var narrative = getPersonalizedNarrative();
+    var wInsights = getWishlistInsights();
+    var scopeCtx = getScopeContext();
+    var tl = getTimeline();
+    var nolaCtx = getNewOrleansContext();
+    var concernResp = getConcernResponse();
+    var season = getSeason();
+    var appNote = (answers.appliances === 'Replacing everything' || answers.appliances === 'Replacing some')
+      ? "One thing that consistently surprises homeowners in older homes is that their existing electrical and plumbing infrastructure often isn't adequate for today's high-end appliances. Some of those appliances also require significantly more physical space than people expect. Singer's designers build appliance specs into the plan from the start so the kitchen you fall in love with on paper can truly work in real life."
+      : null;
+
+    doc.setFillColor(red[0], red[1], red[2]);
+    doc.rect(0, 0, W, 68, 'F');
+    doc.setFont('helvetica', 'bold');
+    doc.setFontSize(18);
+    doc.setTextColor(255, 255, 255);
+    doc.text("Let's Talk About YOUR Kitchen.", M, 34);
+    doc.setFont('helvetica', 'normal');
+    doc.setFontSize(9);
+    doc.text('Singer Kitchens · New Orleans · Since 1928 · singerkitchens.com · (504) 539-4605', M, 52);
+    y = 94;
+
+    doc.setFont('helvetica', 'bold');
+    doc.setFontSize(16);
+    doc.setTextColor(dark[0], dark[1], dark[2]);
+    doc.text('Your Kitchen Planning Summary', M, y);
+    y += 12;
+    doc.setFont('helvetica', 'normal');
+    doc.setFontSize(10);
+    doc.setTextColor(mid[0], mid[1], mid[2]);
+    var subLines = doc.splitTextToSize('What an experienced Singer designer would want you to know based on what you shared.', CW);
+    for (var li = 0; li < subLines.length; li++) { doc.text(subLines[li], M, y); y += 14; }
+    y += 8;
+    doc.setDrawColor(red[0], red[1], red[2]);
+    doc.setLineWidth(0.5);
+    doc.line(M, y, W - M, y);
+    y += 18;
+
+    sHead('Your situation');
+    bBlock(null, narrative.opening);
+    if (narrative.middle) bBlock(null, narrative.middle);
+
+    sHead('What your renovation scope means');
+    bBlock(null, scopeCtx);
+    if (appNote) bBlock('About replacing your appliances', appNote);
+
+    if (wInsights.length > 0) {
+      sHead('About your wishlist');
+      for (var wi = 0; wi < wInsights.length; wi++) bBlock(wInsights[wi].h, wInsights[wi].p);
+    }
+
+    sHead('Your realistic timeline');
+    bBlock(tl.label, tl.text);
+    if (season) iBlock('A note on timing', season);
+
+    sHead('What New Orleans homeowners should know');
+    bBlock(null, nolaCtx);
+    if (concernResp) bBlock(concernResp.h, concernResp.p);
+
+    sHead('What comes next');
+    iBlock('Based on everything you shared', narrative.close);
+
+    checkY(66);
+    doc.setFillColor(red[0], red[1], red[2]);
+    doc.rect(M, y, CW, 58, 'F');
+    doc.setFont('helvetica', 'bold');
+    doc.setFontSize(12);
+    doc.setTextColor(255, 255, 255);
+    doc.text("Ready to talk? We'd love to hear about your kitchen.", M + 14, y + 20);
+    doc.setFont('helvetica', 'normal');
+    doc.setFontSize(9.5);
+    doc.text('Schedule a Design Conversation: singerkitchens.com/request-consultation', M + 14, y + 36);
+    doc.text('(504) 539-4605  ·  Two showrooms: New Orleans & Mandeville', M + 14, y + 50);
+
+    doc.save('Singer_Kitchens_Planning_Summary.pdf');
+  } catch(e) {
+    alert('Something went wrong generating your PDF. Please contact Singer Kitchens at (504) 539-4605.');
+  }
+}
+
+renderStep(true);
+
+</script>
+
+<script>
+(function() {
+  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbwBgb9LfLNrJNuMFAhdfQu31v9K4MkUtnqKCcym1PJZGroLKApfdsG2f8Hw6Mos6so/exec';
+
+  var _showSummary = showSummary;
+  showSummary = function() {
+    _showSummary();
+    try {
+      var payload = {
+        avatar:     detectAvatar(),
+        pains:      answers.pains     || [],
+        use:        answers.use       || '',
+        style:      answers.style     || '',
+        feel:       answers.feel      || '',
+        inspo:      answers.inspo     || '',
+        scope:      answers.scope     || '',
+        appliances: answers.appliances|| '',
+        wishlist:   answers.wishlist  || [],
+        budget:     answers.budget    || '',
+        hometype:   answers.hometype  || '',
+        timeline:   answers.timeline  || '',
+        outcome:    answers.outcome   || [],
+        concern:    answers.concern   || ''
+      };
+      fetch(SHEET_URL, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+    } catch(e) {}
+  };
+})();
+</script>
+</script>
+</body>
+</html>

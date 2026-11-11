@@ -1,0 +1,18 @@
+{#- Compact four-step strip used on service pages, above the final call to action. -#}
+<section class="band process-strip" aria-labelledby="ps-h">
+  <div class="wrap">
+    <div class="strip-head">
+      <h2 id="ps-h">{{ process.title }}</h2>
+      <a class="link-white" href="/our-process/">See the full process</a>
+    </div>
+    <ol class="strip-steps">
+    {%- for s in process.steps %}
+      <li class="{% if loop.first %}lead{% endif %}">
+        <span class="n">{{ s.n }}</span>
+        <span class="t">{{ s.title }}</span>
+        {%- if loop.first %}<a class="btn btn-white btn-sm" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a> <a class="strip-call" href="{{ site.phoneTel }}">{{ site.phone }}</a>{% endif %}
+      </li>
+    {%- endfor %}
+    </ol>
+  </div>
+</section>

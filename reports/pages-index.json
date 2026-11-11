@@ -1,0 +1,3059 @@
+[
+ {
+  "path": "/about/",
+  "title": "About",
+  "core": true,
+  "type": "page",
+  "id": 9,
+  "seo": {
+   "title": "About | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Singer Kitchens A New Orleans Tradition Since 1928 As a local, New Orleans-based business founded in 1928, we understand the importance of family, honesty",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/showrooms/",
+  "title": "Showrooms",
+  "core": true,
+  "type": "page",
+  "id": 11,
+  "seo": {
+   "title": "Kitchen Design Showroom New Orleans & Mandeville - Singer Kitchens",
+   "description": "View kitchen design showroom locations in New Orleans & Mandeville Louisiana for Singer Kitchens.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": true
+ },
+ {
+  "path": "/contact/",
+  "title": "Contact",
+  "core": false,
+  "type": "page",
+  "id": 13,
+  "seo": {
+   "title": "Contact | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Contact Us",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/cabinets/",
+  "title": "Cabinets",
+  "core": true,
+  "type": "page",
+  "id": 335,
+  "seo": {
+   "title": "Kitchen Cabinets New Orleans, Mandeville & Covington - Singer Kitchens",
+   "description": "Visit Singer Kitchens showrooms in New Orleans or Mandeville to see top-quality kitchen cabinet brands and designs or meet with a design consulant.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/financing/",
+  "title": "Financing",
+  "core": true,
+  "type": "page",
+  "id": 426,
+  "seo": {
+   "title": "Financing | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Financing Made Simple With 0% interest financing available for 12, 24 or 60 months, you can begin your project now and spread your payments over time with",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/employment/",
+  "title": "Employment",
+  "core": true,
+  "type": "page",
+  "id": 428,
+  "seo": {
+   "title": "Employment | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Careers Singer Kitchens is a great place to work! Singer Kitchens is the leading kitchen remodeler in the greater New Orleans area with showrooms located",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/special-offers/",
+  "title": "Special-Offers",
+  "core": false,
+  "type": "page",
+  "id": 430,
+  "seo": {
+   "title": "Special-Offers | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Special Offers 0% INTEREST FINANCING FOR UP TO 60 MONTHS! Singer Kitchens offers the best financing selection in town! There are several plans to choose",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/closets/",
+  "title": "Closets & Home Organization Solutions",
+  "core": true,
+  "type": "page",
+  "id": 488,
+  "seo": {
+   "title": "Closet Renovations From Singer Kitchens In New Orleans & Mandeville",
+   "description": "Browse the most fabulous closet storage and organization solutions from Singer Kitchens in New Orleans and Mandeville",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/countertops/",
+  "title": "Countertops",
+  "core": true,
+  "type": "page",
+  "id": 531,
+  "seo": {
+   "title": "Kitchen Countertops New Orleans, Mandeville & Covington - Singer Kitchens",
+   "description": "Shop top quality kitchen countertops in New Orleans, Mandeville or Covington from Singer Kitchens. Call or visit a showroom near you.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/appliances/",
+  "title": "Appliances",
+  "core": false,
+  "type": "page",
+  "id": 574,
+  "seo": {
+   "title": "Kitchen Appliances New Orleans, Mandeville & Covington LA - SInger Kitchens",
+   "description": "Shop top quality kitchen appliances in New Orleans, Mandeville or Covington from Singer Kitchens. Call or visit a showroom near you.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/privacy-policy/",
+  "title": "Privacy Policy",
+  "core": false,
+  "type": "page",
+  "id": 658,
+  "seo": {
+   "title": "Privacy Policy | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Privacy Policy Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/installation/",
+  "title": "Installation",
+  "core": false,
+  "type": "page",
+  "id": 723,
+  "seo": {
+   "title": "Installation | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Installation Certified, Insured, Guaranteed. When you choose to use our installers to complete your project, you'll get experts with years of experience",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchens/",
+  "title": "Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+  "core": true,
+  "type": "page",
+  "id": 758,
+  "seo": {
+   "title": "Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+   "description": "Singer Kitchens offers free kitchen design renderings as part of our design & renovation services. Get everything in one place including financing from Singer Kitchens.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/bathrooms/",
+  "title": "Bathrooms",
+  "core": true,
+  "type": "page",
+  "id": 835,
+  "seo": {
+   "title": "New Orleans Bathroom Design Gallery - Singer Kitchens",
+   "description": "View our gallery of New Orleans inspired bathrooms designed & built by Singer Kitchens in New Orleans & Mandeville, LA",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/purestyle/",
+  "title": "Purestyle",
+  "core": false,
+  "type": "page",
+  "id": 1089,
+  "seo": {
+   "title": "Purestyle | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "PureStyle Introducing PureStyle. PureStyle is a cabinetry material that combines the durability of laminate and the beauty of paint. Environmentally",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/hardware/",
+  "title": "Hardware",
+  "core": false,
+  "type": "page",
+  "id": 1128,
+  "seo": {
+   "title": "Hardware | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Knobs & Pulls",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/leads/",
+  "title": "Leads",
+  "core": false,
+  "type": "page",
+  "id": 1175,
+  "seo": {
+   "title": "Leads | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Loading...",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/blog/",
+  "title": "Blog",
+  "core": true,
+  "type": "page",
+  "id": 1766,
+  "seo": {
+   "title": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Kitchen Stories",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/",
+  "title": "Portfolio",
+  "core": true,
+  "type": "page",
+  "id": 2177,
+  "seo": {
+   "title": "Portfolio | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Portfolio Your Vision. Our Expertise.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/upscale-nautical/",
+  "title": "Upscale Nautical",
+  "core": false,
+  "type": "page",
+  "id": 2185,
+  "seo": {
+   "title": "Upscale Nautical | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Upscale Nautical Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/traditional-with-a-twist/",
+  "title": "Traditional with a Twist",
+  "core": false,
+  "type": "page",
+  "id": 2192,
+  "seo": {
+   "title": "Traditional with a Twist | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Traditional with a Twist Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/transitional/",
+  "title": "Transitional",
+  "core": false,
+  "type": "page",
+  "id": 2200,
+  "seo": {
+   "title": "Transitional | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Transitional Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/midcentury-modern-feel/",
+  "title": "Midcentury Modern Feel",
+  "core": false,
+  "type": "page",
+  "id": 2204,
+  "seo": {
+   "title": "Midcentury Modern Feel | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Midcentury Modern Feel Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/modern/",
+  "title": "Modern",
+  "core": false,
+  "type": "page",
+  "id": 2208,
+  "seo": {
+   "title": "Modern | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Modern Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-cabinets-lp/",
+  "title": "Professional Kitchen Cabinets from Singer Kitchens LP",
+  "core": false,
+  "type": "page",
+  "id": 2498,
+  "seo": {
+   "title": "Professional Kitchen Cabinets from Singer Kitchens",
+   "description": "Singer Kitchens offers professional kitchen cabinet services specializing in every part of the process from selection to installation in New Orleans, Metairie and the Northshore",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-remodel-lp/",
+  "title": "Professional Kitchen Remodeling from Singer Kitchens LP",
+  "core": false,
+  "type": "page",
+  "id": 2646,
+  "seo": {
+   "title": "Professional Kitchen Remodeling from Singer Kitchens",
+   "description": "Singer Kitchens offers professional kitchen remodeling services specializing in every part of the process from design to installation in New Orleans, Metairie and the Northshore",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/remodeling/",
+  "title": "Remodeling",
+  "core": true,
+  "type": "page",
+  "id": 2664,
+  "seo": {
+   "title": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+   "description": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-remodel-lp/thank-you/",
+  "title": "Thank You",
+  "core": false,
+  "type": "page",
+  "id": 2717,
+  "seo": {
+   "title": "Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-cabinets-lp/thank-you/",
+  "title": "Thank You",
+  "core": false,
+  "type": "page",
+  "id": 2721,
+  "seo": {
+   "title": "Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Thank You! Your Design Conversation Request has been received. A Singer Kitchens designer will contact you shortly to setup an appointment.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-design-checklist/",
+  "title": "Kitchen Design Checklist",
+  "core": true,
+  "type": "page",
+  "id": 3005,
+  "seo": {
+   "title": "Kitchen Design Checklist",
+   "description": "Key points to consider before a kitchen renovation",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/checklist-thank-you/",
+  "title": "Checklist Thank You",
+  "core": false,
+  "type": "page",
+  "id": 3070,
+  "seo": {
+   "title": "Checklist Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Thank you - your download is on its way! Please check your inbox for an email from us with a direct link to download your Kitchen Remodeling Checklist. If",
+   "noindex": true,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/checklist-thank-you-2/",
+  "title": "Checklist Thank You",
+  "core": false,
+  "type": "page",
+  "id": 3133,
+  "seo": {
+   "title": "Checklist Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "THANK YOU! Here’s your copy of our Kitchen Design Checklist! DOWNLOAD YOUR CHECKLIST If you have any questions or would like to discuss any items on this",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/mobility-challenged/",
+  "title": "Mobility Challenged",
+  "core": false,
+  "type": "page",
+  "id": 3264,
+  "seo": {
+   "title": "Mobility-Challenged - SInger Kitchens",
+   "description": "These days, every home has specific needs that must be met and the team at Singer Kitchens has the experience to ensure that they are – every time. Whether you need additional room in your design to accommodate a walker or wheelchair, or simply want everything within easier reach, Singer's Universal Design cabinets",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/professional-kitchen-cabinets-from-singer-kitchens/",
+  "title": "Professional Kitchen Cabinets from Singer Kitchens",
+  "core": false,
+  "type": "page",
+  "id": 3342,
+  "seo": {
+   "title": "Professional Kitchen Cabinets from Singer Kitchens",
+   "description": "Singer Kitchens offers professional kitchen cabinet services specializing in every part of the process from selection to installation in New Orleans, Metairie and the Northshore",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/new-construction-modern/",
+  "title": "New Construction Modern",
+  "core": false,
+  "type": "page",
+  "id": 3451,
+  "seo": {
+   "title": "New Construction Modern | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "New Construction Modern Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-design-secrets/",
+  "title": "Kitchen Design Secrets",
+  "core": true,
+  "type": "page",
+  "id": 3520,
+  "seo": {
+   "title": "The Secret to Designing Modern Kitchens Your Family Will Love",
+   "description": "Professional designers use this design secret to create modern kitchens that are both beautiful & functional. Free download.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-design-secrets-thank-you/",
+  "title": "The Guide Thank You",
+  "core": false,
+  "type": "page",
+  "id": 3574,
+  "seo": {
+   "title": "The Guide Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "THANK YOU! Here’s your copy of our guide to The Secret to Designing a Modern Kitchen (your family will love)! Click Here to Download Your Copy of The",
+   "noindex": true,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/northshore-kitchen-remodeling/",
+  "title": "Kitchen Remodeling Mandeville, Covington & Slidell",
+  "core": false,
+  "type": "page",
+  "id": 3633,
+  "seo": {
+   "title": "Kitchen Remodeling Mandeville, Covington & Slidell",
+   "description": "Singer Kitchens specializes in renovating outdated kitchens. Visit our showroom in Slidell serving the north shore including Covington & Slidell",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/minimalist/",
+  "title": "Minimalist",
+  "core": false,
+  "type": "page",
+  "id": 3953,
+  "seo": {
+   "title": "Minimalist | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Minimalist Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/southshore-kitchen-remodeling/",
+  "title": "Southshore Kitchen Remodeling",
+  "core": false,
+  "type": "page",
+  "id": 4020,
+  "seo": {
+   "title": "Kitchen Remodeling New Orleans, Metairie & Kenner",
+   "description": "Singer Kitchens specializes in renovating outdated kitchens. Visit our showroom in Slidell serving the north shore including Covington & SlidellSinger Kitchens offers kitchen remodeling including cabinets, countertops & design in New Orleans, Metairie & Kenner",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-cabinets/",
+  "title": "Kitchen Cabinets",
+  "core": true,
+  "type": "page",
+  "id": 4180,
+  "seo": {
+   "title": "Kitchen Cabinets New Orleans. Mandeville & Covington - Singer Kitchens",
+   "description": "Browse high-quality kitchen cabinets from brands you trust at Singer Kitchens in New Orleans and Mandeville! Visit a showroom near you.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/white-done-right/",
+  "title": "White Done Right",
+  "core": false,
+  "type": "page",
+  "id": 4281,
+  "seo": {
+   "title": "White Done Right | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "White Done Right Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/open-for-entertaining/",
+  "title": "Open for Entertaining",
+  "core": false,
+  "type": "page",
+  "id": 4288,
+  "seo": {
+   "title": "Open for Entertaining | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Open for Entertainment Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/thank-you/",
+  "title": "Thank You",
+  "core": false,
+  "type": "page",
+  "id": 4409,
+  "seo": {
+   "title": "Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Thank You! Your Consultation Request Has Been Successfully Submitted. You’ll hear from a member of the Singer Kitchens team shortly to confirm a convenient",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-design/",
+  "title": "Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+  "core": false,
+  "type": "page",
+  "id": 4429,
+  "seo": {
+   "title": "Kitchen Design New Orleans, Mandeville & Covington - Singer Kitchens",
+   "description": "Design your dream kitchen with virtual kitchen design renderings and our one-stop-shop renovation services from Singer Kitchens in New Orleans and Mandeville!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/new-construction-contemporary/",
+  "title": "New Construction Contemporary",
+  "core": false,
+  "type": "page",
+  "id": 4572,
+  "seo": {
+   "title": "New Construction Contemporary | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "New Construction Contemporary Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/hurricane-ida-damage/",
+  "title": "Hurricane Ida Damage",
+  "core": false,
+  "type": "page",
+  "id": 4639,
+  "seo": {
+   "title": "Help With Hurricane Ida Damage",
+   "description": "Our deepest sympathies go out to our clients, friends, families, and fellow Louisianans who have been affected by Hurricane Ida. We wish everyone a safe and speedy recovery.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/hurricane-ida-damage/thank-you/",
+  "title": "Thank You",
+  "core": false,
+  "type": "page",
+  "id": 4655,
+  "seo": {
+   "title": "Help With Hurricane Ida Damage - Thank You",
+   "description": "Our deepest sympathies go out to our clients, friends, families, and fellow Louisianans who have been affected by Hurricane Ida. We wish everyone a safe and speedy recovery.",
+   "noindex": true,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/historical-new-orleans-kitchen-renovation/",
+  "title": "Historical New Orleans Kitchen Renovation",
+  "core": false,
+  "type": "page",
+  "id": 5130,
+  "seo": {
+   "title": "Historical New Orleans Kitchen Renovation | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Historical New Orleans Kitchen Renovation Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/small-kitchen-remodeling/",
+  "title": "Small Kitchen Remodeling",
+  "core": true,
+  "type": "page",
+  "id": 5191,
+  "seo": {
+   "title": "Small Kitchen Remodeling New Orleans, Mandeville & Covington",
+   "description": "Singer Kitchens has been remodeling small kitchens in New Orleans, Mandeville & Covington for more than 90 years. Visit a showroom near you.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/as-seen-on/",
+  "title": "As Seen On",
+  "core": true,
+  "type": "page",
+  "id": 5214,
+  "seo": {
+   "title": "Singer Kitchens As Seen On…",
+   "description": "We’re incredibly proud and blessed to have been featured in several local publications. Check out our handy work!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/transitional-cottage/",
+  "title": "Transitional Cottage",
+  "core": false,
+  "type": "page",
+  "id": 5230,
+  "seo": {
+   "title": "Transitional Cottage | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Transitional Cottage Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/our-process/",
+  "title": "Our Process",
+  "core": true,
+  "type": "page",
+  "id": 5315,
+  "seo": {
+   "title": "Our Process",
+   "description": "Learn about our process for renovating and remodeling your dream spaces. We'll walk you through every step so you know what to expect.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/2106-ridge-ct-elegant-living/",
+  "title": "Elegant Living",
+  "core": false,
+  "type": "page",
+  "id": 5518,
+  "seo": {
+   "title": "Elegant Living | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Elegant Living Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/1300-albert-st-chefs-kitchen/",
+  "title": "Chef’s Kitchen",
+  "core": false,
+  "type": "page",
+  "id": 5527,
+  "seo": {
+   "title": "Chef’s Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Chef’s Kitchen Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/green-kitchen-green-with-kitchen-envy/",
+  "title": "Green with Kitchen Envy",
+  "core": false,
+  "type": "page",
+  "id": 5543,
+  "seo": {
+   "title": "Green with Kitchen Envy | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Green with Kitchen Envy Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-accessory-giveaway/",
+  "title": "Kitchen Accessory Giveaway",
+  "core": false,
+  "type": "page",
+  "id": 5664,
+  "seo": {
+   "title": "Kitchen Accessory Giveaway - Get Up to $500 from Singer Kitchens",
+   "description": "Singer Kitchens has a special offer for you - get $500 off towards selected kitchen appliances with qualifying purchase. Limited time offer.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-accessory-giveaway/the-guide-thank-you/",
+  "title": "The Guide Thank You",
+  "core": false,
+  "type": "page",
+  "id": 5707,
+  "seo": {
+   "title": "The Guide Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "CONGRATULATIONS! Thank you for claiming your Kitchen Accessory Giveaway. Get Started Today By: Calling 985-778-2978 Visiting our showroom Scheduling an",
+   "noindex": true,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/diamond-cabinets/",
+  "title": "Diamond Cabinets",
+  "core": false,
+  "type": "page",
+  "id": 5758,
+  "seo": {
+   "title": "Diamond Cabinets New Orleans, Mandeville & Covington",
+   "description": "Come see the Diamond Cabinets line at Singer Kitchens with showrooms in New Orleans & Mandville.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/mantra-cabinets/",
+  "title": "Mantra Cabinets",
+  "core": false,
+  "type": "page",
+  "id": 5767,
+  "seo": {
+   "title": "Mantra Cabinets New Orleans, Mandeville & Covington",
+   "description": "Come see the affordable Mantra Cabinets line at Singer Kitchens with showrooms in New Orleans & Mandeville.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/earthy-casual/",
+  "title": "Earthy Casual",
+  "core": false,
+  "type": "page",
+  "id": 6166,
+  "seo": {
+   "title": "Earthy Casual | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Earthy Casual Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/contemporary-casual/",
+  "title": "Contemporary Casual",
+  "core": false,
+  "type": "page",
+  "id": 6231,
+  "seo": {
+   "title": "Contemporary Casual | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Contemporary Casual Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/slider-page-test/",
+  "title": "Slider Page Test",
+  "core": false,
+  "type": "page",
+  "id": 6255,
+  "seo": {
+   "title": "Slider Page Test | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Kitchen Remodeling Made EasyBuild The Kitchen you've Always Dreamed About!Click HereSlide HeadingLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/top-kitchen-design-trends/",
+  "title": "Top Kitchen Design Trends",
+  "core": true,
+  "type": "page",
+  "id": 6302,
+  "seo": {
+   "title": "Top Kitchen Design Trends",
+   "description": "After 90+ years in business, we’ve come to realize how important it is to stay ahead of kitchen design trends.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/top-kitchen-design-trends-thank-you/",
+  "title": "Top Kitchen Design Trends | Thank You",
+  "core": false,
+  "type": "page",
+  "id": 6307,
+  "seo": {
+   "title": "Top Kitchen Design Trends | Thank You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "THANK YOU! Here’s your copy of our Top Kitchen Design Trends! Click here to download Note: Please wait for the site to fully load before clicking the",
+   "noindex": true,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/mid-century-modern/",
+  "title": "Mid Century Modern",
+  "core": false,
+  "type": "page",
+  "id": 6521,
+  "seo": {
+   "title": "Mid Century Modern | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Mid Century Modern Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/happy-customers/",
+  "title": "Happy Customers",
+  "core": false,
+  "type": "page",
+  "id": 6560,
+  "seo": {
+   "title": "Happy Customers | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Happy Customers https://www.singerkitchens.com/wp-content/uploads/2024/04/HappyCustomers16by9.mp4",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/storage-solutions/",
+  "title": "Storage Solutions",
+  "core": true,
+  "type": "page",
+  "id": 6573,
+  "seo": {
+   "title": "Kitchen Storage Solutions | New Orleans & Mandeville | Singer Kitchens",
+   "description": "Struggling with kitchen storage? Discover smart kitchen storage solutions in New Orleans and Mandeville. From custom cabinets to full kitchen renovations, Singer Kitchens designs storage that truly works for real life.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/earthy-traditional/",
+  "title": "Earthy Traditional",
+  "core": false,
+  "type": "page",
+  "id": 6813,
+  "seo": {
+   "title": "Earthy Traditional | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Earthy Traditional Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/constant-contact-lp/",
+  "title": "Professional Kitchen Remodeling from Singer Kitchens CC",
+  "core": false,
+  "type": "page",
+  "id": 6843,
+  "seo": {
+   "title": "Professional Kitchen Remodeling from Singer Kitchens",
+   "description": "Singer Kitchens offers professional kitchen remodeling services specializing in every part of the process from design to installation in New Orleans, Metairie and the Northshore",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/golden-tranquility2/",
+  "title": "Golden Tranquility",
+  "core": false,
+  "type": "page",
+  "id": 6877,
+  "seo": {
+   "title": "Golden Tranquility | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Golden Tranquility Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/service-area/",
+  "title": "Service Area",
+  "core": false,
+  "type": "page",
+  "id": 7042,
+  "seo": {
+   "title": "Service Area | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Remodeling Services in New Orleans & Mandeville Discover Custom Designs and Quality Craftsmanship for Every Project Your trusted choice for expert",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/constant-contact/",
+  "title": "Constant Contact",
+  "core": false,
+  "type": "page",
+  "id": 7075,
+  "seo": {
+   "title": "Constant Contact | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-remodeling-faqs/",
+  "title": "Kitchen Remodeling FAQs",
+  "core": true,
+  "type": "page",
+  "id": 1767,
+  "seo": {
+   "title": "Kitchen Remodeling FAQs | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Kitchen Remodeling FAQs Your Kitchen Remodeling Questions, Answered Planning a kitchen remodel? Find answers to common questions about getting started",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/organic-modern/",
+  "title": "Organic Modern",
+  "core": false,
+  "type": "page",
+  "id": 7843,
+  "seo": {
+   "title": "Organic Modern | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Organic Modern Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/traditional-uptown/",
+  "title": "Traditional Uptown",
+  "core": false,
+  "type": "page",
+  "id": 7871,
+  "seo": {
+   "title": "Traditional Uptown | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Traditional Uptown Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/biophilic-beauty/",
+  "title": "Biophilic Beauty",
+  "core": false,
+  "type": "page",
+  "id": 7893,
+  "seo": {
+   "title": "Biophilic Beauty | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Biophilic Beauty Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/lp-kitchen-remodeling/",
+  "title": "Kitchen Remodeling",
+  "core": false,
+  "type": "page",
+  "id": 8021,
+  "seo": {
+   "title": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+   "description": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+   "noindex": true,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/calendar/",
+  "title": "Calendar",
+  "core": false,
+  "type": "page",
+  "id": 8038,
+  "seo": {
+   "title": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+   "description": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+   "noindex": true,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/serenity-in-the-irish-channel/",
+  "title": "Serenity In The Irish Channel",
+  "core": false,
+  "type": "page",
+  "id": 8164,
+  "seo": {
+   "title": "Serenity In The Irish Channel | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Serenity In The Irish Channel Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/calendar-northshore/",
+  "title": "Calendar Northshore",
+  "core": false,
+  "type": "page",
+  "id": 8212,
+  "seo": {
+   "title": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+   "description": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+   "noindex": true,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/calendar-southshore/",
+  "title": "Calendar Southshore",
+  "core": false,
+  "type": "page",
+  "id": 8214,
+  "seo": {
+   "title": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+   "description": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+   "noindex": true,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/calendar-virtual/",
+  "title": "Calendar Virtual",
+  "core": false,
+  "type": "page",
+  "id": 8219,
+  "seo": {
+   "title": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+   "description": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+   "noindex": true,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/request-consultation/",
+  "title": "Request Consultation",
+  "core": true,
+  "type": "page",
+  "id": 8292,
+  "seo": {
+   "title": "Request Consultation | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Let's Talk About Your Kitchen Not sure where to start? That’s exactly what this conversation is for. Share your information below and one of our",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/blue-dimensions/",
+  "title": "Blue Dimensions",
+  "core": false,
+  "type": "page",
+  "id": 8548,
+  "seo": {
+   "title": "Blue Dimensions | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Blue Dimensions Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/accessibility-statement/",
+  "title": "Accessibility statement",
+  "core": false,
+  "type": "page",
+  "id": 8690,
+  "seo": {
+   "title": "Accessibility statement | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Accessibility Statement for https://www.singerkitchens.com Singer Kitchens is committed to ensuring digital accessibility for people with disabilities. We",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/arts-crafts/",
+  "title": "Arts & Crafts",
+  "core": false,
+  "type": "page",
+  "id": 8709,
+  "seo": {
+   "title": "Arts & Crafts | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Arts & Crafts Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/gentilly-bungalow/",
+  "title": "Gentilly Bungalow",
+  "core": false,
+  "type": "page",
+  "id": 8768,
+  "seo": {
+   "title": "Gentilly Bungalow | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Gentilly Bungalow Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/cabinet-repainting-vs-remodeling/",
+  "title": "Cabinet Painting vs. Remodeling Guide",
+  "core": true,
+  "type": "page",
+  "id": 9250,
+  "seo": {
+   "title": "Kitchen Cabinets: Re-painting vs. Remodeling Guide",
+   "description": "Key points to consider if you're unsure about repainting your cabinets or doing a full renovation.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/repainting-vs-replacing-cabinets-thank-you/",
+  "title": "Repainting Cabinets Thank You",
+  "core": false,
+  "type": "page",
+  "id": 9262,
+  "seo": {
+   "title": "Here's Your Guide to Repainting vs. Replacing Kitchen Cabinets",
+   "description": "Thank you - your download is on its way! Please check your inbox for an email from us with a direct link to download your Kitchen Cabinet Repainting vs.",
+   "noindex": true,
+   "title_src": "yoast",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/interactive-kitchen-design-checklist/",
+  "title": "Interactive Kitchen Design Checklist",
+  "core": false,
+  "type": "page",
+  "id": 9450,
+  "seo": {
+   "title": "Interactive Kitchen Design Checklist | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Let's Talk About YOUR Kitchen — Singer Kitchens Let's Talk About YOUR Kitchen. The planning checklist that helps you design a kitchen you'll love for",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/nola-boathouse/",
+  "title": "Nola Boathouse",
+  "core": false,
+  "type": "page",
+  "id": 9514,
+  "seo": {
+   "title": "Nola Boathouse | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Nola Boathouse Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/reviews/",
+  "title": "Reviews",
+  "core": true,
+  "type": "page",
+  "id": 9611,
+  "seo": {
+   "title": "Reviews",
+   "description": "Serving metro New Orleans since 1928 - more than 65 5 Star Reviews!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/5-reasons-to-hire-a-professional-to-remodel-your-kitchen/",
+  "title": "5 Reasons To Hire A Professional To Remodel Your Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 1682,
+  "seo": {
+   "title": "5 Reasons To Hire A Professional To Remodel Your Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Getting your kitchen remodeled can easily transform your simple looking kitchen into an amazing looking room like magic. While this is a very good idea",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/5-reasons-to-hire-a-professional-to-design-your-bathroom/",
+  "title": "5 Reasons to Hire a Professional to Design Your Bathroom",
+  "core": false,
+  "type": "post",
+  "id": 1780,
+  "seo": {
+   "title": "5 Reasons to Hire a Professional to Design Your Bathroom | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "The nature of your bathroom to a large extent determines how pleasurable or enjoyable your bath will be. A beautiful and comfortable bathroom makes bathing",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/spring-perfect-time-remodel-your-kitchen/",
+  "title": "Why Spring Is The Perfect Time To Remodel Your Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 1790,
+  "seo": {
+   "title": "Why Spring Is The Perfect Time To Remodel Your Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "One of the most fascinating things about the winter season is that it affords us the opportunity to spend quality time indoors (regardless of whether we",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/remodeling-a-kitchen-with-singer-kitchens/",
+  "title": "Remodeling a Kitchen with Singer Kitchens",
+  "core": false,
+  "type": "post",
+  "id": 1797,
+  "seo": {
+   "title": "Remodeling a Kitchen with Singer Kitchens | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "It is no secret that remodeling a kitchen can be a difficult time! Between selecting cabinetry profiles to deciding on the cabinetry layout there is a lot",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/everything-to-know-about-remodeling-a-kitchen/",
+  "title": "Everything You Need to Know About Remodeling Your Kitchen & Why You Need an Expert",
+  "core": false,
+  "type": "post",
+  "id": 1810,
+  "seo": {
+   "title": "Everything You Need to Know About Remodeling Your Kitchen & Why You Need an Expert | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "The constancy of the same pattern and old looking space for the preparation of meals and family time might be unattractive and is a big turn off for",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/7-factors-to-consider-when-designing-a-kitchen/",
+  "title": "7 Factors to Consider When Designing a Kitchen - a Designers Guide",
+  "core": false,
+  "type": "post",
+  "id": 1826,
+  "seo": {
+   "title": "7 Factors to Consider When Designing a Kitchen - a Designers Guide | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "7 Factors to Consider When Designing a Kitchen – a Designers Guide",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/cleaning-your-kitchen-for-longevity/",
+  "title": "Become an Expert at Cleaning Your Kitchen for Longevity",
+  "core": false,
+  "type": "post",
+  "id": 1860,
+  "seo": {
+   "title": "Become an Expert at Cleaning Your Kitchen for Longevity | Singer Kitchens",
+   "description": "Singer Kitchens knows that proper cleaning can protect your investment, which is why we are sharing these tips about cleaning your kitchen for longevity.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/pro-partners/",
+  "title": "Pro Partners",
+  "core": true,
+  "type": "page",
+  "id": 9708,
+  "seo": {
+   "title": "Pro Partners | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "We’ll Handle the Kitchen. You Keep the Client. Contractors & Design Pros: when a project includes a kitchen, Singer Kitchens handles the design, planning",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/quick-refresh/",
+  "title": "Quick Refresh",
+  "core": true,
+  "type": "page",
+  "id": 10208,
+  "seo": {
+   "title": "Quick Kitchen Refresh — Cabinets, Countertops & More | Singer Kitchens",
+   "description": "Singer Kitchens offers quick refresh services for Greater New Orleans homeowners — countertops, islands, vanities, laundry rooms, and more. Two showrooms: New Orleans & Mandeville.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-cabinets-latest/",
+  "title": "Kitchen Cabinets latest",
+  "core": false,
+  "type": "page",
+  "id": 10933,
+  "seo": {
+   "title": "Kitchen Cabinets New Orleans. Mandeville & Covington - Singer Kitchens",
+   "description": "Browse high-quality kitchen cabinets from brands you trust at Singer Kitchens in New Orleans and Mandeville! Visit a showroom near you.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/finance_application_qr_code/",
+  "title": "Finance Application QR Code",
+  "core": false,
+  "type": "page",
+  "id": 11445,
+  "seo": {
+   "title": "Finance Application QR Code | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Financing Made Simple Complete Your Financing Application To complete your financing application, either scan the QR code below with your smartphone or",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/kitchen-renovation-roi/",
+  "title": "Kitchen Renovation ROI",
+  "core": true,
+  "type": "page",
+  "id": 11531,
+  "seo": {
+   "title": "Kitchen Renovation ROI | Singer Kitchens",
+   "description": "Wondering if there's a return on the kitchen you actually want — not just a resale-safe refresh? Here's what we're seeing, for homeowners across Metro New Orleans and the Northshore.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/",
+  "title": "Home",
+  "core": true,
+  "type": "page",
+  "id": 11662,
+  "seo": {
+   "title": "Singer Kitchens: Top Kitchen Renovation Company in New Orleans",
+   "description": "Discover why Singer Kitchens is the top kitchen renovation company in New Orleans & Mandeville. Since 1928, trusted for cabinets, countertops, expert design and installation.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  },
+  "bespoke": true
+ },
+ {
+  "path": "/portfolio/cozy-cashmere/",
+  "title": "Cozy Cashmere",
+  "core": false,
+  "type": "page",
+  "id": 12203,
+  "seo": {
+   "title": "Cozy Cashmere | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Cozy Cashmere Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/videos/",
+  "title": "Videos",
+  "core": true,
+  "type": "page",
+  "id": 12299,
+  "seo": {
+   "title": "Videos | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Kitchen Remodeling Videos & Customer Stories Explore real customer experiences, kitchen tours and practical design ideas from Singer Kitchens. Whether",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/portfolio/lakeshore-luxury/",
+  "title": "Lakeshore Luxury",
+  "core": false,
+  "type": "page",
+  "id": 12515,
+  "seo": {
+   "title": "Lakeshore Luxury | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Lakeshore Luxury Explore More",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  },
+  "bespoke": false
+ },
+ {
+  "path": "/what-is-a-kitchen-island-and-why-you-need-one-a-designers-guide/",
+  "title": "What Is a Kitchen Island? and Why You Need One - a Designers Guide",
+  "core": false,
+  "type": "post",
+  "id": 2248,
+  "seo": {
+   "title": "What Is a Kitchen Island? And Why You Need One | Singer Kitchens",
+   "description": "What Is a Kitchen Island? and Why You Need One - a Designers Guide. Get in touch with our fabulous team of designers who can discuss your kitchen island.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/remodeling-period-kitchens/",
+  "title": "Remodeling Period Kitchens",
+  "core": false,
+  "type": "post",
+  "id": 2261,
+  "seo": {
+   "title": "Remodeling Period Kitchens-How to keep the look. | Singer Kitchens",
+   "description": "What Is a Kitchen Island? and Why You Need One - a Designers Guide. Get in touch with our fabulous team of designers who can discuss your kitchen island.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/my-kitchen-is-too-dark-12-fabulous-ways-to-brighten-your-kitchen/",
+  "title": "My Kitchen Is Too Dark! - 12 Fabulous Ways to Brighten Your Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 2282,
+  "seo": {
+   "title": "Brighten Up - 12 Fabulous Ways to Brighten Your Kitchen| Singer Kitchens",
+   "description": "Here are 12 way to brighten your kitchen, so you can feel inspired and creative with your culinary style in your kitchen space",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/when-is-the-best-time-to-remodel-your-kitchen/",
+  "title": "When Is the Best Time to Remodel Your Kitchen After Summer?",
+  "core": false,
+  "type": "post",
+  "id": 2305,
+  "seo": {
+   "title": "Best Time to Remodel Your Kitchen After Summer | Fall Is the Perfect Time",
+   "description": "Fall is the perfect time to begin a kitchen remodeling project. The late summer and early fall light make it easy to decide on your color scheme.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/matte-or-gloss-kitchen/",
+  "title": "Matte or Gloss Kitchen, Which One, Pros and Cons, the Answer",
+  "core": false,
+  "type": "post",
+  "id": 2323,
+  "seo": {
+   "title": "Matte or Gloss Kitchen, Which OnePros and Cons, the Answer",
+   "description": "in this article, we are going to look at whether a gloss kitchen or a matte kitchen could be the perfect choice for your design and needs.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/remodeling-your-bathroom-for-holiday-guests/",
+  "title": "Remodeling Your Bathroom in Time for Holiday Guests, a Guide",
+  "core": false,
+  "type": "post",
+  "id": 2343,
+  "seo": {
+   "title": "Remodeling Your Bathroom in Time for Holiday Guests, a Guide",
+   "description": "If you decide to remodel your bathroom in time for the holidays, make sure you have decided on your budget and created a priority list.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/what-to-consider-when-remodeling-a-kitchen/",
+  "title": "What To Consider When Remodeling A Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 2412,
+  "seo": {
+   "title": "What To Consider When Remodeling A Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Things to consider when remodeling a kitchen, these should not be ignored! Remodeling a kitchen is a massive project that needs to be well planned. It is",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/closet-design-ideas-for-the-bedroom/",
+  "title": "Closet Design Ideas For The Bedroom",
+  "core": false,
+  "type": "post",
+  "id": 2421,
+  "seo": {
+   "title": "Closet Design Ideas For The Bedroom | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Closet Design Ideas For The Bedroom That Add Value To Your Home. The bedroom is a special part of any home and it's important to keep it in prime",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/does-a-bathroom-remodel-increase-home-value/",
+  "title": "Does A Bathroom Remodel Increase Home Value?",
+  "core": false,
+  "type": "post",
+  "id": 2434,
+  "seo": {
+   "title": "Does A Bathroom Remodel Increase Home Value? | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "We Are Often Asked, Does A Bathroom Remodel Increase Home Value? A bathroom remodel is often a design-driven choice. It could be to improve aesthetics or",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/wall-beds-for-small-spaces/",
+  "title": "Wall Beds For Small Spaces",
+  "core": false,
+  "type": "post",
+  "id": 2456,
+  "seo": {
+   "title": "Wall Beds For Small Spaces | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Wall Beds For Small Spaces Were Designed With Functionality In Mind. Also known as a Murphy bed, it is ideal for multi-use rooms and spaces. The inventor",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/how-to-get-your-dream-kitchen-even-if-the-vision-is-a-little-blurry-in-your-head/",
+  "title": "How to get your dream kitchen even if the vision is a little blurry in your head",
+  "core": false,
+  "type": "post",
+  "id": 2769,
+  "seo": {
+   "title": "How to get your dream kitchen even if the vision is a little blurry in your head",
+   "description": "Find out how Don got his dream kitchen even though he struggled to figure out exactly what it should look like.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/singer-kitchens-talks-2020-design-trends-with-st-charles-magazine/",
+  "title": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine",
+  "core": false,
+  "type": "post",
+  "id": 2923,
+  "seo": {
+   "title": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Find out what the latest kitchen design trends are for 2020 in this special interview with St. Charles Magazine.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/how-one-couple-downsized-without-sacrificing-space-by-remodeling-their-closets/",
+  "title": "How one couple downsized without sacrificing space by remodeling their closets",
+  "core": false,
+  "type": "post",
+  "id": 2987,
+  "seo": {
+   "title": "How one couple downsized without sacrificing space by remodeling their closets",
+   "description": "Find out how one couple went from a large house to a 2-bedroom home without sacrificing space by remodeling their closets.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/tips-for-making-the-most-of-a-small-kitchen-from-singer-kitchens/",
+  "title": "Tips for Making the Most of a Small Kitchen from Singer Kitchens",
+  "core": false,
+  "type": "post",
+  "id": 3052,
+  "seo": {
+   "title": "Tips for Making the Most of a Small Kitchen from Singer Kitchens | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Thoughtful design is extremely important when working with a small kitchen. Read these tips to bring the joy back into your kitchen.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/rain-water-damage-kitchen-restoration-new-orleans/",
+  "title": "Rain & Water Damage Kitchen Restoration - New Orleans",
+  "core": false,
+  "type": "post",
+  "id": 3288,
+  "seo": {
+   "title": "Rain & Water Damage Kitchen Restoration - New Orleans | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Singer Kitchens offers kitchen restoration services for rain or water damaged kitchens in metro New Orleans. Contact us for a free consultation.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/get-kitchen-design-inspiration-by-appointment-safety-measures-included/",
+  "title": "Get Kitchen Design Inspiration By Appointment - Safety Measures Included!",
+  "core": false,
+  "type": "post",
+  "id": 3355,
+  "seo": {
+   "title": "Get Kitchen Design Inspiration By Appointment - Safety Measures Included! | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Right now, in order to best — and most safely — serve you in your dream remodel, we’re offering kitchen, closet, and bathroom design inspiration by appointment. Get in touch with us today!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/uptown-new-orleans-kitchen-renovation-creates-a-meaningful-gathering-place-within-budget/",
+  "title": "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget",
+  "core": false,
+  "type": "post",
+  "id": 3360,
+  "seo": {
+   "title": "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "An open, brighter kitchen that lends itself both to food prep and hosting was on tap in this recent Uptown New Orleans renovation project.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/old-metairie-kitchen-goes-remarkably-retro-while-adding-space-and-storage/",
+  "title": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
+  "core": false,
+  "type": "post",
+  "id": 3415,
+  "seo": {
+   "title": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "For Uptown Resident Rudy, renovating the kitchen of his childhood home in Old Metairie was a labor of love, a tribute to his mother, and a nod to mid-century retro style.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/see-how-we-created-this-busy-metairie-familys-dream-kitchen/",
+  "title": "See How We Created this Busy Metairie Family’s Dream Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 3447,
+  "seo": {
+   "title": "See How We Created this Busy Metairie Family’s Dream Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "In their new construction home, this Metarie family sought to create a functional, stylish kitchen that would support the needs of their full house and busy lifestyle.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/4-kitchen-upgrades-that-answer-your-familys-2020-needs-just-in-time-for-the-holidays/",
+  "title": "4 Kitchen Upgrades That Answer Your Family’s 2020 Needs Just in Time for the Holidays!",
+  "core": false,
+  "type": "post",
+  "id": 3500,
+  "seo": {
+   "title": "4 Kitchen Upgrades That Answer Your Family’s 2020 Needs Just in Time for the Holidays! | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "In 2020, we’re spending more time at home and noticing more things we’d like to change, particularly in our kitchens. These 4 upgrades help answer the needs of our new at-home ways.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/21-storage-solutions-to-start-your-2021-off-right/",
+  "title": "21 Storage Solutions to Start Your 2021 Off Right!",
+  "core": false,
+  "type": "post",
+  "id": 3807,
+  "seo": {
+   "title": "21 Storage Solutions to Start Your 2021 Off Right! | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "January is National Get Organized Month and to help you celebrate, we’ve got 21 innovative life-simplifying storage solutions that are Singer-approved.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/the-secret-to-designing-a-kitchen-youll-love-forever/",
+  "title": "The Secret to Designing a Kitchen You’ll Love Forever",
+  "core": false,
+  "type": "post",
+  "id": 3850,
+  "seo": {
+   "title": "The Secret to Designing a Kitchen You’ll Love Forever | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Get the secret to designing a modern kitchen that you and your family with love forever in our newest kitchen design guide.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-minimalist-mandeville-kitchen-brought-to-life/",
+  "title": "A Minimalist Mandeville Kitchen Brought to Life",
+  "core": false,
+  "type": "post",
+  "id": 3968,
+  "seo": {
+   "title": "A Minimalist Mandeville Kitchen Brought to Life",
+   "description": "Robert and Kim were gradually renovating their home when they asked us to help them create a minimalist open concept kitchen big on prep space and hidden storage.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-downsized-dream-kitchen-in-metairie/",
+  "title": "A Downsized Dream Kitchen in Metairie",
+  "core": false,
+  "type": "post",
+  "id": 4087,
+  "seo": {
+   "title": "A Downsized Dream Kitchen in Metairie | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Seven years after moving into their Metairie condo, Maggie and Roy were ready to tackle their kitchen redesign, and as Maggie phrases it, “solve the ugly.”",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/2021-design-trends-topping-everyones-wish-lists/",
+  "title": "2021 Design Trends Topping EVERYONE’S Wish Lists!",
+  "core": false,
+  "type": "post",
+  "id": 4134,
+  "seo": {
+   "title": "2021 Design Trends Topping EVERYONE’S Wish Lists! | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "In 2021, we’re seeing new & classic trends emerge (and re-emerge) in our continuing quest to create the perfect multifunctional spaces.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-white-kitchen-done-right-in-abita-springs/",
+  "title": "A White Kitchen Done Right in Abita Springs",
+  "core": false,
+  "type": "post",
+  "id": 4300,
+  "seo": {
+   "title": "A White Kitchen Done Right in Abita Springs | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "We recently helped our client, Margo, create the white kitchen of her DREAMS. We also made sure this was a case of white done right. Read on and see for yourself!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/dont-wait-start-on-your-holiday-remodel-today/",
+  "title": "Don’t Wait! Start on Your Holiday Remodel Today!",
+  "core": false,
+  "type": "post",
+  "id": 4457,
+  "seo": {
+   "title": "Don’t Wait! Start on Your Holiday Remodel Today! | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Holiday events around NOLA are creeping up fast. Get started on your dream kitchen remodel today! We can help.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/an-entertainer-boaters-dream-kitchen-in-slidell/",
+  "title": "An Entertainer & Boater’s Dream Kitchen in Slidell",
+  "core": false,
+  "type": "post",
+  "id": 4522,
+  "seo": {
+   "title": "An Entertainer & Boater’s Dream Kitchen in Slidell",
+   "description": "See how we helped this Slidell couple bring their vision of a contemporary, open concept, entertainer-worthy kitchen to life...and then some.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/4-ways-to-find-the-perfect-new-orleans-kitchen-cabinets/",
+  "title": "4 Ways To Find The Perfect New Orleans Kitchen Cabinets",
+  "core": false,
+  "type": "post",
+  "id": 4963,
+  "seo": {
+   "title": "4 Ways To Find The Perfect New Orleans Kitchen Cabinets | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "What To Know When Shopping For New Kitchen Cabinets In Louisiana",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/your-vision-our-expertise/",
+  "title": "Your Vision. Our Expertise.",
+  "core": false,
+  "type": "post",
+  "id": 4983,
+  "seo": {
+   "title": "Your Vision. Our Expertise.",
+   "description": "See how we helped 4 local New Orleans & Mandeville customers transform their kitchens using their vision and our expertise.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/accomplish-your-new-years-resolutions-in-the-kitchen/",
+  "title": "Accomplish Your New Year's Resolutions In The Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 5058,
+  "seo": {
+   "title": "Accomplish Your New Year's Resolutions In The Kitchen",
+   "description": "Read on to learn about the top New Year’s resolutions to improve your home life, and how Singer Kitchens can help you!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/preserving-a-rich-history-in-a-new-orleans-kitchen/",
+  "title": "Preserving A Rich History in a New Orleans Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 5161,
+  "seo": {
+   "title": "Preserving A Rich History in a New Orleans Kitchen",
+   "description": "Learn more about the experience Sherree had with Singer Kitchens in remodeling her kitchen in New Orleans!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/2022-kitchen-design-trends-you-wont-want-to-miss/",
+  "title": "2022 Kitchen Design Trends You Won’t Want to Miss",
+  "core": false,
+  "type": "post",
+  "id": 5199,
+  "seo": {
+   "title": "2022 Kitchen Design Trends You Won’t Want to Miss",
+   "description": "Find out more about the projected design trends for 2022 and how Singer Kitchens can help you incorporate those new trends into your dream space!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/how-to-design-a-kitchen-that-stands-the-test-of-time/",
+  "title": "How to Design a Kitchen That Stands the Test of Time",
+  "core": false,
+  "type": "post",
+  "id": 5254,
+  "seo": {
+   "title": "How to Design a Kitchen That Stands the Test of Time",
+   "description": "Learn how to design and renovate your kitchen for years of everyday use and for standing the test of time.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/singer-kitchens-islands-that-will-inspire-you-best-of-edition/",
+  "title": "Singer Kitchens Islands That Will Inspire You: “Best Of” Edition",
+  "core": false,
+  "type": "post",
+  "id": 5281,
+  "seo": {
+   "title": "Singer Kitchens Islands That Will Inspire You: “Best Of” Edition",
+   "description": "Kitchen islands are now an essential part of the modern kitchen. Learn about some of our best kitchen islands we've worked on at Singer Kitchens!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/why-everybody-loves-vincent-and-you-will-too/",
+  "title": "Why Everybody Loves Vincent And You Will Too!",
+  "core": false,
+  "type": "post",
+  "id": 5304,
+  "seo": {
+   "title": "Why Everybody Loves Vincent And You Will Too!",
+   "description": "Learn why our customers love working with Vincent at Singer Kitchens and how we can help you with your next kitchen renovation project!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/youll-be-green-with-envy-when-you-see-this-before-after-kitchen/",
+  "title": "You'll be green with envy when you see this before & after kitchen",
+  "core": false,
+  "type": "post",
+  "id": 5334,
+  "seo": {
+   "title": "You'll be green with envy when you see this before & after kitchen",
+   "description": "Find out how our client tapped into the power of green to get the kitchen renovation of her dreams",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/transforming-a-dark-80s-style-kitchen-to-modern-open-bright/",
+  "title": "Transforming a dark 80s style kitchen to modern, open & bright",
+  "core": false,
+  "type": "post",
+  "id": 5442,
+  "seo": {
+   "title": "Transforming a dark 80s style kitchen to modern, open & bright",
+   "description": "See this stunning before & after project transforming a dark, 80s-style kitchen into a modern, open and bright masterpiece.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/great-renovations-often-start-with-small-details-like-kitchen-hardware/",
+  "title": "Great renovations often start with small details (like kitchen hardware)",
+  "core": false,
+  "type": "post",
+  "id": 5477,
+  "seo": {
+   "title": "Great renovations often start with small details (like kitchen hardware) | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Sometimes, big projects start with little details.Take a kitchen renovation, for instance. Start with a tired, worn-out, 80s-style, brown, closed-off kitchen with dated everything.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/stacked-cabinets-where-practicality-meets-style/",
+  "title": "Stacked Cabinets: Where Practicality Meets Style",
+  "core": false,
+  "type": "post",
+  "id": 5627,
+  "seo": {
+   "title": "Stacked Cabinets: Where Practicality Meets Style",
+   "description": "Looking to make the most of your space, find out why customers LOVE stacked cabinets.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-mardi-gras-in-mandeville/",
+  "title": "A Mardi Gras in Mandeville",
+  "core": false,
+  "type": "post",
+  "id": 5987,
+  "seo": {
+   "title": "A Mardi Gras in Mandeville | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "We had a party to remember for one of our favorite realtors!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/creating-a-kitchen-island-paradise/",
+  "title": "Creating a (Kitchen) Island Paradise",
+  "core": false,
+  "type": "post",
+  "id": 6043,
+  "seo": {
+   "title": "Creating a (Kitchen) Island Paradise | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "The #1 kitchen trend of 2023 isn’t a fancy stove or exclusive cabinetry. It’s the humble, useful kitchen island–specifically a large, multi-functional",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-shaker-for-a-new-generation/",
+  "title": "A Shaker For A New Generation",
+  "core": false,
+  "type": "post",
+  "id": 6062,
+  "seo": {
+   "title": "A Shaker For A New Generation | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Bring the traditional into the modern age with our trim and trendy slim shaker cabinet doors! Shakers are among the most popular of cabinet door",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/how-to-bring-nature-into-your-kitchen-with-the-top-trending-colors-of-2023/",
+  "title": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
+  "core": false,
+  "type": "post",
+  "id": 6211,
+  "seo": {
+   "title": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023 | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Nature is a powerful source of inspiration for many aspects of our lives, including the design of our homes. One of the most popular ways to incorporate",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/minimalism-to-the-max-slab-doors-are-2023s-darling/",
+  "title": "Minimalism to the Max: Slab Doors Are 2023’s Darling",
+  "core": false,
+  "type": "post",
+  "id": 6265,
+  "seo": {
+   "title": "Minimalism to the Max: Slab Doors Are 2023’s Darling | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "If you’ve seen any kitchen, you’ve seen a slab cabinet door. It’s one of THE most sought-after door styles of the decade, and it’s a 2023 favorite. This",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/ahead-of-the-curve-4-kitchen-kitchen-design-ideas-for-your-home-remodel/",
+  "title": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel",
+  "core": false,
+  "type": "post",
+  "id": 6438,
+  "seo": {
+   "title": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Thinking about a kitchen remodel? Here are 4 trendy design ideas you won’t want to miss",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-dream-made-real/",
+  "title": "A Dream Made Real",
+  "core": false,
+  "type": "post",
+  "id": 6513,
+  "seo": {
+   "title": "A Dream Made Real | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Find out how we helped one of our clients in Mandeville realize the dream of her kitchen. The Vision Brenda had a vision: a relaxed, inviting space perfect",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/dreaming-up-a-mid-century-marvel-sues-kitchen-transformation/",
+  "title": "Dreaming Up a Mid-Century Marvel: Sue’s Kitchen Transformation",
+  "core": false,
+  "type": "post",
+  "id": 6593,
+  "seo": {
+   "title": "Dreaming Up a Mid-Century Marvel: Sue’s Kitchen Transformation | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "The Vision Comes to Life Sue had a dream for her kitchen, but turning that dream into reality was a challenge—especially from out of town. Enter Vincent",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/elevate-your-kitchen-with-smart-storage-solutions/",
+  "title": "Elevate Your Kitchen with Smart Storage Solutions",
+  "core": false,
+  "type": "post",
+  "id": 6617,
+  "seo": {
+   "title": "Elevate Your Kitchen with Smart Storage Solutions | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "At Singer Kitchens, we believe that a beautiful kitchen is more than just cabinets and countertops—it's a true reflection of your lifestyle. Whether you're",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/discover-the-latest-kitchen-and-bath-trends-from-kbis-2024/",
+  "title": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+  "core": false,
+  "type": "post",
+  "id": 6640,
+  "seo": {
+   "title": "Discover the Latest Kitchen and Bath Trends from KBIS 2024 | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "The Epicenter of Inspiration: The National Kitchen and Bath Show Every year, the National Kitchen and Bath Show (KBIS) in Las Vegas serves as the ultimate",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/why-choose-singer-kitchens-hear-from-our-happy-customers/",
+  "title": "Why Choose Singer Kitchens? Hear From Our Happy Customers",
+  "core": false,
+  "type": "post",
+  "id": 6669,
+  "seo": {
+   "title": "Why Choose Singer Kitchens? Hear From Our Happy Customers | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Real Stories, Real Transformations: Watch the Video At Singer Kitchens, we believe that the best endorsement of our work comes from the satisfied smiles of",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/design-for-entertaining-crafting-the-perfect-spaces-for-social-bliss/",
+  "title": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss",
+  "core": false,
+  "type": "post",
+  "id": 6730,
+  "seo": {
+   "title": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "In today's world, entertaining has assumed a more relaxed, inclusive charm. Gone are the days of formal, stuffy sit-down dinners held in isolated dining",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/cheryls-kitchen-story-from-bland-basic-to-wow-worthy-warmth/",
+  "title": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
+  "core": false,
+  "type": "post",
+  "id": 7130,
+  "seo": {
+   "title": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "For most people, the kitchen is more than a place to cook—it’s where life happens. But when Cheryl moved into her new home, her kitchen didn’t feel like",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/restoring-history-ashleys-timeless-kitchen-renovation/",
+  "title": "Restoring History: Ashley's Timeless Kitchen Renovation",
+  "core": false,
+  "type": "post",
+  "id": 7907,
+  "seo": {
+   "title": "Restoring History: Ashley's Timeless Kitchen Renovation | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "When Ashley first visited our Mid-City showroom, she had a vision. Owning a home built in 1885, she was determined to restore the character and charm that",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/thoughtful-design-in-the-irish-channel-debras-peaceful-practical-kitchen-remodel/",
+  "title": "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel",
+  "core": false,
+  "type": "post",
+  "id": 8356,
+  "seo": {
+   "title": "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "When Debra and her husband moved to New Orleans to be closer to their daughter and grandchildren, they chose a home in the heart of the Irish Channel. It",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/dimensions-in-blue-laurie-kenneths-dream-kitchen-brought-to-life/",
+  "title": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+  "core": false,
+  "type": "post",
+  "id": 8562,
+  "seo": {
+   "title": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "For Laurie and Kenneth, blue has always been more than just a favorite color. For them, blue brings a sense of calm and sophistication. When they set out",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/uptown-arts-and-crafts-kitchen-renovation/",
+  "title": "Arts and Crafts Charm Restored: Kathleen’s Kitchen Story",
+  "core": false,
+  "type": "post",
+  "id": 8696,
+  "seo": {
+   "title": "Arts and Crafts Charm Restored: Kathleen’s Kitchen Story | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Discover how Kathleen transformed her Uptown New Orleans Arts & Crafts bungalow with a simple, symmetrical, and beautifully updated kitchen design. With classic shaker cabinets, curated finishes, and smart solutions by Singer Kitchens, her historic home finally reflects the charm she always envisioned.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/gentilly-bungalow-kitchen-renovation/",
+  "title": "Gentilly Bungalow: A Kitchen Reimagined",
+  "core": false,
+  "type": "post",
+  "id": 8887,
+  "seo": {
+   "title": "Gentilly Bungalow: A Kitchen Reimagined | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Downsizing didn’t mean sacrificing beauty or storage for Bev. Discover how Singer Kitchens redesigned her Gentilly bungalow kitchen with navy and white cabinetry, smart storage solutions, and timeless style—creating a space that finally feels like home.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/the-cashmere-kitchen-trend-creating-a-space-that-feels-as-cozy-as-it-looks/",
+  "title": "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks",
+  "core": false,
+  "type": "post",
+  "id": 9061,
+  "seo": {
+   "title": "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "There’s a new kind of comfort making its way into New Orleans kitchens. It’s one that wraps you in the same soft, welcoming warmth as your favorite",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/you-survived-the-holidays-now-its-time-to-deal-with-your-kitchen/",
+  "title": "You Survived the Holidays. Now It’s Time to Deal With Your Kitchen.",
+  "core": false,
+  "type": "post",
+  "id": 9163,
+  "seo": {
+   "title": "You Survived the Holidays. Now It’s Time to Deal With Your Kitchen. | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "You made it through the holidays despite your kitchen. The extra cooking. The extra people. The constant shuffling of dishes, appliances and food just to",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/mandeville/",
+  "title": "Kitchen & Bathroom Renovation & Remodeling Contractor in Mandeville, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7173,
+  "seo": {
+   "title": "Kitchen & Bathroom Renovation & Remodeling Contractor in Mandeville, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Transform your home with expert kitchen design in Mandeville, LA. Call Singer Kitchens at (504) 539-4605 to create your dream kitchen today!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/mandeville/kitchen-design/",
+  "title": "Kitchen Design in Mandeville, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7196,
+  "seo": {
+   "title": "Kitchen Design in Mandeville, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Transform your home with expert kitchen design in Mandeville, LA. Call Singer Kitchens at (504) 539-4605 to create your dream kitchen today!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/mandeville/kitchen-remodeling/",
+  "title": "Kitchen Remodeling in Mandeville, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7201,
+  "seo": {
+   "title": "Kitchen Remodeling in Mandeville, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Discover expert kitchen remodeling in Mandeville, LA with Singer Kitchens. Call (504) 539-4605 today for stunning designs and quality craftsmanship.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/covington/",
+  "title": "Kitchen & Bathroom Renovation and Remodeling in Covington, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7220,
+  "seo": {
+   "title": "Kitchen & Bathroom Renovation and Remodeling in Covington, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Discover expert renovation and remodeling in Covington, LA. Call Singer Kitchens at (504) 539-4605 for beautiful, custom designs. Transform your home today!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/covington/kitchen-remodeling/",
+  "title": "Kitchen Remodeling in Covington, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7236,
+  "seo": {
+   "title": "Kitchen Remodeling in Covington, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Transform your space with expert kitchen remodeling in Covington, LA. Call Singer Kitchens at (504) 539-4605 for custom designs and flawless craftsmanship.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/covington/kitchen-design/",
+  "title": "Kitchen Design in Covington, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7239,
+  "seo": {
+   "title": "Kitchen Design in Covington, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Discover expert kitchen design in Covington, LA. Call Singer Kitchens at (504) 539-4605 to transform your space with style and functionality. Let’s create your dream kitchen!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/madisonville/",
+  "title": "Top Kitchen Remodeling Company in Madisonville, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7734,
+  "seo": {
+   "title": "Top Kitchen Remodeling Company in Madisonville, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Discover expert renovation and remodeling services in Madisonville, LA. Call Singer Kitchens at 504-539-4605 to transform your space with style and precision!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": "https://www.singerkitchens.com/service-area/madisonville/"
+  }
+ },
+ {
+  "path": "/service-area/madisonville/kitchen-remodeling/",
+  "title": "Kitchen Remodeling in Madisonville, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7743,
+  "seo": {
+   "title": "Kitchen Remodeling in Madisonville, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Transform your home with expert kitchen remodeling in Madisonville, LA. Call Singer Kitchens at (504) 539-4605 for stunning designs and quality craftsmanship!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": "https://www.singerkitchens.com/service-area/madisonville/kitchen-remodeling/"
+  }
+ },
+ {
+  "path": "/service-area/madisonville/kitchen-design/",
+  "title": "Kitchen Design in Madisonville, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7748,
+  "seo": {
+   "title": "Kitchen Design in Madisonville, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Transform your space with expert kitchen design in Madisonville, LA. Call Singer Kitchens at (985) 778-2978 to create your dream kitchen today!",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": "https://www.singerkitchens.com/service-area/madisonville/kitchen-design/"
+  }
+ },
+ {
+  "path": "/from-peeling-paint-to-lasting-blue/",
+  "title": "From Peeling Paint to Lasting Blue: Why Laurie & Kenneth Chose to Replace Their Cabinets",
+  "core": false,
+  "type": "post",
+  "id": 9296,
+  "seo": {
+   "title": "From Peeling Paint to Lasting Blue: Why Laurie & Kenneth Chose to Replace Their Cabinets | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "For Laurie and Kenneth, blue has always meant calm, elegance and sophistication. When they decided to update their kitchen, they wanted that feeling to",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/approachable-luxury-designing-a-kitchen-that-feels-like-you/",
+  "title": "Approachable Luxury: Designing a Kitchen That Feels Like You",
+  "core": false,
+  "type": "post",
+  "id": 9499,
+  "seo": {
+   "title": "Approachable Luxury: Designing a Kitchen That Feels Like You | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "There’s been a quiet shift happening in kitchens lately. Not a trend. Not a color. Not a style. A shift in how people want to feel in their homes. When",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-showcase-on-the-water-the-boathouse-kitchen/",
+  "title": "A Showcase on the Water: The Boathouse Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 9526,
+  "seo": {
+   "title": "A Showcase on the Water: The Boathouse Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Along the West End of Lake Pontchartrain, there's a stretch of New Orleans that feels unlike anywhere else in the city. Elevated homes built directly over",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/the-built-in-coffee-bar-a-favorite-kitchen-luxury/",
+  "title": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
+  "core": false,
+  "type": "post",
+  "id": 11320,
+  "seo": {
+   "title": "The Built-In Coffee Bar: A Favorite Kitchen Luxury | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "For homeowners who love making their own coffee — and have realized they like it better than what they get when they go out — a built-in coffee bar gives that daily ritual a proper home.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/the-most-popular-cabinet-door-style-in-new-orleans-kitchens-and-why-it-works/",
+  "title": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works",
+  "core": false,
+  "type": "post",
+  "id": 11341,
+  "seo": {
+   "title": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "The shaker door is the most requested cabinet door style we see — year after year. Here's what makes it so consistently popular, and what to know before you decide if it's right for your kitchen.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/why-the-finish-on-your-cabinets-matters-more-than-most-people-realize/",
+  "title": "Why the Finish on Your Cabinets Matters More Than Most People Realize",
+  "core": false,
+  "type": "post",
+  "id": 11349,
+  "seo": {
+   "title": "Why the Finish on Your Cabinets Matters More Than Most People Realize | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Painting your cabinets looks like the more affordable option — but after nearly 100 years of installing kitchens in Greater New Orleans, our designers have seen how both choices hold up. The difference almost always comes down to the finish.",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/not-ready-for-a-full-renovation-youll-want-to-see-this/",
+  "title": "Not Ready for a Full Renovation? You'll Want to See This.",
+  "core": false,
+  "type": "post",
+  "id": 11421,
+  "seo": {
+   "title": "Not Ready for a Full Renovation? You'll Want to See This.",
+   "description": "Description: Singer Kitchens has always been able to help with smaller kitchen projects — cabinet replacements, islands, countertops, and more. If a full renovation feels like too much right now, this is worth a look.",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/cashmere-kitchen-renovation-john-annes-kitchen-story/",
+  "title": "Cozy Cashmere: John & Anne's Kitchen Story",
+  "core": false,
+  "type": "post",
+  "id": 12124,
+  "seo": {
+   "title": "Cozy Cashmere: John & Anne's Kitchen Story",
+   "description": "John and Anne loved to cook but not their kitchen. Discover how thoughtful design transformed it into a space they truly love coming home to",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/love-your-rate-update-your-kitchen/",
+  "title": "Love Your Rate. Update Your Kitchen",
+  "core": false,
+  "type": "post",
+  "id": 12493,
+  "seo": {
+   "title": "Love Your Rate. Update Your Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Love your rate? Don’t wait to fall in love with your kitchen. You love your mortgage rate. Your kitchen? Maybe not so much. And that's the dilemma. If",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/a-mandeville-lakefront-kitchen-renovation-that-honors-the-past/",
+  "title": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
+  "core": false,
+  "type": "post",
+  "id": 12498,
+  "seo": {
+   "title": "A Mandeville Lakefront Kitchen Renovation That Honors the Past | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "Timeless Elegance: A Historic Old Mandeville Kitchen Reimagined Overlooking Lake Pontchartrain in Old Mandeville stands a magnificent home built in the",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/slidell/",
+  "title": "Kitchen & Bathroom Renovation & Remodeling Contractor in Slidell, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7787,
+  "seo": {
+   "title": "Kitchen & Bathroom Renovation & Remodeling in Slidell, LA",
+   "description": "Transform your home with expert kitchen & bathroom renovation in Slidell, LA. Call Singer Kitchens at (504) 539-4605 for top-quality remodeling services today!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/slidell/kitchen-remodeling/",
+  "title": "Kitchen Remodeling Services in Slidell, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7799,
+  "seo": {
+   "title": "Kitchen Remodeling Services in Slidell, LA",
+   "description": "Upgrade your space with expert kitchen remodeling in Slidell, LA. Call Singer Kitchens at (504) 539-4605 for custom designs & quality craftsmanship today!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/slidell/kitchen-design/",
+  "title": "Kitchen Design in Slidell, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7807,
+  "seo": {
+   "title": "Kitchen Design in Slidell, LA",
+   "description": "Bring your dream kitchen to life with expert kitchen design in Slidell, LA. Call Singer Kitchens at (504) 539-4605 for personalized layouts & stylish solutions!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/lacombe/",
+  "title": "Renovation & Remodeling Contractor in Lacombe, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7916,
+  "seo": {
+   "title": "Renovation & Remodeling Contractor in Lacombe, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/lacombe/kitchen-remodeling/",
+  "title": "Kitchen Remodeling in Lacombe, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7927,
+  "seo": {
+   "title": "Kitchen Remodeling in Lacombe, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/lacombe/kitchen-design/",
+  "title": "Kitchen Design in Lacombe, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7931,
+  "seo": {
+   "title": "Kitchen Design in Lacombe, LA | Singer Kitchens | Kitchen Remodeling New Orleans",
+   "description": "",
+   "noindex": false,
+   "title_src": "template",
+   "desc_src": "excerpt",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/hammond/",
+  "title": "Renovation & Remodeling Contractor in Hammond, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7983,
+  "seo": {
+   "title": "Renovation & Remodeling Contractor in Hammond, LA",
+   "description": "Transform your space with Hammond’s top renovation & remodeling contractor. Call Singer Kitchens at (504) 539-4605 to explore expert craftsmanship and style today!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/hammond/kitchen-remodeling/",
+  "title": "Kitchen Remodeling in Hammond, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7991,
+  "seo": {
+   "title": "Kitchen Remodeling in Hammond, LA",
+   "description": "Discover top-tier kitchen remodeling in Hammond, LA. Call Singer Kitchens at (504) 539-4605 to revamp your kitchen with expert design and craftsmanship today!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ },
+ {
+  "path": "/service-area/hammond/kitchen-design/",
+  "title": "Kitchen Design in Hammond, LA",
+  "core": false,
+  "type": "service-area",
+  "id": 7993,
+  "seo": {
+   "title": "Kitchen Design in Hammond, LA",
+   "description": "Elevate your home with expert kitchen design in Hammond, LA. Call Singer Kitchens at (504) 539-4605 to explore stylish, functional designs tailored to your taste!",
+   "noindex": false,
+   "title_src": "yoast",
+   "desc_src": "yoast",
+   "canonical": ""
+  }
+ }
+]

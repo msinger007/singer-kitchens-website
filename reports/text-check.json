@@ -1,0 +1,944 @@
+[
+ {
+  "path": "/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Singer Kitchens: Top Kitchen Renovation Company in New Orleans",
+    "built": "Singer Kitchens: Top Kitchen Renovation Company in New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Discover why Singer Kitchens is the top kitchen renovation company in New Orleans & Mandeville. Since 1928, trusted for cabinets, countertops, expert design and installation.",
+    "built": "Discover why Singer Kitchens is the top kitchen renovation company in New Orleans & Mandeville. Since 1928, trusted for cabinets, countertops, expert design and installation.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/",
+    "built": "https://www.singerkitchens.com/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Love Your Kitchen!"
+    ]
+   }
+  },
+  "saved_page": {
+   "file": "Singer_Kitchens__Top_Kitchen_Renovation_Company_in_New_Orleans.html",
+   "title": {
+    "live": "Singer Kitchens: Top Kitchen Renovation Company in New Orleans",
+    "built": "Singer Kitchens: Top Kitchen Renovation Company in New Orleans",
+    "ok": true
+   },
+   "description": {
+    "live": "Discover why Singer Kitchens is the top kitchen renovation company in New Orleans & Mandeville. Since 1928, trusted for cabinets, countertops, expert design and installation.",
+    "built": "Discover why Singer Kitchens is the top kitchen renovation company in New Orleans & Mandeville. Since 1928, trusted for cabinets, countertops, expert design and installation.",
+    "ok": true
+   },
+   "canonical": {
+    "live": "https://www.singerkitchens.com/",
+    "built": "https://www.singerkitchens.com/",
+    "ok": true
+   },
+   "h1": {
+    "live": [
+     "Love Your Kitchen!",
+     "Let's Talk Kitchens"
+    ],
+    "built": [
+     "Love Your Kitchen!"
+    ],
+    "ok": false
+   },
+   "live_lines_missing": []
+  },
+  "ok": false
+ },
+ {
+  "path": "/about/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "About | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "About | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Singer Kitchens A New Orleans Tradition Since 1928 As a local, New Orleans-based business founded in 1928, we understand the importance of family, honesty",
+    "built": "Singer Kitchens A New Orleans Tradition Since 1928 As a local, New Orleans-based business founded in 1928, we understand the importance of family, honesty",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/about/",
+    "built": "https://www.singerkitchens.com/about/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Singer Kitchens"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/our-process/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Our Process",
+    "built": "Our Process",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Learn about our process for renovating and remodeling your dream spaces. We'll walk you through every step so you know what to expect.",
+    "built": "Learn about our process for renovating and remodeling your dream spaces. We'll walk you through every step so you know what to expect.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/our-process/",
+    "built": "https://www.singerkitchens.com/our-process/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Our Process"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/as-seen-on/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Singer Kitchens As Seen On...",
+    "built": "Singer Kitchens As Seen On...",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "We're incredibly proud and blessed to have been featured in several local publications. Check out our handy work!",
+    "built": "We're incredibly proud and blessed to have been featured in several local publications. Check out our handy work!",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/as-seen-on/",
+    "built": "https://www.singerkitchens.com/as-seen-on/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "As Seen In"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/employment/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Employment | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Employment | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Careers Singer Kitchens is a great place to work! Singer Kitchens is the leading kitchen remodeler in the greater New Orleans area with showrooms located",
+    "built": "Careers Singer Kitchens is a great place to work! Singer Kitchens is the leading kitchen remodeler in the greater New Orleans area with showrooms located",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/employment/",
+    "built": "https://www.singerkitchens.com/employment/",
+    "ok": true
+   },
+   "h1": {
+    "built": []
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/pro-partners/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Pro Partners | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Pro Partners | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "We'll Handle the Kitchen. You Keep the Client. Contractors & Design Pros: when a project includes a kitchen, Singer Kitchens handles the design, planning",
+    "built": "We'll Handle the Kitchen. You Keep the Client. Contractors & Design Pros: when a project includes a kitchen, Singer Kitchens handles the design, planning",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/pro-partners/",
+    "built": "https://www.singerkitchens.com/pro-partners/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "We'll Handle the Kitchen. You Keep the Client."
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/remodeling/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+    "built": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+    "built": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/remodeling/",
+    "built": "https://www.singerkitchens.com/remodeling/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Remodeling Made Easy!"
+    ]
+   }
+  },
+  "saved_page": {
+   "file": "Kitchen_Remodeling_New_Orleans__Mandeville___Covington.html",
+   "title": {
+    "live": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+    "built": "Kitchen Remodeling New Orleans, Mandeville & Covington",
+    "ok": true
+   },
+   "description": {
+    "live": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+    "built": "Singer Kitchens remodeling in New Orleans, Mandeville & Covington. Visit a showroom near you for a free kitchen design & estimate.",
+    "ok": true
+   },
+   "canonical": {
+    "live": "https://www.singerkitchens.com/remodeling/",
+    "built": "https://www.singerkitchens.com/remodeling/",
+    "ok": true
+   },
+   "h1": {
+    "live": [
+     "Kitchen Remodeling Made Easy!"
+    ],
+    "built": [
+     "Kitchen Remodeling Made Easy!"
+    ],
+    "ok": true
+   },
+   "live_lines_missing": []
+  },
+  "ok": true
+ },
+ {
+  "path": "/small-kitchen-remodeling/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Small Kitchen Remodeling New Orleans, Mandeville & Covington",
+    "built": "Small Kitchen Remodeling New Orleans, Mandeville & Covington",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Singer Kitchens has been remodeling small kitchens in New Orleans, Mandeville & Covington for more than 90 years. Visit a showroom near you.",
+    "built": "Singer Kitchens has been remodeling small kitchens in New Orleans, Mandeville & Covington for more than 90 years. Visit a showroom near you.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/small-kitchen-remodeling/",
+    "built": "https://www.singerkitchens.com/small-kitchen-remodeling/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Small Kitchen Remodeling"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/kitchens/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+    "built": "Kitchen Design New Orleans, Mandeville, Covington & Slidell",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Singer Kitchens offers free kitchen design renderings as part of our design & renovation services. Get everything in one place including financing from Singer Kitchens.",
+    "built": "Singer Kitchens offers free kitchen design renderings as part of our design & renovation services. Get everything in one place including financing from Singer Kitchens.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/kitchens/",
+    "built": "https://www.singerkitchens.com/kitchens/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Design"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/kitchen-cabinets/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Cabinets New Orleans. Mandeville & Covington - Singer Kitchens",
+    "built": "Kitchen Cabinets New Orleans. Mandeville & Covington - Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Browse high-quality kitchen cabinets from brands you trust at Singer Kitchens in New Orleans and Mandeville! Visit a showroom near you.",
+    "built": "Browse high-quality kitchen cabinets from brands you trust at Singer Kitchens in New Orleans and Mandeville! Visit a showroom near you.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/kitchen-cabinets/",
+    "built": "https://www.singerkitchens.com/kitchen-cabinets/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Cabinets from Brands You Trust - New Orleans & the Northshore"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/quick-refresh/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Quick Kitchen Refresh - Cabinets, Countertops & More | Singer Kitchens",
+    "built": "Quick Kitchen Refresh - Cabinets, Countertops & More | Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Singer Kitchens offers quick refresh services for Greater New Orleans homeowners - countertops, islands, vanities, laundry rooms, and more. Two showrooms: New Orleans & Mandeville.",
+    "built": "Singer Kitchens offers quick refresh services for Greater New Orleans homeowners - countertops, islands, vanities, laundry rooms, and more. Two showrooms: New Orleans & Mandeville.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/quick-refresh/",
+    "built": "https://www.singerkitchens.com/quick-refresh/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Great Spaces Start Here."
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/bathrooms/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "New Orleans Bathroom Design Gallery - Singer Kitchens",
+    "built": "New Orleans Bathroom Design Gallery - Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "View our gallery of New Orleans inspired bathrooms designed & built by Singer Kitchens in New Orleans & Mandeville, LA",
+    "built": "View our gallery of New Orleans inspired bathrooms designed & built by Singer Kitchens in New Orleans & Mandeville, LA",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/bathrooms/",
+    "built": "https://www.singerkitchens.com/bathrooms/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Bathroom Cabinet & Countertop Renovations"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/closets/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Closet Renovations From Singer Kitchens In New Orleans & Mandeville",
+    "built": "Closet Renovations From Singer Kitchens In New Orleans & Mandeville",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Browse the most fabulous closet storage and organization solutions from Singer Kitchens in New Orleans and Mandeville",
+    "built": "Browse the most fabulous closet storage and organization solutions from Singer Kitchens in New Orleans and Mandeville",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/closets/",
+    "built": "https://www.singerkitchens.com/closets/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Closet Design and Renovation Services"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/portfolio/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Portfolio | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Portfolio | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Portfolio Your Vision. Our Expertise.",
+    "built": "Portfolio Your Vision. Our Expertise.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/portfolio/",
+    "built": "https://www.singerkitchens.com/portfolio/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Portfolio"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/cabinets/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Cabinets New Orleans, Mandeville & Covington - Singer Kitchens",
+    "built": "Kitchen Cabinets New Orleans, Mandeville & Covington - Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Visit Singer Kitchens showrooms in New Orleans or Mandeville to see top-quality kitchen cabinet brands and designs or meet with a design consulant.",
+    "built": "Visit Singer Kitchens showrooms in New Orleans or Mandeville to see top-quality kitchen cabinet brands and designs or meet with a design consulant.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/cabinets/",
+    "built": "https://www.singerkitchens.com/cabinets/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "See All Your Choices in Kitchen Cabinets",
+     "We have a cabinet solution for every project"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/countertops/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Countertops New Orleans, Mandeville & Covington - Singer Kitchens",
+    "built": "Kitchen Countertops New Orleans, Mandeville & Covington - Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Shop top quality kitchen countertops in New Orleans, Mandeville or Covington from Singer Kitchens. Call or visit a showroom near you.",
+    "built": "Shop top quality kitchen countertops in New Orleans, Mandeville or Covington from Singer Kitchens. Call or visit a showroom near you.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/countertops/",
+    "built": "https://www.singerkitchens.com/countertops/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Countertops New Orleans & the Northshore",
+     "Expert Guidance in Choosing the Right Countertops",
+     "Countertop Trends We Are Seeing Right Now",
+     "Top Countertop Styles We Carry",
+     "GRANITE COUNTERTOPS - THE NATURAL CHOICE",
+     "QUARTZ & QUARTZITE - THE NEW STANDARD",
+     "Visit One of Our Showrooms to See Countertops Up Close"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/storage-solutions/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Storage Solutions | New Orleans & Mandeville | Singer Kitchens",
+    "built": "Kitchen Storage Solutions | New Orleans & Mandeville | Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Struggling with kitchen storage? Discover smart kitchen storage solutions in New Orleans and Mandeville. From custom cabinets to full kitchen renovations, Singer Kitchens designs storage that truly works for real life.",
+    "built": "Struggling with kitchen storage? Discover smart kitchen storage solutions in New Orleans and Mandeville. From custom cabinets to full kitchen renovations, Singer Kitchens designs storage that truly works for real life.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/storage-solutions/",
+    "built": "https://www.singerkitchens.com/storage-solutions/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Storage Solutions That Actually Work for Real Life"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/blog/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Kitchen Stories",
+    "built": "Kitchen Stories",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/blog/",
+    "built": "https://www.singerkitchens.com/blog/",
+    "ok": true
+   },
+   "h1": {
+    "built": []
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/videos/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Videos | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Videos | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Kitchen Remodeling Videos & Customer Stories Explore real customer experiences, kitchen tours and practical design ideas from Singer Kitchens. Whether",
+    "built": "Kitchen Remodeling Videos & Customer Stories Explore real customer experiences, kitchen tours and practical design ideas from Singer Kitchens. Whether",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/videos/",
+    "built": "https://www.singerkitchens.com/videos/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Remodeling Videos & Customer Stories"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/kitchen-renovation-roi/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Renovation ROI | Singer Kitchens",
+    "built": "Kitchen Renovation ROI | Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Wondering if there's a return on the kitchen you actually want - not just a resale-safe refresh? Here's what we're seeing, for homeowners across Metro New Orleans and the Northshore.",
+    "built": "Wondering if there's a return on the kitchen you actually want - not just a resale-safe refresh? Here's what we're seeing, for homeowners across Metro New Orleans and the Northshore.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/kitchen-renovation-roi/",
+    "built": "https://www.singerkitchens.com/kitchen-renovation-roi/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Renovation ROI"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/top-kitchen-design-trends/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Top Kitchen Design Trends",
+    "built": "Top Kitchen Design Trends",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "After 90+ years in business, we've come to realize how important it is to stay ahead of kitchen design trends.",
+    "built": "After 90+ years in business, we've come to realize how important it is to stay ahead of kitchen design trends.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/top-kitchen-design-trends/",
+    "built": "https://www.singerkitchens.com/top-kitchen-design-trends/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Top Kitchen Design Trends"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/kitchen-design-checklist/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Design Checklist",
+    "built": "Kitchen Design Checklist",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Key points to consider before a kitchen renovation",
+    "built": "Key points to consider before a kitchen renovation",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/kitchen-design-checklist/",
+    "built": "https://www.singerkitchens.com/kitchen-design-checklist/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Free Interactive Kitchen Planning Guide"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/kitchen-design-secrets/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "The Secret to Designing Modern Kitchens Your Family Will Love",
+    "built": "The Secret to Designing Modern Kitchens Your Family Will Love",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Professional designers use this design secret to create modern kitchens that are both beautiful & functional. Free download.",
+    "built": "Professional designers use this design secret to create modern kitchens that are both beautiful & functional. Free download.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/kitchen-design-secrets/",
+    "built": "https://www.singerkitchens.com/kitchen-design-secrets/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Free Kitchen Design & Remodeling Guide"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/cabinet-repainting-vs-remodeling/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Cabinets: Re-painting vs. Remodeling Guide",
+    "built": "Kitchen Cabinets: Re-painting vs. Remodeling Guide",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Key points to consider if you're unsure about repainting your cabinets or doing a full renovation.",
+    "built": "Key points to consider if you're unsure about repainting your cabinets or doing a full renovation.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/cabinet-repainting-vs-remodeling/",
+    "built": "https://www.singerkitchens.com/cabinet-repainting-vs-remodeling/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Cabinet Repainting vs. Replacement"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/kitchen-remodeling-faqs/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Remodeling FAQs | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Kitchen Remodeling FAQs | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Kitchen Remodeling FAQs Your Kitchen Remodeling Questions, Answered Planning a kitchen remodel? Find answers to common questions about getting started",
+    "built": "Kitchen Remodeling FAQs Your Kitchen Remodeling Questions, Answered Planning a kitchen remodel? Find answers to common questions about getting started",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/kitchen-remodeling-faqs/",
+    "built": "https://www.singerkitchens.com/kitchen-remodeling-faqs/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Remodeling FAQs"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/showrooms/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Kitchen Design Showroom New Orleans & Mandeville - Singer Kitchens",
+    "built": "Kitchen Design Showroom New Orleans & Mandeville - Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "View kitchen design showroom locations in New Orleans & Mandeville Louisiana for Singer Kitchens.",
+    "built": "View kitchen design showroom locations in New Orleans & Mandeville Louisiana for Singer Kitchens.",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/showrooms/",
+    "built": "https://www.singerkitchens.com/showrooms/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Kitchen Design Inspiration: By Appointment!"
+    ]
+   }
+  },
+  "saved_page": {
+   "file": "Kitchen_Design_Showroom_New_Orleans___Mandeville_-_Singer_Kitchens.html",
+   "title": {
+    "live": "Kitchen Design Showroom New Orleans & Mandeville - Singer Kitchens",
+    "built": "Kitchen Design Showroom New Orleans & Mandeville - Singer Kitchens",
+    "ok": true
+   },
+   "description": {
+    "live": "View kitchen design showroom locations in New Orleans & Mandeville Louisiana for Singer Kitchens.",
+    "built": "View kitchen design showroom locations in New Orleans & Mandeville Louisiana for Singer Kitchens.",
+    "ok": true
+   },
+   "canonical": {
+    "live": "https://www.singerkitchens.com/showrooms/",
+    "built": "https://www.singerkitchens.com/showrooms/",
+    "ok": true
+   },
+   "h1": {
+    "live": [
+     "Kitchen Design Inspiration: By Appointment!"
+    ],
+    "built": [
+     "Kitchen Design Inspiration: By Appointment!"
+    ],
+    "ok": true
+   },
+   "live_lines_missing": []
+  },
+  "ok": true
+ },
+ {
+  "path": "/reviews/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Reviews",
+    "built": "Reviews",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Serving metro New Orleans since 1928 - more than 65 5 Star Reviews!",
+    "built": "Serving metro New Orleans since 1928 - more than 65 5 Star Reviews!",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/reviews/",
+    "built": "https://www.singerkitchens.com/reviews/",
+    "ok": true
+   },
+   "h1": {
+    "built": [
+     "Serving metro New Orleans since 1928 - more than 65 5-Star Reviews!",
+     "What New Orleans Homeowners Are Saying",
+     "What Northshore Homeowners Are Saying",
+     "Watch a Real Kitchen Transformation"
+    ]
+   }
+  },
+  "saved_page": null,
+  "ok": true
+ },
+ {
+  "path": "/financing/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Financing | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Financing | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Financing Made Simple With 0% interest financing available for 12, 24 or 60 months, you can begin your project now and spread your payments over time with",
+    "built": "Financing Made Simple With 0% interest financing available for 12, 24 or 60 months, you can begin your project now and spread your payments over time with",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/financing/",
+    "built": "https://www.singerkitchens.com/financing/",
+    "ok": true
+   },
+   "h1": {
+    "built": []
+   }
+  },
+  "saved_page": {
+   "file": "Financing___Singer_Kitchens___Kitchen_Remodeling_New_Orleans.html",
+   "title": {
+    "live": "Financing | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Financing | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "live": "Financing Made Simple With 0% interest financing available for 12, 24 or 60 months, you can begin your project now and spread your payments over time with",
+    "built": "Financing Made Simple With 0% interest financing available for 12, 24 or 60 months, you can begin your project now and spread your payments over time with",
+    "ok": true
+   },
+   "canonical": {
+    "live": "https://www.singerkitchens.com/financing/",
+    "built": "https://www.singerkitchens.com/financing/",
+    "ok": true
+   },
+   "h1": {
+    "live": [],
+    "built": [],
+    "ok": true
+   },
+   "live_lines_missing": []
+  },
+  "ok": true
+ },
+ {
+  "path": "/request-consultation/",
+  "missing_copy": [],
+  "seo": {
+   "title": {
+    "expected_export": "Request Consultation | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Request Consultation | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "expected_export": "Let's Talk About Your Kitchen Not sure where to start? That's exactly what this conversation is for. Share your information below and one of our",
+    "built": "Let's Talk About Your Kitchen Not sure where to start? That's exactly what this conversation is for. Share your information below and one of our",
+    "ok": true
+   },
+   "canonical": {
+    "expected": "https://www.singerkitchens.com/request-consultation/",
+    "built": "https://www.singerkitchens.com/request-consultation/",
+    "ok": true
+   },
+   "h1": {
+    "built": []
+   }
+  },
+  "saved_page": {
+   "file": "Request_Consultation___Singer_Kitchens___Kitchen_Remodeling_New_Orleans.html",
+   "title": {
+    "live": "Request Consultation | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "built": "Request Consultation | Singer Kitchens | Kitchen Remodeling New Orleans",
+    "ok": true
+   },
+   "description": {
+    "live": "Let's Talk About Your Kitchen Not sure where to start? That's exactly what this conversation is for. Share your information below and one of our",
+    "built": "Let's Talk About Your Kitchen Not sure where to start? That's exactly what this conversation is for. Share your information below and one of our",
+    "ok": true
+   },
+   "canonical": {
+    "live": "https://www.singerkitchens.com/request-consultation/",
+    "built": "https://www.singerkitchens.com/request-consultation/",
+    "ok": true
+   },
+   "h1": {
+    "live": [],
+    "built": [],
+    "ok": true
+   },
+   "live_lines_missing": []
+  },
+  "ok": true
+ }
+]

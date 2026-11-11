@@ -1,0 +1,15 @@
+{#- Two showroom cards (home page band, Our Process). -#}
+<div class="shops">
+{%- for s in showrooms %}
+  <div class="shop">
+    <a href="/showrooms/#{{ s.id }}">{{ s.photos[0].file | img(s.photos[0].alt) | safe }}</a>
+    <div class="shop-body">
+      <h3><a href="/showrooms/#{{ s.id }}">{{ s.name }}</a></h3>
+      <p class="addr">{{ s.street }} {{ s.note }}, {{ s.city }}, {{ s.region }} {{ s.zip }}</p>
+      <p class="addr"><strong>{{ s.hoursLine }}</strong></p>
+      <a class="tel" href="{{ s.phoneTel }}">{{ s.phone }}</a>
+      <div class="acts"><a class="btn" href="/showrooms/#{{ s.id }}">{{ shopCta or "Visit Our Showrooms" }}</a><a class="btn btn-line" href="{{ s.directions }}" target="_blank" rel="noopener">Get Directions</a></div>
+    </div>
+  </div>
+{%- endfor %}
+</div>

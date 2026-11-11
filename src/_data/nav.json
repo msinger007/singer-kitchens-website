@@ -1,0 +1,62 @@
+{
+  "main": [
+    { "label": "Kitchens", "children": [
+      { "label": "Kitchen Remodeling", "url": "/remodeling/" },
+      { "label": "Quick Refresh", "url": "/quick-refresh/" },
+      { "label": "Small Kitchen Remodeling", "url": "/small-kitchen-remodeling/" },
+      { "label": "Kitchen Design", "url": "/kitchens/" },
+      { "label": "Design Portfolio", "url": "/portfolio/" }
+    ]},
+    { "label": "Cabinets & Countertops", "children": [
+      { "label": "Kitchen Cabinets", "url": "/kitchen-cabinets/" },
+      { "label": "Countertops", "url": "/countertops/" },
+      { "label": "Storage Solutions", "url": "/storage-solutions/" },
+      { "label": "Closets", "url": "/closets/" },
+      { "label": "Bathrooms", "url": "/bathrooms/" }
+    ]},
+    { "label": "Our Process", "url": "/our-process/" },
+    { "label": "Showrooms", "url": "/showrooms/" },
+    { "label": "Financing", "url": "/financing/" },
+    { "label": "Learn", "children": [
+      { "label": "Kitchen Stories", "url": "/blog/" },
+      { "label": "Videos", "url": "/videos/" },
+      { "label": "Kitchen Renovation ROI", "url": "/kitchen-renovation-roi/" },
+      { "label": "Kitchen Design Trends", "url": "/top-kitchen-design-trends/" },
+      { "label": "Kitchen Design Checklist", "url": "/kitchen-design-checklist/" },
+      { "label": "Kitchen Design Secrets", "url": "/kitchen-design-secrets/" },
+      { "label": "Cabinet Painting vs. Remodeling", "url": "/cabinet-repainting-vs-remodeling/" },
+      { "label": "FAQs", "url": "/kitchen-remodeling-faqs/" }
+    ]},
+    { "label": "About", "children": [
+      { "label": "About", "url": "/about/" },
+      { "label": "Reviews", "url": "/reviews/" },
+      { "label": "As Seen On", "url": "/as-seen-on/" },
+      { "label": "Careers", "url": "/employment/" },
+      { "label": "Pro Partners", "url": "/pro-partners/" }
+    ]}
+  ],
+  "footer": {
+    "quicklinks": [
+      { "label": "Home", "url": "/" },
+      { "label": "About", "url": "/about/" },
+      { "label": "Portfolio", "url": "/portfolio/" },
+      { "label": "Showrooms", "url": "/showrooms/" },
+      { "label": "Products", "url": "/cabinets/" },
+      { "label": "Learn", "url": "/blog/" }
+    ],
+    "services": [
+      { "label": "Kitchen Remodeling", "url": "/remodeling/" },
+      { "label": "Small Kitchen Remodeling", "url": "/small-kitchen-remodeling/" },
+      { "label": "Kitchen Design", "url": "/kitchens/" },
+      { "label": "Kitchen Cabinets", "url": "/kitchen-cabinets/" },
+      { "label": "Bathroom Design", "url": "/bathrooms/" },
+      { "label": "Closet Renovations", "url": "/closets/" }
+    ],
+    "legal": [
+      { "label": "Financing", "url": "/financing/" },
+      { "label": "Careers", "url": "/employment/" },
+      { "label": "Privacy Policy", "url": "/privacy-policy/" },
+      { "label": "Accessibility statement", "url": "/accessibility-statement/" }
+    ]
+  }
+}

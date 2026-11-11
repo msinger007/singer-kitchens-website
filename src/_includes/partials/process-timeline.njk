@@ -1,0 +1,26 @@
+{#- /our-process/: all four steps in full (approved copy, word for word). -#}
+<section class="band timeline-band" aria-labelledby="tl-h">
+  <div class="wrap">
+    <p class="label">How it works</p>
+    <h2 id="tl-h">{{ process.title }}</h2>
+    <ol class="timeline">
+    {%- for s in process.steps %}
+      <li class="tl-step{% if loop.first %} lead{% endif %}">
+        <div class="tl-marker" aria-hidden="true">{{ s.n }}</div>
+        <div class="tl-body">
+          <h3>Step {{ s.n }}: {{ s.title }}{% if s.sub %} — {{ s.sub }}{% endif %}</h3>
+          <p class="tl-lead">{{ s.lead }}</p>
+          {%- for b in s.body %}
+          <p{% if b == process.quick or b == "You don't need to have everything figured out before you visit." %} class="callout"{% endif %}>{{ b }}</p>
+          {%- endfor %}
+          {%- if loop.first %}
+          <p class="btn-row"><a class="btn btn-red" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a> <a class="phone" href="{{ site.phoneTel }}">{{ site.phone }}</a></p>
+          {%- elif s.n == 2 %}
+          <p class="btn-row"><a class="btn" href="/showrooms/">Visit the Showroom</a> <span class="tl-shops"><a href="/showrooms/#new-orleans">New Orleans</a> · <a href="/showrooms/#mandeville">Mandeville</a></span></p>
+          {%- endif %}
+        </div>
+      </li>
+    {%- endfor %}
+    </ol>
+  </div>
+</section>

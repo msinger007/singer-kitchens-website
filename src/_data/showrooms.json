@@ -1,0 +1,56 @@
+[
+  {
+    "id": "new-orleans",
+    "name": "New Orleans Showroom",
+    "short": "New Orleans",
+    "area": "New Orleans · across from Brocato’s",
+    "street": "231 N. Carrollton Ave.",
+    "note": "(at Bienville, across from Brocato’s)",
+    "city": "New Orleans",
+    "region": "LA",
+    "zip": "70119",
+    "phone": "(504) 486-0067",
+    "phoneTel": "tel:+15044860067",
+    "hoursLine": "Mon-Fri 10am-5pm, Sat 10am-2pm by Appointment",
+    "openingHours": [
+      { "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "10:00", "closes": "17:00" },
+      { "days": ["Saturday"], "opens": "10:00", "closes": "14:00" }
+    ],
+    "lat": 29.976071,
+    "lng": -90.099626,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=231+N+Carrollton+Ave,+New+Orleans,+LA+70119",
+    "photos": [
+      { "file": "2020/03/visit-our-showrooms.jpg", "alt": "Bright white kitchen with a large island and range hood" },
+      { "file": "2019/07/singer-cabinets-mandeville-min.jpg", "alt": "White shaker cabinets with a farmhouse sink and brick-look backsplash" },
+      { "file": "2022/07/072922d.jpg", "alt": "" }
+    ],
+    "onDisplay": "[What's on display at New Orleans: Nancy or Holly to supply]"
+  },
+  {
+    "id": "mandeville",
+    "name": "Mandeville Showroom",
+    "short": "Mandeville",
+    "area": "Northshore · Old Mandeville",
+    "street": "316 Girod St.",
+    "note": "(Old Mandeville)",
+    "city": "Mandeville",
+    "region": "LA",
+    "zip": "70448",
+    "phone": "(985) 778-2978",
+    "phoneTel": "tel:+19857782978",
+    "hoursLine": "Mon-Fri 10am-5pm, Sat 10am-2pm by Appointment",
+    "openingHours": [
+      { "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "10:00", "closes": "17:00" },
+      { "days": ["Saturday"], "opens": "10:00", "closes": "14:00" }
+    ],
+    "lat": 30.356077,
+    "lng": -90.066775,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=316+Girod+St,+Mandeville,+LA+70448",
+    "photos": [
+      { "file": "2020/03/Singer-Kitchens-Girod.jpg", "alt": "Singer Kitchens showroom sign and striped awning on Girod Street in Old Mandeville" },
+      { "file": "2020/11/showroom.jpg", "alt": "Tree-lined Girod Street with the Mandeville showroom cottage in the distance" },
+      { "file": "2026/10/Mandeville-Hub.webp", "alt": "Design station with a kitchen drawing on screen at the Mandeville showroom" }
+    ],
+    "onDisplay": "[What's on display at Mandeville: Nancy or Holly to supply]"
+  }
+]

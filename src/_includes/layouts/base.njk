@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{%- set pageTitle = seoTitle or (title ~ " | Singer Kitchens | Kitchen Remodeling New Orleans") %}
+{%- set canonical = (canonicalUrl or page.url) | absUrl(site.url) %}
+<title>{{ pageTitle }}</title>
+{%- if description %}
+<meta name="description" content="{{ description }}">
+{%- endif %}
+{%- if noindex %}
+<meta name="robots" content="noindex, follow">
+{%- else %}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+{%- endif %}
+<link rel="canonical" href="{{ canonical }}">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="{{ 'article' if layout == 'layouts/post.njk' else ('website' if page.url == '/' else 'article') }}">
+<meta property="og:title" content="{{ ogTitle or (pageTitle if page.url == '/' else title) }}">
+{%- if description %}
+<meta property="og:description" content="{{ description }}">
+{%- endif %}
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:site_name" content="Singer Kitchens">
+<meta property="og:image" content="{{ (ogImage or (image.src if image else null) or site.ogImage) | absUrl(site.url) }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="msvalidate.01" content="{{ site.tracking.verification.bing }}">
+<meta name="google-site-verification" content="{{ site.tracking.verification.google }}">
+<meta name="p:domain_verify" content="{{ site.tracking.verification.pinterest }}">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/images/logo/favicon-192.png" type="image/png">
+<link rel="preload" href="/images/logo/singer-kitchens-since-1928.webp" as="image">
+<link rel="stylesheet" href="/assets/css/site.css?v={{ build.version }}">
+<!-- Google Tag Manager (GA4 is configured inside GTM; it is not loaded directly) -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','{{ site.tracking.gtm }}');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '{{ site.tracking.metaPixel }}');
+ fbq('track', 'PageView');
+ fbq('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" alt=""
+  src="https://www.facebook.com/tr?id={{ site.tracking.metaPixel }}&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+{% include "partials/schema.njk" %}
+{%- if extraSchema %}
+<script type="application/ld+json">{{ extraSchema | safe }}</script>
+{%- endif %}
+</head>
+<body class="{{ bodyClass or '' }}">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.tracking.gtm }}" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe></noscript>
+<a class="skip" href="#main">Skip to content</a>
+{% include "partials/header.njk" %}
+<main id="main">
+{{ content | safe }}
+</main>
+{% include "partials/footer.njk" %}
+{% include "partials/mobile-bar.njk" %}
+<script src="/assets/js/site.js?v={{ build.version }}" defer></script>
+{%- if forms or hasForm %}
+<script src="https://link.msgsndr.com/js/form_embed.js" defer></script>
+{%- endif %}
+<script src="https://beta.leadconnectorhq.com/loader.js" data-resources-url="https://beta.leadconnectorhq.com/chat-widget/loader.js" data-widget-id="681ba27c752fc94411c1e515" defer></script>
+<script>
+document.addEventListener("click", function(e) {
+  const btn = e.target.closest(".btn-schedule");
+  if (btn) {
+    e.preventDefault();
+    if (typeof fbq !== "undefined") { fbq('track', 'Subscribe'); }
+    setTimeout(function(){ window.open(btn.href, "_blank"); }, 400);
+  }
+});
+</script>
+</body>
+</html>
