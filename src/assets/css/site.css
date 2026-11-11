@@ -189,7 +189,12 @@ iframe { max-width: 100%; border: 0; }
 .sec-tight { padding: 56px 0; }
 .paths { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 44px; }
 .path { border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; background: var(--white); }
+.path { transition: transform .25s ease, box-shadow .25s ease; }
 .path > a img { width: 100%; height: 280px; object-fit: cover; }
+@media (hover: hover) {
+  .path:hover, .path:focus-within { transform: scale(1.03); box-shadow: 0 14px 34px rgba(0,0,0,.14); position: relative; z-index: 1; }
+}
+@media (prefers-reduced-motion: reduce) { .path { transition: none; } }
 .path .body { padding: 26px 28px 30px; display: flex; flex-direction: column; gap: 12px; flex: 1; }
 .path h3 { margin: 0; }
 .path h3 a { text-decoration: none; }
