@@ -253,8 +253,7 @@ iframe { max-width: 100%; border: 0; }
 .box + .box { margin-top: 28px; }
 .planner { display: grid; grid-template-columns: 1.2fr 1fr; gap: 48px; align-items: center; }
 .planner .label { margin-bottom: 4px; }
-.planner h2.label { font-size: 15px; }
-.planner h3 { font-size: clamp(26px, 2.6vw, 34px); margin: 12px 0 14px; }
+.planner h2 { font-size: clamp(30px, 3vw, 40px); margin: 12px 0 14px; }
 .planner img { max-height: 520px; width: auto; margin: 0 auto; border-radius: 10px; }
 .stories h2 { text-align: center; }
 .stories .storygrid { margin-top: 28px; }
