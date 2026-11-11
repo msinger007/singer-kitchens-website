@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Restoring History: Ashley's Timeless Kitchen Renovation",
-  "seoTitle": "Restoring History: Ashley's Timeless Kitchen Renovation | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Restoring History: Ashley's Timeless Kitchen Renovation",
   "description": "When Ashley first visited our Mid-City showroom, she had a vision. Owning a home built in 1885, she was determined to restore the character and charm that",
   "date": "2025-03-15T20:07:46",
   "modified": "2025-03-15 20:29:59",

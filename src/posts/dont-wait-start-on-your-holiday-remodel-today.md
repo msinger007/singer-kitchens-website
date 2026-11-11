@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Don’t Wait! Start on Your Holiday Remodel Today!",
-  "seoTitle": "Don’t Wait! Start on Your Holiday Remodel Today! | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Don’t Wait! Start on Your Holiday Remodel Today!",
   "description": "Holiday events around NOLA are creeping up fast. Get started on your dream kitchen remodel today! We can help.",
   "date": "2021-06-14T16:57:58",
   "modified": "2021-06-14 16:57:58",
@@ -49,7 +49,7 @@ We know it’s a little overwhelming thinking about how you’ll <em>manage</em>
 Scheduling your FREE design consultation appointment with us in one of our showrooms doesn’t have to be stressful either.</p>
 <p>For the most productive appointment, we have a few tips for you to keep in mind.<br>
 <ol><br>
-<li><strong>Easily Reserve Your Appointment Ahead of Time </strong>– Make a design consultation appointment at your closest showroom <a href="/contact/">contacting us online</a> or calling one of our showrooms.</li><br>
+<li><strong>Easily Reserve Your Appointment Ahead of Time </strong>– Make a design consultation appointment at your closest showroom <a href="/request-consultation/">contacting us online</a> or calling one of our showrooms.</li><br>
 <li><strong>Send Us Pictures of Your Space!</strong> – Once you’ve connected with us, we invite you to send pictures of your project space ahead of your appointment. With these in hand, we can go ahead and start brainstorming your project and have our ideas ready when you arrive.</li><br>
 <li><strong>Have a Link to an Idea Board?</strong> – Do you have a <a href="https://www.pinterest.com/singerkitchens/" target="_blank" rel="noopener">Pinterest</a> board or a <a href="https://www.houzz.com/pro/singer-kitchens/singer-kitchens" target="_blank" rel="noopener">Houzz</a> IdeaBook you’ve been curating? Great! We love using these tools. Share the link with us! You can also easily start an idea board and begin saving ideas for your remodel. This type of visual inspiration always helps!</li><br>
 <li><strong>Bring Any and All Inspiration with You</strong> – Bring your samples and inspiration with you to our appointment! Do you have a color you absolutely love? A sample of your favorite flooring material? A photo of a kitchen you found in a magazine or something that embodies the look and feel you want in your space? We want to see it! Bring it along.</li><br>
@@ -61,4 +61,4 @@ You might also want to take a peek at our easy, breezy <a href="/kitchen-design-
 <p>We’ll get you ready!<br>
 <h2>Don’t Wait! Start on Your Holiday Remodel Today!</h2><br>
 In many ways, we’re getting back to normal in our communities. We’d love to help you welcome your loved ones back into your home by designing a space that truly supports your entertaining style. We’re excited to help you get back to the joy of fall and holiday entertaining! Don’t wait, start today!</p>
-<p><a href="/contact/">Contact us</a> or call us to schedule an appointment at one of our <a href="/showrooms/">newly remodeled showrooms</a>.</p></div>
+<p><a href="/request-consultation/">Contact us</a> or call us to schedule an appointment at one of our <a href="/showrooms/">newly remodeled showrooms</a>.</p></div>

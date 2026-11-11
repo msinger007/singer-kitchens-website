@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- set pageTitle = seoTitle or (title ~ " | Singer Kitchens | Kitchen Remodeling New Orleans") %}
+{%- if pagination and pagination.pageNumber > 0 %}{% set pageTitle = pageTitle ~ " - Page " ~ (pagination.pageNumber + 1) %}{% set description = description ~ " - page " ~ (pagination.pageNumber + 1) %}{% endif %}
 {%- set canonical = (canonicalUrl or page.url) | absUrl(site.url) %}
 <title>{{ pageTitle }}</title>
 {%- if description %}

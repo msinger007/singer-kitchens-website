@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Love Your Rate. Update Your Kitchen",
-  "seoTitle": "Love Your Rate. Update Your Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Love Your Rate. Update Your Kitchen | Singer Kitchens",
   "description": "Love your rate? Don’t wait to fall in love with your kitchen. You love your mortgage rate. Your kitchen? Maybe not so much. And that's the dilemma. If",
   "date": "2026-10-23T17:17:00",
   "modified": "2026-10-23 17:21:45",

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Why Choose Singer Kitchens? Hear From Our Happy Customers",
-  "seoTitle": "Why Choose Singer Kitchens? Hear From Our Happy Customers | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Why Choose Singer Kitchens? Hear From Our Happy Customers",
   "description": "Real Stories, Real Transformations: Watch the Video At Singer Kitchens, we believe that the best endorsement of our work comes from the satisfied smiles of",
   "date": "2024-07-17T14:51:55",
   "modified": "2024-12-18 21:43:45",

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "What To Consider When Remodeling A Kitchen",
-  "seoTitle": "What To Consider When Remodeling A Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "What To Consider When Remodeling A Kitchen | Singer Kitchens",
   "description": "Things to consider when remodeling a kitchen, these should not be ignored! Remodeling a kitchen is a massive project that needs to be well planned. It is",
   "date": "2019-11-14T17:11:50",
   "modified": "2019-11-14 18:23:59",

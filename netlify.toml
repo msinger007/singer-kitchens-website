@@ -35,6 +35,66 @@
   status = 301
 
 [[redirects]]
+  from = "/slider-page-test/"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/slider-page-test"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/kitchen-accessory-giveaway/"
+  to = "/request-consultation/"
+  status = 301
+
+[[redirects]]
+  from = "/kitchen-accessory-giveaway"
+  to = "/request-consultation/"
+  status = 301
+
+[[redirects]]
+  from = "/contact/"
+  to = "/request-consultation/"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/request-consultation/"
+  status = 301
+
+[[redirects]]
+  from = "/happy-customers/"
+  to = "/reviews/"
+  status = 301
+
+[[redirects]]
+  from = "/happy-customers"
+  to = "/reviews/"
+  status = 301
+
+[[redirects]]
+  from = "/hardware/"
+  to = "/kitchen-cabinets/"
+  status = 301
+
+[[redirects]]
+  from = "/hardware"
+  to = "/kitchen-cabinets/"
+  status = 301
+
+[[redirects]]
+  from = "/installation/"
+  to = "/our-process/"
+  status = 301
+
+[[redirects]]
+  from = "/installation"
+  to = "/our-process/"
+  status = 301
+
+[[redirects]]
   from = "/locations/"
   to = "/showrooms/"
   status = 301

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "4 Ways To Find The Perfect New Orleans Kitchen Cabinets",
-  "seoTitle": "4 Ways To Find The Perfect New Orleans Kitchen Cabinets | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "4 Ways To Find The Perfect New Orleans Kitchen Cabinets",
   "description": "What To Know When Shopping For New Kitchen Cabinets In Louisiana",
   "date": "2021-10-28T14:13:49",
   "modified": "2021-11-03 12:59:51",

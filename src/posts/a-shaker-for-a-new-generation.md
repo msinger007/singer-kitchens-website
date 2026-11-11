@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "A Shaker For A New Generation",
-  "seoTitle": "A Shaker For A New Generation | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "A Shaker For A New Generation | Singer Kitchens",
   "description": "Bring the traditional into the modern age with our trim and trendy slim shaker cabinet doors! Shakers are among the most popular of cabinet door",
   "date": "2023-07-10T14:52:48",
   "modified": "2023-08-09 18:31:41",

@@ -57,4 +57,4 @@ When we say everybody loves Vincent, we mean everybody including our four-legged
 <h2>Let Us Help You with Your Renovations!</h2><br>
 Whether you're looking to renovate your entire home or just your kitchen, we’ve got you covered.</p>
 <p>With designers like Vincent, Kim, Cat, or Holly by your side, you're sure to create a beautiful and functional space that will be the envy of your friends and neighbors.</p>
-<p><a href="/contact/">Contact us</a> or call us to schedule an appointment at one of our <a href="/showrooms/">showrooms</a>!</p></div>
+<p><a href="/request-consultation/">Contact us</a> or call us to schedule an appointment at one of our <a href="/showrooms/">showrooms</a>!</p></div>

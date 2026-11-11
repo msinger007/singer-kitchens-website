@@ -12,6 +12,7 @@ import wp_export as W
 import convert_wp as C  # reuses the Yoast resolution (no files are written on import)
 
 ROOT = C.ROOT
+APPROVED = {k: v for k, v in json.load(open(os.path.join(os.path.dirname(__file__), 'approved-seo-changes.json'))).items() if k.startswith('/')}
 SAVED_DIR = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, 'reference', 'saved-pages')
 SAVED = {
     '/': 'Singer_Kitchens__Top_Kitchen_Renovation_Company_in_New_Orleans.html',
@@ -149,6 +150,8 @@ def main():
                     r['missing_copy'].append({'kind': kind, 'text': ' '.join(miss)})
         # SEO vs export
         exp_title = norm(seo['title']) if path != '/' else 'Singer Kitchens: Top Kitchen Renovation Company in New Orleans'
+        if path in APPROVED:
+            exp_title = norm(APPROVED[path]['title']); seo = dict(seo, description=APPROVED[path]['description'])
         r['seo']['title'] = {'expected_export': exp_title, 'built': info['title'], 'ok': info['title'] == exp_title}
         r['seo']['description'] = {'expected_export': norm(seo['description']), 'built': info['description'], 'ok': info['description'] == norm(seo['description'])}
         exp_canon = C.W.SITE + path

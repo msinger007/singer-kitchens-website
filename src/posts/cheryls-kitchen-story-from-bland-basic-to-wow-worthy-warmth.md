@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
-  "seoTitle": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
   "description": "For most people, the kitchen is more than a place to cook—it’s where life happens. But when Cheryl moved into her new home, her kitchen didn’t feel like",
   "date": "2024-12-17T21:52:01",
   "modified": "2025-01-13 20:44:52",

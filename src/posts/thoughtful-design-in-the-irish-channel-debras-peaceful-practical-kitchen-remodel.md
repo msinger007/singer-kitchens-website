@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel",
-  "seoTitle": "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel",
   "description": "When Debra and her husband moved to New Orleans to be closer to their daughter and grandchildren, they chose a home in the heart of the Irish Channel. It",
   "date": "2025-06-11T22:04:36",
   "modified": "2025-12-18 20:57:45",

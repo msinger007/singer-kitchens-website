@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "21 Storage Solutions to Start Your 2021 Off Right!",
-  "seoTitle": "21 Storage Solutions to Start Your 2021 Off Right! | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "21 Storage Solutions to Start Your 2021 Off Right!",
   "description": "January is National Get Organized Month and to help you celebrate, we’ve got 21 innovative life-simplifying storage solutions that are Singer-approved.",
   "date": "2021-01-15T19:28:39",
   "modified": "2021-01-19 17:20:16",
@@ -74,4 +74,4 @@ For all of those cooking supplies you can’t seem to find the perfect space for
 This is a GREAT add-on around your oven &amp; range. Keep your most-used spices and seasonings organized and within easy reach with this handy pull-out insert for your cabinet.</div></div></div></div><div class="el-block"><div class="el-text"><img src="/images/2021/01/deep-roll-out-tray-1.webp" alt="PowerPoint Presentation" width="295" height="442" loading="lazy" decoding="async">
 <h2>#21: Deep Roll-Out Trays</h2>
 End the search for all the pieces of your beloved Tupperware storage sets. Store them all together along with deep mixing bowls, casserole trays, baking dishes, and more.</div></div><div class="el-text"><h2>We’d Love to Help You Create Your DREAM Kitchen!</h2>
-Here at Singer Kitchens, Closets &amp; More, our passion lies in helping you create your dream kitchen, closet, or bathroom – organized for your life and your needs. If you’re considering a remodel in 2021,<a href="/contact/"> reach out to us anytime</a>. We can help you design it and build it from concept to completed project. And it’s more affordable than you think!</div></div></div>
+Here at Singer Kitchens, Closets &amp; More, our passion lies in helping you create your dream kitchen, closet, or bathroom – organized for your life and your needs. If you’re considering a remodel in 2021,<a href="/request-consultation/"> reach out to us anytime</a>. We can help you design it and build it from concept to completed project. And it’s more affordable than you think!</div></div></div>

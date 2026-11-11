@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "4 Kitchen Upgrades That Answer Your Family’s 2020 Needs Just in Time for the Holidays!",
-  "seoTitle": "4 Kitchen Upgrades That Answer Your Family’s 2020 Needs Just in Time for the Holidays! | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "4 Kitchen Upgrades That Answer Your Family’s 2020 Needs Just in Time for the Holidays!",
   "description": "In 2020, we’re spending more time at home and noticing more things we’d like to change, particularly in our kitchens. These 4 upgrades help answer the needs of our new at-home ways.",
   "date": "2020-11-17T13:01:12",
   "modified": "2020-11-18 17:21:40",
@@ -47,6 +47,6 @@ Speaking of appliances, smarter storage and AMPLE storage space is in-demand now
 <h2>Create Kitchen ‘Zones’ to Help with the Holiday (and Life) Shuffle</h2><br>
 Fans of “The Home Edit” know about “zones” – the catchy term for creating single-use activity areas within your space as a way of organizing and managing your family’s day-to-day needs. Ahead of the holidays and 2021, spend some time considering the “zones” your family would benefit from and how you might create them in your space to tame the holiday traffic.</p>
 <p>For example, do you need a coffee spot? A home workspace that can double as a homework or virtual learning nook? How about a medicine counter or ‘mudroom’ station? These zones and other ideas can help streamline the neverending clutter and help your daily activities run smoother.</p>
-<p><a href="/learn-the-secret-to-designing-a-modern-kitchen-your-family-will-love-for-free/"><strong>Learn How The Kitchen Triangle Can Streamline Your Space </strong></a><br>
+<p><a href="/kitchen-design-secrets/"><strong>Learn How The Kitchen Triangle Can Streamline Your Space </strong></a><br>
 <h2>Dreaming of an Upgrade for the Holidays or for the New Year?</h2><br>
-At Singer, we’re passionate about helping you create an indoor space that works for your family and your lifestyle. Whether we’re working with you to reimagine your <a href="/kitchens/">kitchen</a>, upgrade your <a href="/bathrooms/">bathroom</a>, or reorganize your <a href="/closets/">closet</a> – our designers can help you make sense of your needs, wants, and priorities all within your budget. <a href="/contact/">Contact us</a> to get started on your dream upgrade for the holidays and the New Year!</p></div>
+At Singer, we’re passionate about helping you create an indoor space that works for your family and your lifestyle. Whether we’re working with you to reimagine your <a href="/kitchens/">kitchen</a>, upgrade your <a href="/bathrooms/">bathroom</a>, or reorganize your <a href="/closets/">closet</a> – our designers can help you make sense of your needs, wants, and priorities all within your budget. <a href="/request-consultation/">Contact us</a> to get started on your dream upgrade for the holidays and the New Year!</p></div>

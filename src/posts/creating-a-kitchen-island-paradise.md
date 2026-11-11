@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Creating a (Kitchen) Island Paradise",
-  "seoTitle": "Creating a (Kitchen) Island Paradise | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Creating a (Kitchen) Island Paradise | Singer Kitchens",
   "description": "The #1 kitchen trend of 2023 isn’t a fancy stove or exclusive cabinetry. It’s the humble, useful kitchen island–specifically a large, multi-functional",
   "date": "2023-06-16T10:49:18",
   "modified": "2023-06-16 10:49:18",

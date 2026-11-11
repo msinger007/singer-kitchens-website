@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks",
-  "seoTitle": "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks",
   "description": "There’s a new kind of comfort making its way into New Orleans kitchens. It’s one that wraps you in the same soft, welcoming warmth as your favorite",
   "date": "2025-12-17T21:04:36",
   "modified": "2025-12-18 21:01:43",

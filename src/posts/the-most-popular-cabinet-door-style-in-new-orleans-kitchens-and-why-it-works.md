@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works",
-  "seoTitle": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works",
   "description": "The shaker door is the most requested cabinet door style we see — year after year. Here's what makes it so consistently popular, and what to know before you decide if it's right for your kitchen.",
   "date": "2026-06-30T04:25:45",
   "modified": "2026-07-02 17:22:55",

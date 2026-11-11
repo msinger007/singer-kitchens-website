@@ -61,4 +61,4 @@ The couple’s love for the fairly new kitchen trend of minimalist open shelving
 <p><a href="/portfolio/minimalist/"><strong>See the (amazing!) photos of Robert and Kim’s newly remodeled kitchen in our gallery.</strong> </a><br>
 <h2>How Can We Help You Create Your Dream Kitchen?</h2><br>
 Do you have a vision of how you’d like your dream kitchen to look, but aren’t sure where to start? That’s where we come in!</p>
-<p>We’ll partner with you to help bring your vision to life, working within your budget, and offering ideas and recommendations to make the project shine. <a href="/contact/">Contact us</a> today to set up your consultation. Ask about our <a href="/financing/">interest-free financing options</a>, too!</p></div>
+<p>We’ll partner with you to help bring your vision to life, working within your budget, and offering ideas and recommendations to make the project shine. <a href="/request-consultation/">Contact us</a> today to set up your consultation. Ask about our <a href="/financing/">interest-free financing options</a>, too!</p></div>

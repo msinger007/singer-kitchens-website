@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine",
-  "seoTitle": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine",
   "description": "Find out what the latest kitchen design trends are for 2020 in this special interview with St. Charles Magazine.",
   "date": "2020-03-16T00:13:17",
   "modified": "2020-06-26 00:36:49",

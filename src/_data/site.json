@@ -9,8 +9,8 @@
   "ctaLabel": "Let's Talk Kitchens",
   "founded": "1928",
   "social": {
-    "facebook": "http://facebook.com/SingerKitchens",
-    "instagram": "http://instagram.com/singerkitchensnola"
+    "facebook": "https://www.facebook.com/SingerKitchens",
+    "instagram": "https://www.instagram.com/singerkitchensnola"
   },
   "hours": [
     { "days": "Monday – Friday:", "time": "10 AM – 5PM" },

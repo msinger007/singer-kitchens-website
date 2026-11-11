@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Rain & Water Damage Kitchen Restoration - New Orleans",
-  "seoTitle": "Rain & Water Damage Kitchen Restoration - New Orleans | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Rain & Water Damage Kitchen Restoration - New Orleans",
   "description": "Singer Kitchens offers kitchen restoration services for rain or water damaged kitchens in metro New Orleans. Contact us for a free consultation.",
   "date": "2020-06-25T10:56:52",
   "modified": "2020-06-25 10:56:52",
@@ -48,10 +48,10 @@ Our kitchen renovation experts can help with any of the issues mentioned above. 
 <h2>Highest Quality Cabinetry With the Singer Guarantee</h2><br>
 Every set of <a href="/cabinets/">cabinets</a> we sell meets specific standards for construction, materials and craftsmanship – with the functionality you demand and the inspiration you want.</p>
 <p>We only sell the highest quality kitchen and bathroom cabinets and closets and we stand behind what we sell.</p>
-<p><a href="https://www.singerkitchens.com/wp-content/uploads/2018/04/lifetime_warranty.pdf" target="_blank" rel="noopener">The Singer Lifetime Guarantee</a> warrants all of our cabinetry and closets to be free from defects for the lifetime of the products.<br>
+<p>The Singer Lifetime Guarantee warrants all of our cabinetry and closets to be free from defects for the lifetime of the products.<br>
 <h2>With 0% Financing, Why Wait for Water Damage to Get Worse?</h2><br>
 With our <a href="/financing/">3 special 0% financing options</a>,  your renovated kitchen is closer than ever to becoming a reality. Depending on your credit situation, you may qualify for 12 months, 24 months, or even 36 months of financing at 0% interest!</p>
 <p>Applying for our financing options is easy. Simply download and fill out a credit application, submit it by either scanning a copy of it or taking a photo of it and sending it to us electronically, and if you’re approved, select your financing terms from your available options.<br>
 <h2>Contact Us for Help</h2><br>
 Since 1928, the Singer family has provided the New Orleans area with quality home improvement products and services. We’ve weathered the storms with you and we’ll continue to do so.</p>
-<p>If your kitchen cabinets are suffering from water damage, please reach out to us for a <a href="/contact/">Free Consultation</a> so that we can help before the situation gets any worse.</p></div>
+<p>If your kitchen cabinets are suffering from water damage, please reach out to us for a <a href="/request-consultation/">Free Consultation</a> so that we can help before the situation gets any worse.</p></div>

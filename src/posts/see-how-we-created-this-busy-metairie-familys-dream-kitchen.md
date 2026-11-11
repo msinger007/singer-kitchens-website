@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "See How We Created this Busy Metairie Family’s Dream Kitchen",
-  "seoTitle": "See How We Created this Busy Metairie Family’s Dream Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "See How We Created this Busy Metairie Family’s Dream Kitchen",
   "description": "In their new construction home, this Metarie family sought to create a functional, stylish kitchen that would support the needs of their full house and busy lifestyle.",
   "date": "2020-11-03T11:57:01",
   "modified": "2020-11-05 15:24:42",

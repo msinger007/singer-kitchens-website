@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Arts and Crafts Charm Restored: Kathleen’s Kitchen Story",
-  "seoTitle": "Arts and Crafts Charm Restored: Kathleen’s Kitchen Story | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Arts and Crafts Charm Restored: Kathleen’s Kitchen Story",
   "description": "Discover how Kathleen transformed her Uptown New Orleans Arts & Crafts bungalow with a simple, symmetrical, and beautifully updated kitchen design. With classic shaker cabinets, curated finishes, and smart solutions by Singer Kitchens, her historic home finally reflects the charm she always envisioned.",
   "date": "2025-09-18T22:16:49",
   "modified": "2026-02-11 22:05:09",

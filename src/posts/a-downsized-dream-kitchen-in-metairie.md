@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "A Downsized Dream Kitchen in Metairie",
-  "seoTitle": "A Downsized Dream Kitchen in Metairie | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "A Downsized Dream Kitchen in Metairie | Singer Kitchens",
   "description": "Seven years after moving into their Metairie condo, Maggie and Roy were ready to tackle their kitchen redesign, and as Maggie phrases it, “solve the ugly.”",
   "date": "2021-04-01T01:54:34",
   "modified": "2021-05-26 13:51:10",
@@ -53,6 +53,6 @@
 <p>“It’s really my happy place,” Maggie says. “It makes us feel good every time we’re in it. When you’re in an environment that just doesn’t feel like you, it takes a toll.”</p>
 <p>“Our new kitchen brings more joy to our lives,” she says.</p>
 <h2 id="h-we-can-help-you-create-a-kitchen-that-works-for-your-life">We Can Help You Create a Kitchen That Works for Your Life!</h2>
-<p>Whether you’re downsizing to your forever home or remodeling your current home, we’d love to help you <a href="/kitchens/">design</a> and build a kitchen that works for your life! <a href="/contact/">Contact us</a> to get started with your project. Ask about our interest-free financing options, too!</p>
+<p>Whether you’re downsizing to your forever home or remodeling your current home, we’d love to help you <a href="/kitchens/">design</a> and build a kitchen that works for your life! <a href="/request-consultation/">Contact us</a> to get started with your project. Ask about our interest-free financing options, too!</p>
 <hr>
 <h3><a href="/portfolio/"><em>See all the fresh finished project photos in our gallery</em></a></h3></div>

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Does A Bathroom Remodel Increase Home Value?",
-  "seoTitle": "Does A Bathroom Remodel Increase Home Value? | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Does A Bathroom Remodel Increase Home Value? | Singer Kitchens",
   "description": "We Are Often Asked, Does A Bathroom Remodel Increase Home Value? A bathroom remodel is often a design-driven choice. It could be to improve aesthetics or",
   "date": "2019-12-05T15:57:55",
   "modified": "2019-12-05 16:00:48",
@@ -39,7 +39,7 @@ A bathroom remodel is often a design-driven choice. It could be to <strong><a hr
 <p>The remodel of a bathroom could also be functional. Many owners remodel their bathrooms to update the fixtures or flooring.</p>
 <p>According to the 2019 Remodeling Impact Report by the National Association of Realtors®, the most popular interior project was a bathroom renovation. The report also calculates the ‘Joy Score.’</p>
 <p>This refers to the homeowner’s level of happiness with their renovations. The highest score given is 10. Bathroom renovations scored 9.6.</p>
-<p>In their <a href="https://www.nari.org/NARI/media/Documents/Remodeling_Impact_Survey_20171.pdf" target="_blank" rel="noopener">2017 report</a>, they found that a bathroom remodel ranked third in “likely value” for resale. It was also in the top three for “appeal to buyers.”</p>
+<p>In their 2017 report, they found that a bathroom remodel ranked third in “likely value” for resale. It was also in the top three for “appeal to buyers.”</p>
 <p>Their research found that bathroom renovations had a 50% recovery value. This means that homeowners will recoup more or less half of what they spent on the project.</p>
 <p>Experts agree that renovations can help drive up property value. The key, however, is to make sure it is done right. Which renovations will give you the most ROI?<br>
 <h3><strong>Here Are Some Bathroom Remodel Ideas To Get You Started. </strong></h3><br>

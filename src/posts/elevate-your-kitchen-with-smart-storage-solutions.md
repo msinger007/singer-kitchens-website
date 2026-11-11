@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Elevate Your Kitchen with Smart Storage Solutions",
-  "seoTitle": "Elevate Your Kitchen with Smart Storage Solutions | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Elevate Your Kitchen with Smart Storage Solutions",
   "description": "At Singer Kitchens, we believe that a beautiful kitchen is more than just cabinets and countertops—it's a true reflection of your lifestyle. Whether you're",
   "date": "2024-05-31T18:29:03",
   "modified": "2024-05-31 18:30:00",

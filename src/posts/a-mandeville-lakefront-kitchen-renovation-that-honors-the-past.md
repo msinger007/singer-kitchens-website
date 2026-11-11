@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
-  "seoTitle": "A Mandeville Lakefront Kitchen Renovation That Honors the Past | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "A Mandeville Lakefront Kitchen Renovation That Honors the Past",
   "description": "Timeless Elegance: A Historic Old Mandeville Kitchen Reimagined Overlooking Lake Pontchartrain in Old Mandeville stands a magnificent home built in the",
   "date": "2026-10-29T20:45:30",
   "modified": "2026-10-29 20:52:19",

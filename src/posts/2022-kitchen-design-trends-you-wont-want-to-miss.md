@@ -63,4 +63,4 @@ We’ve been encouraging inventive storage solutions, so it’s no surprise that
 <h2>Ready to Upgrade Your Home's Look? We're Here To Help!</h2><br>
 We're here to help you incorporate any and all of the 2022 Kitchen and Bath designs in your space.</p>
 <p>We can’t wait to learn &amp; understand your vision -- whether it's for your kitchen remodel or bathroom update -- and to help you turn it into a reality with our expertise!</p>
-<p><a href="/contact/">Contact us</a> today about your dream project!</p></div>
+<p><a href="/request-consultation/">Contact us</a> today about your dream project!</p></div>

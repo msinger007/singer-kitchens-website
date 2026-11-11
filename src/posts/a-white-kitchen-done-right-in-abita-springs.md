@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "A White Kitchen Done Right in Abita Springs",
-  "seoTitle": "A White Kitchen Done Right in Abita Springs | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "A White Kitchen Done Right in Abita Springs | Singer Kitchens",
   "description": "We recently helped our client, Margo, create the white kitchen of her DREAMS. We also made sure this was a case of white done right. Read on and see for yourself!",
   "date": "2021-05-21T10:00:47",
   "modified": "2021-05-21 10:00:47",

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
-  "seoTitle": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
   "description": "For Uptown Resident Rudy, renovating the kitchen of his childhood home in Old Metairie was a labor of love, a tribute to his mother, and a nod to mid-century retro style.",
   "date": "2020-09-23T13:26:39",
   "modified": "2023-08-10 17:02:00",
@@ -56,5 +56,5 @@ Armed with storage challenges and a desire to add colorful life back into his hi
 <p>Rudy says he’s glad that a new family will now call the little cottage on Melody Drive home. He thinks his mother would be too.</p>
 <p>Check out the <a href="/portfolio/midcentury-modern-feel/">project gallery</a> to see additional photos.<br>
 <h2>Looking to Update Your Kitchen, Bathroom, or Closet? We Can Help!</h2><br>
-We’re spending a lot more time at home these days. Shouldn’t it be your dream home? Let us help bring your design vision to life for your kitchen, bathroom, or closet! <a href="/contact/">Contact us today </a>to make an appointment and meet with a Singer design specialist for a consultation about your project.</p>
+We’re spending a lot more time at home these days. Shouldn’t it be your dream home? Let us help bring your design vision to life for your kitchen, bathroom, or closet! <a href="/request-consultation/">Contact us today </a>to make an appointment and meet with a Singer design specialist for a consultation about your project.</p>
 <p>You can also visit our Mid-City <a href="/showrooms/">showroom</a> where you can see a replica of Rudy’s kitchen cabinets and countertops up close. Make an appointment by calling <strong>(504) 486-0067</strong> and <a href="/get-kitchen-design-inspiration-by-appointment-safety-measures-included/">get tips for making the best of your consultation</a>.</p></div>

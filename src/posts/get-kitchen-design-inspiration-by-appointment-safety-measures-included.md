@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Get Kitchen Design Inspiration By Appointment - Safety Measures Included!",
-  "seoTitle": "Get Kitchen Design Inspiration By Appointment - Safety Measures Included! | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Get Kitchen Design Inspiration By Appointment - Safety Measures Included!",
   "description": "Right now, in order to best — and most safely — serve you in your dream remodel, we’re offering kitchen, closet, and bathroom design inspiration by appointment. Get in touch with us today!",
   "date": "2020-07-30T11:36:29",
   "modified": "2020-08-03 20:29:23",
@@ -41,7 +41,7 @@ Right now, in order to best — and most safely — serve you, we’re offering 
 <h2>Tips for Making the Best of Your Singer Design Consultation Appointment</h2><br>
 For the most success in your (free!) design consultation appointment at one of our showrooms, here are a few tips to keep in mind:<br>
 <ol><br>
-<li><strong>Easily Reserve Your Appointment Ahead of Time </strong>- Make a design consultation appointment at your closest showroom by calling us at <strong>504-539-4605</strong> or <a href="/contact/">contacting us online</a>.</li><br>
+<li><strong>Easily Reserve Your Appointment Ahead of Time </strong>- Make a design consultation appointment at your closest showroom by calling us at <strong>504-539-4605</strong> or <a href="/request-consultation/">contacting us online</a>.</li><br>
 <li><strong>Send Us Pictures of Your Space!</strong> - Once you’ve connected with a Singer Design Specialist, we invite you to send us pictures of your project space ahead of your appointment. With these in hand, we can go ahead and start brainstorming your project and have our ideas ready when you arrive.</li><br>
 <li><strong>Have a Link to an Idea Board?</strong> - Do you have a <a href="https://www.pinterest.com/singerkitchens/" target="_blank" rel="noopener">Pinterest</a> board or a <a href="https://www.houzz.com/pro/singer-kitchens/singer-kitchens" target="_blank" rel="noopener">Houzz</a> IdeaBook you’ve been curating? Great! We love using these tools. Share the link with us! You can also easily start an idea board and begin saving ideas for your remodel. This type of visual inspiration always helps!</li><br>
 <li><strong>Bring Any and All Inspiration with You</strong> - Bring your samples and inspiration with you to our appointment! Do you have a color you absolutely love? A sample of your favorite flooring material? A photo of a kitchen you found in a magazine or something that embodies the look and feel you want in your space? We want to see it! Bring it along to your appointment.</li><br>
@@ -49,4 +49,4 @@ For the most success in your (free!) design consultation appointment at one of o
 </ol><br>
 <h2>How Can We Help You with Your Dream Remodel? Call Us or Request An Appointment Online Today!</h2><br>
 Here at Singer Kitchens, Closets and More, dream remodels are our business. We love working with our clients to design and execute remodeling projects that make dream homes a reality. We work closely with you to match your style, lifestyle, and budget needs.</p>
-<p>Ready to embark on a remodel? <a href="/contact/">Contact us today</a> to get started!</p></div>
+<p>Ready to embark on a remodel? <a href="/request-consultation/">Contact us today</a> to get started!</p></div>

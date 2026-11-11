@@ -96,6 +96,9 @@ files into CR+LF (about 2,600 images would not open). Re-running `convert_wp.py`
   browser-saved live pages in `reference/saved-pages/` (body copy, title, meta description, H1,
   canonical). Results: `reports/text-check.md`.
 - `tools/check_links.py`: every local link and image in `_site` resolves.
+- `tools/seo_scan.py` (add `--external` to test outside links too): broken and redirected links, duplicate or
+  missing titles and descriptions, H1s, dated content. Results: `reports/seo-scan.json`; the November 2026
+  cleanup and the open decisions are in `reports/seo-cleanup.md`.
 - `tools/screenshot_all.cjs`: Playwright screenshots of every page at 1280px and 390px, checking
   for sideways scrolling and broken images. Results: `reports/screenshot-check.json`.
 - `cleanup-sheet.csv`: every published page and post with a suggested keep / improve / merge /

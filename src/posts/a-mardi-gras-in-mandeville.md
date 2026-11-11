@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "A Mardi Gras in Mandeville",
-  "seoTitle": "A Mardi Gras in Mandeville | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "A Mardi Gras in Mandeville | Singer Kitchens",
   "description": "We had a party to remember for one of our favorite realtors!",
   "date": "2023-03-28T11:09:02",
   "modified": "2023-10-12 12:27:25",
@@ -35,4 +35,4 @@
 <p><div><figure></figure><figure></figure><figure></figure><figure></figure></div></p>
 <p>So when Nadine wanted to host a party for her VIP clients, we jumped right in to help! We jazzed up our Mandeville showroom for the occasion, including refreshments! (After all, what kind of kitchen DOESN’T have snacks at the ready?) And Nadine capped off the night in true NOLA fashion by giving each guest a King Cake to take home.</p>
 <p>We love working with Nadine, and she loves working with us! Don’t hesitate to give us a call for your own clients–or your own home! With your vision and our expertise, we’re always ready to make your kitchen dreams come true.</p>
-<p>Don’t forget to check out Nadine Mccoy’s website <a href="https://houseofnadine.com/" target="_blank" rel="noopener">https://houseofnadine.com/</a> and follow her on Facebook and Instagram @thenadinemccoy.</p></div>
+<p>Don’t forget to check out Nadine Mccoy’s website https://houseofnadine.com/ and follow her on Facebook and Instagram @thenadinemccoy.</p></div>

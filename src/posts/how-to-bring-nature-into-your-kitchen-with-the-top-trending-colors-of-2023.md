@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
-  "seoTitle": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023 | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
   "description": "Nature is a powerful source of inspiration for many aspects of our lives, including the design of our homes. One of the most popular ways to incorporate",
   "date": "2023-08-11T19:35:31",
   "modified": "2023-08-11 19:42:46",

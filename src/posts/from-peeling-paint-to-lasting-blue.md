@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "From Peeling Paint to Lasting Blue: Why Laurie & Kenneth Chose to Replace Their Cabinets",
-  "seoTitle": "From Peeling Paint to Lasting Blue: Why Laurie & Kenneth Chose to Replace Their Cabinets | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "From Peeling Paint to Lasting Blue: Why Laurie & Kenneth Chose to Replace Their Cabinets",
   "description": "For Laurie and Kenneth, blue has always meant calm, elegance and sophistication. When they decided to update their kitchen, they wanted that feeling to",
   "date": "2026-02-27T18:40:02",
   "modified": "2026-03-05 17:53:59",

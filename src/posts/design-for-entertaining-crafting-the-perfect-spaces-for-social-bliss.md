@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss",
-  "seoTitle": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss",
   "description": "In today's world, entertaining has assumed a more relaxed, inclusive charm. Gone are the days of formal, stuffy sit-down dinners held in isolated dining",
   "date": "2024-10-11T13:45:56",
   "modified": "2024-10-22 19:54:27",

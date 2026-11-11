@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Wall Beds For Small Spaces",
-  "seoTitle": "Wall Beds For Small Spaces | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Wall Beds For Small Spaces | Singer Kitchens",
   "description": "Wall Beds For Small Spaces Were Designed With Functionality In Mind. Also known as a Murphy bed, it is ideal for multi-use rooms and spaces. The inventor",
   "date": "2019-12-17T17:40:40",
   "modified": "2019-12-17 17:46:11",

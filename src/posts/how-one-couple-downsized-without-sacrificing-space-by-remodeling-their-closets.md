@@ -124,7 +124,7 @@ Getting rid of bedroom furniture was a big priority!
 After hearing the wish list, we took the measurements and began the process of designing what the new closets would look like.
 Once the designs were approved, our team gutted the closets &amp; finished the builds.
 Also, we wound up redoing the closets in their laundry room to provide hanging space above the washer &amp; dryer PLUS their linen closets, coat closets &amp; even the pantry!
-Enjoy the finished closet gallery below. If you’d like to talk to us about a <a href="/closets/">closet remodel </a>please <a href="/contact/">contact us today</a>.
+Enjoy the finished closet gallery below. If you’d like to talk to us about a <a href="/closets/">closet remodel </a>please <a href="/request-consultation/">contact us today</a>.
 <div><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure></div>
 </div>
 </div>

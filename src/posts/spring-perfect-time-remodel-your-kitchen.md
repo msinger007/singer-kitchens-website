@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Why Spring Is The Perfect Time To Remodel Your Kitchen",
-  "seoTitle": "Why Spring Is The Perfect Time To Remodel Your Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Why Spring Is The Perfect Time To Remodel Your Kitchen",
   "description": "One of the most fascinating things about the winter season is that it affords us the opportunity to spend quality time indoors (regardless of whether we",
   "date": "2019-04-16T19:03:25",
   "modified": "2019-08-26 19:56:29",

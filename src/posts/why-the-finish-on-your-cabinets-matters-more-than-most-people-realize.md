@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Why the Finish on Your Cabinets Matters More Than Most People Realize",
-  "seoTitle": "Why the Finish on Your Cabinets Matters More Than Most People Realize | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Why the Finish on Your Cabinets Matters More Than Most People Realize",
   "description": "Painting your cabinets looks like the more affordable option — but after nearly 100 years of installing kitchens in Greater New Orleans, our designers have seen how both choices hold up. The difference almost always comes down to the finish.",
   "date": "2026-06-30T04:45:43",
   "modified": "2026-07-01 04:39:05",

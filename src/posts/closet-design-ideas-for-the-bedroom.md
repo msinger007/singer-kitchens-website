@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Closet Design Ideas For The Bedroom",
-  "seoTitle": "Closet Design Ideas For The Bedroom | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Closet Design Ideas For The Bedroom | Singer Kitchens",
   "description": "Closet Design Ideas For The Bedroom That Add Value To Your Home. The bedroom is a special part of any home and it's important to keep it in prime",
   "date": "2019-11-20T16:41:26",
   "modified": "2019-11-20 16:41:55",
@@ -60,4 +60,4 @@ Yes, the sliding door can be a great way to modernize the closet and make it loo
 <p>Designers love playing around with these elements because it's a great way to create an elegant look that's appealing from all angles.</p>
 <p><strong>Final Thoughts</strong></p>
 <p>These are the top closet design ideas for the bedroom to keep in mind for those wanting to spice up their bedroom and its overall look. Each person has a specific list of requirements when it comes to their bedroom closet and it all starts with a bit of planning. Look through these ideas, pick one that works for your house, and move forward with a design that's going to bring a smile to your face.</p>
-<p>Contact us today and <strong><a href="/contact/">schedule a free consultation</a></strong> with our design experts.</p></div>
+<p>Contact us today and <strong><a href="/request-consultation/">schedule a free consultation</a></strong> with our design experts.</p></div>

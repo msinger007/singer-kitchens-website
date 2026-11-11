@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Approachable Luxury: Designing a Kitchen That Feels Like You",
-  "seoTitle": "Approachable Luxury: Designing a Kitchen That Feels Like You | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Approachable Luxury: Designing a Kitchen That Feels Like You",
   "description": "There’s been a quiet shift happening in kitchens lately. Not a trend. Not a color. Not a style. A shift in how people want to feel in their homes. When",
   "date": "2026-04-20T19:16:20",
   "modified": "2026-04-20 19:18:00",

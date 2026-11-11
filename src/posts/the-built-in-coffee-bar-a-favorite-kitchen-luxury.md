@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
-  "seoTitle": "The Built-In Coffee Bar: A Favorite Kitchen Luxury | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "The Built-In Coffee Bar: A Favorite Kitchen Luxury",
   "description": "For homeowners who love making their own coffee — and have realized they like it better than what they get when they go out — a built-in coffee bar gives that daily ritual a proper home.",
   "date": "2026-06-29T12:48:19",
   "modified": "2026-07-02 16:49:08",

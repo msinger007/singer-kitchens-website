@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "You Survived the Holidays. Now It’s Time to Deal With Your Kitchen.",
-  "seoTitle": "You Survived the Holidays. Now It’s Time to Deal With Your Kitchen. | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "You Survived the Holidays. Now It’s Time to Deal With Your Kitchen.",
   "description": "You made it through the holidays despite your kitchen. The extra cooking. The extra people. The constant shuffling of dishes, appliances and food just to",
   "date": "2026-01-20T07:34:36",
   "modified": "2026-01-20 20:20:11",

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "A Showcase on the Water: The Boathouse Kitchen",
-  "seoTitle": "A Showcase on the Water: The Boathouse Kitchen | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "A Showcase on the Water: The Boathouse Kitchen | Singer Kitchens",
   "description": "Along the West End of Lake Pontchartrain, there's a stretch of New Orleans that feels unlike anywhere else in the city. Elevated homes built directly over",
   "date": "2026-04-20T20:27:06",
   "modified": "2026-04-20 20:59:00",

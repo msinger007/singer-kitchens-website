@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "2021 Design Trends Topping EVERYONE’S Wish Lists!",
-  "seoTitle": "2021 Design Trends Topping EVERYONE’S Wish Lists! | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "2021 Design Trends Topping EVERYONE’S Wish Lists!",
   "description": "In 2021, we’re seeing new & classic trends emerge (and re-emerge) in our continuing quest to create the perfect multifunctional spaces.",
   "date": "2021-04-19T10:36:29",
   "modified": "2026-07-02 16:56:24",
@@ -55,7 +55,7 @@
 <figure><img src="/images/2021/04/041921d.webp" alt="2021 Design Trends Topping EVERYONE’S Wish Lists!" width="1080" height="1080" loading="lazy" decoding="async"></figure>
 </div>
 <figure><img src="/images/2021/04/041921e.webp" alt="2021 Design Trends Topping EVERYONE’S Wish Lists!" width="1080" height="1080" loading="lazy" decoding="async"></figure>
-<p>One way to create a great multipurpose space is by leveraging the power of the classic <a href="/murphy-beds/">murphy bed</a>. Also called wall beds, murphy beds make for an easy transformation of a home office, a homeschool room, a craft room, or a workout studio when you’re ready to welcome your guests.</p>
+<p>One way to create a great multipurpose space is by leveraging the power of the classic <a href="/closets/">murphy bed</a>. Also called wall beds, murphy beds make for an easy transformation of a home office, a homeschool room, a craft room, or a workout studio when you’re ready to welcome your guests.</p>
 <h2 id="h-cool-muted-shades-earthy-tones-still-reign-in-color">Cool Muted Shades &amp; Earthy Tones Still Reign in Color</h2>
 <div>
 <figure><img src="/images/2021/04/041921f.webp" alt="2021 Design Trends Topping EVERYONE’S Wish Lists!" width="600" height="600" loading="lazy" decoding="async"></figure>
@@ -63,5 +63,5 @@
 <p>When it comes to color, we’re seeing warm white shades, cool grays (the <a href="https://www.pantone.com/color-of-the-year-2021" target="_blank" rel="noopener">Pantone color of 2021</a>!), and earthy tones still outshining the rest.</p>
 <p>Our clients love to mix cool neutrals for walls, cabinets, and countertops – and add elements of mixed metal hardware and natural textures into their updated spaces.</p>
 <h2 id="h-looking-to-embark-on-your-dream-home-update-we-re-here-to-help">Looking to Embark on Your Dream Home Update? We’re Here To Help!</h2>
-<p>Whether you’re after trend or function – or a combination, which is always best! – we’re here to help you design and re-create your perfect space. We’ll work closely with you to learn &amp; understand your goals for your <a href="/remodeling/">kitchen remodel</a>, <a href="/bathrooms/">bathroom update</a>, or <a href="/closets/">closet revamp</a> – and work hard to turn it into reality. <a href="/contact/">Contact us</a> today about your dream project.</p>
+<p>Whether you’re after trend or function – or a combination, which is always best! – we’re here to help you design and re-create your perfect space. We’ll work closely with you to learn &amp; understand your goals for your <a href="/remodeling/">kitchen remodel</a>, <a href="/bathrooms/">bathroom update</a>, or <a href="/closets/">closet revamp</a> – and work hard to turn it into reality. <a href="/request-consultation/">Contact us</a> today about your dream project.</p>
 <p>Ask about our <a href="/financing/">zero-interest finance options</a>, too!</p></div>

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Dreaming Up a Mid-Century Marvel: Sue’s Kitchen Transformation",
-  "seoTitle": "Dreaming Up a Mid-Century Marvel: Sue’s Kitchen Transformation | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Dreaming Up a Mid-Century Marvel: Sue’s Kitchen Transformation",
   "description": "The Vision Comes to Life Sue had a dream for her kitchen, but turning that dream into reality was a challenge—especially from out of town. Enter Vincent",
   "date": "2024-04-29T05:25:53",
   "modified": "2024-05-01 23:32:45",

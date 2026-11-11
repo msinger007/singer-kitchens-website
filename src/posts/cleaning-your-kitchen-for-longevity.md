@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Become an Expert at Cleaning Your Kitchen for Longevity",
-  "seoTitle": "Become an Expert at Cleaning Your Kitchen for Longevity | Singer Kitchens",
+  "seoTitle": "Become an Expert at Cleaning Your Kitchen for Longevity",
   "description": "Singer Kitchens knows that proper cleaning can protect your investment, which is why we are sharing these tips about cleaning your kitchen for longevity.",
   "date": "2019-07-02T20:51:52",
   "modified": "2019-07-02 21:15:24",

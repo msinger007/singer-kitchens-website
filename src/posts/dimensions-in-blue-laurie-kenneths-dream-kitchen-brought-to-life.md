@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
-  "seoTitle": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
   "description": "For Laurie and Kenneth, blue has always been more than just a favorite color. For them, blue brings a sense of calm and sophistication. When they set out",
   "date": "2025-07-23T19:31:19",
   "modified": "2025-09-15 20:27:25",

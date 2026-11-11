@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget",
-  "seoTitle": "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget",
   "description": "An open, brighter kitchen that lends itself both to food prep and hosting was on tap in this recent Uptown New Orleans renovation project.",
   "date": "2020-07-30T11:43:09",
   "modified": "2020-07-30 12:06:34",
@@ -54,4 +54,4 @@ As with all of her clients, Cat remained cognizant of the couple’s budget need
 <p>Cat’s clients now relish their new kitchen and love how it’s changed their lifestyle. They tell Cat that the renovation has fueled truly memorable family and friend gatherings and likely will for years to come.</p>
 <p><a href="/portfolio/modern/">Click Here To View The Entire Project Gallery</a><br>
 <h2>Dreaming Up Your Perfect Renovation? We Can Help!</h2><br>
-Now that we’re all spending more time at home than ever before, you might be dreaming up your ideal renovation (browse through <a href="/portfolio/">our portfolio</a> for inspiration!). We want to help make your dream home a reality. <a href="/contact/">Contact us today</a> to make an appointment to meet with a Singer design specialist!</p></div>
+Now that we’re all spending more time at home than ever before, you might be dreaming up your ideal renovation (browse through <a href="/portfolio/">our portfolio</a> for inspiration!). We want to help make your dream home a reality. <a href="/request-consultation/">Contact us today</a> to make an appointment to meet with a Singer design specialist!</p></div>

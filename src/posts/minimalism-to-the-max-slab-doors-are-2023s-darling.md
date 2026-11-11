@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Minimalism to the Max: Slab Doors Are 2023’s Darling",
-  "seoTitle": "Minimalism to the Max: Slab Doors Are 2023’s Darling | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Minimalism to the Max: Slab Doors Are 2023’s Darling",
   "description": "If you’ve seen any kitchen, you’ve seen a slab cabinet door. It’s one of THE most sought-after door styles of the decade, and it’s a 2023 favorite. This",
   "date": "2023-08-17T13:44:01",
   "modified": "2023-10-13 21:28:11",

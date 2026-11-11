@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "The Secret to Designing a Kitchen You’ll Love Forever",
-  "seoTitle": "The Secret to Designing a Kitchen You’ll Love Forever | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "The Secret to Designing a Kitchen You’ll Love Forever",
   "description": "Get the secret to designing a modern kitchen that you and your family with love forever in our newest kitchen design guide.",
   "date": "2021-01-21T11:54:07",
   "modified": "2021-01-21 11:54:07",

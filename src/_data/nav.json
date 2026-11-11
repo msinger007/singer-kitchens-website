@@ -4,7 +4,7 @@
       { "label": "Kitchen Remodeling", "url": "/remodeling/" },
       { "label": "Quick Refresh", "url": "/quick-refresh/" },
       { "label": "Small Kitchen Remodeling", "url": "/small-kitchen-remodeling/" },
-      { "label": "Kitchen Design", "url": "/kitchens/" },
+      { "label": "Kitchen Design", "url": "/kitchen-design/" },
       { "label": "Design Portfolio", "url": "/portfolio/" }
     ]},
     { "label": "Cabinets & Countertops", "children": [
@@ -47,7 +47,7 @@
     "services": [
       { "label": "Kitchen Remodeling", "url": "/remodeling/" },
       { "label": "Small Kitchen Remodeling", "url": "/small-kitchen-remodeling/" },
-      { "label": "Kitchen Design", "url": "/kitchens/" },
+      { "label": "Kitchen Design", "url": "/kitchen-design/" },
       { "label": "Kitchen Cabinets", "url": "/kitchen-cabinets/" },
       { "label": "Bathroom Design", "url": "/bathrooms/" },
       { "label": "Closet Renovations", "url": "/closets/" }

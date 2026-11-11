@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Tips for Making the Most of a Small Kitchen from Singer Kitchens",
-  "seoTitle": "Tips for Making the Most of a Small Kitchen from Singer Kitchens | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Tips for Making the Most of a Small Kitchen from Singer Kitchens",
   "description": "Thoughtful design is extremely important when working with a small kitchen. Read these tips to bring the joy back into your kitchen.",
   "date": "2020-04-24T00:37:16",
   "modified": "2023-02-09 21:55:31",

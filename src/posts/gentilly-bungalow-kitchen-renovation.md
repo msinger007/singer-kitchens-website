@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Gentilly Bungalow: A Kitchen Reimagined",
-  "seoTitle": "Gentilly Bungalow: A Kitchen Reimagined | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Gentilly Bungalow: A Kitchen Reimagined | Singer Kitchens",
   "description": "Downsizing didn’t mean sacrificing beauty or storage for Bev. Discover how Singer Kitchens redesigned her Gentilly bungalow kitchen with navy and white cabinetry, smart storage solutions, and timeless style—creating a space that finally feels like home.",
   "date": "2025-10-29T19:11:13",
   "modified": "2025-12-08 20:17:52",

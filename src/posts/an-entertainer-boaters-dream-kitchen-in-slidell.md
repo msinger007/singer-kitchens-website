@@ -65,4 +65,4 @@ The <a href="/kitchen-design/">kitchen</a> was top priority for George and Georg
 <p>We’re so glad we could help!</p>
 <p><a href="/portfolio/new-construction-contemporary/">See complete photos of the finished project here. </a><br>
 <h2>Ready To Get Started on Your Project?</h2><br>
-From thoughtfully designed kitchens to closets organized to the nines, <a href="/bathrooms/">bathrooms</a>, laundry rooms, and more - we’re design experts and we’re here to help you with your next <a href="/remodeling/">renovation</a> or new construction project. <a href="/contact/">Contact us today</a> to set up a consultation appointment in one of our two New Orleans area <a href="/showrooms/">showrooms</a>!</p></div>
+From thoughtfully designed kitchens to closets organized to the nines, <a href="/bathrooms/">bathrooms</a>, laundry rooms, and more - we’re design experts and we’re here to help you with your next <a href="/remodeling/">renovation</a> or new construction project. <a href="/request-consultation/">Contact us today</a> to set up a consultation appointment in one of our two New Orleans area <a href="/showrooms/">showrooms</a>!</p></div>

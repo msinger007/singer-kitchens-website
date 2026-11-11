@@ -25,6 +25,9 @@ def add(frm, to, query=None, force=False):
 # Site-plan strays
 add('/home', '/'); add('/home/', '/')
 # /kitchen-design/ is published as its own page (not redirected to /kitchens/)
+# Retired WordPress pages (pre-launch cleanup, see reports/seo-cleanup.md): test page, expired giveaway, empty or thin pages
+for frm, to in [('/slider-page-test/', '/'), ('/kitchen-accessory-giveaway/', '/request-consultation/'), ('/contact/', '/request-consultation/'), ('/happy-customers/', '/reviews/'), ('/hardware/', '/kitchen-cabinets/'), ('/installation/', '/our-process/')]:
+    add(frm, to); add(frm.rstrip('/'), to)
 # Dead internal links found in old content (pages not in the export) -> closest live page
 for frm, to in [('/locations/', '/showrooms/'), ('/kitchen-remodeling/', '/remodeling/'), ('/closet-renovation/', '/closets/'),
                 ('/small-kitchens/', '/small-kitchen-remodeling/'), ('/murphy-beds/', '/closets/'),

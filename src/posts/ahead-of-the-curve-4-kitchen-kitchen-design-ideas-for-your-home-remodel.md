@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel",
-  "seoTitle": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel",
   "description": "Thinking about a kitchen remodel? Here are 4 trendy design ideas you won’t want to miss",
   "date": "2024-01-15T18:28:48",
   "modified": "2024-01-15 18:28:48",

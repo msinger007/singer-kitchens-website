@@ -1,0 +1,1534 @@
+{
+ "broken_internal": [],
+ "via_redirect": [],
+ "old_domain_absolute": [],
+ "google_wrapped": [],
+ "http_links": [],
+ "external": [
+  {
+   "link": "https://amana.com/",
+   "status": 403,
+   "final": "",
+   "pages": [
+    "/appliances/"
+   ]
+  },
+  {
+   "link": "https://jech.bmj.com/content/56/2/89.short",
+   "status": 403,
+   "final": "",
+   "pages": [
+    "/accomplish-your-new-years-resolutions-in-the-kitchen/"
+   ]
+  },
+  {
+   "link": "https://www.bbb.org/us/la/mandeville/profile/kitchen-cabinets-and-equipment/singer-kitchens-0985-22127#sealclick",
+   "status": 403,
+   "final": "",
+   "pages": [
+    "/constant-contact-lp/",
+    "/kitchen-cabinets-lp/",
+    "/professional-kitchen-cabinets-from-singer-kitchens/"
+   ]
+  },
+  {
+   "link": "https://www.bbb.org/us/la/metairie/profile/kitchen-cabinets-and-equipment/singer-kitchens-0985-22127/#sealclick",
+   "status": 403,
+   "final": "",
+   "pages": [
+    "/kitchen-remodel-lp/"
+   ]
+  },
+  {
+   "link": "https://www.broan.com/",
+   "status": "ERR URLError <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certi",
+   "final": "",
+   "pages": [
+    "/appliances/"
+   ]
+  },
+  {
+   "link": "https://www.frigidaire.com/home/",
+   "status": "ERR TimeoutError The read operation timed out",
+   "final": "",
+   "pages": [
+    "/appliances/"
+   ]
+  },
+  {
+   "link": "https://www.kitchenaid.com/major-appliances/",
+   "status": 403,
+   "final": "",
+   "pages": [
+    "/appliances/"
+   ]
+  },
+  {
+   "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5561571/",
+   "status": 200,
+   "final": "https://pmc.ncbi.nlm.nih.gov:443/articles/PMC5561571/",
+   "pages": [
+    "/accomplish-your-new-years-resolutions-in-the-kitchen/"
+   ]
+  },
+  {
+   "link": "https://www.thespruce.com/diy-murphy-bed-projects-every-budget-4110832",
+   "status": 403,
+   "final": "",
+   "pages": [
+    "/wall-beds-for-small-spaces/"
+   ]
+  },
+  {
+   "link": "https://www.whirlpool.com/kitchen.html",
+   "status": 403,
+   "final": "",
+   "pages": [
+    "/appliances/"
+   ]
+  }
+ ],
+ "missing_title": [],
+ "missing_desc": [],
+ "long_title": [
+  [
+   "/4-kitchen-upgrades-that-answer-your-familys-2020-needs-just-in-time-for-the-holidays/",
+   86,
+   "4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays!"
+  ],
+  [
+   "/7-factors-to-consider-when-designing-a-kitchen/",
+   66,
+   "7 Factors to Consider When Designing a Kitchen - a Designers Guide"
+  ],
+  [
+   "/ahead-of-the-curve-4-kitchen-kitchen-design-ideas-for-your-home-remodel/",
+   72,
+   "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel"
+  ],
+  [
+   "/appliances/",
+   75,
+   "Kitchen Appliances New Orleans, Mandeville & Covington LA - Singer Kitchens"
+  ],
+  [
+   "/cabinets/",
+   70,
+   "Kitchen Cabinets New Orleans, Mandeville & Covington - Singer Kitchens"
+  ],
+  [
+   "/closets/",
+   67,
+   "Closet Renovations From Singer Kitchens In New Orleans & Mandeville"
+  ],
+  [
+   "/countertops/",
+   73,
+   "Kitchen Countertops New Orleans, Mandeville & Covington - Singer Kitchens"
+  ],
+  [
+   "/design-for-entertaining-crafting-the-perfect-spaces-for-social-bliss/",
+   69,
+   "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss"
+  ],
+  [
+   "/dimensions-in-blue-laurie-kenneths-dream-kitchen-brought-to-life/",
+   68,
+   "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life"
+  ],
+  [
+   "/everything-to-know-about-remodeling-a-kitchen/",
+   82,
+   "Everything You Need to Know About Remodeling Your Kitchen & Why You Need an Expert"
+  ],
+  [
+   "/from-peeling-paint-to-lasting-blue/",
+   88,
+   "From Peeling Paint to Lasting Blue: Why Laurie & Kenneth Chose to Replace Their Cabinets"
+  ],
+  [
+   "/get-kitchen-design-inspiration-by-appointment-safety-measures-included/",
+   73,
+   "Get Kitchen Design Inspiration By Appointment - Safety Measures Included!"
+  ],
+  [
+   "/great-renovations-often-start-with-small-details-like-kitchen-hardware/",
+   72,
+   "Great renovations often start with small details (like kitchen hardware)"
+  ],
+  [
+   "/how-one-couple-downsized-without-sacrificing-space-by-remodeling-their-closets/",
+   78,
+   "How one couple downsized without sacrificing space by remodeling their closets"
+  ],
+  [
+   "/how-to-bring-nature-into-your-kitchen-with-the-top-trending-colors-of-2023/",
+   74,
+   "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023"
+  ],
+  [
+   "/how-to-get-your-dream-kitchen-even-if-the-vision-is-a-little-blurry-in-your-head/",
+   80,
+   "How to get your dream kitchen even if the vision is a little blurry in your head"
+  ],
+  [
+   "/kitchen-cabinets/",
+   70,
+   "Kitchen Cabinets New Orleans. Mandeville & Covington - Singer Kitchens"
+  ],
+  [
+   "/kitchen-design/",
+   68,
+   "Kitchen Design New Orleans, Mandeville & Covington - Singer Kitchens"
+  ],
+  [
+   "/kitchen-remodeling-faqs/",
+   74,
+   "Kitchen Remodeling FAQs | Singer Kitchens | Kitchen Remodeling New Orleans"
+  ],
+  [
+   "/my-kitchen-is-too-dark-12-fabulous-ways-to-brighten-your-kitchen/",
+   72,
+   "Brighten Up - 12 Fabulous Ways to Brighten Your Kitchen| Singer Kitchens"
+  ],
+  [
+   "/old-metairie-kitchen-goes-remarkably-retro-while-adding-space-and-storage/",
+   73,
+   "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage"
+  ],
+  [
+   "/quick-refresh/",
+   70,
+   "Quick Kitchen Refresh \u2014 Cabinets, Countertops & More | Singer Kitchens"
+  ],
+  [
+   "/request-consultation/",
+   71,
+   "Request Consultation | Singer Kitchens | Kitchen Remodeling New Orleans"
+  ],
+  [
+   "/service-area/mandeville/",
+   71,
+   "Kitchen & Bathroom Renovation & Remodeling Contractor in Mandeville, LA"
+  ],
+  [
+   "/showrooms/",
+   66,
+   "Kitchen Design Showroom New Orleans & Mandeville - Singer Kitchens"
+  ],
+  [
+   "/singer-kitchens-talks-2020-design-trends-with-st-charles-magazine/",
+   66,
+   "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine"
+  ],
+  [
+   "/storage-solutions/",
+   70,
+   "Kitchen Storage Solutions | New Orleans & Mandeville | Singer Kitchens"
+  ],
+  [
+   "/the-cashmere-kitchen-trend-creating-a-space-that-feels-as-cozy-as-it-looks/",
+   75,
+   "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks"
+  ],
+  [
+   "/the-most-popular-cabinet-door-style-in-new-orleans-kitchens-and-why-it-works/",
+   76,
+   "The Most Popular Cabinet Door Style in New Orleans Kitchens And Why It Works"
+  ],
+  [
+   "/thoughtful-design-in-the-irish-channel-debras-peaceful-practical-kitchen-remodel/",
+   83,
+   "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel"
+  ],
+  [
+   "/uptown-new-orleans-kitchen-renovation-creates-a-meaningful-gathering-place-within-budget/",
+   88,
+   "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget"
+  ],
+  [
+   "/when-is-the-best-time-to-remodel-your-kitchen/",
+   73,
+   "Best Time to Remodel Your Kitchen After Summer | Fall Is the Perfect Time"
+  ],
+  [
+   "/why-the-finish-on-your-cabinets-matters-more-than-most-people-realize/",
+   69,
+   "Why the Finish on Your Cabinets Matters More Than Most People Realize"
+  ],
+  [
+   "/you-survived-the-holidays-now-its-time-to-deal-with-your-kitchen/",
+   67,
+   "You Survived the Holidays. Now It\u2019s Time to Deal With Your Kitchen."
+  ],
+  [
+   "/youll-be-green-with-envy-when-you-see-this-before-after-kitchen/",
+   66,
+   "You'll be green with envy when you see this before & after kitchen"
+  ]
+ ],
+ "long_desc": [
+  [
+   "/",
+   174
+  ],
+  [
+   "/4-kitchen-upgrades-that-answer-your-familys-2020-needs-just-in-time-for-the-holidays/",
+   181
+  ],
+  [
+   "/gentilly-bungalow-kitchen-renovation/",
+   253
+  ],
+  [
+   "/get-kitchen-design-inspiration-by-appointment-safety-measures-included/",
+   188
+  ],
+  [
+   "/great-renovations-often-start-with-small-details-like-kitchen-hardware/",
+   180
+  ],
+  [
+   "/kitchen-renovation-roi/",
+   182
+  ],
+  [
+   "/kitchens/",
+   170
+  ],
+  [
+   "/mobility-challenged/",
+   316
+  ],
+  [
+   "/not-ready-for-a-full-renovation-youll-want-to-see-this/",
+   217
+  ],
+  [
+   "/old-metairie-kitchen-goes-remarkably-retro-while-adding-space-and-storage/",
+   170
+  ],
+  [
+   "/quick-refresh/",
+   180
+  ],
+  [
+   "/see-how-we-created-this-busy-metairie-familys-dream-kitchen/",
+   167
+  ],
+  [
+   "/service-area/covington/kitchen-design/",
+   174
+  ],
+  [
+   "/service-area/lacombe/",
+   173
+  ],
+  [
+   "/southshore-kitchen-remodeling/",
+   260
+  ],
+  [
+   "/storage-solutions/",
+   218
+  ],
+  [
+   "/the-built-in-coffee-bar-a-favorite-kitchen-luxury/",
+   186
+  ],
+  [
+   "/the-most-popular-cabinet-door-style-in-new-orleans-kitchens-and-why-it-works/",
+   195
+  ],
+  [
+   "/uptown-arts-and-crafts-kitchen-renovation/",
+   303
+  ],
+  [
+   "/why-the-finish-on-your-cabinets-matters-more-than-most-people-realize/",
+   241
+  ]
+ ],
+ "short_desc": [
+  [
+   "/4-ways-to-find-the-perfect-new-orleans-kitchen-cabinets/",
+   64,
+   "What To Know When Shopping For New Kitchen Cabinets In Louisiana"
+  ],
+  [
+   "/7-factors-to-consider-when-designing-a-kitchen/",
+   66,
+   "7 Factors to Consider When Designing a Kitchen \u2013 a Designers Guide"
+  ],
+  [
+   "/a-mardi-gras-in-mandeville/",
+   60,
+   "We had a party to remember for one of our favorite realtors!"
+  ],
+  [
+   "/blog/",
+   15,
+   "Kitchen Stories"
+  ],
+  [
+   "/blog/2/",
+   24,
+   "Kitchen Stories - page 2"
+  ],
+  [
+   "/blog/3/",
+   24,
+   "Kitchen Stories - page 3"
+  ],
+  [
+   "/blog/4/",
+   24,
+   "Kitchen Stories - page 4"
+  ],
+  [
+   "/blog/5/",
+   24,
+   "Kitchen Stories - page 5"
+  ],
+  [
+   "/blog/6/",
+   24,
+   "Kitchen Stories - page 6"
+  ],
+  [
+   "/blog/7/",
+   24,
+   "Kitchen Stories - page 7"
+  ],
+  [
+   "/blog/8/",
+   24,
+   "Kitchen Stories - page 8"
+  ],
+  [
+   "/blog/9/",
+   24,
+   "Kitchen Stories - page 9"
+  ],
+  [
+   "/kitchen-design-checklist/",
+   50,
+   "Key points to consider before a kitchen renovation"
+  ],
+  [
+   "/portfolio/",
+   37,
+   "Portfolio Your Vision. Our Expertise."
+  ],
+  [
+   "/portfolio/1300-albert-st-chefs-kitchen/",
+   27,
+   "Chef\u2019s Kitchen Explore More"
+  ],
+  [
+   "/portfolio/2106-ridge-ct-elegant-living/",
+   27,
+   "Elegant Living Explore More"
+  ],
+  [
+   "/portfolio/arts-crafts/",
+   26,
+   "Arts & Crafts Explore More"
+  ],
+  [
+   "/portfolio/biophilic-beauty/",
+   29,
+   "Biophilic Beauty Explore More"
+  ],
+  [
+   "/portfolio/blue-dimensions/",
+   28,
+   "Blue Dimensions Explore More"
+  ],
+  [
+   "/portfolio/contemporary-casual/",
+   32,
+   "Contemporary Casual Explore More"
+  ],
+  [
+   "/portfolio/cozy-cashmere/",
+   26,
+   "Cozy Cashmere Explore More"
+  ],
+  [
+   "/portfolio/earthy-casual/",
+   26,
+   "Earthy Casual Explore More"
+  ],
+  [
+   "/portfolio/earthy-traditional/",
+   31,
+   "Earthy Traditional Explore More"
+  ],
+  [
+   "/portfolio/gentilly-bungalow/",
+   30,
+   "Gentilly Bungalow Explore More"
+  ],
+  [
+   "/portfolio/golden-tranquility2/",
+   31,
+   "Golden Tranquility Explore More"
+  ],
+  [
+   "/portfolio/green-kitchen-green-with-kitchen-envy/",
+   36,
+   "Green with Kitchen Envy Explore More"
+  ],
+  [
+   "/portfolio/historical-new-orleans-kitchen-renovation/",
+   54,
+   "Historical New Orleans Kitchen Renovation Explore More"
+  ],
+  [
+   "/portfolio/lakeshore-luxury/",
+   29,
+   "Lakeshore Luxury Explore More"
+  ],
+  [
+   "/portfolio/mid-century-modern/",
+   31,
+   "Mid Century Modern Explore More"
+  ],
+  [
+   "/portfolio/midcentury-modern-feel/",
+   35,
+   "Midcentury Modern Feel Explore More"
+  ],
+  [
+   "/portfolio/minimalist/",
+   23,
+   "Minimalist Explore More"
+  ],
+  [
+   "/portfolio/modern/",
+   19,
+   "Modern Explore More"
+  ],
+  [
+   "/portfolio/new-construction-contemporary/",
+   42,
+   "New Construction Contemporary Explore More"
+  ],
+  [
+   "/portfolio/new-construction-modern/",
+   36,
+   "New Construction Modern Explore More"
+  ],
+  [
+   "/portfolio/nola-boathouse/",
+   27,
+   "Nola Boathouse Explore More"
+  ],
+  [
+   "/portfolio/open-for-entertaining/",
+   35,
+   "Open for Entertainment Explore More"
+  ],
+  [
+   "/portfolio/organic-modern/",
+   27,
+   "Organic Modern Explore More"
+  ],
+  [
+   "/portfolio/serenity-in-the-irish-channel/",
+   42,
+   "Serenity In The Irish Channel Explore More"
+  ],
+  [
+   "/portfolio/traditional-uptown/",
+   31,
+   "Traditional Uptown Explore More"
+  ],
+  [
+   "/portfolio/traditional-with-a-twist/",
+   37,
+   "Traditional with a Twist Explore More"
+  ],
+  [
+   "/portfolio/transitional-cottage/",
+   33,
+   "Transitional Cottage Explore More"
+  ],
+  [
+   "/portfolio/transitional/",
+   25,
+   "Transitional Explore More"
+  ],
+  [
+   "/portfolio/upscale-nautical/",
+   29,
+   "Upscale Nautical Explore More"
+  ],
+  [
+   "/portfolio/white-done-right/",
+   29,
+   "White Done Right Explore More"
+  ],
+  [
+   "/reviews/",
+   67,
+   "Serving metro New Orleans since 1928 - more than 65 5 Star Reviews!"
+  ]
+ ],
+ "h1_none": [
+  "/accessibility-statement/",
+  "/blog/",
+  "/blog/2/",
+  "/blog/3/",
+  "/blog/4/",
+  "/blog/5/",
+  "/blog/6/",
+  "/blog/7/",
+  "/blog/8/",
+  "/blog/9/",
+  "/employment/",
+  "/financing/",
+  "/interactive-kitchen-design-checklist/",
+  "/request-consultation/"
+ ],
+ "h1_multi": [],
+ "noindex_in_sitemap": [],
+ "dated": [
+  {
+   "url": "/2021-design-trends-topping-everyones-wish-lists/",
+   "title": "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!",
+   "h1": [
+    "2021 Design Trends Topping EVERYONE\u2019S Wish Lists!"
+   ],
+   "dated_title": true,
+   "hits": 7,
+   "samples": [
+    "Kitchen Stories \u00b7 Tips 2021 Design Trends Topping EVERYONE\u2019S Wish Lists! April 19, 2021 Over the",
+    "es \u00b7 Tips 2021 Design Trends Topping EVERYONE\u2019S Wish Lists! April 19, 2021 Over the past year, we\u2019ve all been spending more time in the place we",
+    "so been updating our homes like never before. In fact, in late summer 2020, Americans tipped off a surge of home improvement spending , at the h",
+    "ge and classic timeless trends re-emerge. Here\u2019s what we\u2019re seeing in 2021. Smart Storage Cabinetry Takes Priority We\u2019ve sung the praises of inv"
+   ]
+  },
+  {
+   "url": "/2022-kitchen-design-trends-you-wont-want-to-miss/",
+   "title": "2022 Kitchen Design Trends You Won\u2019t Want to Miss",
+   "h1": [
+    "2022 Kitchen Design Trends You Won\u2019t Want to Miss"
+   ],
+   "dated_title": true,
+   "hits": 7,
+   "samples": [
+    "Kitchen Stories \u00b7 News 2022 Kitchen Design Trends You Won\u2019t Want to Miss March 23, 2022 New year,",
+    "es \u00b7 News 2022 Kitchen Design Trends You Won\u2019t Want to Miss March 23, 2022 New year, new you. But what about a brand new space to match? Since m",
+    "ng or remodeling your kitchen or bath, check out these top trends for 2022 first. Then give us a call to get started on bringing our expertise t",
+    "arble countertops to create an even more luxurious atmosphere. So for 2022, expect to see nature and luxury in a style marriage. #2. Transitiona"
+   ]
+  },
+  {
+   "url": "/21-storage-solutions-to-start-your-2021-off-right/",
+   "title": "21 Storage Solutions to Start Your 2021 Off Right!",
+   "h1": [
+    "21 Storage Solutions to Start Your 2021 Off Right!"
+   ],
+   "dated_title": true,
+   "hits": 6,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling 21 Storage Solutions to Start Your 2021 Off Right! January 15, 2021 2021 is here! And it\u2019s the opportunity we",
+    "deling 21 Storage Solutions to Start Your 2021 Off Right! January 15, 2021 2021 is here! And it\u2019s the opportunity we all need for a fresh start.",
+    "g 21 Storage Solutions to Start Your 2021 Off Right! January 15, 2021 2021 is here! And it\u2019s the opportunity we all need for a fresh start. With",
+    "Month by bringing you 21 of our best innovative storage solutions for 2021. Read on for ideas & inspiration you can use to tame clutter once and"
+   ]
+  },
+  {
+   "url": "/4-kitchen-upgrades-that-answer-your-familys-2020-needs-just-in-time-for-the-holidays/",
+   "title": "4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays!",
+   "h1": [
+    "4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays!"
+   ],
+   "dated_title": true,
+   "hits": 3,
+   "samples": [
+    "hen Stories \u00b7 Remodeling 4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays! November 17, 2020 The holidays a",
+    "Your Family\u2019s 2020 Needs Just in Time for the Holidays! November 17, 2020 The holidays are upon us! (Did you think we\u2019d ever make it?) And we\u2019r",
+    "nd managing your family\u2019s day-to-day needs. Ahead of the holidays and 2021, spend some time considering the \u201czones\u201d your family would benefit fr"
+   ]
+  },
+  {
+   "url": "/4-ways-to-find-the-perfect-new-orleans-kitchen-cabinets/",
+   "title": "4 Ways To Find The Perfect New Orleans Kitchen Cabinets",
+   "h1": [
+    "4 Ways To Find The Perfect New Orleans Kitchen Cabinets"
+   ],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "s 4 Ways To Find The Perfect New Orleans Kitchen Cabinets October 28, 2021 The seasons are changing, the holidays are fast approaching, and Hurr",
+    "2021 The seasons are changing, the holidays are fast approaching, and Hurricane Ida still looms in our recent memories. Either out of holiday inspiration"
+   ]
+  },
+  {
+   "url": "/5-reasons-to-hire-a-professional-to-design-your-bathroom/",
+   "title": "5 Reasons to Hire a Professional to Design Your Bathroom",
+   "h1": [
+    "5 Reasons to Hire a Professional to Design Your Bathroom"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ps 5 Reasons to Hire a Professional to Design Your Bathroom March 26, 2019 The nature of your bathroom to a large extent determines how pleasura"
+   ]
+  },
+  {
+   "url": "/5-reasons-to-hire-a-professional-to-remodel-your-kitchen/",
+   "title": "5 Reasons To Hire A Professional To Remodel Your Kitchen",
+   "h1": [
+    "5 Reasons To Hire A Professional To Remodel Your Kitchen"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ips 5 Reasons To Hire A Professional To Remodel Your Kitchen March 9, 2019 Getting your kitchen remodeled can easily transform your simple looki"
+   ]
+  },
+  {
+   "url": "/7-factors-to-consider-when-designing-a-kitchen/",
+   "title": "7 Factors to Consider When Designing a Kitchen - a Designers Guide",
+   "h1": [
+    "7 Factors to Consider When Designing a Kitchen - a Designers Guide"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ors to Consider When Designing a Kitchen - a Designers Guide June 18, 2019 A kitchen is more often than not the central area of your home. It\u2019s"
+   ]
+  },
+  {
+   "url": "/a-downsized-dream-kitchen-in-metairie/",
+   "title": "A Downsized Dream Kitchen in Metairie | Singer Kitchens",
+   "h1": [
+    "A Downsized Dream Kitchen in Metairie"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "n Stories \u00b7 Remodeling A Downsized Dream Kitchen in Metairie April 1, 2021 Maggie had one goal in mind when she and her husband, Roy, set out to"
+   ]
+  },
+  {
+   "url": "/a-dream-made-real/",
+   "title": "A Dream Made Real | Singer Kitchens",
+   "h1": [
+    "A Dream Made Real"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling A Dream Made Real March 27, 2024 Find out how we helped one of our clients in Mandeville realize the d"
+   ]
+  },
+  {
+   "url": "/a-mardi-gras-in-mandeville/",
+   "title": "A Mardi Gras in Mandeville | Singer Kitchens",
+   "h1": [
+    "A Mardi Gras in Mandeville"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling A Mardi Gras in Mandeville March 28, 2023 We all know Mardi Gras is about parties, so of course we hosted one f"
+   ]
+  },
+  {
+   "url": "/a-minimalist-mandeville-kitchen-brought-to-life/",
+   "title": "A Minimalist Mandeville Kitchen Brought to Life",
+   "h1": [
+    "A Minimalist Mandeville Kitchen Brought to Life"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "modeling A Minimalist Mandeville Kitchen Brought to Life February 18, 2021 Robert and his wife Kim were at the tail end of a yearlong gradual re"
+   ]
+  },
+  {
+   "url": "/a-shaker-for-a-new-generation/",
+   "title": "A Shaker For A New Generation | Singer Kitchens",
+   "h1": [
+    "A Shaker For A New Generation"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling A Shaker For A New Generation July 10, 2023 Bring the traditional into the modern age with our trim and trendy sl"
+   ]
+  },
+  {
+   "url": "/a-white-kitchen-done-right-in-abita-springs/",
+   "title": "A White Kitchen Done Right in Abita Springs | Singer Kitchens",
+   "h1": [
+    "A White Kitchen Done Right in Abita Springs"
+   ],
+   "dated_title": false,
+   "hits": 8,
+   "samples": [
+    "ries \u00b7 Remodeling A White Kitchen Done Right in Abita Springs May 21, 2021 Bright white kitchens are having a moment \u2013 not just among our client",
+    "ite kitchens are having a moment \u2013 not just among our clients, but in 2021 kitchen design trends overall. When done right, it\u2019s easy to see why.",
+    "out this one. Read on and see for yourself! Renovating in the Time of COVID Savvy renovators a few times over, Margo, and her husband, Brent, had",
+    "a few times over, Margo, and her husband, Brent, had decided in early 2020 they wanted to wait to renovate the kitchen of their new Abita Spring"
+   ]
+  },
+  {
+   "url": "/accessibility-statement/",
+   "title": "Accessibility statement | Singer Kitchens",
+   "h1": [],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "feedback within 3\u20135 business days. This statement was created on 9/5/2025."
+   ]
+  },
+  {
+   "url": "/accomplish-your-new-years-resolutions-in-the-kitchen/",
+   "title": "Accomplish Your New Year's Resolutions In The Kitchen",
+   "h1": [
+    "Accomplish Your New Year's Resolutions In The Kitchen"
+   ],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "ips Accomplish Your New Year's Resolutions In The Kitchen January 31, 2022 We know what it is like to start your new year with resolutions to im",
+    "it be for you and your family to stick to healthy, home-cooked meals this year if you had an updated, organized dream kitchen to cook them in? Here"
+   ]
+  },
+  {
+   "url": "/ahead-of-the-curve-4-kitchen-kitchen-design-ideas-for-your-home-remodel/",
+   "title": "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel",
+   "h1": [
+    "Ahead of the Curve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel"
+   ],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "rve: 4 Kitchen Kitchen Design Ideas for Your Home Remodel January 15, 2024 According to the National Kitchen and Bath Association's (NKBA) 2024",
+    "2024 According to the National Kitchen and Bath Association's (NKBA) 2024 Kitchen and Bath Trend reports, several key trends will dominate the"
+   ]
+  },
+  {
+   "url": "/an-entertainer-boaters-dream-kitchen-in-slidell/",
+   "title": "An Entertainer & Boater\u2019s Dream Kitchen in Slidell",
+   "h1": [
+    "An Entertainer & Boater\u2019s Dream Kitchen in Slidell"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "emodeling An Entertainer & Boater\u2019s Dream Kitchen in Slidell July 27, 2021 On most weekends, you\u2019ll find self-described \u201cboat people,\u201d George an"
+   ]
+  },
+  {
+   "url": "/blog/3/",
+   "title": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans - Page 3",
+   "h1": [],
+   "dated_title": false,
+   "hits": 5,
+   "samples": [
+    "our Read More \u00bb Discover the Latest Kitchen and Bath Trends from KBIS 2024 The Epicenter of Inspiration: The National Kitchen and Bath Show Ever",
+    "model According to the National Kitchen and Bath Association's (NKBA) 2024 Kitchen and Bath Trend reports, several key trends will dominate the",
+    "he kitchen and bath Read More \u00bb Minimalism to the Max: Slab Doors Are 2023\u2019s Darling If you\u2019ve seen any kitchen, you\u2019ve seen a slab cabinet door",
+    "\u2019s one of THE most sought-after door styles of the decade, and it\u2019s a 2023 favorite. This Read More \u00bb How to Bring Nature into Your Kitchen with"
+   ]
+  },
+  {
+   "url": "/blog/4/",
+   "title": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans - Page 4",
+   "h1": [],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "d More \u00bb Creating a (Kitchen) Island Paradise The #1 kitchen trend of 2023 isn\u2019t a fancy stove or exclusive cabinetry. It\u2019s the humble, useful k"
+   ]
+  },
+  {
+   "url": "/blog/5/",
+   "title": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans - Page 5",
+   "h1": [],
+   "dated_title": false,
+   "hits": 3,
+   "samples": [
+    "crucial to think about how you'll use that space and what Read More \u00bb 2022 Kitchen Design Trends You Won\u2019t Want to Miss New year, new you. But w",
+    "nets The seasons are changing, the holidays are fast approaching, and Hurricane Ida still looms in our recent memories. Either out of holiday inspiration",
+    "ite kitchens are having a moment \u2013 not just among our clients, but in 2021 kitchen design trends overall. When done right, it\u2019s easy to see why."
+   ]
+  },
+  {
+   "url": "/blog/6/",
+   "title": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans - Page 6",
+   "h1": [],
+   "dated_title": false,
+   "hits": 4,
+   "samples": [
+    "Kitchen Stories 2021 Design Trends Topping EVERYONE\u2019S Wish Lists! Over the past year, we\u2019v",
+    "what strikes you most Read More \u00bb 21 Storage Solutions to Start Your 2021 Off Right! 2021 is here! And it\u2019s the opportunity we all need for a f",
+    "u most Read More \u00bb 21 Storage Solutions to Start Your 2021 Off Right! 2021 is here! And it\u2019s the opportunity we all need for a fresh start. With",
+    "improve not Read More \u00bb 4 Kitchen Upgrades That Answer Your Family\u2019s 2020 Needs Just in Time for the Holidays! The holidays are upon us! (Did y"
+   ]
+  },
+  {
+   "url": "/blog/7/",
+   "title": "Blog | Singer Kitchens | Kitchen Remodeling New Orleans - Page 7",
+   "h1": [],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "for Making the Most of a Small Kitchen from Singer Kitchens April 20, 2020 - By Lexi Klinkenberg What\u2019s more frustrating than a cramped and clut",
+    "ind places for all your \u201cstuff\u201d. We Read More \u00bb Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine A recent article in St. Charl"
+   ]
+  },
+  {
+   "url": "/cheryls-kitchen-story-from-bland-basic-to-wow-worthy-warmth/",
+   "title": "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth",
+   "h1": [
+    "Cheryl's Kitchen Story: From Bland & Basic to Wow-Worthy Warmth"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "s Kitchen Story: From Bland & Basic to Wow-Worthy Warmth December 17, 2024 For most people, the kitchen is more than a place to cook\u2014it\u2019s where"
+   ]
+  },
+  {
+   "url": "/cleaning-your-kitchen-for-longevity/",
+   "title": "Become an Expert at Cleaning Your Kitchen for Longevity",
+   "h1": [
+    "Become an Expert at Cleaning Your Kitchen for Longevity"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "evity Become an Expert at Cleaning Your Kitchen for Longevity July 2, 2019 After a kitchen remodeling project, you want to make sure that you pr"
+   ]
+  },
+  {
+   "url": "/closet-design-ideas-for-the-bedroom/",
+   "title": "Closet Design Ideas For The Bedroom | Singer Kitchens",
+   "h1": [
+    "Closet Design Ideas For The Bedroom"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Stories \u00b7 Remodeling Closet Design Ideas For The Bedroom November 20, 2019 Closet Design Ideas For The Bedroom That Add Value To Your Home. The"
+   ]
+  },
+  {
+   "url": "/creating-a-kitchen-island-paradise/",
+   "title": "Creating a (Kitchen) Island Paradise | Singer Kitchens",
+   "h1": [
+    "Creating a (Kitchen) Island Paradise"
+   ],
+   "dated_title": false,
+   "hits": 4,
+   "samples": [
+    "en Stories \u00b7 Remodeling Creating a (Kitchen) Island Paradise June 16, 2023 The #1 kitchen trend of 2023 isn\u2019t a fancy stove or exclusive cabinet",
+    "ing a (Kitchen) Island Paradise June 16, 2023 The #1 kitchen trend of 2023 isn\u2019t a fancy stove or exclusive cabinetry. It\u2019s the humble, useful k",
+    "rent kinds that can accommodate different needs. The most popular one this year is a large island, which gives both the person cooking and the people",
+    "ood reasons why the kitchen island is so popular for home renovations this year. With both style and function, it makes the foundation of any cooking"
+   ]
+  },
+  {
+   "url": "/design-for-entertaining-crafting-the-perfect-spaces-for-social-bliss/",
+   "title": "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss",
+   "h1": [
+    "Design for Entertaining: Crafting the Perfect Spaces for Social Bliss"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ntertaining: Crafting the Perfect Spaces for Social Bliss October 11, 2024 In today's world, entertaining has assumed a more relaxed, inclusive"
+   ]
+  },
+  {
+   "url": "/dimensions-in-blue-laurie-kenneths-dream-kitchen-brought-to-life/",
+   "title": "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life",
+   "h1": [
+    "Dimensions in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ns in Blue: Laurie & Kenneth's Dream Kitchen Brought to Life July 23, 2025 For Laurie and Kenneth, blue has always been more than just a favorit"
+   ]
+  },
+  {
+   "url": "/discover-the-latest-kitchen-and-bath-trends-from-kbis-2024/",
+   "title": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
+   "h1": [
+    "Discover the Latest Kitchen and Bath Trends from KBIS 2024"
+   ],
+   "dated_title": true,
+   "hits": 6,
+   "samples": [
+    "es \u00b7 Remodeling Discover the Latest Kitchen and Bath Trends from KBIS 2024 July 3, 2024 The Epicenter of Inspiration: The National Kitchen and B",
+    "ng Discover the Latest Kitchen and Bath Trends from KBIS 2024 July 3, 2024 The Epicenter of Inspiration: The National Kitchen and Bath Show Ever",
+    "re trends. Our team at Singer Kitchens had the privilege of attending this year's event to explore the latest in kitchen and bath designs, bringing b",
+    "piration: Bringing the Outdoors In One of the standout themes at KBIS 2024 was the use of nature as inspiration in kitchen and bath design. With"
+   ]
+  },
+  {
+   "url": "/does-a-bathroom-remodel-increase-home-value/",
+   "title": "Does A Bathroom Remodel Increase Home Value? | Singer Kitchens",
+   "h1": [
+    "Does A Bathroom Remodel Increase Home Value?"
+   ],
+   "dated_title": false,
+   "hits": 3,
+   "samples": [
+    "\u00b7 Remodeling Does A Bathroom Remodel Increase Home Value? December 5, 2019 We Are Often Asked, Does A Bathroom Remodel Increase Home Value? A ba",
+    "their bathrooms to update the fixtures or flooring. According to the 2019 Remodeling Impact Report by the National Association of Realtors\u00ae, th",
+    "highest score given is 10. Bathroom renovations scored 9.6. In their 2017 report, they found that a bathroom remodel ranked third in \u201clikely va"
+   ]
+  },
+  {
+   "url": "/dont-wait-start-on-your-holiday-remodel-today/",
+   "title": "Don\u2019t Wait! Start on Your Holiday Remodel Today!",
+   "h1": [
+    "Don\u2019t Wait! Start on Your Holiday Remodel Today!"
+   ],
+   "dated_title": false,
+   "hits": 3,
+   "samples": [
+    "Remodeling Don\u2019t Wait! Start on Your Holiday Remodel Today! June 14, 2021 In Louisiana, we LOVE to celebrate and we LIVE to entertain \u2013 for any",
+    "il you have a party planned to embark on your dream kitchen remodel ! This summer is the PERFECT time to get started. Our designers are ready to help m",
+    "nkling lights at Celebration in the Oaks in your newly redone kitchen this year. We\u2019ll get you ready! Don\u2019t Wait! Start on Your Holiday Remodel Today"
+   ]
+  },
+  {
+   "url": "/dreaming-up-a-mid-century-marvel-sues-kitchen-transformation/",
+   "title": "Dreaming Up a Mid-Century Marvel: Sue\u2019s Kitchen Transformation",
+   "h1": [
+    "Dreaming Up a Mid-Century Marvel: Sue\u2019s Kitchen Transformation"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "aming Up a Mid-Century Marvel: Sue\u2019s Kitchen Transformation April 29, 2024 The Vision Comes to Life Sue had a dream for her kitchen, but turning"
+   ]
+  },
+  {
+   "url": "/elevate-your-kitchen-with-smart-storage-solutions/",
+   "title": "Elevate Your Kitchen with Smart Storage Solutions",
+   "h1": [
+    "Elevate Your Kitchen with Smart Storage Solutions"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ries \u00b7 Tips Elevate Your Kitchen with Smart Storage Solutions May 31, 2024 At Singer Kitchens, we believe that a beautiful kitchen is more than"
+   ]
+  },
+  {
+   "url": "/everything-to-know-about-remodeling-a-kitchen/",
+   "title": "Everything You Need to Know About Remodeling Your Kitchen & Why You Need an Expert",
+   "h1": [
+    "Everything You Need to Know About Remodeling Your Kitchen & Why You Need an Expert"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "o Know About Remodeling Your Kitchen & Why You Need an Expert June 3, 2019 The constancy of the same pattern and old looking space for the prepa"
+   ]
+  },
+  {
+   "url": "/gentilly-bungalow-kitchen-renovation/",
+   "title": "Gentilly Bungalow: A Kitchen Reimagined | Singer Kitchens",
+   "h1": [
+    "Gentilly Bungalow: A Kitchen Reimagined"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ries \u00b7 Remodeling Gentilly Bungalow: A Kitchen Reimagined October 29, 2025 When Bev decided to downsize from her large Uptown home, she was read"
+   ]
+  },
+  {
+   "url": "/get-kitchen-design-inspiration-by-appointment-safety-measures-included/",
+   "title": "Get Kitchen Design Inspiration By Appointment - Safety Measures Included!",
+   "h1": [
+    "Get Kitchen Design Inspiration By Appointment - Safety Measures Included!"
+   ],
+   "dated_title": false,
+   "hits": 5,
+   "samples": [
+    "esign Inspiration By Appointment - Safety Measures Included! July 30, 2020 Our world has seen a lot of change over the past few months. We\u2019ve al",
+    "ing, working, and banding together amid the uncertainty and stress of COVID-19. We\u2019re also practicing recommended safety measures, wearing masks",
+    "practicing recommended safety measures, wearing masks wherever we go, social distancing, and limiting our outings mostly to the essential ones. Here at Si",
+    "te, lifestyle, and budget in mind. Design Inspiration By Appointment, Social Distancing and Safety Included! Right now, in order to best \u2014 and most safely"
+   ]
+  },
+  {
+   "url": "/great-renovations-often-start-with-small-details-like-kitchen-hardware/",
+   "title": "Great renovations often start with small details (like kitchen hardware)",
+   "h1": [
+    "Great renovations often start with small details (like kitchen hardware)"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ns often start with small details (like kitchen hardware) October 21, 2022 Sometimes, big projects start with little details. Take a kitchen ren"
+   ]
+  },
+  {
+   "url": "/how-one-couple-downsized-without-sacrificing-space-by-remodeling-their-closets/",
+   "title": "How one couple downsized without sacrificing space by remodeling their closets",
+   "h1": [
+    "How one couple downsized without sacrificing space by remodeling their closets"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "nsized without sacrificing space by remodeling their closets April 9, 2020 Everybody likes the idea of downsizing to a more manageable home as t"
+   ]
+  },
+  {
+   "url": "/how-to-bring-nature-into-your-kitchen-with-the-top-trending-colors-of-2023/",
+   "title": "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023",
+   "h1": [
+    "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023"
+   ],
+   "dated_title": true,
+   "hits": 6,
+   "samples": [
+    "How to Bring Nature into Your Kitchen with the Top Trending Colors of 2023 August 11, 2023 Nature is a powerful source of inspiration for many a",
+    "ure into Your Kitchen with the Top Trending Colors of 2023 August 11, 2023 Nature is a powerful source of inspiration for many aspects of our li",
+    "t's explore some of the top trending colors for kitchen remodeling in 2023, and discover how they can help you create a kitchen that is both sty",
+    "nd bland. That\u2019s why we recommend our \u201coyster\u201d as the new neutral for 2023. It is a warm and earthy beige that adds more interest and versatilit"
+   ]
+  },
+  {
+   "url": "/how-to-design-a-kitchen-that-stands-the-test-of-time/",
+   "title": "How to Design a Kitchen That Stands the Test of Time",
+   "h1": [
+    "How to Design a Kitchen That Stands the Test of Time"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "\u00b7 Tips How to Design a Kitchen That Stands the Test of Time April 18, 2022 Usually, the kitchen is considered the heart of the home. And when de"
+   ]
+  },
+  {
+   "url": "/how-to-get-your-dream-kitchen-even-if-the-vision-is-a-little-blurry-in-your-head/",
+   "title": "How to get your dream kitchen even if the vision is a little blurry in your head",
+   "h1": [
+    "How to get your dream kitchen even if the vision is a little blurry in your head"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "tchen even if the vision is a little blurry in your head February 24, 2020 Do you ever have a vision or dream about something you really want? Y"
+   ]
+  },
+  {
+   "url": "/hurricane-ida-damage/",
+   "title": "Help With Hurricane Ida Damage",
+   "h1": [
+    "Has your property been damaged by Hurricane Francine?"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Manufacturing and ordering time-lines were already extended prior to Hurricane Ida so we recommend that you contact us asap to get the process started."
+   ]
+  },
+  {
+   "url": "/kitchen-accessory-giveaway/the-guide-thank-you/",
+   "title": "The Guide Thank You | Singer Kitchens",
+   "h1": [
+    "CONGRATULATIONS!"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "CONGRATULATIONS! Thank you for claiming your Kitchen Accessory Giveaway. Get Started Today By: Calling 985-778-2978 Visiting our showroom Sch"
+   ]
+  },
+  {
+   "url": "/matte-or-gloss-kitchen/",
+   "title": "Matte or Gloss Kitchen, Which OnePros and Cons, the Answer",
+   "h1": [
+    "Matte or Gloss Kitchen, Which One, Pros and Cons, the Answer"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "te or Gloss Kitchen, Which One, Pros and Cons, the Answer October 16, 2019 Matte or Gloss Kitchen, Which One, Pros and Cons, the Answer Whether"
+   ]
+  },
+  {
+   "url": "/minimalism-to-the-max-slab-doors-are-2023s-darling/",
+   "title": "Minimalism to the Max: Slab Doors Are 2023\u2019s Darling",
+   "h1": [
+    "Minimalism to the Max: Slab Doors Are 2023\u2019s Darling"
+   ],
+   "dated_title": true,
+   "hits": 3,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling Minimalism to the Max: Slab Doors Are 2023\u2019s Darling August 17, 2023 If you\u2019ve seen any kitchen, you\u2019ve seen a s",
+    "eling Minimalism to the Max: Slab Doors Are 2023\u2019s Darling August 17, 2023 If you\u2019ve seen any kitchen, you\u2019ve seen a slab cabinet door. It\u2019s one",
+    "\u2019s one of THE most sought-after door styles of the decade, and it\u2019s a 2023 favorite. This Euro-inspired door front is made for understated elega"
+   ]
+  },
+  {
+   "url": "/my-kitchen-is-too-dark-12-fabulous-ways-to-brighten-your-kitchen/",
+   "title": "Brighten Up - 12 Fabulous Ways to Brighten Your Kitchen| Singer Kitchens",
+   "h1": [
+    "My Kitchen Is Too Dark! - 12 Fabulous Ways to Brighten Your Kitchen"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "s Too Dark! - 12 Fabulous Ways to Brighten Your Kitchen September 11, 2019 My Kitchen is too dark! - 12 Fabulous ways to brighten your kitchen."
+   ]
+  },
+  {
+   "url": "/old-metairie-kitchen-goes-remarkably-retro-while-adding-space-and-storage/",
+   "title": "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage",
+   "h1": [
+    "Old Metairie Kitchen Goes Remarkably Retro While Adding Space and Storage"
+   ],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "en Goes Remarkably Retro While Adding Space and Storage September 23, 2020 For Uptown resident Rudy, renovating the kitchen of his childhood hom",
+    "design work.\u201d Rudy\u2019s retro kitchen was completed on St. Joseph\u2019s Day 2017, he recalls. Two years later, Rudy felt the time was right to sell th"
+   ]
+  },
+  {
+   "url": "/preserving-a-rich-history-in-a-new-orleans-kitchen/",
+   "title": "Preserving A Rich History in a New Orleans Kitchen",
+   "h1": [
+    "Preserving A Rich History in a New Orleans Kitchen"
+   ],
+   "dated_title": false,
+   "hits": 4,
+   "samples": [
+    "News Preserving A Rich History in a New Orleans Kitchen February 23, 2022 As Louisianans, we take the importance of preserving our rich history",
+    "her vision with our expertise! A Vision of the Kitchen Coming True In 2020, Sherree and her husband wanted to renovate their kitchen in their Ne",
+    "ence For All Sherree\u2019s kitchen remodel was completed in the summer of 2021. Vincent prepared them for the project\u2019s timeline due to the pandemic",
+    "of 2021. Vincent prepared them for the project\u2019s timeline due to the pandemic and shipping issues for appliances and parts. And still, Sherree coul"
+   ]
+  },
+  {
+   "url": "/rain-water-damage-kitchen-restoration-new-orleans/",
+   "title": "Rain & Water Damage Kitchen Restoration - New Orleans",
+   "h1": [
+    "Rain & Water Damage Kitchen Restoration - New Orleans"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "\u00b7 Tips Rain & Water Damage Kitchen Restoration - New Orleans June 25, 2020 Has your kitchen suffered water damage from rain, storms or pipes bur"
+   ]
+  },
+  {
+   "url": "/remodeling-a-kitchen-with-singer-kitchens/",
+   "title": "Remodeling a Kitchen with Singer Kitchens | Singer Kitchens",
+   "h1": [
+    "Remodeling a Kitchen with Singer Kitchens"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Stories \u00b7 Remodeling Remodeling a Kitchen with Singer Kitchens May 7, 2019 It is no secret that remodeling a kitchen can be a difficult time! Be"
+   ]
+  },
+  {
+   "url": "/remodeling-period-kitchens/",
+   "title": "Remodeling Period Kitchens-How to keep the look.",
+   "h1": [
+    "Remodeling Period Kitchens"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling Remodeling Period Kitchens August 26, 2019 Remodeling Period Kitchens, Cabinets, Style, Color, Keeping the Look."
+   ]
+  },
+  {
+   "url": "/remodeling-your-bathroom-for-holiday-guests/",
+   "title": "Remodeling Your Bathroom in Time for Holiday Guests, a Guide",
+   "h1": [
+    "Remodeling Your Bathroom in Time for Holiday Guests, a Guide"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "odeling Your Bathroom in Time for Holiday Guests, a Guide October 28, 2019 Remodeling Your Bathroom in Time for Holiday Guests, a Guide So, the"
+   ]
+  },
+  {
+   "url": "/restoring-history-ashleys-timeless-kitchen-renovation/",
+   "title": "Restoring History: Ashley's Timeless Kitchen Renovation",
+   "h1": [
+    "Restoring History: Ashley's Timeless Kitchen Renovation"
+   ],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "ing Restoring History: Ashley's Timeless Kitchen Renovation March 15, 2025 When Ashley first visited our Mid-City showroom, she had a vision. Ow",
+    "as also about resilience. Her home suffered significant damage during Hurricane Ida, making the renovation a necessity. Finding the Perfect Inspiration T"
+   ]
+  },
+  {
+   "url": "/see-how-we-created-this-busy-metairie-familys-dream-kitchen/",
+   "title": "See How We Created this Busy Metairie Family\u2019s Dream Kitchen",
+   "h1": [
+    "See How We Created this Busy Metairie Family\u2019s Dream Kitchen"
+   ],
+   "dated_title": false,
+   "hits": 4,
+   "samples": [
+    "How We Created this Busy Metairie Family\u2019s Dream Kitchen November 3, 2020 Lisa\u2019s kitchen is the heartbeat of her family\u2019s home. That\u2019s not just",
+    "re present. It\u2019s where our talks happen.\u201d And in these uncertain post-pandemic days, it\u2019s this room \u2013 carefully designed and customized from top to",
+    "o Lisa\u2019s mom in Metairie and embarked on building their dream home in 2018, a large custom-designed kitchen was at the top of their list. Lisa\u2019s",
+    "happier with their home and their new kitchen. \u201cParticularly with the pandemic, with everyone being home all the time, it\u2019s been a huge benefit to h"
+   ]
+  },
+  {
+   "url": "/singer-kitchens-islands-that-will-inspire-you-best-of-edition/",
+   "title": "Singer Kitchens Islands That Will Inspire You: \u201cBest Of\u201d Edition",
+   "h1": [
+    "Singer Kitchens Islands That Will Inspire You: \u201cBest Of\u201d Edition"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ger Kitchens Islands That Will Inspire You: \u201cBest Of\u201d Edition May 10, 2022 Kitchen islands are a wonderful way to get more use out of your kitch"
+   ]
+  },
+  {
+   "url": "/singer-kitchens-talks-2020-design-trends-with-st-charles-magazine/",
+   "title": "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine",
+   "h1": [
+    "Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine"
+   ],
+   "dated_title": true,
+   "hits": 3,
+   "samples": [
+    "Kitchen Stories \u00b7 News Singer Kitchens Talks 2020 Design Trends with St. Charles Magazine March 16, 2020 A recent artic",
+    "Kitchens Talks 2020 Design Trends with St. Charles Magazine March 16, 2020 A recent article in St. Charles Avenue magazine discusses the best in",
+    "d the rest of the article and learn more about home design trends for 2020. More Kitchen Stories Let's Talk Kitchens"
+   ]
+  },
+  {
+   "url": "/spring-perfect-time-remodel-your-kitchen/",
+   "title": "Why Spring Is The Perfect Time To Remodel Your Kitchen",
+   "h1": [
+    "Why Spring Is The Perfect Time To Remodel Your Kitchen"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ling Why Spring Is The Perfect Time To Remodel Your Kitchen April 16, 2019 One of the most fascinating things about the winter season is that it"
+   ]
+  },
+  {
+   "url": "/stacked-cabinets-where-practicality-meets-style/",
+   "title": "Stacked Cabinets: Where Practicality Meets Style",
+   "h1": [
+    "Stacked Cabinets: Where Practicality Meets Style"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "s \u00b7 News Stacked Cabinets: Where Practicality Meets Style January 10, 2023 High ceilings are a staple in many New Orleans homes. And as much as"
+   ]
+  },
+  {
+   "url": "/the-cashmere-kitchen-trend-creating-a-space-that-feels-as-cozy-as-it-looks/",
+   "title": "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks",
+   "h1": [
+    "The Cashmere Kitchen Trend: Creating a Space That Feels as Cozy as It Looks"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "n Trend: Creating a Space That Feels as Cozy as It Looks December 17, 2025 There\u2019s a new kind of comfort making its way into New Orleans kitchen"
+   ]
+  },
+  {
+   "url": "/the-secret-to-designing-a-kitchen-youll-love-forever/",
+   "title": "The Secret to Designing a Kitchen You\u2019ll Love Forever",
+   "h1": [
+    "The Secret to Designing a Kitchen You\u2019ll Love Forever"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ips The Secret to Designing a Kitchen You\u2019ll Love Forever January 21, 2021 Do you love looking at photos of beautiful kitchens? If you\u2019ve ever t"
+   ]
+  },
+  {
+   "url": "/thoughtful-design-in-the-irish-channel-debras-peaceful-practical-kitchen-remodel/",
+   "title": "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel",
+   "h1": [
+    "Thoughtful Design in the Irish Channel: Debra's Peaceful, Practical Kitchen Remodel"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "e Irish Channel: Debra's Peaceful, Practical Kitchen Remodel June 11, 2025 When Debra and her husband moved to New Orleans to be closer to their"
+   ]
+  },
+  {
+   "url": "/tips-for-making-the-most-of-a-small-kitchen-from-singer-kitchens/",
+   "title": "Tips for Making the Most of a Small Kitchen from Singer Kitchens",
+   "h1": [
+    "Tips for Making the Most of a Small Kitchen from Singer Kitchens"
+   ],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "for Making the Most of a Small Kitchen from Singer Kitchens April 24, 2020 April 20, 2020 - By Lexi Klinkenberg What\u2019s more frustrating than a c",
+    "Most of a Small Kitchen from Singer Kitchens April 24, 2020 April 20, 2020 - By Lexi Klinkenberg What\u2019s more frustrating than a cramped and clut"
+   ]
+  },
+  {
+   "url": "/transforming-a-dark-80s-style-kitchen-to-modern-open-bright/",
+   "title": "Transforming a dark 80s style kitchen to modern, open & bright",
+   "h1": [
+    "Transforming a dark 80s style kitchen to modern, open & bright"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "rming a dark 80s style kitchen to modern, open & bright September 28, 2022 Our client was officially over her 80s-feeling kitchen: a dark, misma"
+   ]
+  },
+  {
+   "url": "/uptown-arts-and-crafts-kitchen-renovation/",
+   "title": "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story",
+   "h1": [
+    "Arts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "rts and Crafts Charm Restored: Kathleen\u2019s Kitchen Story September 18, 2025 When Kathleen moved back to New Orleans, she hoped to find a home ric"
+   ]
+  },
+  {
+   "url": "/uptown-new-orleans-kitchen-renovation-creates-a-meaningful-gathering-place-within-budget/",
+   "title": "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget",
+   "h1": [
+    "Uptown New Orleans Kitchen Renovation Creates a Meaningful Gathering Place within Budget"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "enovation Creates a Meaningful Gathering Place within Budget July 30, 2020 Uptown New Orleans homes, while gorgeously vintage and widely sought-"
+   ]
+  },
+  {
+   "url": "/wall-beds-for-small-spaces/",
+   "title": "Wall Beds For Small Spaces | Singer Kitchens",
+   "h1": [
+    "Wall Beds For Small Spaces"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling Wall Beds For Small Spaces December 17, 2019 Wall Beds For Small Spaces Were Designed With Functionality In Mind."
+   ]
+  },
+  {
+   "url": "/what-is-a-kitchen-island-and-why-you-need-one-a-designers-guide/",
+   "title": "What Is a Kitchen Island? And Why You Need One | Singer Kitchens",
+   "h1": [
+    "What Is a Kitchen Island? and Why You Need One - a Designers Guide"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "s a Kitchen Island? and Why You Need One - a Designers Guide July 25, 2019 What Is a Kitchen Island? and Why You Need One - a Designers Guide. K"
+   ]
+  },
+  {
+   "url": "/what-to-consider-when-remodeling-a-kitchen/",
+   "title": "What To Consider When Remodeling A Kitchen | Singer Kitchens",
+   "h1": [
+    "What To Consider When Remodeling A Kitchen"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "\u00b7 Remodeling What To Consider When Remodeling A Kitchen November 14, 2019 Things to consider when remodeling a kitchen, these should not be ign"
+   ]
+  },
+  {
+   "url": "/when-is-the-best-time-to-remodel-your-kitchen/",
+   "title": "Best Time to Remodel Your Kitchen After Summer | Fall Is the Perfect Time",
+   "h1": [
+    "When Is the Best Time to Remodel Your Kitchen After Summer?"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Is the Best Time to Remodel Your Kitchen After Summer? September 29, 2019 My Kitchen is too dark! - 12 Fabulous ways to brighten your kitchen."
+   ]
+  },
+  {
+   "url": "/why-choose-singer-kitchens-hear-from-our-happy-customers/",
+   "title": "Why Choose Singer Kitchens? Hear From Our Happy Customers",
+   "h1": [
+    "Why Choose Singer Kitchens? Hear From Our Happy Customers"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "ws Why Choose Singer Kitchens? Hear From Our Happy Customers July 17, 2024 Real Stories, Real Transformations: Watch the Video At Singer Kitchen"
+   ]
+  },
+  {
+   "url": "/why-everybody-loves-vincent-and-you-will-too/",
+   "title": "Why Everybody Loves Vincent And You Will Too!",
+   "h1": [
+    "Why Everybody Loves Vincent And You Will Too!"
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Stories \u00b7 News Why Everybody Loves Vincent And You Will Too! June 24, 2022 At Singer Kitchens, everybody loves Vincent! One of our most beloved"
+   ]
+  },
+  {
+   "url": "/youll-be-green-with-envy-when-you-see-this-before-after-kitchen/",
+   "title": "You'll be green with envy when you see this before & after kitchen",
+   "h1": [
+    "You'll be green with envy when you see this before & after kitchen"
+   ],
+   "dated_title": false,
+   "hits": 2,
+   "samples": [
+    "be green with envy when you see this before & after kitchen August 2, 2022 People are obsessed with this Green Kitchen renovation that we just c",
+    "ff!\u201d When Opportunity Blows In Like many of us in southern Louisiana, Hurricane Ida left the client\u2019s kitchen in shambles but she knew this was her chanc"
+   ]
+  },
+  {
+   "url": "/your-vision-our-expertise/",
+   "title": "Your Vision. Our Expertise.",
+   "h1": [
+    "Your Vision. Our Expertise."
+   ],
+   "dated_title": false,
+   "hits": 1,
+   "samples": [
+    "Kitchen Stories \u00b7 Remodeling Your Vision. Our Expertise. December 27, 2021 Renovating your kitchen is more than just picking out cabinets and co"
+   ]
+  }
+ ],
+ "dup_titles": {},
+ "dup_descs": {},
+ "external_count": 75
+}

@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "A Dream Made Real",
-  "seoTitle": "A Dream Made Real | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "A Dream Made Real | Singer Kitchens",
   "description": "Find out how we helped one of our clients in Mandeville realize the dream of her kitchen. The Vision Brenda had a vision: a relaxed, inviting space perfect",
   "date": "2024-03-27T16:54:45",
   "modified": "2024-03-27 16:55:53",

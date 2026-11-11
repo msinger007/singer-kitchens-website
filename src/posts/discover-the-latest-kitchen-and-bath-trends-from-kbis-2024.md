@@ -2,7 +2,7 @@
 {
   "layout": "layouts/post.njk",
   "title": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
-  "seoTitle": "Discover the Latest Kitchen and Bath Trends from KBIS 2024 | Singer Kitchens | Kitchen Remodeling New Orleans",
+  "seoTitle": "Discover the Latest Kitchen and Bath Trends from KBIS 2024",
   "description": "The Epicenter of Inspiration: The National Kitchen and Bath Show Every year, the National Kitchen and Bath Show (KBIS) in Las Vegas serves as the ultimate",
   "date": "2024-07-03T14:27:15",
   "modified": "2024-07-05 16:30:53",
@@ -39,4 +39,4 @@ Curves and reeded materials were major highlights, adding a strong natural textu
 <p><div><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure><figure></figure></div><br>
 <h2>Ready to Transform Your Space?</h2><br>
 If you're inspired by these trends and eager to incorporate them into your home, our team at <a href="/">Singer Kitchens</a> is here to help. From initial design consultations to final installations, we'll guide you every step of the way to ensure your kitchen or bath reflects the latest in design innovations.</p>
-<p><a href="/2024-kitchen-design-trends/">Download our 2024 Kitchen Trend Guide</a> for more insights, and don't forget to schedule your free design consultation with us today. Together, we can transform your vision into a beautiful reality.</p></div>
+<p><a href="/top-kitchen-design-trends/">Download our 2024 Kitchen Trend Guide</a> for more insights, and don't forget to schedule your free design consultation with us today. Together, we can transform your vision into a beautiful reality.</p></div>
