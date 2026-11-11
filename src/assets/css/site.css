@@ -7,8 +7,8 @@
   --red: #CF1924;
   --red-dark: #A3141D;
   --red-on-dark: #F2545C; /* step numbers on charcoal (meets contrast at large size) */
-  --green: #28A745; /* header CTA */
-  --green-dark: #218838;
+  --green: #218838; /* header CTA */
+  --green-dark: #1B6F2E;
   --line: #E6E1DA;
   --topbar: #E3E4E8; /* light grey top bar, as on the live site */
   --dark-line: #4A4A4A;
