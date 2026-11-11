@@ -249,6 +249,13 @@ iframe { max-width: 100%; border: 0; }
 .split { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center; }
 .split img { border-radius: var(--radius); }
 .split-media-first { grid-template-columns: 1fr 1.1fr; }
+/* Home page financing and ROI bands: smaller image, wider copy, as on the live site */
+.promo { grid-template-columns: 1fr 1fr; gap: 64px; max-width: 1140px; }
+.promo > a { justify-self: center; }
+.promo img { max-width: 440px; width: 100%; }
+.promo h2 { font-size: clamp(26px, 2.5vw, 34px); line-height: 1.4; }
+.promo p { font-size: 19px; }
+.promo .btn-row { margin-top: 1.6em; }
 .box { background: var(--alt); border-radius: 12px; padding: 48px 56px; }
 .box + .box { margin-top: 28px; }
 .planner { display: grid; grid-template-columns: 1.2fr 1fr; gap: 48px; align-items: center; }
