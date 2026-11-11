@@ -7,6 +7,9 @@
   --red: #CF1924;
   --red-dark: #A3141D;
   --red-on-dark: #F2545C; /* step numbers on charcoal (meets contrast at large size) */
+  --green: #1E7E34; /* header CTA */
+  --green-dark: #17652A;
+  --green-text: #F7F5F2;
   --line: #E6E1DA;
   --topbar: #E3E4E8; /* light grey top bar, as on the live site */
   --dark-line: #4A4A4A;
@@ -46,6 +49,8 @@ iframe { max-width: 100%; border: 0; }
 .btn:hover { background: var(--red-dark); border-color: var(--red-dark); color: var(--white); }
 .btn-red { background: var(--red); border-color: var(--red); color: var(--white); }
 .btn-red:hover { background: var(--red-dark); border-color: var(--red-dark); color: var(--white); }
+.btn-green { background: var(--green); border-color: var(--green); color: var(--green-text); border-radius: 999px; }
+.btn-green:hover { background: var(--green-dark); border-color: var(--green-dark); color: var(--green-text); }
 .btn-white { background: var(--white); border-color: var(--white); color: var(--ink); }
 .btn-white:hover { background: var(--alt); color: var(--ink); }
 .btn-line { background: transparent; color: var(--ink); border-color: var(--ink); }
@@ -63,7 +68,9 @@ iframe { max-width: 100%; border: 0; }
 .topbar-right { display: inline-flex; align-items: center; gap: 22px; }
 .topbar-phone { font-size: 15px; }
 .topbar-in { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding-top: 6px; padding-bottom: 6px; }
-.topbar-social a + a { margin-left: 14px; }
+.topbar-social { display: inline-flex; gap: 8px; }
+.topbar-social a { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; border-radius: 50%; background: var(--red); color: var(--white); }
+.topbar-social a:hover { background: var(--red-dark); color: var(--white); }
 .site-header { position: sticky; top: 0; z-index: 50; background: var(--white); border-bottom: 1px solid var(--line); }
 .header-in { display: flex; align-items: center; gap: 24px; padding-top: 10px; padding-bottom: 10px; }
 .logo img { height: 72px; width: auto; }
