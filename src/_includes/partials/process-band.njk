@@ -3,7 +3,7 @@
   <div class="wrap">
     <div class="process-head">
       <h2 id="pb-h">{{ process.title }}</h2>
-      <a class="link-white" href="/our-process/">See the full process</a>
+      <a class="step-link" href="/our-process/">See the full process</a>
     </div>
     <ol class="steps">
     {%- for s in process.steps %}
@@ -13,7 +13,7 @@
         {%- if s.sub %}<div class="sub">{{ s.sub }}</div>{% endif %}
         <p>{{ s.summary or s.lead }}</p>
         {%- if loop.first %}
-        <a class="btn btn-white" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a>
+        <a class="btn" href="{{ site.consultUrl }}">{{ site.ctaLabel }}</a>
         <a class="call" href="{{ site.phoneTel }}">{{ site.phone }}</a>
         {%- elif s.n == 2 %}
         <a class="step-link" href="/showrooms/">New Orleans or Mandeville</a>

@@ -15,15 +15,14 @@
 }
 ---
 {#- Home page. Copy is the live home page's, word for word (checked by tools/check_text.py).
-    Section order follows the approved mockup v2. The four-step band is one include and can be removed. -#}
+    Layout follows the live home page (photo-led, centred hero over the kitchen), tidied up.
+    The four-step band is one include and can be removed. -#}
 <section class="hero">
   {{ "2026/03/new-slider2_26.webp#hero" | img("Smiling homeowner in a sage green kitchen with globe pendant lights", "hero") | safe }}
-  <div class="wrap">
-    <div class="hero-card">
-      <h1>Love Your Kitchen!</h1>
-      <p>Thoughtfully designed for the way you live.</p>
-      <div class="btn-row"><a class="btn btn-red" href="/request-consultation/">Let's Talk Kitchens!</a><a class="phone" href="{{ site.phoneTel }}">{{ site.phone }}</a></div>
-    </div>
+  <div class="wrap hero-in">
+    <h1>Love Your Kitchen!</h1>
+    <p>Thoughtfully designed for the way you live.</p>
+    <div class="btn-row"><a class="btn btn-red" href="/request-consultation/">Let's Talk Kitchens!</a></div>
   </div>
 </section>
 
@@ -34,11 +33,37 @@
   </div>
 </div>
 
-<section class="sec">
+<section class="sec sec-alt">
   <div class="wrap">
     <div class="intro">
       <h2>Let's Talk About Your Kitchen</h2>
       <p>Whether you’re planning a full renovation or just exploring ideas,<br>our designers are here to help you make confident decisions for your home.</p>
+    </div>
+    <div class="paths">
+      <div class="path">
+        <a href="/remodeling/" tabindex="-1" aria-hidden="true">{{ "2023/02/IMG_0260.jpg" | img("Renovated kitchen with sage green cabinets, a butcher block island and globe pendant lights") | safe }}</a>
+        <div class="body">
+          <h3><a href="/remodeling/">Full Kitchen Renovation</a></h3>
+          <p>Transform the heart of your home with thoughtful design, quality cabinetry and professional installation tailored to your daily life.</p>
+          <a class="more" href="/remodeling/">Talk to a Designer</a>
+        </div>
+      </div>
+      <div class="path">
+        <a href="/quick-refresh/" tabindex="-1" aria-hidden="true">{{ "2023/02/IMG_0261.jpg" | img("Kitchen island with white waterfall countertop and wood stools") | safe }}</a>
+        <div class="body">
+          <h3><a href="/quick-refresh/">Refreshes &amp; Upgrades</a></h3>
+          <p>Not every project starts from scratch. Update your countertops, island, storage or cabinetry with improvements that make everyday life easier.</p>
+          <a class="more" href="/quick-refresh/">Explore Options</a>
+        </div>
+      </div>
+      <div class="path">
+        <a href="/cabinets/" tabindex="-1" aria-hidden="true">{{ "2023/02/IMG_0257.jpg" | img("Sage green cabinets, stainless range hood and white tile backsplash") | safe }}</a>
+        <div class="body">
+          <h3><a href="/cabinets/">Cabinets &amp; Countertops</a></h3>
+          <p>Explore beautiful cabinetry, durable countertops and timeless finishes selected to fit your style, home and budget.</p>
+          <a class="more" href="/cabinets/">See Selections</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -49,40 +74,13 @@
 
 <section class="sec">
   <div class="wrap">
-    <div class="paths" style="margin-top:0">
-      <div class="path">
-        <a href="/remodeling/" tabindex="-1" aria-hidden="true">{{ "2023/02/IMG_0260.jpg" | img("Renovated kitchen with sage green cabinets, a butcher block island and globe pendant lights") | safe }}</a>
-        <div class="body">
-          <h3><a href="/remodeling/">Full Kitchen Renovation</a></h3>
-          <p>Transform the heart of your home with thoughtful design, quality cabinetry and professional installation tailored to your daily life.</p>
-          <a class="btn" href="/remodeling/">Talk to a Designer</a>
-        </div>
-      </div>
-      <div class="path">
-        <a href="/quick-refresh/" tabindex="-1" aria-hidden="true">{{ "2023/02/IMG_0261.jpg" | img("Kitchen island with white waterfall countertop and wood stools") | safe }}</a>
-        <div class="body">
-          <h3><a href="/quick-refresh/">Refreshes &amp; Upgrades</a></h3>
-          <p>Not every project starts from scratch. Update your countertops, island, storage or cabinetry with improvements that make everyday life easier.</p>
-          <a class="btn btn-line" href="/quick-refresh/">Explore Options</a>
-        </div>
-      </div>
-      <div class="path">
-        <a href="/cabinets/" tabindex="-1" aria-hidden="true">{{ "2023/02/IMG_0257.jpg" | img("Sage green cabinets, stainless range hood and white tile backsplash") | safe }}</a>
-        <div class="body">
-          <h3><a href="/cabinets/">Cabinets &amp; Countertops</a></h3>
-          <p>Explore beautiful cabinetry, durable countertops and timeless finishes selected to fit your style, home and budget.</p>
-          <a class="btn btn-line" href="/cabinets/">See Selections</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="sec sec-alt">
-  <div class="wrap talk">
-    <div>
+    <div class="sec-head">
       <h2 class="label">Let’s Talk Kitchens</h2>
       <h2>A kitchen is more than just cabinets &amp; countertops.</h2>
+    </div>
+  </div>
+  <div class="wrap talk">
+    <div>
       <p class="lede">It’s where your family gathers. It’s where you entertain guests. It’s where you prepare meals made with love.</p>
       <p>We believe your kitchen is the heart of your home. Give it the attention it deserves. We’re here to help you design &amp; build the kitchen of YOUR dreams!</p>
       <p>Enjoy cooking. Entertain more. Improve storage. Or update a tired, dated look. Whatever your reasons for updating your kitchen, we’re here to help!</p>
@@ -94,34 +92,33 @@
   </div>
 </section>
 
-<section class="sec sec-alt" style="padding-top:0">
-  <div class="wrap duo">
-    <div class="panel">
-      <a href="/financing/" tabindex="-1" aria-hidden="true">{{ "2026/11/New_Financing.webp" | img("0% financing available with approved credit", null, "contain") | safe }}</a>
-      <div class="body">
-        <h2>Bring Your Dream Kitchen to Life with 0% Interest Financing</h2>
-        <p>With 0% interest financing available for 12, 24 or 60 months, you can begin your project now and spread your payments over time with no interest. It’s a simple way to make your investment more affordable while creating a space you’ll enjoy for years to come.</p>
-        <a class="btn" href="/financing/">Learn More</a>
-      </div>
+<section class="sec sec-alt">
+  <div class="wrap split split-media-first">
+    <a href="/financing/" tabindex="-1" aria-hidden="true">{{ "2026/11/New_Financing.webp" | img("0% financing available with approved credit") | safe }}</a>
+    <div>
+      <h2>Bring Your Dream Kitchen to Life with 0% Interest Financing</h2>
+      <p>With 0% interest financing available for 12, 24 or 60 months, you can begin your project now and spread your payments over time with no interest. It’s a simple way to make your investment more affordable while creating a space you’ll enjoy for years to come.</p>
+      <p class="btn-row"><a class="btn" href="/financing/">Learn More</a></p>
     </div>
-    <div class="panel panel-dark">
-      <a href="/kitchen-design-checklist/" tabindex="-1" aria-hidden="true">{{ "2026/07/Singer-Kitchens-Planning-Tool.webp" | img("The Singer Kitchens kitchen planning tool on a phone") | safe }}</a>
-      <div class="body">
+  </div>
+</section>
+
+<section class="sec sec-tight">
+  <div class="wrap">
+    <div class="box planner">
+      <div>
         <h2 class="label">Not Sure Where To Start?</h2>
         <p class="label">Try Our Free Personalized Kitchen Planning Tool</p>
         <p class="label">FREE KITCHEN PLANNING TOOL</p>
         <h3>Your New Kitchen Starts With a Plan</h3>
         <p>Answer a few simple questions about your goals, lifestyle and what isn’t working in your kitchen today.</p>
         <p>Get a personalized planning summary to help you organize your ideas and take the next step with confidence.</p>
-        <a class="btn btn-white" href="/kitchen-design-checklist/">Start My Kitchen Plan</a>
+        <p class="btn-row"><a class="btn" href="/kitchen-design-checklist/">Start My Kitchen Plan</a></p>
         <p class="panel-note">Free • Takes less than 5 minutes<br>Save, print or share your summary.</p>
       </div>
+      <a href="/kitchen-design-checklist/" tabindex="-1" aria-hidden="true">{{ "2026/07/Singer-Kitchens-Planning-Tool.webp" | img("The Singer Kitchens kitchen planning tool on a phone") | safe }}</a>
     </div>
-  </div>
-</section>
-
-<section class="sec" style="padding-bottom:40px">
-  <div class="wrap">
+    <div class="box stories">
     <h2>Kitchen Stories</h2>
     <div class="storygrid">
       <a class="story" href="/dimensions-in-blue-laurie-kenneths-dream-kitchen-brought-to-life/">{{ "2025/07/11mls.jpg" | img("Laurie and Kenneth in their remodeled kitchen with blue cabinets") | safe }}<h3>Dimensions In Blue</h3><span>Learn More</span></a>
@@ -129,10 +126,11 @@
       <a class="story" href="/restoring-history-ashleys-timeless-kitchen-renovation/">{{ "2025/03/12mls-1.jpg" | img("Homeowner beside the gas cooktop in her restored historic kitchen") | safe }}<h3>Restoring History</h3><span>Learn More</span></a>
       <a class="story" href="/arts-and-crafts-charm-restored-kathleens-kitchen-story/">{{ "2025/09/ArtCrafts_NewOrleansKitchens.jpg" | img("Kathleen in her Arts and Crafts style kitchen with a mosaic backsplash") | safe }}<h3>Arts &amp; Crafts Charm</h3><span>Learn More</span></a>
     </div>
+    </div>
   </div>
 </section>
 
-<section class="sec proof" style="padding-top:40px">
+<section class="sec proof">
   <div class="wrap">
     <div class="badges">
       {{ "2026/04/65-reviews1.png" | img("65+ five-star online reviews, 5.0 rating") | safe }}
@@ -163,7 +161,7 @@
   <div class="wrap">
     <div class="space">
       <div class="txt">
-        <h2>Kitchens</h2>
+        <h2 class="big">Kitchens</h2>
         <p>Your kitchen isn’t just another room. It’s where daily routines, family moments and meaningful gatherings come to life. When it’s designed well, everything feels easier, more comfortable and more enjoyable.</p>
         <p>Whether you’re looking to refresh what you have or completely reimagine your space, Singer Kitchens offers a carefully curated selection of cabinetry, countertops and accessories to bring your vision into focus. But more importantly, we guide you through the entire process with clarity and care.</p>
         <p>From your first design conversation to financing, delivery and professional installation, you’ll work with one dedicated point of contact who understands your goals and keeps everything moving smoothly. The result is a kitchen that feels thoughtfully planned, beautifully executed and truly yours.</p>
@@ -175,28 +173,38 @@
         {{ "2018/03/marquee8-1.jpg" | img("Painted cabinets with a dark countertop and stainless range hood") | safe }}
       </div>
     </div>
-    <div class="space flip">
+  </div>
+</section>
+
+<section class="sec sec-slant">
+  <div class="wrap">
+    <div class="space">
+      <div class="txt">
+        <h2 class="big">Bathrooms</h2>
+        <p>While kitchens are at the heart of what we do, they’re not the only spaces where thoughtful design can make a difference. We also help homeowners reimagine outdated bathrooms by transforming them into spaces that feel fresh, functional and easy to enjoy every day.</p>
+        <p>With a selection of stylish vanities, durable countertops and smart storage solutions, our team works with you to create a bathroom that fits your routine just as beautifully as it fits your home. And just like with our kitchens, you’ll have experienced guidance every step of the way so the final result feels well-planned, comfortable and built to last.</p>
+        <p class="btn-row"><a class="btn" href="/bathrooms/">Explore Bathrooms</a></p>
+      </div>
       <div class="mosaic">
         {{ "2018/05/bath4.jpg" | img("Recessed bathroom shelving for rolled towels beside a soaking tub") | safe }}
         {{ "2018/05/bath3.jpg" | img("Bathroom vanity with vessel sinks and tall glass-front storage") | safe }}
         {{ "2018/05/bath2.jpg" | img("Teal floating vanity with matching open shelves") | safe }}
       </div>
-      <div class="txt">
-        <h2>Bathrooms</h2>
-        <p>While kitchens are at the heart of what we do, they’re not the only spaces where thoughtful design can make a difference. We also help homeowners reimagine outdated bathrooms by transforming them into spaces that feel fresh, functional and easy to enjoy every day.</p>
-        <p>With a selection of stylish vanities, durable countertops and smart storage solutions, our team works with you to create a bathroom that fits your routine just as beautifully as it fits your home. And just like with our kitchens, you’ll have experienced guidance every step of the way so the final result feels well-planned, comfortable and built to last.</p>
-        <p class="btn-row"><a class="btn btn-line" href="/bathrooms/">Explore Bathrooms</a></p>
-      </div>
     </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
     <div class="space">
       <div class="txt">
-        <h2>Custom Closets</h2>
+        <h2 class="big">Custom Closets</h2>
         <p>Imagine starting your day in a space where everything has a place. No searching, no clutter, no frustration. Just a sense of calm and organization.</p>
         <p>At Singer Kitchens, we help transform closets, laundry rooms, garages and workspaces into thoughtfully designed systems that help support your daily life. From dedicated hanging areas for shirts, dresses and suits to shelving, shoe storage, jewelry organizers and baskets. Most every detail is planned around how you live.</p>
         <p>It’s not just about storage. It’s about creating a space that feels effortless. A place where everything is within reach and where your home works with you.</p>
         <p>Our closet experts take the time to understand your needs, then guide you toward solutions. And with flexible financing options, creating a space that feels this organized and intentional is often more attainable than you might expect.</p>
         <p>Because when everything has its place, your whole day just flows better.</p>
-        <p class="btn-row"><a class="btn btn-line" href="/closets/">Explore Closets</a></p>
+        <p class="btn-row"><a class="btn" href="/closets/">Explore Closets</a></p>
       </div>
       <div class="mosaic">
         {{ "2018/06/Closet_Slider3.jpg" | img("Reach-in closet with hanging space and shoe shelves") | safe }}
@@ -210,19 +218,19 @@
 <section class="sec heritage">
   <div class="wrap grid">
     <div>
-      {{ "2019/09/SingerKitchens.jpg" | img("The Singer Kitchens team in the showroom") | safe }}
       <h2>Exceptional Service</h2>
+      {{ "2019/09/SingerKitchens.jpg" | img("The Singer Kitchens team in the showroom") | safe }}
       <p>Our experienced team of designers and installers are experts at creating kitchens, bathrooms and closets that fit your lifestyle, taste &amp; budget.</p>
     </div>
     <div>
-      <a href="/about/" tabindex="-1" aria-hidden="true">{{ "2018/06/MaxSinger1.jpg" | img("Portrait of Max Singer, founder of Singer Kitchens") | safe }}</a>
-      <h2 class="label">Locally Owned Since 1928</h2>
-      <h2>Max Singer, Founder</h2>
+      <h2>Locally Owned Since 1928</h2>
+      <a href="/about/" tabindex="-1" aria-hidden="true">{{ "2018/06/MaxSinger1.jpg" | img("Portrait of Max Singer, founder of Singer Kitchens", null, "portrait") | safe }}</a>
+      <p class="caption">Max Singer, Founder</p>
       <p>Since 1928, the Singer family has provided the New Orleans area with quality home improvement products and services. .</p>
     </div>
     <div>
-      {{ "2018/06/Durham.jpg" | img("Cream kitchen with an island, dark countertops and a stainless range") | safe }}
       <h2>Custom Designed For You</h2>
+      {{ "2018/06/Durham.jpg" | img("Cream kitchen with an island, dark countertops and a stainless range") | safe }}
       <p>We thoughtfully design kitchens, bathrooms and closets that reflect your style and how you live. Whether it’s a simple refresh or a full renovation, we can handle every detail.</p>
     </div>
   </div>

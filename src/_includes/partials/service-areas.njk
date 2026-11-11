@@ -1,10 +1,13 @@
 <section class="areas" aria-labelledby="areas-h">
   <div class="wrap areas-in">
-    <h2 id="areas-h">{{ serviceAreas.heading }}</h2>
-    <ul>
-    {%- for a in serviceAreas.areas %}
-      <li>{% if a.url %}<a href="{{ a.url }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}</li>
-    {%- endfor %}
-    </ul>
+    {{ "2024/11/Service-Area-Image.webp" | img("Map of Louisiana with a pin on the New Orleans area") | safe }}
+    <div>
+      <h2 id="areas-h">{{ serviceAreas.heading }}</h2>
+      <ul>
+      {%- for a in serviceAreas.areas %}
+        <li>{% if a.url %}<a href="{{ a.url }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}</li>
+      {%- endfor %}
+      </ul>
+    </div>
   </div>
 </section>

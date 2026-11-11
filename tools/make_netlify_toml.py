@@ -24,7 +24,7 @@ def add(frm, to, query=None, force=False):
 
 # Site-plan strays
 add('/home', '/'); add('/home/', '/')
-add('/kitchen-design', '/kitchens/'); add('/kitchen-design/', '/kitchens/')
+# /kitchen-design/ is published as its own page (not redirected to /kitchens/)
 # Dead internal links found in old content (pages not in the export) -> closest live page
 for frm, to in [('/locations/', '/showrooms/'), ('/kitchen-remodeling/', '/remodeling/'), ('/closet-renovation/', '/closets/'),
                 ('/small-kitchens/', '/small-kitchen-remodeling/'), ('/murphy-beds/', '/closets/'),

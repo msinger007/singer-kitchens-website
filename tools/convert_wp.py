@@ -48,7 +48,7 @@ CORE_PATHS = [
 PROCESS_STRIP_PATHS = ['/remodeling/', '/small-kitchen-remodeling/', '/kitchens/', '/kitchen-cabinets/', '/cabinets/',
                        '/countertops/', '/quick-refresh/', '/storage-solutions/', '/closets/']
 # Pages built by hand as templates (their copy still comes from the export, checked by tools/check_text.py)
-REDIRECTED_PAGES = {'/kitchen-design/': '/kitchens/'}
+REDIRECTED_PAGES = {}  # /kitchen-design/ is now published as its own page
 BESPOKE = {'/': 'home', '/showrooms/': 'showrooms'}
 
 HOME_HERO_FILES = ['2026/03/new-slider2_26.webp']

@@ -35,16 +35,6 @@
   status = 301
 
 [[redirects]]
-  from = "/kitchen-design"
-  to = "/kitchens/"
-  status = 301
-
-[[redirects]]
-  from = "/kitchen-design/"
-  to = "/kitchens/"
-  status = 301
-
-[[redirects]]
   from = "/locations/"
   to = "/showrooms/"
   status = 301

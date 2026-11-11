@@ -2,7 +2,9 @@
 
 The www.singerkitchens.com rebuild: a static Eleventy site, stored here and hosted on Netlify.
 It replaces the WordPress/Elementor site on SiteGround. Content and URLs moved over as they were;
-the design follows the approved home page mockup v2.
+the design stays close to the live site (photo-led pages, centred home hero over the kitchen, red
+buttons), with a few clean-ups: no sliders, a sticky header, the four-step process and two-showroom bands.
+/kitchen-design/ is its own published page (it is not redirected to /kitchens/).
 
 ## Where things live
 
