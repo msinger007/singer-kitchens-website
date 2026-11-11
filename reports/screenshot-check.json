@@ -792,6 +792,15 @@
   "broken": []
  },
  {
+  "url": "/kitchen-design/",
+  "width": 1280,
+  "scrollWidth": 1280,
+  "clientWidth": 1280,
+  "hscroll": false,
+  "wide": [],
+  "broken": []
+ },
+ {
   "url": "/kitchen-remodel-lp/",
   "width": 1280,
   "scrollWidth": 1280,
@@ -2620,6 +2629,15 @@
  },
  {
   "url": "/kitchen-design-secrets/",
+  "width": 390,
+  "scrollWidth": 390,
+  "clientWidth": 390,
+  "hscroll": false,
+  "wide": [],
+  "broken": []
+ },
+ {
+  "url": "/kitchen-design/",
   "width": 390,
   "scrollWidth": 390,
   "clientWidth": 390,
