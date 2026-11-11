@@ -38,7 +38,8 @@ buttons), with a few clean-ups: no sliders, a sticky header, the four-step proce
 - **Remove the four-step band from the home page:** delete the single
   `{% include "partials/process-band.njk" %}` line in `src/index.njk` (it is marked REMOVABLE).
 
-Commit to `main` and Netlify rebuilds and publishes in about a minute.
+Netlify publishes from the `claude/upbeat-newton-y1ikse` branch (the repository's default branch; there is no `main`).
+Merge a pull request into it, or commit to it directly, and Netlify rebuilds and publishes in about a minute.
 
 ## Building it yourself
 
