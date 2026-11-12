@@ -14,7 +14,7 @@ buttons), with a few clean-ups: no sliders, a sticky header, the four-step proce
 | Menu and footer links | `src/_data/nav.json` |
 | The two showrooms (address, phone, hours, photos, map pins) | `src/_data/showrooms.json` |
 | The Four-Step Singer Kitchens Process (approved copy) | `src/_data/process.json` |
-| Google reviews block (replaces the Trustindex plugin) | `src/_data/reviews.json` |
+| Google reviews block (Featurable widget; reviews update automatically from Google) | `src/_includes/partials/google-reviews.njk` |
 | Service-area list above the footer | `src/_data/serviceAreas.json` |
 | Image alt text written by hand | `src/_data/alt-overrides.json` |
 | Home page | `src/index.njk` |
@@ -34,7 +34,7 @@ buttons), with a few clean-ups: no sliders, a sticky header, the four-step proce
   showroom cards, map and structured data all read from these.
 - **A new blog post:** copy any file in `src/posts/`, change the front matter (title, description,
   date, permalink, image) and write the post below it in Markdown.
-- **Reviews:** update `src/_data/reviews.json` from the Google Business Profile about once a month.
+- **Reviews:** shown by the Featurable widget, which pulls them from the Google Business Profile automatically. Nothing to update here; manage the widget in your Featurable account.
 - **Remove the four-step band from the home page:** delete the single
   `{% include "partials/process-band.njk" %}` line in `src/index.njk` (it is marked REMOVABLE).
 
