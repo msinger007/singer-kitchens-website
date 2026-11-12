@@ -1,15 +1,3 @@
 <section class="reviews-block" aria-label="Google reviews">
-  <div class="reviews-head">
-    <p class="stars" aria-hidden="true">★★★★★</p>
-    <p><strong>{{ reviews.count }} Google reviews</strong> · <a href="{{ reviews.profileUrl }}" target="_blank" rel="noopener">Read them on Google</a></p>
-  </div>
-  <div class="reviews">
-  {%- for r in reviews.items %}{% if not reviewsLimit or loop.index <= reviewsLimit %}
-    <figure class="review">
-      <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
-      <blockquote><p>{{ r.text | replace("\n", "<br>") | safe }}</p></blockquote>
-      <figcaption class="who">{{ r.name }} · Posted on Google</figcaption>
-    </figure>
-  {%- endif %}{%- endfor %}
-  </div>
+  <div id="featurable-63c60332-0bae-4577-84ba-9ac67b6fe222" data-featurable-async ></div><script src="https://cdn.featurable.com/widget/v2/embed.js" defer charset="UTF-8"></script>
 </section>
