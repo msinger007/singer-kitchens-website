@@ -7,8 +7,8 @@
   --red: #DE2C3C;
   --red-dark: #B5212F;
   --red-on-dark: #F2545C; /* step numbers on charcoal (meets contrast at large size) */
-  --green: #218838; /* header CTA */
-  --green-dark: #1B6F2E;
+  --green: #28A745; /* header CTA */
+  --green-dark: #218838;
   --line: #E6E1DA;
   --topbar: #E3E4E8; /* light grey top bar, as on the live site */
   --dark-line: #4A4A4A;
@@ -235,7 +235,13 @@ iframe { max-width: 100%; border: 0; }
 .story { text-decoration: none; display: block; }
 .story img { width: 100%; height: 300px; object-fit: cover; border-radius: var(--radius); }
 .story h3 { font-size: 21px; margin: 14px 0 4px; }
-.story span { font-size: 15px; font-weight: 700; color: var(--red); }
+.story { transition: transform .25s ease; }
+.story img { transition: filter .25s ease; }
+@media (hover: hover) {
+  .story:hover, .story:focus-visible { transform: scale(.96); }
+  .story:hover img, .story:focus-visible img { filter: brightness(.82); }
+}
+@media (prefers-reduced-motion: reduce) { .story { transition: none; } }
 .badges { display: grid; grid-template-columns: repeat(8, 1fr); gap: 14px; align-items: center; }
 .badges img { width: 100%; height: 96px; object-fit: contain; }
 .reviews-block { margin-top: 40px; }
@@ -269,6 +275,17 @@ h2.big { font-size: clamp(32px, 3.6vw, 46px); }
 .space { display: grid; grid-template-columns: 1fr 1.15fr; gap: 56px; align-items: start; }
 .space.flip { grid-template-columns: 1.15fr 1fr; }
 .space.flip .txt { order: 2; }
+/* Image carousel (home page Kitchens band): swipe or scroll, dots below, auto-advances (site.js) */
+.carousel { min-width: 0; }
+.carousel-track { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; scrollbar-width: none; border-radius: var(--radius); }
+.carousel-track::-webkit-scrollbar { display: none; }
+.carousel-slide { flex: 0 0 100%; scroll-snap-align: start; }
+.carousel-slide img { width: 100%; aspect-ratio: 620 / 510; object-fit: cover; }
+.carousel-dots { display: flex; justify-content: center; gap: 4px; margin-top: 8px; }
+.carousel-dots button { width: 22px; height: 22px; padding: 0; border: 0; background: none; cursor: pointer; display: grid; place-items: center; }
+.carousel-dots button::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: #C9C9C9; }
+.carousel-dots button[aria-current="true"]::before { background: var(--ink); }
+@media (prefers-reduced-motion: reduce) { .carousel-track { scroll-behavior: auto; } }
 .mosaic { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 250px 250px; gap: 12px; }
 .sec-slant { background: #ECECEF; clip-path: polygon(0 0, 100% 64px, 100% 100%, 0 calc(100% - 64px)); padding: 140px 0; }
 .mosaic img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius); }

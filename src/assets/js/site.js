@@ -84,4 +84,42 @@
       new IntersectionObserver(function (es, o) { if (es[0].isIntersecting) { o.disconnect(); start(); } }, { rootMargin: '300px' }).observe(mapEl);
     } else { start(); }
   }
+
+  // Image carousels: dots, swipe (CSS scroll snap), auto-advance every 5s; pauses on hover/focus and for reduced motion.
+  document.querySelectorAll('.carousel').forEach(function (c) {
+    var track = c.querySelector('.carousel-track');
+    var slides = c.querySelectorAll('.carousel-slide');
+    var dotsBox = c.querySelector('.carousel-dots');
+    if (!track || slides.length < 2) return;
+    var dots = [];
+    slides.forEach(function (s, i) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.setAttribute('aria-label', 'Show photo ' + (i + 1));
+      b.addEventListener('click', function () { go(i); restart(); });
+      dotsBox.appendChild(b);
+      dots.push(b);
+    });
+    function current() { return Math.round(track.scrollLeft / track.clientWidth); }
+    function mark() { var n = current(); dots.forEach(function (d, i) { d.setAttribute('aria-current', i === n ? 'true' : 'false'); }); }
+    function go(i) { track.scrollTo({ left: i * track.clientWidth }); }
+    track.addEventListener('scroll', function () { window.requestAnimationFrame(mark); }, { passive: true });
+    mark();
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var timer = null, paused = false;
+    function restart() {
+      if (reduce) return;
+      clearInterval(timer);
+      timer = setInterval(function () { if (!paused && !document.hidden) go((current() + 1) % slides.length); }, 5000);
+    }
+    c.addEventListener('mouseenter', function () { paused = true; });
+    c.addEventListener('mouseleave', function () { paused = false; });
+    c.addEventListener('focusin', function () { paused = true; });
+    c.addEventListener('focusout', function () { paused = false; });
+    track.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight') { e.preventDefault(); go(Math.min(current() + 1, slides.length - 1)); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); go(Math.max(current() - 1, 0)); }
+    });
+    restart();
+  });
 })();
