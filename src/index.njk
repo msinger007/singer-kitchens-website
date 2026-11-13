@@ -187,10 +187,15 @@
         <p>With a selection of stylish vanities, durable countertops and smart storage solutions, our team works with you to create a bathroom that fits your routine just as beautifully as it fits your home. And just like with our kitchens, you’ll have experienced guidance every step of the way so the final result feels well-planned, comfortable and built to last.</p>
         <p class="btn-row"><a class="btn" href="/bathrooms/">Explore Bathrooms</a></p>
       </div>
-      <div class="mosaic">
-        {{ "2018/05/bath4.jpg" | img("Recessed bathroom shelving for rolled towels beside a soaking tub") | safe }}
-        {{ "2018/05/bath3.jpg" | img("Bathroom vanity with vessel sinks and tall glass-front storage") | safe }}
-        {{ "2018/05/bath2.jpg" | img("Teal floating vanity with matching open shelves") | safe }}
+      <div class="carousel carousel-tall" role="region" aria-roledescription="carousel" aria-label="Bathroom photos">
+        <div class="carousel-track" tabindex="0">
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="1 of 5">{{ "2018/05/bath4.jpg" | img("Recessed bathroom shelving for rolled towels beside a soaking tub") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="2 of 5">{{ "2018/05/bath3.jpg" | img("Bathroom vanity with vessel sinks and tall glass-front storage") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="3 of 5">{{ "2018/05/bath2.jpg" | img("Teal floating vanity with matching open shelves") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="4 of 5">{{ "2018/05/Bath1.jpg" | img("Cream vanity with a vessel sink and open towel shelf") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="5 of 5">{{ "2018/05/bath5.jpg" | img("Dark floating vanity with vessel sinks and a patterned accent wall") | safe }}</div>
+        </div>
+        <div class="carousel-dots"></div>
       </div>
     </div>
   </div>
@@ -208,10 +213,14 @@
         <p>Because when everything has its place, your whole day just flows better.</p>
         <p class="btn-row"><a class="btn" href="/closets/">Explore Closets</a></p>
       </div>
-      <div class="mosaic">
-        {{ "2018/06/Closet_Slider3.jpg" | img("Reach-in closet with hanging space and shoe shelves") | safe }}
-        {{ "2018/06/Closet_Slider4.jpg" | img("White bedroom storage wall with drawers and open shelves") | safe }}
-        {{ "2018/06/Closet_Slider5.jpg" | img("Dark wood closet system with shoe cubbies and drawers") | safe }}
+      <div class="carousel" role="region" aria-roledescription="carousel" aria-label="Closet photos">
+        <div class="carousel-track" tabindex="0">
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">{{ "2018/06/Closet_Slider3.jpg" | img("Reach-in closet with hanging space and shoe shelves") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">{{ "2018/06/Closet_Slider4.jpg" | img("White bedroom storage wall with drawers and open shelves") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">{{ "2018/06/Closet_Slider5.jpg" | img("Dark wood closet system with shoe cubbies and drawers") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">{{ "2018/06/Closet_Slider6.jpg" | img("Walk-in closet with white shelving, hanging space and a bench") | safe }}</div>
+        </div>
+        <div class="carousel-dots"></div>
       </div>
     </div>
   </div>
@@ -241,7 +250,6 @@
 <section class="sec sec-alt showrooms-band">
   <div class="wrap">
     <h2>Find Inspiration In Our Showrooms</h2>
-    <p class="lede">You don't need to have everything figured out before you visit.</p>
     {% include "partials/showroom-cards.njk" %}
   </div>
 </section>
