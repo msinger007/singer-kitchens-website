@@ -235,7 +235,13 @@ iframe { max-width: 100%; border: 0; }
 .story { text-decoration: none; display: block; }
 .story img { width: 100%; height: 300px; object-fit: cover; border-radius: var(--radius); }
 .story h3 { font-size: 21px; margin: 14px 0 4px; }
-.story span { font-size: 15px; font-weight: 700; color: var(--red); }
+.story { transition: transform .25s ease; }
+.story img { transition: filter .25s ease; }
+@media (hover: hover) {
+  .story:hover, .story:focus-visible { transform: scale(.96); }
+  .story:hover img, .story:focus-visible img { filter: brightness(.82); }
+}
+@media (prefers-reduced-motion: reduce) { .story { transition: none; } }
 .badges { display: grid; grid-template-columns: repeat(8, 1fr); gap: 14px; align-items: center; }
 .badges img { width: 100%; height: 96px; object-fit: contain; }
 .reviews-block { margin-top: 40px; }
