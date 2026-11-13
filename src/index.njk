@@ -164,10 +164,15 @@
         <p>From your first design conversation to financing, delivery and professional installation, you’ll work with one dedicated point of contact who understands your goals and keeps everything moving smoothly. The result is a kitchen that feels thoughtfully planned, beautifully executed and truly yours.</p>
         <p class="btn-row"><a class="btn" href="/kitchens/">Explore Kitchens</a></p>
       </div>
-      <div class="mosaic">
-        {{ "2018/03/marquee2.jpg" | img("Kitchen with light wood-look cabinets, glass tile backsplash and pendant lights") | safe }}
-        {{ "2018/03/marquee4.jpg" | img("Kitchen with an island, stainless appliances and a dark wood floor") | safe }}
-        {{ "2018/03/marquee8-1.jpg" | img("Painted cabinets with a dark countertop and stainless range hood") | safe }}
+      <div class="carousel" role="region" aria-roledescription="carousel" aria-label="Kitchen photos">
+        <div class="carousel-track" tabindex="0">
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="1 of 5">{{ "2018/03/marquee2.jpg" | img("Kitchen with light wood-look cabinets, glass tile backsplash and pendant lights") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="2 of 5">{{ "2018/03/marquee4.jpg" | img("Kitchen with an island, stainless appliances and a dark wood floor") | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="3 of 5">{{ "2018/03/marquee8.jpg" | img | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="4 of 5">{{ "2018/03/marquee2a.jpg" | img | safe }}</div>
+          <div class="carousel-slide" role="group" aria-roledescription="slide" aria-label="5 of 5">{{ "2018/06/marquee10a.jpg" | img("Kitchen with white shaker cabinets") | safe }}</div>
+        </div>
+        <div class="carousel-dots"></div>
       </div>
     </div>
   </div>
