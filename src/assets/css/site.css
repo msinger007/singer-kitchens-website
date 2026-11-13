@@ -299,7 +299,6 @@ h2.big { font-size: clamp(32px, 3.6vw, 46px); }
 .heritage img.portrait { width: 225px; height: 300px; object-fit: cover; object-position: center 20%; border-radius: 113px; margin-bottom: 12px; }
 .heritage .caption { text-align: center; font-size: 15px; letter-spacing: .02em; margin: 0 0 8px; }
 .heritage p:not(.caption) { font-size: 18px; }
-.showrooms-band .lede { font-size: 20px; }
 .shops { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 40px; }
 .shop { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; }
 .shop > a img { width: 100%; height: 340px; object-fit: cover; }
