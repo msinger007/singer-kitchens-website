@@ -85,7 +85,8 @@
     } else { start(); }
   }
 
-  // Image carousels: dots, swipe (CSS scroll snap), auto-advance every 4s; pauses on hover/focus and for reduced motion.
+  // Image carousels: dots, swipe (CSS scroll snap), auto-advance every 4s; pauses on hover/focus.
+  // With reduced motion set on the device, photos still change but switch instantly instead of sliding (site.css).
   document.querySelectorAll('.carousel').forEach(function (c) {
     var track = c.querySelector('.carousel-track');
     var slides = c.querySelectorAll('.carousel-slide');
@@ -105,10 +106,8 @@
     function go(i) { track.scrollTo({ left: i * track.clientWidth }); }
     track.addEventListener('scroll', function () { window.requestAnimationFrame(mark); }, { passive: true });
     mark();
-    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     var timer = null, paused = false;
     function restart() {
-      if (reduce) return;
       clearInterval(timer);
       timer = setInterval(function () { if (!paused && !document.hidden) go((current() + 1) % slides.length); }, 4000);
     }
