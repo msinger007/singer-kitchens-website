@@ -7,6 +7,8 @@
   --red: #DE2C3C;
   --red-dark: #B5212F;
   --red-on-dark: #F2545C; /* step numbers on charcoal (meets contrast at large size) */
+  --green: #28A745; /* header CTA */
+  --green-dark: #218838;
   --line: #E6E1DA;
   --topbar: #E3E4E8; /* light grey top bar, as on the live site */
   --dark-line: #4A4A4A;
@@ -46,7 +48,9 @@ iframe { max-width: 100%; border: 0; }
 .btn:hover { background: var(--red-dark); border-color: var(--red-dark); color: var(--white); }
 .btn-red { background: var(--red); border-color: var(--red); color: var(--white); }
 .btn-red:hover { background: var(--red-dark); border-color: var(--red-dark); color: var(--white); }
+.btn-green { background: var(--green); border-color: var(--green); color: var(--white); }
 .header-cta { border-radius: 999px; }
+.btn-green:hover { background: var(--green-dark); border-color: var(--green-dark); color: var(--white); }
 .btn-white { background: var(--white); border-color: var(--white); color: var(--ink); }
 .btn-white:hover { background: var(--alt); color: var(--ink); }
 .btn-line { background: transparent; color: var(--ink); border-color: var(--ink); }
