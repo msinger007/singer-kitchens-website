@@ -85,7 +85,7 @@
     } else { start(); }
   }
 
-  // Image carousels: dots, swipe (CSS scroll snap), auto-advance every 5s; pauses on hover/focus and for reduced motion.
+  // Image carousels: dots, swipe (CSS scroll snap), auto-advance every 4s; pauses on hover/focus and for reduced motion.
   document.querySelectorAll('.carousel').forEach(function (c) {
     var track = c.querySelector('.carousel-track');
     var slides = c.querySelectorAll('.carousel-slide');
@@ -110,7 +110,7 @@
     function restart() {
       if (reduce) return;
       clearInterval(timer);
-      timer = setInterval(function () { if (!paused && !document.hidden) go((current() + 1) % slides.length); }, 5000);
+      timer = setInterval(function () { if (!paused && !document.hidden) go((current() + 1) % slides.length); }, 4000);
     }
     c.addEventListener('mouseenter', function () { paused = true; });
     c.addEventListener('mouseleave', function () { paused = false; });
