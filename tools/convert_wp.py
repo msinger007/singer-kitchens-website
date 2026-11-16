@@ -463,7 +463,8 @@ def clean_html(raw, page):
     c = Cleaner(page)
     c.feed(raw)
     c.close()
-    return c.result()
+    slots = page.ctx.get('gallery_slots') or []
+    return re.sub(r'(?:<p>)?GALLERYSLOT(\d+)END(?:</p>)?', lambda m: slots[int(m.group(1))], c.result())
 
 
 # ------------------------------------------------------------------------------------------
@@ -496,6 +497,26 @@ def gallery_html(images, page, cls='gallery'):
     if not figs:
         return ''
     return '<div class="%s">%s</div>' % (cls, ''.join(figs))
+
+
+GALLERY_SIZES = '(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px'
+
+
+def lightbox_gallery_html(images, page):
+    """Modula / [gallery] shortcode: thumbnails that link to the full photo (opened in the site.js lightbox)."""
+    items = []
+    for im in images:
+        if not im:
+            continue
+        t = img_tag(im, page).replace(' width="', ' sizes="%s" width="' % GALLERY_SIZES, 1)
+        items.append('<a class="gallery-item" href="%s">%s</a>' % (esc(im['src']), t))
+    if not items:
+        return ''
+    # The HTML cleaner drops local <img> tags and classes, so park the finished gallery behind a text token
+    # and put it back after cleaning (clean_html).
+    slots = page.ctx.setdefault('gallery_slots', [])
+    slots.append('<div class="gallery">%s</div>' % ''.join(items))
+    return 'GALLERYSLOT%dEND' % (len(slots) - 1)
 
 
 def modula_images(gid, page):
@@ -556,10 +577,10 @@ def render_shortcodes(text, page):
         REPORT['shortcodes'][name] = REPORT['shortcodes'].get(name, 0) + 1
         a = dict(re.findall(r'(\w+)=["”“″]?([^"”“″\s\]]+)', args))
         if name == 'modula':
-            return gallery_html(modula_images(a.get('id', 0), page), page)
+            return lightbox_gallery_html(modula_images(a.get('id', 0), page), page)
         if name == 'gallery':
             ids = [x for x in re.split(r'\s*,\s*', a.get('ids', '')) if x.strip().isdigit()]
-            return gallery_html([image(int(x), 'content', page.title) for x in ids], page)
+            return lightbox_gallery_html([image(int(x), 'content', page.title) for x in ids], page)
         if name in ('gravityform', 'contact-form-7', 'contact_form_7'):
             return replaced_form(name, page)
         if name == 'trustindex':

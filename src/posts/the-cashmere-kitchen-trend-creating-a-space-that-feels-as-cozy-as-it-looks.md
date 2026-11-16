@@ -29,7 +29,7 @@
 ---
 <div class="post-body"><p>There’s a new kind of comfort making its way into New Orleans kitchens. It’s one that wraps you in the same soft, welcoming warmth as your favorite cashmere sweater. After years of stark whites and cool grays dominating the design world, homeowners are craving spaces that feel softer, calmer and more like the heart of their home.</p>
 <p>This desire for warmth and livability has given rise to the <strong>Cashmere Kitchen Trend,</strong> a style defined by subdued neutrals, soft textures and a quiet luxury that feels effortlessly inviting.</p>
-<p><div><figure></figure><figure></figure><figure></figure></div></p>
+<div class="gallery"><a class="gallery-item" href="/images/2025/12/Cashmere-Kitchen-1.webp"><img src="/images/2025/12/Cashmere-Kitchen-1.webp" alt="Cashmere Kitchen 1" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="768" height="1152" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/12/Cashmere-Kitchen-2.webp"><img src="/images/2025/12/Cashmere-Kitchen-2.webp" alt="Cashmere Kitchen 2" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1000" height="1000" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/12/Cashmere-Additional-Pic.webp"><img src="/images/2025/12/Cashmere-Additional-Pic.webp" alt="Cashmere Additional Pic" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1200" height="1424" loading="lazy" decoding="async"></a></div>
 <p> <br>
 <h3><strong>Why Homeowners Are Falling in Love With This Look</strong></h3><br>
 Life happens in the kitchen. Morning coffee. Lunchbox packing. Family gatherings. Impromptu neighbor drop-ins. People want a space that supports those moments with the same comfort they feel in their living rooms and bedrooms.</p>
@@ -43,7 +43,7 @@ The magic of this trend lies in thoughtful <em>layering</em>. It’s all about b
 </li><br>
 </ol><br>
 Cabinetry sets the tone of the space. Clean, modern door profiles such as a slim shaker or simple recessed panel allow the soft, layered materials to shine.</p>
-<p><div><figure></figure><figure></figure></div><br>
+<div class="gallery"><a class="gallery-item" href="/images/2025/12/Cashmere-Kitchen-3.webp"><img src="/images/2025/12/Cashmere-Kitchen-3.webp" alt="Cashmere Kitchen 3" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1200" height="1200" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/12/Cashmere-Kitchen-4.webp"><img src="/images/2025/12/Cashmere-Kitchen-4.webp" alt="Cashmere Kitchen 4" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1000" height="1300" loading="lazy" decoding="async"></a></div><br>
 <ol start="2"><br>
 <li><br>
 <h4><strong> Choose Warm, Light Wood Stains or Creamy Painted Finishes</strong></h4><br>
@@ -64,7 +64,7 @@ These tones echo neutral colored elements such as sand, driftwood and linen whil
 </ol><br>
 Because the rest of the palette is intentionally soft, the countertop often becomes the star. Natural quartz or quartzite with delicate veining and movement adds subtle drama without disrupting the serenity.</p>
 <p>One of the most beloved choices for this look is <strong>Taj Mahal Quartzite </strong>a creamy stone with warm, whispering veins that feel organic and luxurious.</p>
-<p><div><figure></figure><figure></figure><figure></figure></div></p>
+<div class="gallery"><a class="gallery-item" href="/images/2025/12/Cashmere-Kitchen-5.webp"><img src="/images/2025/12/Cashmere-Kitchen-5.webp" alt="Cashmere Kitchen 5" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1000" height="626" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/12/Cashmere-Kitchen-6.webp"><img src="/images/2025/12/Cashmere-Kitchen-6.webp" alt="Cashmere Kitchen 6" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="805" height="805" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/12/Cashmere-Kitchen-7.webp"><img src="/images/2025/12/Cashmere-Kitchen-7.webp" alt="Cashmere Kitchen 7" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1024" height="576" loading="lazy" decoding="async"></a></div>
 <p>Its gentle texture anchors the space and completes that effortless, wrapped-in-warmth feeling.<br>
 <ol start="4"><br>
 <li><br>
