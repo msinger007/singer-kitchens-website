@@ -567,6 +567,18 @@ video { max-width: 100%; height: auto; }
 .sa-card h3 { font-size: 22px; margin: 0 0 10px; }
 .sa-card p { font-size: 15px; margin: 0 0 16px; }
 .sa-more { margin-top: auto; font-weight: 700; color: var(--red); }
+.sa-cards-3 { grid-template-columns: repeat(3, minmax(0, 360px)); }
+.sa-cities { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+@media (max-width: 1100px) and (min-width: 901px) { .sa-cities, .sa-cards-3 { grid-template-columns: repeat(2, 1fr); } }
+.sa-city { background: var(--white); border-radius: 8px; padding: 26px 26px 22px; border-top: 4px solid var(--red); box-shadow: 0 10px 30px rgba(0,0,0,.08); display: flex; flex-direction: column; }
+.sa-city h3 { font-size: 22px; margin: 0 0 8px; }
+.sa-city h3 a { color: var(--ink); text-decoration: none; }
+.sa-city h3 a:hover { color: var(--red-dark); text-decoration: underline; }
+.sa-city p { font-size: 15px; margin: 0 0 14px; }
+.sa-city-links { margin-top: auto !important; display: flex; flex-wrap: wrap; gap: 6px 18px; }
+.sa-city-links a { font-weight: 700; color: var(--red-dark); }
+.sa-also { text-align: center; max-width: 760px; margin: 32px auto 0; }
+.sa-form .stars { text-align: center; }
 .sa-row + .sa-row { margin-top: 90px; }
 .sa-row h2 { font-size: 26px; }
 .sa-flip .sa-media { order: -1; }
@@ -595,6 +607,8 @@ video { max-width: 100%; height: auto; }
   .sa-flip .sa-media { order: 0; }
   .sa-row + .sa-row { margin-top: 56px; }
   .sa-cards { grid-template-columns: 1fr; }
+  .sa-cards-3 { grid-template-columns: 1fr; }
+  .sa-cities { grid-template-columns: 1fr; }
   .sa-dark .wrap { padding-top: 60px; padding-bottom: 60px; }
   .sa-dark::before { background: rgba(20,20,20,.76); }
   .sa-reviews::before { background: rgba(20,20,20,.85); }
