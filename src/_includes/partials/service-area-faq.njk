@@ -1,0 +1,118 @@
+{#- FAQ band for the service-area pages. Needs `serviceArea` ("Covington, LA") in the page front matter.
+    City pages get the general set; the Kitchen Design and Kitchen Remodeling sub-pages (front matter
+    `subService`) get their own questions. Answers use only facts already on the site (process.json,
+    showrooms.json, financing page). The FAQPage structured data below is built from the same list,
+    so the visible answers and the schema always match. -#}
+{%- set city = serviceArea | replace(", LA", "") %}
+{%- set cityUrl = "/service-area/" ~ (city | lower) ~ "/" %}
+{%- set sr = showrooms | selectattr("id", "equalto", "mandeville") | first %}
+{%- set showroomQ = {
+  q: "Where is the nearest Singer Kitchens showroom to " ~ city ~ "?",
+  a: "Our " ~ sr.name ~ " is at " ~ sr.street ~ " in Old Mandeville, LA " ~ sr.zip ~ ". It's open Monday to Friday 10am to 5pm and Saturday 10am to 2pm by appointment. Call the showroom at <a href=\"" ~ sr.phoneTel ~ "\">" ~ sr.phone ~ "</a> or <a href=\"" ~ sr.directions ~ "\" target=\"_blank\" rel=\"noopener\">get directions</a>. At the showroom you can see and touch real cabinets, materials, finishes and layouts.",
+  text: "Our " ~ sr.name ~ " is at " ~ sr.street ~ " in Old Mandeville, LA " ~ sr.zip ~ ". It's open Monday to Friday 10am to 5pm and Saturday 10am to 2pm by appointment. Call the showroom at " ~ sr.phone ~ ". At the showroom you can see and touch real cabinets, materials, finishes and layouts."
+} %}
+{%- set sinceQ = {
+  q: "How long has Singer Kitchens been in business?",
+  a: "Since 1928. Singer Kitchens is a local, family-owned business serving " ~ city ~ ", the Northshore, New Orleans and surrounding areas.",
+  text: "Since 1928. Singer Kitchens is a local, family-owned business serving " ~ city ~ ", the Northshore, New Orleans and surrounding areas."
+} %}
+{%- set stepsText = "Our process has four steps: " ~ process.steps[0].title ~ " (a phone call), " ~ process.steps[1].title ~ ", " ~ process.steps[2].title ~ ", and " ~ process.steps[3].title ~ "." %}
+
+{%- if subService == "Kitchen Design" %}
+{%- set faqTitle = "Kitchen Design FAQs for " ~ serviceArea ~ " Homeowners" %}
+{%- set faqs = [
+  {
+    q: "Do you offer free kitchen design consultations in " ~ serviceArea ~ "?",
+    a: "Yes. Call us at " ~ site.phone ~ " or <a href=\"" ~ site.consultUrl ~ "\">request a free consultation online</a>. Every kitchen starts with a conversation about what you're thinking about changing, what matters most and the timeline you have in mind.",
+    text: "Yes. Call us at " ~ site.phone ~ " or request a free consultation online. Every kitchen starts with a conversation about what you're thinking about changing, what matters most and the timeline you have in mind."
+  },
+  {
+    q: "What does the kitchen design process look like?",
+    a: stepsText ~ " In the last step you meet with your designer to review the proposed design, custom pricing options, available financing, installation considerations and next steps. <a href=\"/our-process/\">See the full process</a>.",
+    text: stepsText ~ " In the last step you meet with your designer to review the proposed design, custom pricing options, available financing, installation considerations and next steps."
+  },
+  {
+    q: "Do I need to have my kitchen design figured out before I visit?",
+    a: "No. You don't need to have everything figured out before you visit. Talk with a designer about your ideas, explore the possibilities and see real cabinets, materials, finishes and layouts in person.",
+    text: "No. You don't need to have everything figured out before you visit. Talk with a designer about your ideas, explore the possibilities and see real cabinets, materials, finishes and layouts in person."
+  },
+  showroomQ,
+  {
+    q: "Can Singer Kitchens also handle the remodel?",
+    a: "Yes. We design and remodel kitchens, from cabinets and countertops to the finished room. See <a href=\"" ~ cityUrl ~ "kitchen-remodeling/\">kitchen remodeling in " ~ city ~ "</a>, or all our <a href=\"" ~ cityUrl ~ "\">services in " ~ city ~ "</a>.",
+    text: "Yes. We design and remodel kitchens, from cabinets and countertops to the finished room."
+  },
+  sinceQ
+] %}
+{%- elif subService == "Kitchen Remodeling" %}
+{%- set faqTitle = "Kitchen Remodeling FAQs for " ~ serviceArea ~ " Homeowners" %}
+{%- set faqs = [
+  {
+    q: "How do I start a kitchen remodel in " ~ serviceArea ~ "?",
+    a: "Call us at " ~ site.phone ~ " or <a href=\"" ~ site.consultUrl ~ "\">request a free consultation online</a>. Tell us what you're thinking about changing, what matters most and the timeline you have in mind. " ~ stepsText ~ " <a href=\"/our-process/\">See the full process</a>.",
+    text: "Call us at " ~ site.phone ~ " or request a free consultation online. Tell us what you're thinking about changing, what matters most and the timeline you have in mind. " ~ stepsText
+  },
+  {
+    q: "Do you offer financing for kitchen remodeling?",
+    a: "Yes. Flexible payment plans are available, and we can begin discussing financing options during your first call. See <a href=\"/financing/\">financing</a> for details.",
+    text: "Yes. Flexible payment plans are available, and we can begin discussing financing options during your first call."
+  },
+  {
+    q: "Why do you measure my kitchen in person?",
+    a: "Accurate measurements help us understand your space and develop realistic design options and a custom quote. During the visit we'll also discuss the practical details that could affect your project timeline.",
+    text: "Accurate measurements help us understand your space and develop realistic design options and a custom quote. During the visit we'll also discuss the practical details that could affect your project timeline."
+  },
+  {
+    q: "What if I need my kitchen done quickly?",
+    a: "Let us know on your first call. You may have more options than you think, and we can answer questions about cabinet availability right away.",
+    text: "Let us know on your first call. You may have more options than you think, and we can answer questions about cabinet availability right away."
+  },
+  showroomQ,
+  sinceQ
+] %}
+{%- else %}
+{%- set faqTitle = "Frequently Asked Questions About Remodeling in " ~ serviceArea %}
+{%- set faqs = [
+  {
+    q: "Do you offer free consultations for kitchen and bathroom remodeling in " ~ serviceArea ~ "?",
+    a: "Yes. Call us at " ~ site.phone ~ " or <a href=\"" ~ site.consultUrl ~ "\">request a free consultation online</a>. Tell us what you're thinking about changing, what matters most and the timeline you have in mind. We can also start discussing financing options on that first call.",
+    text: "Yes. Call us at " ~ site.phone ~ " or request a free consultation online. Tell us what you're thinking about changing, what matters most and the timeline you have in mind. We can also start discussing financing options on that first call."
+  },
+  showroomQ,
+  {
+    q: "What remodeling services do you provide in " ~ city ~ "?",
+    a: "Kitchen design and kitchen remodeling are our specialty, along with <a href=\"/kitchen-cabinets/\">kitchen cabinets</a>, <a href=\"/countertops/\">countertops</a>, <a href=\"/bathrooms/\">bathroom design</a> and <a href=\"/closets/\">closet renovations</a>. Learn more about <a href=\"" ~ cityUrl ~ "kitchen-design/\">kitchen design in " ~ city ~ "</a> and <a href=\"" ~ cityUrl ~ "kitchen-remodeling/\">kitchen remodeling in " ~ city ~ "</a>.",
+    text: "Kitchen design and kitchen remodeling are our specialty, along with kitchen cabinets, countertops, bathroom design and closet renovations."
+  },
+  {
+    q: "Do you offer financing for kitchen and bathroom remodeling?",
+    a: "Yes. Flexible payment plans are available, and we can begin discussing financing options during your first call. See <a href=\"/financing/\">financing</a> for details.",
+    text: "Yes. Flexible payment plans are available, and we can begin discussing financing options during your first call."
+  },
+  {
+    q: "What happens after I contact Singer Kitchens?",
+    a: stepsText ~ " You don't need to have everything figured out before you start. <a href=\"/our-process/\">See the full process</a>.",
+    text: stepsText ~ " You don't need to have everything figured out before you start."
+  },
+  sinceQ
+] %}
+{%- endif %}
+<section class="sa-sec sa-alt sa-faq" aria-labelledby="sa-faq-h">
+  <div class="wrap">
+    <h2 class="sa-title" id="sa-faq-h">{{ faqTitle }}</h2>
+    <div class="sa-faq-list">
+    {%- for f in faqs %}
+      <details{% if loop.first %} open{% endif %}><summary>{{ f.q }}</summary><p>{{ f.a | safe }}</p></details>
+    {%- endfor %}
+    </div>
+  </div>
+</section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{% for f in faqs %}
+    { "@type": "Question", "name": {{ f.q | json | safe }}, "acceptedAnswer": { "@type": "Answer", "text": {{ f.text | json | safe }} } }{% if not loop.last %},{% endif %}{% endfor %}
+  ]
+}
+</script>

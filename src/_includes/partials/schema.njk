@@ -48,6 +48,39 @@
       {%- if image %}"image": "{{ image.src | absUrl(site.url) }}",{% endif %}
       "author": { "@type": "Organization", "name": "Singer Kitchens" },
       "publisher": { "@id": "{{ orgId }}" }
+    }{% endif %}{% if cityPage or subService %},
+    {%- set saCity = serviceArea | replace(", LA", "") %}
+    {%- set saUrl = page.url | absUrl(site.url) %}
+    {%- set cityUrl = ("/service-area/" ~ (saCity | lower) ~ "/") | absUrl(site.url) %}
+    {
+      "@type": "Service",
+      "@id": "{{ saUrl }}#service",
+      "name": {{ ((subService or "Kitchen & Bathroom Remodeling") ~ " in " ~ serviceArea) | json | safe }},
+      "serviceType": {{ (subService or "Kitchen and bathroom remodeling") | json | safe }},
+      "url": "{{ saUrl }}",
+      "provider": { "@id": "{{ orgId }}" },
+      "areaServed": { "@type": "City", "name": "{{ saCity }}", "containedInPlace": { "@type": "State", "name": "Louisiana" } }
+      {%- if cityPage %},
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": {{ ("Remodeling services in " ~ serviceArea) | json | safe }},
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": {{ ("Kitchen Design in " ~ serviceArea) | json | safe }}, "url": "{{ saUrl }}kitchen-design/" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": {{ ("Kitchen Remodeling in " ~ serviceArea) | json | safe }}, "url": "{{ saUrl }}kitchen-remodeling/" } }
+        ]
+      }
+      {%- endif %}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+        { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "{{ site.url }}/service-area/" },
+        { "@type": "ListItem", "position": 3, "name": "{{ saCity }}", "item": "{{ cityUrl }}" }
+        {%- if subService %},
+        { "@type": "ListItem", "position": 4, "name": "{{ subService }}", "item": "{{ saUrl }}" }
+        {%- endif %}
+      ]
     }{% endif %}
   ]
 }

@@ -2,10 +2,10 @@
   <div class="wrap areas-in">
     {{ "2024/11/Service-Area-Image.webp" | img("Map of Louisiana with a pin on the New Orleans area") | safe }}
     <div>
-      <h2 id="areas-h">{{ serviceAreas.heading }}</h2>
+      <h2 id="areas-h">{% if serviceArea %}Proudly Serving {{ serviceArea }} And Nearby Communities{% else %}{{ serviceAreas.heading }}{% endif %}</h2>
       <ul>
       {%- for a in serviceAreas.areas %}
-        <li>{% if a.url %}<a href="{{ a.url }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}</li>
+        <li>{% if a.url and a.url == page.url %}<strong aria-current="page">{{ a.name }}</strong>{% elif a.url %}<a href="{{ a.url }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}</li>
       {%- endfor %}
       </ul>
     </div>
