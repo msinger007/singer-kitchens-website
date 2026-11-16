@@ -81,6 +81,20 @@
         { "@type": "ListItem", "position": 4, "name": "{{ subService }}", "item": "{{ saUrl }}" }
         {%- endif %}
       ]
+    }{% endif %}{% if serviceHub %},
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+        { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "{{ site.url }}/service-area/" }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "Singer Kitchens service areas",
+      "itemListElement": [{% for a in serviceAreas.areas | selectattr("url") %}
+        { "@type": "ListItem", "position": {{ loop.index }}, "name": {{ (a.name ~ ", LA") | json | safe }}, "url": "{{ a.url | absUrl(site.url) }}" }{% if not loop.last %},{% endif %}{% endfor %}
+      ]
     }{% endif %}
   ]
 }
