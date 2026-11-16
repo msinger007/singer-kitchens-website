@@ -16,6 +16,7 @@ buttons), with a few clean-ups: no sliders, a sticky header, the four-step proce
 | The Four-Step Singer Kitchens Process (approved copy) | `src/_data/process.json` |
 | Google reviews block (Featurable widget; reviews update automatically from Google) | `src/_includes/partials/google-reviews.njk` |
 | Service-area list above the footer | `src/_data/serviceAreas.json` |
+| FAQ on the city service pages (Mandeville, Covington, etc.; answers built from site data) | `src/_includes/partials/service-area-faq.njk` |
 | Image alt text written by hand | `src/_data/alt-overrides.json` |
 | Home page | `src/index.njk` |
 | Showrooms page | `src/showrooms.njk` |
