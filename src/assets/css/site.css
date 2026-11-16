@@ -548,7 +548,9 @@ video { max-width: 100%; height: auto; }
 .sa-callout { font-weight: 700; color: var(--red-dark); }
 .sa-callout a { color: inherit; }
 .sa-dark .wrap { padding-top: 90px; padding-bottom: 90px; }
-.sa-dark::before { background: linear-gradient(270deg, rgba(20,20,20,.94) 0%, rgba(20,20,20,.85) 50%, rgba(20,20,20,.45) 100%); }
+.sa-dark::before { background: linear-gradient(270deg, rgba(20,20,20,.92) 0%, rgba(20,20,20,.85) 42%, rgba(20,20,20,.25) 62%, rgba(20,20,20,0) 100%); }
+/* Experience band: the photo has darkness baked in, so brighten it to show the people */
+.sa-dark:not(.sa-reviews) .sa-bg { filter: brightness(1.6) contrast(1.05); object-position: left center; }
 .sa-dark-text { max-width: 600px; margin-left: auto; }
 .sa-dark h2, .sa-dark h3 { color: var(--white); }
 .sa-features { list-style: none; padding: 0; margin: 28px 0 0; display: grid; gap: 18px; }
@@ -594,7 +596,8 @@ video { max-width: 100%; height: auto; }
   .sa-row + .sa-row { margin-top: 56px; }
   .sa-cards { grid-template-columns: 1fr; }
   .sa-dark .wrap { padding-top: 60px; padding-bottom: 60px; }
-  .sa-dark::before { background: rgba(20,20,20,.85); }
+  .sa-dark::before { background: rgba(20,20,20,.76); }
+  .sa-reviews::before { background: rgba(20,20,20,.85); }
   .sa-form { padding: 24px 16px; }
 }
 @media (max-width: 560px) {
