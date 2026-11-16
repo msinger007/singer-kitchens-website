@@ -35,7 +35,7 @@
 <p>Now the decorations are put away. Life is back to normal. And for a lot of homeowners, this is the moment when a quiet thought finally surfaces:</p>
 <p><strong>Is it time to deal with the kitchen?</strong></p>
 <p><strong>Kitchen BEFORE</strong></p>
-<p><div><figure></figure><figure></figure></div><br>
+<div class="gallery"><a class="gallery-item" href="/images/2026/01/survived-the-holidays-1.webp"><img src="/images/2026/01/survived-the-holidays-1.webp" alt="Survived the holidays" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="300" height="225" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2026/01/survived-the-holidays.webp"><img src="/images/2026/01/survived-the-holidays.webp" alt="Survived-the-holidays" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="300" height="225" loading="lazy" decoding="async"></a></div><br>
 <br>
 <h2>The Holidays Don’t Create Kitchen Problems, They Reveal Them</h2><br>
 Most kitchens don’t suddenly “fail” in December.</p>
@@ -80,7 +80,7 @@ January is a good time to:<br>
 </ul><br>
 A conversation with an experienced designer helps turn vague frustration into clear direction.</p>
 <p><strong>Kitchen AFTER</strong></p>
-<p><div><figure></figure><figure></figure></div><br>
+<div class="gallery"><a class="gallery-item" href="/images/2025/09/05mls.webp"><img src="/images/2025/09/05mls.webp" alt="White kitchen with a pull-out drawer beside the dishwasher" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1200" height="800" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/09/04mls.webp"><img src="/images/2025/09/04mls.webp" alt="Glass-front display cabinets in a sunny room" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1200" height="800" loading="lazy" decoding="async"></a></div><br>
 <br>
 <h2>Let’s Talk About YOUR Kitchen</h2><br>
 If the holidays made you realize how frustrating your kitchen layout or storage can be, we’re here to help.</p>

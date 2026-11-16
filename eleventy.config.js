@@ -58,8 +58,10 @@ export default function (eleventyConfig) {
     if (onNetlify) {
       content = content.replace(/<img src="(\/images\/[^"]+\.webp)"([^>]*?) width="(\d+)"/g, (m, src, mid, w) => {
         if (+w <= 900 || /srcset=/.test(mid)) return m;
-        const small = `/.netlify/images?url=${encodeURIComponent(src)}&amp;w=800`;
-        return `<img src="${src}" srcset="${small} 800w, ${src} ${w}w" sizes="(max-width: 800px) 100vw, 1200px"${mid} width="${w}"`;
+        const resized = (px) => `/.netlify/images?url=${encodeURIComponent(src)}&amp;w=${px}`;
+        // Images that carry their own "sizes" (gallery thumbnails) also get a 400px version.
+        if (/\ssizes="/.test(mid)) return `<img src="${src}" srcset="${resized(400)} 400w, ${resized(800)} 800w, ${src} ${w}w"${mid} width="${w}"`;
+        return `<img src="${src}" srcset="${resized(800)} 800w, ${src} ${w}w" sizes="(max-width: 800px) 100vw, 1200px"${mid} width="${w}"`;
       });
     }
     return content;

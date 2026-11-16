@@ -67,7 +67,7 @@ It transforms because of one decision that makes the whole space feel right.</p>
 <p><em>“I was surprised how easily and quickly the space was transformed,”</em> Kathleen shared.</p>
 <p>Because sometimes, luxury isn’t about doing more.<br>
 It’s about choosing one thing that feels exactly right and letting everything else follow.</p>
-<p><div><figure></figure><figure></figure><figure></figure></div><br>
+<div class="gallery"><a class="gallery-item" href="/images/2025/09/09mls.webp"><img src="/images/2025/09/09mls.webp" alt="Arts &amp; Crafts kitchen project photo" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="667" height="1000" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/09/04mls.webp"><img src="/images/2025/09/04mls.webp" alt="Glass-front display cabinets in a sunny room" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1200" height="800" loading="lazy" decoding="async"></a><a class="gallery-item" href="/images/2025/09/01mls.webp"><img src="/images/2025/09/01mls.webp" alt="Arts and Crafts Charm Restored: Kathleen’s Kitchen Story" sizes="(max-width: 600px) 50vw, (max-width: 1100px) 33vw, 400px" width="1200" height="800" loading="lazy" decoding="async"></a></div><br>
 <h2><strong>Designed to Elevate Everyday Life</strong></h2><br>
 A kitchen should do more than function.</p>
 <p>It should <em>elevate</em>.</p>

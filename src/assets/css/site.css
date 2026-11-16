@@ -118,6 +118,30 @@ iframe { max-width: 100%; border: 0; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin: 0 0 24px; }
 .gallery figure { margin: 0; }
 .gallery img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); margin: 0; }
+.gallery-item { display: block; border-radius: var(--radius); overflow: hidden; cursor: zoom-in; }
+.gallery-item img { transition: transform .3s ease, opacity .3s ease; }
+.gallery-item:focus-visible { outline: 3px solid var(--red); outline-offset: 3px; }
+@media (hover: hover) { .gallery-item:hover img { transform: scale(1.04); opacity: .92; } }
+@media (max-width: 600px) { .gallery { grid-template-columns: repeat(2, 1fr); gap: 8px; } }
+/* Lightbox (site.js): full photo over a dark backdrop, previous / next, counter, close. */
+.lb-open { overflow: hidden; }
+.lightbox { position: fixed; inset: 0; width: 100%; height: 100%; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; background: rgba(20, 20, 20, .94); color: var(--white); }
+.lightbox::backdrop { background: rgba(20, 20, 20, .94); }
+.lb-stage { margin: 0; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 56px 72px 20px; }
+.lb-img { max-width: 100%; max-height: calc(100% - 40px); width: auto; height: auto; object-fit: contain; border-radius: 2px; }
+.lb-count { font-size: 15px; letter-spacing: .04em; }
+.lb-btn { position: absolute; display: flex; align-items: center; justify-content: center; width: 48px; height: 48px; border: 0; border-radius: 50%; background: rgba(255, 255, 255, .14); color: var(--white); font: 400 34px/1 Arial, Helvetica, sans-serif; cursor: pointer; }
+.lb-btn:hover, .lb-btn:focus-visible { background: var(--red); outline: none; }
+.lb-prev { left: 16px; top: 50%; margin-top: -24px; }
+.lb-next { right: 16px; top: 50%; margin-top: -24px; }
+.lb-close { right: 16px; top: 12px; font-size: 30px; }
+.lb-single .lb-prev, .lb-single .lb-next, .lb-single .lb-count { display: none; }
+@media (max-width: 600px) {
+  .lb-stage { padding: 60px 8px 16px; }
+  .lb-prev, .lb-next { top: auto; bottom: 10px; margin-top: 0; }
+  .lb-count { margin-bottom: 52px; }
+}
+@media (prefers-reduced-motion: reduce) { .gallery-item img { transition: none; } }
 .video { position: relative; aspect-ratio: 16 / 9; margin: 0 0 24px; background: var(--ink); border-radius: var(--radius); overflow: hidden; }
 .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; }
 .yt { position: absolute; inset: 0; display: block; background: #000; cursor: pointer; }
