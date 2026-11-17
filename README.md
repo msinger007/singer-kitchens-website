@@ -113,7 +113,11 @@ files into CR+LF (about 2,600 images would not open). Re-running `convert_wp.py`
 2. Check the `*.netlify.app` preview on a phone and a laptop.
 3. Before touching DNS, confirm whether SiteGround also handles info@singerkitchens.com email or
    other DNS records.
-4. Netlify → Domain management → add www.singerkitchens.com, then update DNS.
+4. Netlify → Domain management → add www.singerkitchens.com, **set it as the primary domain**, then update DNS.
+   Until www.singerkitchens.com is primary, the Netlify copy tells search engines not to index it
+   (`noindex` on every page and file, from `src/_data/build.js`). Setting it as primary turns indexing
+   on at the next deploy; after launch, check that a page's source shows `<meta name="robots" content="index, …">`
+   and the Netlify build log shows `[noindex] indexing allowed`. Deploy previews always stay noindex.
 5. Submit a test on /request-consultation/ and /pro-partners/ and confirm Nancy's SMS arrives;
    check GTM, GA4 and the Meta Pixel in real time; spot-check old URLs redirect.
 6. Keep the WordPress site and a full backup for about two weeks while watching Search Console
