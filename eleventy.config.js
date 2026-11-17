@@ -66,6 +66,13 @@ export default function (eleventyConfig) {
     }
     return content;
   });
+  // On a non-production copy (see src/_data/build.js), also send a noindex header on every file,
+  // so images and PDFs stay out of search results too. Netlify reads _headers from the publish folder.
+  eleventyConfig.on("eleventy.after", async ({ dir, directories }) => {
+    const { default: build } = await import("./src/_data/build.js");
+    console.log("[noindex] " + (build.noindexSite ? "this copy is noindex; writing _headers" : "indexing allowed"));
+    if (build.noindexSite) fs.writeFileSync(`${(directories || dir).output}/_headers`, "/*\n  X-Robots-Tag: noindex, nofollow\n");
+  });
   eleventyConfig.addFilter("startsWith", (s, p) => String(s || "").startsWith(p));
   eleventyConfig.addFilter("year", () => String(new Date().getFullYear()));
 
