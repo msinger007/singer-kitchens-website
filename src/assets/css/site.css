@@ -652,3 +652,6 @@ video { max-width: 100%; height: auto; }
 .reviews-region h2 { text-align: center; }
 .elfsight-reviews { margin: 24px 0 0; min-height: 200px; }
 .reviews-cta { justify-content: center; margin-top: 28px; }
+
+/* About page: video sized like the live site (about 650px wide, centred) */
+.video-about { max-width: 652px; margin-left: auto; margin-right: auto; }
