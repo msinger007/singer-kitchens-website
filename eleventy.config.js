@@ -44,13 +44,14 @@ export default function (eleventyConfig) {
   const inlineCss = () => fs.readFileSync(cssPath, "utf8").replace(/\/\*[\s\S]*?\*\//g, "").replace(/\s*\n\s*/g, "\n").trim();
   eleventyConfig.addShortcode("inlineCss", inlineCss);
   // 2. YouTube embeds become a click-to-play thumbnail (no player, scripts or cookies until a visitor presses play).
+  //    Add the class "video-live" to keep YouTube's own player (its title bar and thumbnail), e.g. on /pro-partners/.
   // 3. On Netlify, large images get an 800px version for phones from Netlify's image service (local builds are unchanged).
   const onNetlify = !!process.env.NETLIFY;
   eleventyConfig.addTransform("speed", function (content) {
     if (!(this.page.outputPath || "").endsWith(".html")) return content;
     content = content.replace(
       /(<div class="video[^"]*">)<iframe src="https:\/\/www\.youtube\.com\/embed\/([\w-]{11})([^"]*)" title="([^"]*)"[^>]*><\/iframe>/g,
-      (m, open, id, params, title) =>
+      (m, open, id, params, title) => open.includes("video-live") ? m :
         `${open}<a class="yt" href="https://www.youtube.com/watch?v=${id}" data-yt="${id}" data-params="${params}" target="_blank" rel="noopener">` +
         `<img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy" decoding="async">` +
         `<span class="yt-play" aria-hidden="true"></span><span class="sr">Play video: ${title}</span></a>`

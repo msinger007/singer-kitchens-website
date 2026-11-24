@@ -109,8 +109,15 @@ iframe { max-width: 100%; border: 0; }
 .band-photo .band-img { width: 100%; height: 460px; object-fit: cover; }
 .band-photo-text { min-height: 420px; }
 .band-photo-text .band-img { position: absolute; inset: 0; height: 100%; }
-/* Employment hero is a portrait photo: keep the designer's face (~36% down the image) just below the title card at any desktop width. */
-@media (min-width: 801px) { .band-photo-text .employment-hero-img { object-position: center calc(310px - 47.6vw); } }
+/* Employment hero: portrait photo shown uncropped beside the title card (not stretched across the page). */
+.page > .band-photo.employment-hero { background: var(--alt); padding: 0; }
+.employment-hero .wrap { position: relative; display: flex; flex-direction: row-reverse; align-items: center; justify-content: space-between; gap: 48px; padding-top: 48px; padding-bottom: 48px; }
+.employment-hero .band-card { flex: 1; }
+.employment-hero-img { flex: none; height: clamp(440px, calc(100vh - 240px), 720px); width: auto; aspect-ratio: 3 / 4; border-radius: var(--radius); box-shadow: 0 8px 28px rgba(0,0,0,.15); }
+@media (max-width: 800px) {
+  .employment-hero .wrap { flex-direction: column; align-items: stretch; gap: 20px; padding-top: 24px; padding-bottom: 24px; }
+  .employment-hero-img { width: 100%; height: auto; }
+}
 .band-photo-text .wrap { position: relative; padding-top: 120px; padding-bottom: 56px; }
 .band-card { background: var(--white); padding: 36px 40px; max-width: 640px; border-radius: var(--radius); }
 .band-card > :last-child { margin-bottom: 0; }
@@ -425,6 +432,7 @@ h2.big { font-size: clamp(32px, 3.6vw, 46px); }
 .showroom-gallery { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-content: start; }
 .showroom-gallery img { width: 100%; height: 200px; object-fit: cover; border-radius: var(--radius); }
 .showroom-gallery img:first-child { grid-column: 1 / -1; height: 380px; }
+.showroom-gallery img:only-child { height: 100%; min-height: 380px; }
 .showroom-card { background: var(--alt); border-radius: var(--radius); padding: 36px; display: flex; flex-direction: column; gap: 16px; }
 .showroom-card h2 { margin: 0; }
 .showroom-card .el-text p { margin-bottom: .4em; }
@@ -432,7 +440,6 @@ h2.big { font-size: clamp(32px, 3.6vw, 46px); }
 .showroom-card .hours dt { font-weight: 700; }
 .showroom-card .hours dd { margin: 0; }
 .showroom-card .tel { font-size: 22px; font-weight: 700; text-decoration: none; }
-.on-display { background: var(--white); padding: 12px 14px; border-radius: var(--radius); font-size: 16px; margin: 0; }
 .twomap { height: 420px; border-radius: var(--radius); overflow: hidden; background: var(--alt); z-index: 0; }
 .twomap-fallback { display: flex; gap: 12px; flex-wrap: wrap; padding: 20px; }
 .map-band .split { align-items: stretch; }
@@ -506,6 +513,7 @@ h2.big { font-size: clamp(32px, 3.6vw, 46px); }
   .shop > a img, .chooser img { height: 240px; }
   .showroom-gallery img:first-child { height: 240px; }
   .showroom-gallery img { height: 140px; }
+  .showroom-gallery img:only-child { height: 260px; min-height: 0; }
   .showroom-card { padding: 24px; }
   .twomap { height: 320px; }
   .mobile-bar { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; position: fixed; left: 0; right: 0; bottom: 0; z-index: 70; background: var(--white); border-top: 1px solid var(--line); padding: 10px 12px calc(10px + env(safe-area-inset-bottom)); }
@@ -701,6 +709,40 @@ video { max-width: 100%; height: auto; }
   .pp-qualify .ghl-form { padding: 8px; }
   .pp-trust .el-row { grid-template-columns: 1fr 1fr; gap: 20px; }
   .pp-trust .el-img img { height: 72px; }
+}
+
+/* Quick Refresh page: title over the hero photo, centred section intros, bordered photo cards (live layout) */
+.qr-hero { min-height: 340px; display: flex; align-items: flex-end; }
+.qr-hero::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,.45), rgba(0,0,0,0) 55%); }
+.qr-hero .wrap { z-index: 1; width: 100%; padding-top: 0; padding-bottom: 28px; text-align: center; }
+.qr-hero h2 { color: var(--white); margin: 0; font-size: clamp(30px, 3.2vw, 42px); text-shadow: 0 2px 12px rgba(0,0,0,.4); }
+.qr-intro .el-row { align-items: center; gap: 56px; margin: 0; }
+.qr-intro .el-img { margin: 0; }
+.qr-what h2, .qr-smaller h2, .qr-cta h2 { text-align: center; }
+.qr-lede { max-width: 900px; margin: 0 auto 40px; text-align: center; }
+.qr-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 1000px; margin: 0 auto; }
+.qr-card { display: flex; flex-direction: column; background: var(--white); border: 1px solid #D8C3A5; color: var(--ink); text-decoration: none; transition: box-shadow .2s ease, transform .2s ease; }
+.qr-card-img { display: block; aspect-ratio: 3 / 2; overflow: hidden; }
+.qr-card-img img { width: 100%; height: 100%; object-fit: cover; }
+.qr-card-body { display: block; padding: 18px 20px 20px; }
+.qr-card h3 { font-size: 18px; margin: 0 0 .5em; }
+.qr-card p { font-size: 15px; line-height: 1.55; margin: 0; }
+a.qr-card:hover { color: var(--ink); box-shadow: 0 8px 24px rgba(0,0,0,.12); transform: translateY(-3px); }
+a.qr-card:hover h3 { color: var(--red); }
+a.qr-card:focus-visible { outline: 3px solid var(--red); outline-offset: 3px; }
+.qr-feat .qr-card-body { text-align: center; padding: 16px; }
+.qr-feat .qr-card h3 { margin: 0; }
+.qr-cta .btn-row { justify-content: center; margin-top: 0; }
+@media (prefers-reduced-motion: reduce) { .qr-card { transition: none; } a.qr-card:hover { transform: none; } }
+@media (max-width: 900px) {
+  .qr-grid { grid-template-columns: 1fr 1fr; gap: 16px; }
+  .qr-intro .el-row { gap: 28px; }
+}
+@media (max-width: 600px) {
+  .qr-hero { min-height: 220px; }
+  .qr-hero .wrap { padding-top: 0; padding-bottom: 20px; }
+  .qr-grid { grid-template-columns: 1fr; }
+  .qr-lede { margin-bottom: 28px; }
 }
 
 /* Kitchen Remodeling page: narrow centred column, 6-across photo strip, grey boxes, dark showroom panel (live layout) */

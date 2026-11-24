@@ -20,11 +20,8 @@
     "lng": -90.099626,
     "directions": "https://www.google.com/maps/dir/?api=1&destination=231+N+Carrollton+Ave,+New+Orleans,+LA+70119",
     "photos": [
-      { "file": "2026/11/new-orleans-showroom.webp", "alt": "Singer Kitchens New Orleans showroom on N. Carrollton Ave.: a cream brick building with red Singer Kitchens signs, large windows and parking out front" },
-      { "file": "2020/03/visit-our-showrooms.jpg", "alt": "Bright white kitchen with a large island and range hood" },
-      { "file": "2022/07/072922d.jpg", "alt": "" }
-    ],
-    "onDisplay": "[What's on display at New Orleans: Nancy or Holly to supply]"
+      { "file": "2026/11/new-orleans-showroom.webp", "alt": "Singer Kitchens New Orleans showroom on N. Carrollton Ave.: a cream brick building with red Singer Kitchens signs, large windows and parking out front" }
+    ]
   },
   {
     "id": "mandeville",
@@ -47,10 +44,7 @@
     "lng": -90.066775,
     "directions": "https://www.google.com/maps/dir/?api=1&destination=316+Girod+St,+Mandeville,+LA+70448",
     "photos": [
-      { "file": "2026/11/mandeville-showroom.webp", "alt": "Singer Kitchens Mandeville showroom on Girod Street: a cream cottage with a striped awning, front porch and Singer Kitchens sign" },
-      { "file": "2020/11/showroom.jpg", "alt": "Tree-lined Girod Street with the Mandeville showroom cottage in the distance" },
-      { "file": "2026/10/Mandeville-Hub.webp", "alt": "Design station with a kitchen drawing on screen at the Mandeville showroom" }
-    ],
-    "onDisplay": "[What's on display at Mandeville: Nancy or Holly to supply]"
+      { "file": "2026/11/mandeville-showroom.webp", "alt": "Singer Kitchens Mandeville showroom on Girod Street: a cream cottage with a striped awning, front porch and Singer Kitchens sign" }
+    ]
   }
 ]
