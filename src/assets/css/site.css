@@ -109,8 +109,15 @@ iframe { max-width: 100%; border: 0; }
 .band-photo .band-img { width: 100%; height: 460px; object-fit: cover; }
 .band-photo-text { min-height: 420px; }
 .band-photo-text .band-img { position: absolute; inset: 0; height: 100%; }
-/* Employment hero is a portrait photo: keep the designer's face (~36% down the image) just below the title card at any desktop width. */
-@media (min-width: 801px) { .band-photo-text .employment-hero-img { object-position: center calc(310px - 47.6vw); } }
+/* Employment hero: portrait photo shown uncropped beside the title card (not stretched across the page). */
+.page > .band-photo.employment-hero { background: var(--alt); padding: 0; }
+.employment-hero .wrap { position: relative; display: flex; flex-direction: row-reverse; align-items: center; justify-content: space-between; gap: 48px; padding-top: 48px; padding-bottom: 48px; }
+.employment-hero .band-card { flex: 1; }
+.employment-hero-img { flex: none; height: clamp(440px, calc(100vh - 240px), 720px); width: auto; aspect-ratio: 3 / 4; border-radius: var(--radius); box-shadow: 0 8px 28px rgba(0,0,0,.15); }
+@media (max-width: 800px) {
+  .employment-hero .wrap { flex-direction: column; align-items: stretch; gap: 20px; padding-top: 24px; padding-bottom: 24px; }
+  .employment-hero-img { width: 100%; height: auto; }
+}
 .band-photo-text .wrap { position: relative; padding-top: 120px; padding-bottom: 56px; }
 .band-card { background: var(--white); padding: 36px 40px; max-width: 640px; border-radius: var(--radius); }
 .band-card > :last-child { margin-bottom: 0; }
