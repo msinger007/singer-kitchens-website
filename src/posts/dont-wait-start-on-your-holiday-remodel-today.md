@@ -55,7 +55,7 @@ Scheduling your FREE design consultation appointment with us in one of our showr
 <li><strong>Bring Any and All Inspiration with You</strong> – Bring your samples and inspiration with you to our appointment! Do you have a color you absolutely love? A sample of your favorite flooring material? A photo of a kitchen you found in a magazine or something that embodies the look and feel you want in your space? We want to see it! Bring it along.</li><br>
 </ol><br>
 You might also want to take a peek at our easy, breezy <a href="/kitchen-design-checklist/">kitchen remodeling checklist</a> to get prepared for the process.</p>
-<p><a href="/kitchen-design-checklist/"><img src="/images/2020/04/remodeling-checklist-cta-banner.webp" alt="Kitchen Remodeling Checklist, download now" width="800" height="200" fetchpriority="high"></a></p>
+<p><a href="/kitchen-design-checklist/"><img src="/images/2026/11/kitchen-planning-tool-cta-banner.webp" alt="Kitchen Planning Tool: start my kitchen plan, free and takes less than 5 minutes" width="800" height="200" fetchpriority="high"></a></p>
 <p>We’ll be ready to hear all of your wonderful ideas and help you fine-tune them at our appointment. Then, we’ll fire up our virtual SingerSight design software and let you SEE what your new kitchen could look like right down to the tiniest dimension. We’ll use this to make changes based on your feedback and finalize it before we break ground on the remodel.</p>
 <p>Imagine holiday baking with your family after seeing the twinkling lights at Celebration in the Oaks in your newly redone kitchen this year.</p>
 <p>We’ll get you ready!<br>
