@@ -702,3 +702,33 @@ video { max-width: 100%; height: auto; }
   .pp-trust .el-row { grid-template-columns: 1fr 1fr; gap: 20px; }
   .pp-trust .el-img img { height: 72px; }
 }
+
+/* Kitchen Remodeling page: narrow centred column, 6-across photo strip, grey boxes, dark showroom panel (live layout) */
+.rm-page { padding-top: 48px; }
+.rm-wrap { max-width: 960px; }
+.rm-wrap > * + * { margin-top: 48px; }
+.rm-intro h1 { font-size: clamp(28px, 3vw, 36px); margin-bottom: .3em; }
+.rm-intro h3 { font-size: 18px; margin: 0 0 1em; }
+.rm-gallery { grid-template-columns: repeat(6, 1fr); gap: 8px; margin: 28px 0; }
+.rm-gallery img { aspect-ratio: 4 / 3; }
+.rm-intro .btn-row, .rm-box .btn-row { justify-content: center; margin: 0; }
+.rm-box { background: #EDEDED; padding: 36px 40px; border-radius: var(--radius); }
+.rm-box h2 { margin-top: 0; }
+.rm-box .el-text { margin-bottom: 1.2em; }
+.rm-ready { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: center; }
+.rm-ready-img img { width: 100%; height: auto; display: block; border-radius: var(--radius); }
+.rm-banner { max-width: 652px; margin-left: auto; margin-right: auto; margin-bottom: 0; }
+.rm-banner img { box-shadow: 0 4px 16px rgba(0,0,0,.12); }
+.rm-text .el-text { margin-bottom: 0; }
+.rm-showrooms { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; background: #4F4F4F; padding: 6px 6px 28px; color: var(--white); text-align: center; }
+.rm-showroom h3 { background: var(--red); color: var(--white); font-size: 20px; font-weight: 400; margin: 0; padding: 8px; }
+.rm-showroom .map { aspect-ratio: 16 / 10; border-radius: 0; margin: 0 0 20px; }
+.rm-showroom p { font-size: 15px; line-height: 1.55; margin: 0; }
+@media (max-width: 900px) { .rm-gallery { grid-template-columns: repeat(4, 1fr); } }
+@media (max-width: 700px) {
+  .rm-wrap > * + * { margin-top: 36px; }
+  .rm-gallery { grid-template-columns: repeat(3, 1fr); gap: 6px; }
+  .rm-box { padding: 24px 20px; }
+  .rm-ready, .rm-showrooms { grid-template-columns: 1fr; }
+  .rm-showrooms { gap: 24px; padding-bottom: 24px; }
+}
