@@ -656,7 +656,7 @@ video { max-width: 100%; height: auto; }
 .reviews-cta { justify-content: center; margin-top: 28px; }
 
 /* About page: video sized like the live site (about 650px wide, centred) */
-.video-about { max-width: 652px; margin-left: auto; margin-right: auto; }
+.video-about, .video-compact { max-width: 652px; margin-left: auto; margin-right: auto; }
 
 /* Pro Partners page: centred hero over the video, icon benefit cards, badge strip, form in a card (live layout) */
 .pp-hero { text-align: center; }
