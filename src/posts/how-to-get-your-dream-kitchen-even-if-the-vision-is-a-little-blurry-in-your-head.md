@@ -63,4 +63,4 @@ Once we had the selections done, it was time to begin the renovation. Our team t
 Don loves his new kitchen so much, he’s always entertaining company. He tells everyone all about how his dream became a reality.
 <p>And, every morning when he drinks his coffee in his brand new kitchen, he gets to look out across his deck at the water.</p>
 <p>Don got the kitchen of his dreams. Literally.</p>
-<p>It was his vision. Our guidance &amp; our remodelers.</p></div><figure class="el-img"><a href="/kitchen-design-checklist/"><img src="/images/2020/04/remodeling-checklist-cta-banner.webp" alt="Kitchen Remodeling Checklist, download now" width="800" height="200" loading="lazy" decoding="async"></a></figure></div></div>
+<p>It was his vision. Our guidance &amp; our remodelers.</p></div><figure class="el-img"><a href="/kitchen-design-checklist/"><img src="/images/2026/11/kitchen-planning-tool-cta-banner.webp" alt="Kitchen Planning Tool: start my kitchen plan, free and takes less than 5 minutes" width="800" height="200" loading="lazy" decoding="async"></a></figure></div></div>

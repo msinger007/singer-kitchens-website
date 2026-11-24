@@ -134,4 +134,4 @@ Enjoy the finished closet gallery below. If you’d like to talk to us about a <
 </div>
 </div>
 </div>
-</section></div><figure class="el-img"><a href="/kitchen-design-checklist/"><img src="/images/2020/04/remodeling-checklist-cta-banner.webp" alt="Kitchen Remodeling Checklist, download now" width="800" height="200" loading="lazy" decoding="async"></a></figure></div></div>
+</section></div><figure class="el-img"><a href="/kitchen-design-checklist/"><img src="/images/2026/11/kitchen-planning-tool-cta-banner.webp" alt="Kitchen Planning Tool: start my kitchen plan, free and takes less than 5 minutes" width="800" height="200" loading="lazy" decoding="async"></a></figure></div></div>

@@ -59,7 +59,7 @@ We’ve been encouraging inventive storage solutions, so it’s no surprise that
 <p>When we created our FREE kitchen design checklist which includes 4 sets of questions that will help you get a better idea of what you’re looking for, we were hoping to change those overwhelmed feelings to excitement.</p>
 <p>Once you complete this checklist, the next steps will be much easier!</p>
 <p>Or, if you’re building or looking for a complete overhaul of your kitchen, download our Free Design Guide and learn how to design a modern kitchen your family will love forever.</p>
-<p><a href="/kitchen-design-checklist/"><img src="/images/2020/04/remodeling-checklist-cta-banner.webp" alt="Kitchen Remodeling Checklist, download now" width="800" height="200" loading="lazy" decoding="async"></a><br>
+<p><a href="/kitchen-design-checklist/"><img src="/images/2026/11/kitchen-planning-tool-cta-banner.webp" alt="Kitchen Planning Tool: start my kitchen plan, free and takes less than 5 minutes" width="800" height="200" loading="lazy" decoding="async"></a><br>
 <h2>Ready to Upgrade Your Home's Look? We're Here To Help!</h2><br>
 We're here to help you incorporate any and all of the 2022 Kitchen and Bath designs in your space.</p>
 <p>We can’t wait to learn &amp; understand your vision -- whether it's for your kitchen remodel or bathroom update -- and to help you turn it into a reality with our expertise!</p>
