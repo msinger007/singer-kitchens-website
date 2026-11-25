@@ -1,15 +1,20 @@
 {#- FAQ band for the service-area pages. Needs `serviceArea` ("Covington, LA") in the page front matter.
     City pages get the general set; the Kitchen Design and Kitchen Remodeling sub-pages (front matter
     `subService`) get their own questions. Answers use only facts already on the site (process.json,
-    showrooms.json, financing page). The FAQPage structured data below is built from the same list,
+    showrooms.json, financing page). Front matter `showroom` picks the nearest
+    showroom (default "mandeville"). The FAQPage structured data below is built from the same list,
     so the visible answers and the schema always match. -#}
 {%- set city = serviceArea | replace(", LA", "") %}
 {%- set cityUrl = "/service-area/" ~ (city | lower) ~ "/" %}
-{%- set sr = showrooms | selectattr("id", "equalto", "mandeville") | first %}
+{#- Nunjucks' selectattr has no "equalto" test, so look the showroom up by id explicitly. -#}
+{%- set srId = showroom or "mandeville" %}
+{%- set sr = null %}
+{%- for s in showrooms %}{% if s.id == srId %}{% set sr = s %}{% endif %}{% endfor %}
+{%- set srWhere = ("Old Mandeville" if sr.id == "mandeville" else sr.city) ~ ", LA " ~ sr.zip %}
 {%- set showroomQ = {
   q: "Where is the nearest Singer Kitchens showroom to " ~ city ~ "?",
-  a: "Our " ~ sr.name ~ " is at " ~ sr.street ~ " in Old Mandeville, LA " ~ sr.zip ~ ". It's open Monday to Friday 10am to 5pm and Saturday 10am to 2pm by appointment. Call the showroom at <a href=\"" ~ sr.phoneTel ~ "\">" ~ sr.phone ~ "</a> or <a href=\"" ~ sr.directions ~ "\" target=\"_blank\" rel=\"noopener\">get directions</a>. At the showroom you can see and touch real cabinets, materials, finishes and layouts.",
-  text: "Our " ~ sr.name ~ " is at " ~ sr.street ~ " in Old Mandeville, LA " ~ sr.zip ~ ". It's open Monday to Friday 10am to 5pm and Saturday 10am to 2pm by appointment. Call the showroom at " ~ sr.phone ~ ". At the showroom you can see and touch real cabinets, materials, finishes and layouts."
+  a: "Our " ~ sr.name ~ " is at " ~ sr.street ~ " in " ~ srWhere ~ ". It's open Monday to Friday 10am to 5pm and Saturday 10am to 2pm by appointment. Call the showroom at <a href=\"" ~ sr.phoneTel ~ "\">" ~ sr.phone ~ "</a> or <a href=\"" ~ sr.directions ~ "\" target=\"_blank\" rel=\"noopener\">get directions</a>. At the showroom you can see and touch real cabinets, materials, finishes and layouts.",
+  text: "Our " ~ sr.name ~ " is at " ~ sr.street ~ " in " ~ srWhere ~ ". It's open Monday to Friday 10am to 5pm and Saturday 10am to 2pm by appointment. Call the showroom at " ~ sr.phone ~ ". At the showroom you can see and touch real cabinets, materials, finishes and layouts."
 } %}
 {%- set sinceQ = {
   q: "How long has Singer Kitchens been in business?",
